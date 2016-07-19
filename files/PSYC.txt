@@ -1,0 +1,525 @@
+PSYCHOLOGY
+(AS) {PSYC}
+PSYC 001 is the prerequisite for Psychology courses numbered 100 and above. Students who
+have received a 5 on the AP test in Psychology are encouraged to enroll in any 100-level course
+offered.
+L/R 001. Introduction to Experimental Psychology. (C) Living World Sector. All classes. Staff.
+This course provides an introduction to the basic topics of psychology including our three major areas
+of distribution: the biological basis of behavior, the cognitive basis of behavior, and individual and
+group bases of behavior. Topics include, but are not limited to, neuropsychology, learning, cognition,
+development, disorder, personality, and social psychology.
+SM 070. Psychology of Food. Rozin. Does not count for the Psych major. To apply: http://
+www.upenn.edu/curf/bfs/bfs-current-courses
+097. PSYCH ABROAD. (C)
+109. (BIBB109, BIOL109) Introduction to Brain and Behavior. (C) Living World Sector. All classes.
+Staff.
+Introduction to the structure and function of the vertebrate nervous system, including the physiological
+bases of sensory activity, perception, drive, motor control and higher mental processes. The course is
+intended for students interested in the neurobiology of behavior. Familiarity with elementary physics
+and chemistry will be helpful.
+L/R 111. (VLST211) Perception. (C) staff.Prerequisite(s): PSYC 001 or COGS 001.
+How the individual acquires and is guided by knowledge about objects and events in their
+environment.
+121. Learning and Memory. (C) Staff.Prerequisite(s): PSYC 001.
+This course presents an analysis of the cognitive processes involved in learning and memory,
+primarily in humans. We will survey the major findings concerning learning and memory discovered
+using laboratory experiments and the major theories of learning and memory derived from those
+findings. A major emphasis will be on the interplay between theory and data. Class assignments will
+require the statistical analysis of data obtained from experimental studies, but no specific prior
+background is required.
+127. (BIBB227) Physiology of Motivated Behaviors. (C) Grill.Prerequisite(s): PSYC 001.
+This course focuses on evaluating the experiments that have sought to establish links between brain
+structure (the activity of specific brain circuits) and behavioral function (the control of particular
+motivated and emotional behaviors). Students are exposed to concepts from regulatory physiology,
+systems neuroscience, pharmacology, and endocrinology and read textbook as well as original source
+materials. The course focuses on the following behaviors: feeding, sex, fear, anxiety, the appetite for
+salt, and food aversion. The course also considers the neurochemical control of responses with an eye
+towards evaluating the development of drug treatments for: obesity, anorexia/cachexia, vomiting,
+sexual dysfunction, anxiety disorders, and depression.
+L/R 149. (BIBB249) Cognitive Neuroscience. (C) Epstein.Prerequisite(s): PSYC 001 or COGS 001.
+The study of the neural systems that underlie human perception, memory and language; and of the
+pathological syndromes that result from damage to these systems.
+
+Page 1 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+151. Language and Thought (formerly titled Cognitive Psychology). (C) Staff.Prerequisite(s):
+PSYC 001 or COGS 001.
+This course describes current theorizing on how the human mind achieves high-level cognitive
+processes such as using language, thinking, and reasoning. The course discusses issues such as
+whether the language ability is unique to humans, whether there is a critical period to the acquisition
+of a language, the nature of conceptual knowledge, how people perform deductive reasoning and
+induction, and how linguistic and conceptual knowledge interact.
+L/R 160. Personality and Individual Differences. (C) Staff.Prerequisite(s): PSYC 001.
+This course provides an introduction to the psychology of personality and individual differences. Many
+psychology courses focus on the mind or brain; in contrast to those approaches of studying people in
+general, the focus in this course is on the question "How are people different from each other?" It will
+highlight research that take a multidimensional approach to individual differences and attempts to
+integrate across the biological, cognitive-experimental, and social-cultural influences on personality.
+162. Abnormal Psychology. (C) Ruscio.Prerequisite(s): PSYC 001. The Psychology Department
+does NOT issue permits for College of Liberal and Professional Studies (LPS) courses.
+The concepts of normality, abnormality, and psychopathology; symptom syndromes;theory and
+research in psychopathology and psychotherapy.
+170. Social Psychology. (C) Society Sector. All classes. Staff.Prerequisite(s): PSYC 001.
+An overview of theories and research across the range of social behavior from intra-individual to the
+group level including the effects of culture, social environment, and groups on social interaction.
+181. Intro to Developmental Psychology. (C) Brannon.Prerequisite(s): PSYC 001.
+The goal of this course is to introduce both Psychology majors and non-majors majors to the field of
+Developmental Psychology. Developmental Psychology is a diverse field that studies the changes that
+occur with age and experience and how we can explain these changes. The field encompasses
+changes in physicalgrowth, perceptual systems, cognitive systems, social interactions and and much
+more. We will study the development of perception, cognition, language,academic achievement,
+emotion regulation, personality, moral reasoning,and attachment. We will review theories of
+development and ask how these theories explain experimental findings. While the focus is on human
+development, when relevant, research with animals will be used as a basis for comparison.
+193. Study Abroad.
+231. (BIBB231, BIOL231) Animal Behavior. (C) Seyfarth/Cheney.Prerequisite(s): PSYC 00l or BIOL
+102 or COGS 001.
+The evolution of social behavior in animals, with special emphasis on group formation, cooperation
+among kin, mating systems, territoriality and communication.
+
+Page 2 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+L/R 207. (CIS 140, COGS001, LING105, PHIL044) Introduction to Cognitive Science. (C) Brainard/
+Ungar.Prerequisite(s): An Introductory Course in Computer Science, Linguistics, Neuroscience,
+Philosophy, or PSYC 001.
+Cognitive Science is founded on the realization that many problems in the analysis of human and
+artificial intelligence require an interdisciplinary approach. The course is intended to introduce
+undergraduates from many areas to the problems and characteristic concepts of Cognitive Science,
+drawing on formal and empirical approaches from the parent disciplines of computer science,
+linguistics, neuroscience, philosophy and psychology. The topics covered include Perception, Action,
+Learning, Language, Knowledge Representation, and Inference, and the relations and interactions
+between such modules. The course shows how the different views from the parent disciplines interact,
+and identifies some common themes among the theories that have been proposed. The course pays
+particular attention to the distinctive role of computation in such theories, and provides an introduction
+to some of the main directions of current research in the field. It is a requirement for the BA in
+Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science,
+and it is recommended for students taking the dual degree in Computer and Cognitive Science.
+L/R 217. (BIBB217, VLST217) Visual Neuroscience. (B) staff.Prerequisite(s): PSYC 109.
+An introduction to the scientific study of vision, with an emphasis on the biological substrate and its
+relation to behavior. Topics will typically include physiological optics, transduction of light, visual
+thresholds, color vision, anatomy and physiology of the visual pathways, and the cognitive
+neuroscience of vision.
+225. (BIBB270) Drugs, Brain, and Mind. (B) Nelson.Prerequisite(s): PSYC 109 or BIBB 109.
+The course will begin with a review of basic concepts in pharmacology: routes of drug administration,
+drug metabolism, the dose response curve, tolerance, and sensitization. Following a brief overview of
+cellular foundations of neuropharmacology (cell biology,synaptic and receptor function), the course will
+focus on various classes of drugs used to treat neuropsychiatric disorders including, among others,
+depression, schizophrenia,and anxiety. We will additionally consider mechanisms mediating the mindaltering, addictive and neurotoxic effects of abused drugs.
+235. (LING135) Psychology of Language. (C) Dahan.Prerequisite(s): PSYC 151 or LING 001.
+This course describes the nature of human language, how it is used to speak and comprehend, and
+how it is learned. The course raises and discusses issues such as whether language ability is innate
+and unique to humans, whether there is a critical period for the acquisition of a language, and how
+linguistic and conceptual knowledge interact.
+239. (BIBB260) Neuroendocrinology. (C) Staff.
+This course is designed to examine the various roles played by the nervous and endocrine systems in
+controlling both physiological processes and behavior. First, the course will build a foundation in the
+concepts of neural and endocrine system function. Then we will discuss how these mechanisms form
+the biological underpinnings of various behaviors and their relevant physiological correlates.
+
+Page 3 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+247. (BIBB247, PSYC549) Neuroscience and Society. (C) Farah.Prerequisite(s): PSYC 109 or
+PSYC 149.
+Cognitive, social,and affective neuroscience have made tremendous progress in in the last two
+decades. As this progress continues, neuroscience is becoming increasingly relevant to all of the realworld endeavors that require understanding, predicting and changing human behavior. In this course
+we will examine the ways in which neuroscience is being applied in law, criminal justice, national
+defense, education, economics, business,and other sectors of society. For each application area we
+will briefly review those aspects of neuroscience that are most relevant, and then study the application
+in more detail.
+253. (PPE 153) Judgment and Decisions. (C) Staff.Prerequisite(s): One semester of statistics OR
+microeconomics.
+Thinking, judgment, and personal and societal decision making, with emphasis on fallacies and
+biases.
+265. (PPE 203) Behavioral Economics and Psychology. (C) Bhatia.Prerequisite(s):
+Microeconomics,AND PSYC 001.
+This course will introduce you to the study of choice, and will examine in detail what we know about
+how people make choices, and how we can influence these choices. It will utilize insights from
+psychology and economics, and will apply these insights to domains including consumer choice, risky
+decision making, and prosocial decision making.
+L/R 266. Introduction to Positive Psychology. (B) Staff.Prerequisite(s): PSYC 001.
+An introduction to the study of positive emotions, positive character traits, and positive institutions. The
+positive emotions consist of emotions about the past (e.g., serenity, satisfaction, pride), about the
+future (e.g., hope, optimism, faith), and emotions about the present (pleasure and gratification). The
+distinction among the pleasant life, the good life, and the meaningful life is drawn. The positive traits
+include wisdom, courage, humanity, justice, temperance, and spirituality, and the classification of
+these virtues is explored. The positive institutions are exemplified by extended families, free press,
+humane leadership, and representative government.
+SM 311. (VLST212) Research Experience in Perception. (C) Rust.Prerequisite(s): One semester of
+statistics, and one of the following: PSYC 111, 149, 151, 217, or permission of instructor. Dept
+permission required. Undergraduates only.
+In this research course, students will begin by first replicating earlier experiments to measure human
+visual memory capacity. After several class discussions to discuss ideas, each student will design and
+conduct their own experiment to further investigate visual and/or familiarity memory.
+
+Page 4 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+275. (PPE 275) Introduction to Political Psychology. (C) Tetlock.Prerequisite(s): PSYC 001 or
+COGS 001. NOTE: Students who are more interested in business-related issues may want Wharton
+276x which is a modified version of this course specifically for Wharton undergraduates.
+This course will explore psychological approaches to understanding political beliefs, attitudes, and
+actions at the levels of both individual citizens and national leaders. It will also explore the possibility
+that psychological science itself is not immune to the political debates swirling around it. Specific
+topics will include: the workings of belief systems (and their power to shape what we "see"), cognitive
+biases (and their power to cause miscalculations), sacred values and their role in stabilizing belief
+systems and social interaction, personality and ideology (the linkages between the personal and the
+political), and clashing conceptions of morality and distributive and corrective justice (striking
+variations among people in what they consider to be fair). We shall also explore some topics that have
+sparked controversy in the psychological research literature and that tend to polarize opinion along
+political lines, including work on intelligence and unconscious bias.
+280. Developmental Psychology. (C) Staff.Prerequisite(s): PSYC 001. PSYC 280-601 is an LPS
+class.
+This course will cover theory and research related to the development of attachment, emotional
+regulation, peer and intimate relationships, personality, moral reasoning, and emotional and
+behavioral disorders. The course will emphasize the degree to which family, peer, and community
+contexts influence development from infancy into adulthood. Efforts will be made to integrate biological
+and environmental accounts of development across the lifespan.
+281. Cognitive Development. (C) Swingley or Weisberg.Prerequisite(s): PSYC 001 or COGS 001.
+What infants and young children come to know about the world, and how they learn it. Topics will
+include changes in children's thinking, perceptual development, language acquisition, and current
+theories of cognitive development.
+SM 327. Research Experience in Behavioral Neuroscience. (C) Grill.Prerequisite(s): PSYC 127
+and one semester of statistics. Dept permission required
+Students conduct supervised experiments on the physiological basis of motivation. Topics will be
+chosen from the intersection of issues in taste and nutrition, such as the ability of animals to take in
+specific food substances needed to maintain themselves. Class meets for lecture, discussion, and
+conduct of an experiment.
+SM 362. Research Experience in Abnormal Psychology. Dr. Melissa Hunt.Prerequisite(s): PSYC
+162 and one semester of statistics. Psych majors only. Instructor permission required. PSYC 362-301
+is a two-semester course starting in the Fall.
+PSYC 362-301 is a two-semester course starting in the Fall. Class size limited to 8 students.
+SM 370. Research Experience in Social Psychology. Staff.Prerequisite(s): PSYC 170 AND one
+semester of statistics. Dept permission required. Psychology majors only.
+In this course, students will work in small groups to develop, empirically test , and report on a research
+question within one of the domains of cultural psychology, such as emotion, motivation, social
+perception, morality, or food and eating. Depending on the nature of the project, students will employ
+survey,experimental, or observational research methodology, and learn how to to conduct and report
+the appropriate statistical tests with Excel and/or SPSS (typically, correlations, t-tests, ANOVA and
+ANCOVA, multiple regression, , factor analysis, and measures of reliability). Class discussions will
+help students craft their projects, and in-class presentations will provide the opportunity to develop
+and refine presentation skills. Psychology majors only. Class size is limited to 14 students.
+
+Page 5 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+399. Individual Empirical Research. (C) Dept permission required
+Individual research involving data collection. Students do independent empirical work under the
+supervision of a faculty member, leading to a written paper. Normally taken in the junior or senior year.
+SM 400. Senior Honors Seminar in Psychology. Thompson-Schill.Prerequisite(s): acceptance into
+the Honors Program in Psychology. Dept permission required
+Open to senior honors candidates in psychology. A two-semester sequence supporting the
+preparation of an honors thesis in psychology. Students will present their work in progress and
+develop skills in written and oral communication of scientific ideas.
+SM 407. (BIBB451) Behavioral Genetics. (C) Price.Prerequisite(s): Basic statistics or permission of
+instructor.
+This course will cover basic principles of human and animal behavior genetics, including the genetics
+of normal variation as well as extreme phenotypes represented by behavioral, psychiatric and
+neurologic disorders. The course will focus on methods necessary to critically evaluate research
+findings on normal and abnormal human behavior. Animal models will also be reviewed.
+SM 411. Seminar in Perception. (C) Stocker.Prerequisite(s): PSYC 111.
+421. (BIBB442, BIOL442, NGG 575) Neurobiological Basis of Learning and Memory. (C) staff.
+This advanced course focuses on the current state of our knowledge about neurobiological basis of
+learning and memory. Students will explore the molecular and cellular basis of learninginvertebrates
+and vertebrates from a behavioral and neural perspective.
+SM 423. (BIBB423) Seminar in Motivation. (C) Staff.Prerequisite(s): Permission of the instructor.
+SM 431. (BIBB432, BIOL432) Seminar in Animal Cognition. (C) Cheney.Prerequisite(s): PSYC 231/
+Biol 231/ BIBB 231.
+The aim of this course will be to provide advanced undergraduates with a detailed review of a number
+of research areas in behavioral ecology. Topics will change each year, and students will be able to
+take the course more than once.
+SM 429. SEMINAR HUMAN MEMORY. Kahana.Prerequisite(s): A background in (a) elementary
+statistics and (b) computer programming, preferably using Matlab.
+Advances in brain recording methods over the last decade have generated vastly more brain data
+than had been collected by neuroscientists during the previous century. To understand the human
+brain, scientists must now use computational methods that exploit the power of these huge data
+sets.This course will introduce you to the use of big data analytics in the study of human memory and
+its neural basis. Through hands-on programming projects, we will analyze multi-terabyte data sets
+both to replicate existing phenomena and to make new discoveries. Although the course has no formal
+neuroscience or psychology prerequisites it does require a background in (a) elementary statistics
+and (b) computer programming, preferably using Matlab.
+SM 435. Psycholinguistics. Dahan.Prerequisite(s): PSYC 151, or PSYC 235, or LING 001, or
+permission of instructor.
+
+Page 6 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+SM 439. (BIBB460) Neuroendocrinology. (C) Flangan-Cato.Prerequisite(s): PSYC 109.
+This course is designed to examine the various roles played by the nervous and endocrine systems in
+controlling both physiological processes and behavior. First, the course will build a foundation in the
+concepts of neural and endocrine system function. Then, we will discuss how these mechanisms form
+the biological underpinnings of various behaviors and their relevant physiological correlates. We will
+focus on sexual and parental behaviors, stress, metabolism, neuroendocrine-immune interactions,
+and mental health.
+440. SLEEP AND SLEEP DISORDER.
+SM 449. Seminar in Cognitive Neuroscience. DiRocco (449-601) or Epstein (449-301).Prerequisite
+(s): PSYC 149 or BIBB 249. PSYC 449-601 is an LPS course.
+Topics vary each semester.
+SM 451. (BIBB431) Seminar in Cognitive Psychology. (C) Staff.Prerequisite(s): PSYC 231.
+Topics vary each semester.
+SM 453. (PPE 475) Seminar in Decision Making. (C) Staff.Prerequisite(s): PSYC 253 (formerly
+PSYC 153). Undergraduates only.
+Topics vary each semester.
+SM 462. Seminar in Abnormal Psychology. staff.Prerequisite(s): PSYC 162. Undergraduates only.
+Topics vary each semester.
+SM 464. Seminar in Personality. (C) Staff.Prerequisite(s): PSYC 160.
+Topics vary each semester.
+SM 466. Seminar in Positive Psychology:Imagination and Creativity in Psychology. Forgeard
+and Seligman.Prerequisite(s): PSYC 001. Instructor permission required. Course does not fulfill the
+research requirement for psych majors.
+By forming mental representations of things not immediately present to the senses (imagination), and/
+or simulating possible futures (prospection), humans can generate novel ideas and products
+(creativity) that contribute to human progress and flourishing. This course will specifically focus on
+imagination and creativity within the field of psychology. Students will learn about the cognitive,
+motivational, and social processes that shaped important creative insights (or big moments) in the
+history of the discipline. In addition, students will be given the opportunity to apply knowledge gained
+from the course by designing their own original creative research proposal as the final project for the
+course. Note: This course constitutes a research study designed to investigate how scientific creativity
+can best be taught to undergraduate students. Student participation in the research study is voluntary,
+subject to informed consent, and will not affect their performance in the course.
+SM 470. Seminar in Social Psychology. (C) Staff.Prerequisite(s): PSYC 170. Undergraduates only.
+Topics vary each semester.
+
+Page 7 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+SM 472. Evolutionary Psychology. (C) Kurzban.Prerequisite(s): PSYC 272.
+The purpose of this seminar is to explore state-of-the-art research and theory in the discipline of
+evolutionary psychology, with an emphasis on particularly challenging problems such as the evolution
+of conscious experience (phenomenology) and human (pro-)social behavior, especially altruism,
+cooperation, and morality. By the end of the class, students should be familiar with the current
+avenues of research in these areas and the controversies that surround these areas.
+SM 473. (BIBB473) Neuroeconomics. (C) Kable.Prerequisite(s): PSYC 149, 253, or 265.
+This course will review recent research that combines psychological, economic and neuroscientific
+approaches to study human and animal decision-making. A particular focus will be on how evidence
+about the neural processes associated with choices might be used to constrain economic and
+psychological theories of decision-making. Topics covered will include decisions involving risk and
+uncertainty, reinforcement learning, strategic interactions and games, and social preferences.
+SM 474. Cultural Psychology. Staff.Prerequisite(s): PSYC 170 or PSYC 272.
+Humans are a cultural species, constantly navigating a complex web of culturaly bound practices,
+norms, and worldviews. This seminar will survey the theory and research of the young but rapidly
+expanding field of cultural psychology. In the seminar, we will explore how culture shapes and is
+shaped by an array of psychological domains, ranging from perception, information processing, and
+language, to concepts of the self, motivations, emotion, morality, and physical and mental health.
+SM 475. (PPE 475) Behavioral Law and Economics. (C) Staff.Prerequisite(s): PSYC 253 or PSYC
+265. Undergraduates only.
+Topics vary each semester.
+SM 481. Seminar: Cognitive Development. Swingley.Prerequisite(s): PSYC 281 or PSYC 280.
+SM 477. Seminar in Animal Behavior. (C) Staff.Prerequisite(s): PSYC 131/231.
+Seminar in Animal Behavior: Social Brains, Social Behavior, and Social Evolution. This course will take
+an integrative approach to the study of social behavior across a variety of animal species. We will
+primarily take an ecological approach to studying social behavior at different levels of analysis,
+including physiological mechanism, development, and function.
+SM 478. (PPE 475) OBEDIENCE. Royzman.Prerequisite(s): PSYC 170.
+Though almost half a century old, Milgram's 1961-1962 studies of "destructive obedience" continue to
+puzzle, fascinate, and alarm. In this seminar, we will take an in-depth look at these famous studies
+(along with the more recent replications) and explore their various psychological, historical, and
+philosophical ramifications. This course has a number of intellectual goals that go beyond simply
+rarifying one's understanding of a particular content area (important and generative as it may be). One
+such a goal is to enable you to think critically (though not disparagingly) about other people's researh
+and theoretical claims that ensue from it, all with the hope that you can then apply the self-same
+critical acumen to your own future work. Second, this course will offer a hospitable environment for
+developing (and exchanging) creative ideas of your own. Your work on your individual reaction papers
+and on the term paper in particular will be a key element in achieving this goal.
+SM 480. Seminar in Developmental Psychology. Staff.Prerequisite(s): PSYC 001. Undergraduates
+only.
+511. PROB MODELS OF PERCEPTIO.
+
+Page 8 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+L/R 547. FNDTIONS SOC COG NEUROSC.
+549. (PSYC247) NEUROSCIENCE AND SOCIETY.
+579. EXP METHODS PERCEPTION.
+671. (CRIM671) Violence: A Clinical Neuroscience Approach. (A) Raine. Graduate students only.
+Developed for both Psychology and Criminology graduate students, this interdisciplinary course
+outlines a clinical neuroscience approach to understanding violence in which the tools of
+neuroscience- neuroanatomy, neurophysiology, neurocognition, neuroendocrinology,
+neuropharmacology, molecular and behavioral genetics- are used to help inform the etiology and
+treatment of violence. Clinical components include psychopathy, proactive and reactive aggression,
+homicide domestic violence, conduct disorder, oppositional defiant disorder, antisocial personality
+disorder, crime, and delinquency as well as their comorbid conditions (schizophrenia, drug abuse,
+hyperactivity). The interaction between social, psychological, and neurobiological processes in
+predisposing to violence will be highlighted, together with neurodevelopmental perspectives on
+violence focusing on prospective longitudinal and brain imaging research. Key implications for the
+criminal justice system, neuroethics, forensics psychology, and intervention will also be outlined.
+SM 712. REGRESSION & ANOVA II. (C)
+SM 790. (COMM890) SELF-REGULATION & BEHAV. ALBARRACIN.
+This seminar will cover psychologicaltheories of goals, research on self-control, and models of
+behavior change, tailored to the interests of the students. We will read classic and contemporary
+research related to goal setting, conscious and unconscious goal processes, and mechanisms of
+behavior change.
+251. Special Topics in Cognitive Psychology. (C) staff.Prerequisite(s): PSYC 151. Topics for this
+course vary each semester. Dept permission required.
+SM 270. CULTURAL PSYCHOLOGY. (C)
+
+First-Year Graduate Courses
+501. (COGS501, LING545) Mathematical Foundations for Language and Communication
+Science I. (D) Liberman.
+This two-semester sequence will provide basic mathematical modeling and algorithmic tools for
+interdisciplinary research in animal, human or machine communication, in association with the IRCS
+IGERT program. Topics include signal processing, statistical modeling and machine learning,
+information theory, game theory, and formal language theory. The courses will be taught in a
+laboratory setting, and will emphasize practical skills as well as basic concepts.
+502. (COGS502, LING546) Mathematical Foundations for Language and Communication
+Science II. (D) Liberman.
+This two-semester sequence will provide basic mathematical modeling and algorithmic tools for
+interdisciplinary research in animal, human or machine communication, in association with the IRCS
+IGERT program. Topics include signal processing, statistical modeling and machine learning,
+information theory, game theory, and formal language theory. The courses will be taught in a
+laboratory setting, and will emphasize practical skills as well as basic concepts.
+
+Page 9 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+539. (BIBB585, NGG 594, PHYS585) Theoretical and Computational Neuroscience. (M)
+Balasubramanian.
+This course will develop theoretical and computational approaches to structural and functional
+organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural
+coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks
+of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi)
+ideas that address why the brain is organized the way that it is. The course will be appropriate for
+advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus,
+linear algebra and differential equations is required (except by permission of the instructor). Prior
+exposure to neuroscience and/or Matlab programming will be helpful.
+605. (NGG 582, PHRM540) Behavioral Neuropharmacology. (C) Lucki and Staff.Prerequisite(s):
+Permission of course director.
+The effects of various drug classes on animal behavior are examined. Behavioral studies identifying
+the neurochemical mechanisms of action of psychotropic drugs are reviewed. Animal models of
+neurological and psychiatric illnesses are discussed.
+SM 600. Proseminar in General Psychology. (C) Staff. Dept permission required
+Choice of half or full course units each sem. covering a range of subjects and approaches in academic
+psychology.
+SM 603. (NGG 595) Behavioral Neuroscience. (H) Grill. Fulfills the "Brain" requirement
+Current research on the neural basis of behavior is organized in six subsections: animal
+communication, sex behavior, circadian rhythms, variety energy and water balance, synaptic plasticity
+and learning, andcommunication, addiction. Topics are selected based on excitement surrounding
+recent research developments. Each topic is analyzed initially at thernal receptors behavioral level,
+followed by the systems and the cell and molecularntrol of levels. Throughout the course, attention is
+paid to the analysison of behavior interesting stereotyped behaviors, e.g., bird song, lordosis, licking,.
+whose description and neurology has provided insights into the neuralal basis systems that contribute
+to overall neural control of behavior. Attention is also paid to the development of understanding of the
+neuroanatomy of selected neural systems.
+SM 604. (NGG 592) Cognitive Neuroscience. (C) Farah.
+Review of what has been learned about the neural mechanisms underlying intelligent behavior in
+humans and animals. Traditional topic areas of cognitive science are covered, specifically: vision (early
+vision through object recognition), attention, learning and memory, motor control, planning and
+problem-solving, and language. Attempts are made to integrate results of different neuroscience
+approaches to each topic, including the study of human neurological patients, lesion studies in
+animals, single unit recordings, neural network modelling, and functional imaging techniques.
+608. (OIDD900) Judgment and Decisions. (C) Baron.
+Thinking, judgment, decision making, beliefs, and probability, with emphasis on faclacies and errors.
+609. (NGG 573) Systems and Integrative Neuroscience. (A) Staff. Fulfills the Brain requirement
+610. (STAT501) Mathematics for Psychologists. (M) Staff. A two-term course.
+611. (BSTA550, STAT500) Statistics for Psychologists. (A) Staff.
+
+Page 10 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+612. (STAT501) Introduction to Nonparametric Methods and Log-linear Models. (B) Staff.
+SM 630. (NGG 630) Cognitive Neuroscience of Memory. (C) Staff. Fulfills the Brain requirement
+This course will review the neural mechanisms of learning and memory. Readings will include both
+seminal and cutting-edge papers on topics ranging from perceptual memory to higher order functions,
+including working memory, declarative memory, skill learning, and semantic memory. Within each topic
+we will attempt to integrate the results of different neuroscience approaches, including the study of
+human neurological patients, lesion studies and single unit recordings in animals, neural network
+modeling, event-related potentials, and functional imaging techniques.
+631. (NGG 631) Cognitive Neuroscience of Affect. (C) Farah.
+We will survey, and as far as possible, snythesize, three bodies of literature on emotion and the brain,
+specifically: (1) neuroimaging and pharmacologic studies of emotion and the normal human brain; (2)
+the neuroscience of affective disorders in humans; and (3) relevant studies of reinforcement and
+learning in animals.
+632. (NGG 632) Cognitive Neuroscience of Vision. (C) Epstein.
+This course will review the neural basis of visual cognition. Emphasis will be placed on linking
+cognitive theory to neuroscientific methods. Topics will include object and face recognition, scene
+perception, visual attention, mental imagery, and visual awareness.
+699. Individual Research for First-Year Graduate Students. (E)
+SM 705. Neuroethics. (C) Farah. Dept permission required.
+Neuroscience is increasingly affecting all aspects of human life, from the relatively familiar medical
+applications in neurology and psychiatry, to new applications in education, business, law,and the
+military. Today's neuroscience graduate students will be among the scientists, citizens,and
+policymakers who will lead society through the maze of decisions regarding the appropriate uses of
+neuroscience.This course provides a survey of the key ethical, legal,and social issues at the
+intersection of neuroscience and society.It will include a combination of traditional classroom lectures,
+discussion and debates, as well as an online component coordinated with a course at Wisconsin's
+Neuroscience and Public Policy graduate program.
+SM 715. Teaching Seminar. (C) Rozin.Prerequisite(s): For graduate students in Psychology.
+This course is designed to aid graduate students in developing fundamental teaching skills. The focus
+will be on lecturing, applicable to job talks as well as classroom lectures, but there will also be some
+attention to discussion sections and handling of questions.
+
+Seminars
+SM 703. Special Topics in Psychology. (C) Staff.
+SM 719. Experimental Methods in Perception. Brainard. This is an IGERT foundational course.
+This IGERT foundational course covers experimental methods and data analysis techniques used in
+the study of human perception.
+
+Page 11 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+SM 704. Research Methods and Statistical Procedures for Social and Clinical Sciences. (C)
+Staff.
+This course has three primary objectives: 1) developing criteria and strategies for strong inference of
+causal relationships in social and clinical psychology research; 2) examining the array of research
+designs employed in the social/clinical sciences together with the threats to internal and external
+validity associated with each; 3) learning and applying statistical analytical methods appropriate for
+questions in the social/clinical sciences. The course will employ a seminar format and a projectoriented approach to learning. Students will be encouraged to utilize examples from their own
+research programs in applying the design and analysis concepts covered in the course.
+SM 709. Special Topics in Clinical Psychology. (C) Staff. Graduate students only.
+In this seminar we will survey substantive, methodological and statistical issues that arise in the
+planning, conduct, and interpretation of empirical inquiries about the effects of psychotherapies.
+Challenges presented in efforts to disseminate evidence-based clinical practices will also be
+addressed.
+SM 711. Basic Problems in Developmental II. (C) Staff.
+SM 730. Special Topics in Motivation. (C) Staff.
+SM 733. Special Topics in Vision. (C) Staff.
+SM 736. Special Topics in Language. (C) Staff.
+SM 739. Special Topics in Perception. (C) STOCKER.
+Probability theory has become an increasingly popular and successful framework for modeling human
+perceptual and cognitive behavior. This course will provide a careful introduction to probability theory
+and the various ways it has been applied in psychology and neuroscience. Goal is to make students
+understand the most important state-of-the-art probabilistic models in perception and cognition, what
+they reveal about the brain's underlying computations and strategies in dealing with uncertainty, and
+how such computations can potentially be performed by populations of neurons.
+SM 745. (NGG 583) Special Topics in Cognitive Neuroscience. (C) Staff.
+750. (NGG 576, PHRM550) Special Topics in Neuropsychopharmacology. (C) Lucki and
+Staff.Prerequisite(s): Permission of Instructor.
+Biological issues relevant to neuropsychiatric illnesses are covered in detail in four sections. The first
+section covers clinical aspects of major psychiatric disorders and includes some contact with patients.
+The second section presents the neuroanatomy of the limbic systgem. In the third section, emphasis
+is on the mechanisms of action of psychotropic drugs, including antidepressants, antipsychotics,
+anxiolytics, and stimulants. The final section covers information relevant to understanding biological
+processes that may be abnormal in neuropsychiatric illnesses, such as stress, sleep, and circadian
+rhythms, as well as quantitative genetics.
+SM 751. Special Topics in Cognitive Psychology. (C) Staff.
+SM 757. Language and Communication Sciences Research Seminar. (M) Trueswell.
+SM 770. (PSCI770) Special Topics in Social Psychology. (C) Staff.
+
+Page 12 of 13
+
+PSYCHOLOGY
+(AS) {PSYC}
+SM 810. Psychodiagnostic Testing. (A) Staff.
+SM 811. Psychodiagnostic Interviewing. (A) Staff.
+SM 815. Introductory Practicum. (B) Staff.
+SM 820. Advanced Practicum. (C) Staff.
+Intensive studies of single individuals including interviews, tests, and experiments; also clinical
+experience at appropriate community agencies.
+999. Individual Study and Research. (C)
+
+Page 13 of 13
+
+

@@ -1,0 +1,678 @@
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+422. (BIOL422) Genomics of Human Disease and Evolution. S. Tishkoff.Prerequisite(s): BIOL 221.
+In this course we will discuss the identification and characterization of genetic diversity in the human
+genome, the genetic basis of normal variable traits, and the genetic basis of human disease. The
+study of the human genome increasingly impacts almost every aspect of our society, from medicine to
+law enforcement to how we view ourselves. The focus of this course will be to apply concepts and
+methods of genetics and genomics analysis (gene mapping, genome sequencing, epigenetics, gene
+expression) to better understand the genetic basis of both normal variable traits as well as disease for
+Mendelian (those traits influenced by a single gene) and complex (those traits influenced by multiple
+genes and environment) traits. We will discuss how to distinguish the evolutionary and demographic
+forces (i.e. mutation, migration, selection, population size) that influence genotypic and phenotypic
+variation within and among human populations. We will discuss how genomics and population
+genetics methodologies are being applied to study modern human origins, analysis of ancient DNA,
+ancestry, and population history.
+We will also discuss the implications of these studies for personalized medicine. An ability to
+understand human genetic and genomics analyses will serve you well since in your lifetime you are
+almost certain to be faced with a major decision involving your heredity; and society will be forced to
+make major reforms in medicine, business, and law because of increasing genomics data. By the end
+of this class you should have a better understanding of the science behind the study of the human
+genome.
+431. (BIOL431) Genome Sciences and Genomic Medicine. B. Gregory.Prerequisite(s): BIOL 221;
+BIOL 421 strongly recommended. Graduate students do not need permits or prerequisites as those
+will have been taken in undergraduate studies
+This course will be a focused study of genomes, genomic techniques, and how these approaches are
+and will be used in diagnosing and treating human disease. Topics will include genome sequencing,
+analysis of sequences and microarrays, and new techniques including high-throughput sequencing
+and reverse genetic analysis with a focus on genome-wide mutant collections.
+480. (BIOL480) Advanced Cell Biology. (A) Wei Guo.Prerequisite(s): College level biochemistry and
+cell biology.
+This course is designed for beginning graduate students and advanced undergraduate students with a
+particular enthusiasm for Cell Biology. CAMB/BIOL 480 does not attempt to cover all aspects of cell
+biology, and is therefore not appropriate for students seeking a lecture course that provides a
+comprehensive survey of the field. Rather, the primary objective of this course is to teach those
+students considering a career in the biomedical sciences how to read, discuss, and question research
+papers effectively. Intensive classroom discussions focus on the experimental methods used, results
+obtained, interpretation of these results in the context of cell structure and function, and implications
+for further studies. There is no assigned text; students learn to critically evaluate current literature by
+reading original papers on selected topics in modern cell biology. Accordingly, class participation/
+discussion is essential and the grade will be determined significantly by that. In addition, there will be
+two exams including answering short questions and an assay critiquing an original paper that is
+selected on a topic in Cell Biology.
+
+Page 1 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+483. (BIOL483) Epigenetics. (A) Wagner.Prerequisite(s): BIOL 221.
+This course investigates epigenetic phenomena: heritable alternate states of gene activity that do not
+result from alteration in nucleotide composition (mutations). Epigenetic mechanisms regulate genome
+accessibility and cell differentiation. They play a key role in normal development and in oncogenesis.
+For example both mammalian X-chromosome inactivation and nuclear transfer (cloning) are subject to
+epienetic regulation. Amongst the epigenetic mechanisms we will discuss in this course are chromatin
+organization, histone modification, DNA methylation and non-coding RNAs. The course is geared
+toward advanced undergraduate and beginning graduate students and is a combination of lectures,
+student presentations and researach presentations by guest speakers. Students will work with the
+current scientific literature.
+SM 485. (BIOL485) The RNA World: A Functional and Computational Analysis. (B) B.
+Gregory.Prerequisite(s): BIOL 221 required. BIOL 421 strongly recommended. Graduate students will
+have satisfied prerequisites in their undergraduate studies
+A focused study of genomic, biochemical, cellular, and molecular aspects of RNA. Topics of study will
+include RNA structure, RNA processing and turnover, splicing, ribozymes and riboswitches, RNA
+editing and modification, RNA interference, endogenous eukaryotic RNA silencing pathways, small
+RNA biology, computational methodologies for studying RNA biology, and RNA viruses. Lectures,
+student presentations, and discussions will be based on readings from the primary literature.
+SM 486. (BIOL486) Chromosomes and the Cell Cycle. (B) Lampson, M..Prerequisite(s): The course
+section is limited to PhD students only.
+Life depends on the propagation of genetic material from one generation to next through cycles of
+genome replication and cell division. The genome is copied by the parent, and one exact copy is
+inherited by each daughter cell. We will treat chromosomes as discrete entities, rather than collections
+of genes, that are replicated and divided with high fidelity to ensure that the genome remains stable
+over many generations. By reading selected primary literature covering several decades, we will build
+an understanding of the cell cycle by focusing on chromosomes and the associated molecular
+machinery. We will explore mechanisms that underlie replication and division, particularly control
+mechanism that maintain genome integrity and are critical to prevent disease. The goal of the course
+is to develop a picture of the cell cycle by examining some of the key experiments and insights that
+have led to our current understanding.
+There is no textbook for the course. Readings from the primary literature will be assigned for each
+meeting and provided as pdf files. Presentations of these papers and class participation, including
+questions and critical evaluation, are an essential part of the course. Grading will be based on a final
+paper in the form of a research proposal (50%) and on class participation (50%).
+SM 493. (BIOL493) EPIGENETICS OF HUMAN HEA. (B)
+
+Page 2 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+510. (IMUN510) Immunology. (B) G. Scott Worthen.Prerequisite(s): BIOM 600 or instructor permit.
+Priority given to students in the MVP & GTV programs of CAMB. Second priority to CAMB students in
+other programs. If slots remain, then Ph.D. students from other graduate groups by permit only. Ph.D.
+students only.
+The purpose of this course is to provide a thorough grounding in immunology to Cell and Molecular
+Biology graduate students, with an emphasis on the role of the immune system in combating
+infectious and neoplastic diseases, and its rolein immunopathological states such as autoimmunity
+and allergy. This is a required course for CAMB students in the Microbiology, Virology and Parasitology
+program and the Vaccine and Gene Therapy program, replacing IMMU 506 (Immune Mechanisms). It
+may also be used as an elective by CAMB students in other programs such as those from the Cancer
+Biology program and Cell Biology and Physiology program.
+The course is divided into two parts. The first deals with innate and adaptive immune mechanisms,
+the structure, function, and molecular biology of antigen receptors and major histocompatibility
+complex molecules, and the development, activation, and differentiation of lymphocytes and other
+hematopoietic cells involved in immunity. The second part will cover the immune response in infection
+by bacteria, viruses, and parasites, and in pathological states such as cancer, allergy, and
+autoimmunity. The course is comprised of two 1.5-hour lectures per week.
+EXAMS: There will be two exams. The first will be taken after part I, and the second after part II of
+the course. Both will be open book, in-class exams. The exam will consist of essay or brief answer
+questions based on experimental design and/or data. Each exam is weighed equally in determining
+the final letter grades of students. The grades are based solely on the exams.
+511. Principles of Development. (B) M. Mullins & P. Seale.Prerequisite(s): Previous courses in
+molecular and cellular biology are recommended. Undergrad background in cell biology and molecular
+biology required. NON-BGS students require permission from course directors to register.
+This graduate course, which will include lectures and readings from the literature, is designed to
+provide a foundation in the principles of developmental biology. Topics covered will include: the germ
+line and piRNA, signaling pathways in development, pattern formation and cell specification,
+gastrulation, tissue differentiation, morphogenesis, cell polarity, epigbenetics in development,
+organogenesis, stem cell biology, regeneration, and developmental evolution. The use of moleculart
+biology, biochemistry, genomics and genetics, cell biology, and embryological manipulations will be
+discussed in the context of the analysis of developmental mechanisms.
+512. Cancer Biology and Genetics. (B) Todd Ridky and Yi Fan.Prerequisite(s): BIOM600 or course
+director permission. Non-CAMB students must contact the course director prior to registration.
+Students are not permitted to audit this course.
+The course objective is to introduce the students to important and current concepts in Cancer Biology
+and Cancer Genetics. The lectures are organized into 4 broad thematic groups: A) Cell-Autonomous
+Mechanisms (e.g., tumor suppressor and oncogene function, DNA repair pathways, senescence,
+apoptosis); B) Non Cell-Autonomous Mechanisms (e.g., tumor microenvironment, hypoxia,
+angiogenesis); C) Organ Systems (e.g., pancreatic cancer, hematopoetic malignancies); and D)
+Therapeutic Approaches (e.g. protein kinase inhibitors, immunotherapy, radiation therapy). The
+organizers, along with faculty from the School of Medicine, the Wistar Institute and CHOP, with
+expertise in the corresponding areas provide lectures for the course. The students are expected to
+present, and participate in discussions of one or more key recent papers at Journal Clubs that are
+held at the end of each thematic group. There will be mid-term and final exams of short essays
+relevant to the lectures.
+
+Page 3 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 518. Current Topics in Ion Channels. (C) Deutsch, C..Prerequisite(s): Basic knowledge of ion
+channels, BIOM 600 or equivalent. Corequisite(s): Prerequisite must be confirmed before student can
+register.
+The course is a seminar format, specifically a journal club format, targeted to graduate students and
+MD/PhD students interested in ion channels. It meets for one hour, once a week for graduate students
+and once every other week for the entire group with formal presentation. On alternate weeks a faculty
+member meets with students to discuss and review the contents of each selected article for the
+subsequent week's presentation. This is an elective course meant to excite and intellectually enlighten
+students regarding the latest advances in ion channel research. It includes a wide range of ion
+channel topics from basic biophysics, structure, and physiology to cell biology and clinical applications.
+It is attended by faculty, students, and postdocs from the departments of Physiology, Pathology,
+Neuroscience, Pharmacology, Biochemistry & Biophysics, Psychiatry.
+We require a written critique of each paper presented by other participants during the semester,
+submitted prior to the formal presentation of the paper. This critique will be graded by a faculty
+member, as will the student's participation in both the preparatory sessions and formal presentation
+sessions. A final grade would be based on both of these components.
+SM 522. (BIOL522) Human Evolutionary Genomics. (J) S. Tishkoff.Prerequisite(s): Permission of
+director.
+Advanced seminar on current topics in human genomics and human evolution. Topics include the
+methods used for mapping and sequencing genomes; phylogenetic and population genetic analysis;
+and detecting variation in the human genome. This course is designed for graduate students but
+advanced undergraduates with a strong background in genetics are also welcome.
+SM 526. (BIOL526) Experimental Principles in Cell and Molecular Biology. (B) K.
+Gallagher.Prerequisite(s): This course section is limited to BGS/PhD students only.
+The course aims to introduce principles of current experimental techniques used in modern biology.
+541. (BIOL540) Genetic Analysis. (B) Poethig.Prerequisite(s): A college-level introductory course in
+genetics / molecular biology.
+Genetic analysis involves use of induced mutations and natural variation to study biological processes.
+This course presents the logic and technology of this approach in four model organisms (Drosophila,
+C. elegans, mouse, Arabidopsis) and humans.
+SM 530. The Cell Cycle, Genome Integrity and Cancer. (A) Brown, Eric and Busino,
+Luca.Prerequisite(s): Completion of BIOM 600, BIOM 555 and/or equivalent graduate level course
+work. Anyone without such course work must obtain instructor permission. Corequisite(s): Preferential
+registration of Cancer Biology and CAMB students up to the maximum of 12 students applies.
+Permission to register is required upon exceeding the 12 student limit.
+This seminar course focuses on molecular and biochemical events that regulate cell cycle progression
+and genome maintenance, and explores how these processes influence cancer etiology and
+treatment. Specific topics will familiarize students with the key principles and recent developments
+within these areas. These topics include CDK-Cyclins and their inhibitors, regulation of G1-S and G2M phase cell cycle transitions, DNA damage checkpoints and repair, the impactof telomere loss and
+chromatin regulation, and how each of these processes affects cancer etiology and treatment. In
+depth reading and evaluation of resesarch literature will be primarily used to accomplish these aims,
+as well as provide instruction on rigorious experimental design and data interpretation.
+
+Page 4 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+532. (PHRM532) Human Physiology. (A) Tejvir Khurana.Prerequisite(s): Although not a formal
+prerequisite, a good foundation in cell biology at the level of BIOM/CAMB 600 (or an equivalent upper
+level undergraduate course) is strongly recommended. A general understanding of the chemistry and
+biochemistry of macromolecules, and of basic molecular biology will also be assumed. This course is
+primarily designed for 2nd year BGS students; 1st year students in BGS or other programs will require
+the permission of the instructor. This course is not open to undergraduates. Corequisite(s): Students
+with out BIOM 600 require the instructors permission.
+This course will present a survey of the physiology of most of the major organ systems. It will integrate
+knowledge of cellular and molecular mechanisms into an understanding of function at the tissue,
+organ, and organism levels. It will begin with a brief review of membrane physiology, followed by
+electrophysiology and signaling in nerve. Then, after a brief outline of neural control systems and their
+role in homeostasis, it will present motility and muscle, the cardiovascular system, respiration, the
+renal and gastrointestinal systems, and selected topics from the endocrine system, the reproductive
+systems, environmental and exercise physiology. As well as providing a basis of integrative physiology
+for students in fields such as physiology, bioengineering and pharmacology, it should be of interest to
+students of cellular and molecular biology and genetic engineering who will need to appreciate the
+roles of specific systems and molecules at higher levels of organization.
+SM 534. (NGG 534) Seminar on current genetic research: Modeling Human Disease in Diverse
+Genetic Systems. (B) T. Jongens.Prerequisite(s): CAMB 605 or CAMB 542 or permission of the
+instructor. Priority for enrollment will be given to CAMB graduate students. Class not open to Master or
+undergraduate students.
+An advanced seminar course emphasizing genetic research in model organisms and how it informs
+modern medicine. Each week a student will present background on a specific human disease. This is
+followed by an intense discussion by the entire class of ~2 recent papers in which model organisms
+have been used to address the disease mechanism and/or treatment. As a final assignment, students
+will have the opportunity to write, edit, and publish a "News & Views" style article in the journal
+"Disease Models and Mechanisms". Offered spring semester.
+SM 542. (PHRM542) Topics in Molecular Medicine. (A) Section 401: Johnson, Kholi Section 402:
+Atchison, Mason. Section 402: Open to combined degree and BGS students; capped at 12 students
+total; non-BGS students must receive permission from course instructors.
+TiMM is planned as a once-weekly seminar course whose goal is to introduce students to the ways in
+which biomedical research can provide new insights into clinical medicine and, conversely, how
+knowledge of clinical disease impacts scientific discovery. There are two sections for the course -- 401
+and 402. Section 401 is for first year MD/PhD students only and section 402 is for VMD/PhD and PhD
+students.
+SM 546. HIV Virology & Pathogenesis. (J) R. Collman and K. Bar.Prerequisite(s): Strong background
+in cell biology, immunology or virology fulfilled by 1st yr CAMB (previous BGS courses) or Module 1 of
+med school curriculum. Course is limited to graduate students. Instructor permission required for nonCAMB graduate students.
+This course will introduce students to diverse basic principles that contribute to viral pathogenesis. We
+will use HIV as a model to illustrate specific elements that relate to disease development, emphasizing
+a) pathogenesis, b) immunology, c) retroviral replication cycle, and d) vaccine development. Offered
+spring semester.
+One 1.5 to 2 hour class weekly for the course of the semester.The first class will include two 45minute introductory lectures given by the course instructors. Each week, a student will lead the class
+in the dissection and discussion of published papers on a specific topic. The format that we will follow
+will be a 20-minute introduction presented by the student followed by the analysis of one to two
+articles, which will be presented by the student and discussed by the class.
+
+Page 5 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+547. Fundamental Virology. (A) Matthew Weitzman.Prerequisite(s): Prior coursework in molecular or
+cellular biology. First Priority to MVP students, then CAMB students, then GCB students.
+The course provides an introduction to virology aimed at graduate students in the biomedical
+sciences.
+578. (BIOL488, NGG 578) Advanced Topics in Behavioral Genetics. (J) Abel/Bucan.Prerequisite(s):
+Permission of Instructor.
+This course focuses on the use of genetic techniques to study the molecular and cellular bases of
+behavior. Particular emphasis will be given to the role of genetic approaches in understanding the
+biological processes underlying memory storage, circadian rhythms, and neurological and psychiatric
+disorders. Reverse genetic approaches utilizing gene knockout and transgenic technologies, as well
+as forward genetic approaches using mutagenesis and quantitative genetic techniques will be
+discussed.
+548. Bacteriology. (A) Zhu, J; Bushman, R..Prerequisite(s): none. Priority given to MVP graduate
+students
+The format of this course will be two lectures and one student presentation/paper discussion per
+section. The course will begin by introducing molecular mechanisms in bacterial replication, then cover
+detailed studies of host-bacterial interactions. The course will cover the general concepts and recent
+advance of how bacterial pathogens prepare to infect the host, the successful strategies bacteria used
+to infect the host, and how they survive after the infection.
+549. Parasites and Parasitism. (A) Hunter, C. & Lok, J.. Permission needed from course director for
+non-CAMB students
+Parasites infect over one quarter of the world's population and parasitic diseases are a leading cause
+of death globally. "Parasites and Parasitism" is to be offered to first and second year MVP students
+over a seven-week block in the fall semester. The course will begin with an introduction to the major
+protozoan and helminth pathogens of humans, their geographic distribution and the diseases they
+cause. Subsequent lectures will emphasize a variety of topics from the current research literature
+using specific parasitic pathogens as examples. These will include how various protozoans enter cells
+and adapt to different intracellular habitats or how helminths utilize different strategies to survive within
+the GI tract. Malaria and schistosomiasis will serve as examples for how parasites cause disease
+while trypanosomes and leishmaniasis will be discussed as models for how parasites survive or evade
+immune elimination. Finally, several helminth and protozoan systems will be used to demonstrate the
+intimate association between parasite and vector that leads to efficient transmission. In addition to
+lectures, weekly discussion sessions will provide an opportunity for students to review papers or
+research specific topics and present their findings to their colleagues.
+550. Genetic Principles. (B) Sundaram, M. & Grant, S.. Open to all PhD students in BGS, priority
+given to CAMB and GCB students. Students outside of BGS or in non-PhD programs require
+permission from the course director to register.
+This is a required course of the Genetics and Gene Regulation Program and is designed to provide
+students with a comprehensive overview of genetic concepts and methodology. The course is
+organized into three parts: I Fundamental genetic concepts; II Genetics of model organisms (with a
+focus on worms, flies and mice); III Human genetics and disease. Each week there will be two lectures
+and one associated discussion/problem-solving session. Discussions emphasize practical aspects of
+generating and interpreting genetic data. Offered spring semester.
+
+Page 6 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+597. (NGG 597) Neural Development, Regeneration and Repair. (B) Greg J. Bashaw and Wenqin
+Luo.Prerequisite(s): Cell 600 or equivalent. Students who are not in one of the BGS graduate
+programs need instructor permission.
+The goal of this course is to examine the principles underlying nervous system development. It is not a
+survey course. Rather, the course will focus on selected topics, for which we will discuss the genetic,
+molecular and cellular strategies employed to study these problems in different model organisms.
+Emphasis is on how to interpret and critically evaluate experimental data.
+Fall 2016 Topics: Specification and generation of Neuronal Diversity; Axon and Dendrite Tiling and
+Self-Avoidance; Axon Guidance at the Midline; Synapse Formation; Wiring the Olfactory System, Axon
+Regeneration, Somatosensory System Development, Stem Cell Replacement Strategies for Neural
+Repair.
+Textbooks: No specific textbooks are required. The following texts are useful resources.
+Developmental Biology by Scott Gilbert; Development of the Nervous System by Sanes, Reh, and
+Harris; and Molecular and Cellular Approaches to Neural Development edited by Cowan, Jessell, and
+Zipursky.
+Format: Each class is 1.5 hours in length. During the first hour, an assigned paper will be discussed
+in detail. During the last 20-30 minutes, faculty will introduce methods, concepts, and background
+information pertinent to the paper that will be discussed at the following meeting.
+SM 608. Regulation of Eukaryotic Gene Transcription. (A) Z. Zhou, S. Liebhaber, D.
+Epstein.Prerequisite(s): BIOM 555 or equivalent (exception=MD/PhD students). Students are expected
+to bring their laptops to class. This course is limited to 14 participants. All interested students need
+permits from course directors before registering.
+An advanced seminar course emphasizing the molecular biology and molecular gene expression in
+eukaryotes. Based on the current literature, the presentations and discussions will familiarize the
+student with present day technology and developing principles.
+598. Immunology for Cancer Biologists. (A) Sandra Ryeom.Prerequisite(s): CAMB Students only,
+priority given to Cancer Biology students.
+Themes: The contribution of both adaptive and innate immune cells to tumor progression and
+metastasis; Mechanisms of immune-mediated edition of tumors; Barriers to tumor immunity that
+contribute to tumor escape.
+Objective of course: To learn and analyze the major aspects of the inter-relationships between the
+immune system and tumors. By the end of the class students should be able to answer the question:
+why do current immunotherapeutic approaches for cancer fail in the majority of patients? Based on the
+topics covered in the course, students should be able to define research avenues that will increase the
+efficacy of immunotherapies for cancer.
+During the course, we will: 1. Interpret how the processes of immune editing, equilibrium and
+escape influence the development of tumors. 2. Assess the divergent and convergent roles of myeloid
+and lymphoid cells in supporting tumor cell growth and metastasis. 3. Understand the nature of tumor
+antigens recognized by innate and adaptive immunity. 4. Learn how tumors co-opt immunosuppressive
+components of the immune system to prevent their destruction; how tumors influence their
+microenvironment. 5. Devise experimental approaches to ascertain the role of cellular and molecular
+components of the immune system in the progression and control of cancer.
+Class format and student evaluation: The course will consist of didactic lectures and student-led
+discussions of papers. Students will analyze experimental restults from published articles and
+synmthesize the data into current paradigms about tumor immunology. Students will be graded on
+participation (75%) in discussions in class on a weekly basis and on one formal presentation during
+the course (25%).
+
+Page 7 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 601. Advanced Virology Seminar. (B) P. Bates. Non-CAMB students must obtain instructor
+approval.
+This seminar course covers current topics and important concepts in virology. Students will read
+selected papers on various topics in virology. Each subject will be illustrated by ground-breaking
+classic papers and innovative recent articles. Students will present a seminar under the guidance of a
+faculty member. Grades will be based on the guidance of a faculty member. Grades will be based on
+the quality of the seminar(s) and participation in discussion.
+SM 605. CAMB First Year Seminar. (A) John Seykora.Prerequisite(s): None. Preference to CAMB
+students is given. Students outside of CAMB may be accepted space permitting.
+Topics are selected by course instructors and student participants. Course instructors vary yearly. The
+goal of this course is to provide students with an opportunity to analyze, present, and discuss
+significant research papers in the field of cell and molecular biology in small group settings. The
+sections are taught by faculty from the different programs within the Graduate Group. This is a
+required course for CAMB PhD students. Other BGS students are eligible, space permitting.
+609. (IMUN609) Vaccines and Immunization Therapy. (A) David Weiner, Ph.D., Jean Boyer, Ph.D.,
+Paul Offit, M.D..Prerequisite(s): Biology, biochemistry at the advanced college level, college level
+immunology is recommended. Not limited to CAMB students, however first options are to CAMB
+students
+Vaccination is perhaps the most successful medical technological intervention. The goal of this course
+is to expand on students' general understanding of the immune system and to focus this
+understanding towards the application of vaccination and immune therapies for the 21 century.
+Furthermore, the course will give the student a sense of how these principles are applied to vaccine
+and immune therapeutic development. The course covers basic science as well as the clinical,
+regulatory, ethical, and political issues and implications of modern vaccines and world health.
+Initial lectures review immune mechanisms believed to be responsible for vaccine induced
+protection from disease. Subsequent lectures build on this background to explore the science of
+vaccines for diverse pathogens, including agents of bioterrorism as well as vaccines for cancer. An
+appreciation for the application of laboratory science to the clinical development and studies of
+vaccines is provided in the next section of the course along with lectures, which focus on the
+regulatory, safety, and ethical implications of vaccines in different world situations. The financial
+implications of specific vaccines on global health is one focus of the course.
+The course is lecture style with many, many guest lecturers who are experts in their particular area
+of vaccine development. There are required readings to provide the student context and background
+for the diverse lectures topic. Students are graded on course participation, and a final project/exam.
+The project is to design in a PowerPoint report a vaccine strategy for a current disease or pathogen of
+importance that does not as yet have an effective vaccine or immune therapy. Strategies used should
+build on the material presented in the class lectures. The course is intended for graduate students or
+medical students in various MS, Ph.D., or MD/Ph.D. programs on the campus, as well as local
+scientists and professionals in the community. As a prerequisite students should have taken biology,
+biochemistry, or immunology courses at the advanced college level.
+
+Page 8 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 630. Topics in Human Genetics and Disease. (H) E. Shore, M. Devoto, S. Grant.Prerequisite(s):
+CAMB graduate students having taken CAMB550, or students in MD/PhD, veterinary,genetic
+counseling or nursing programs with equivalent courses. Must have directors permission to register.
+Building on the foundations of the Human Genome and HapMap projects, as well as parallel efforts in
+model organisms, research in human genetics and genomics is progressing rapidly. Our
+understanding of basic concepts in genetics, and Mendelian and non-Mendelian human genetic
+disease is proceeding at an unprecedented pace. This course will provide students with an overview
+approaches to understanding current problems and techniques in human genetics. The format will be
+an advanced seminar course, with directed reading and students presentations.
+Every week, students are expected to participate in a 2-hour class session, and two students will
+present recent publications in human genetics and disease. After each session, instructors will meet
+with presenting students for 30 min. to provide individual feedback. Course directors will attend each
+class, and guest preceptor with relevant scientific expertise may also participate. Students will be
+assigned readings for the first half of the course, and then select their own papers for the second half
+of the course. Presentations will be prepared in consultation with course directors. Students must meet
+with instructors at least one to two weeks prior to the presentation date. In class, the student
+discussion leaders will i) present background information necessary to understand the assigned paper
+(10-15 min.), ii) lead discussion of the paper, focusing on critical evaluation of the methods and
+results, and iii) talk about the future directions for this research.
+A short written assignment will be due by the end of the course. This written work will be in the form
+of a review piece or "news and views" format commonly seen in scientific journals. The topic of this
+review can be based on one of the two topics the student presents in class, or on a separate topic
+approved by the instructors. The review should be approximately 1,000 words or less (no more than 4
+double-spaced pages).
+Grading: Students will be evaluated based on class participation (25%), their first presentation
+(25%) and their second presentation (25%), and the written assignment (25%).
+610. Molecular Basis of Gene Therapy. (A) Michael Milone.Prerequisite(s): Background in
+biochemistry, cell biology and molecular biology. Any student notenrolled in a BGS graduate program
+who wishes to take this course must get permission in advance from Dr. Wilson. Students should send
+their undergraduate and graduate transcripts (including spring semester) along with their request to
+Dr. Wilson via email: wilsonjm@mail.med.upenn.edu and copy Robin Har tley:
+hartleyr@exchange.upenn.edu.This class is not accepting Non-BG S masters students.
+This is a team-taught, survey course that focuses on the basic science relevant to achieving efficient
+and effective gene transfer in animal models and humans for the treatment of disease. The course
+includes a unit devoted to a variety of vectors useful for gene transfer, with the remainder of the course
+devoted to the study of current gene therapy approaches using specific diseases as models. Prior
+background in biochemistry, cell biology, and molecular biology is essential. Aspects of organ system
+anatomy and physiology, virology, and immunology that are relevant to the course material are
+included in the course. Because of rapid movement in this field, specific topics vary somewhat from
+year to year. Offered every fall.
+
+Page 9 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+615. (BMB 518, NGG 615) Protein Conformation Diseases. (A) Yair Argon;Harry
+Ischiropoulos.Prerequisite(s): BIOM 600 or equivalent.
+Protein misfolding and aggregation has been associated with over 40 human diseases, including
+Alzheimer's disease, Parkinsons disease, amytrophic lateral sclerosis, prion diseases, alpha (1)antitrypsin deficiency, inclusion body myopathy, and systemic amyloidoses. This course will include
+lectures, directed readings and student presentations to cover seminal and current papers on the cell
+biology of conformational diseases including topics such as protein folding and misfolding, protein
+degradation pathways, effects of protein aggregation on cell function, model systems to study protein
+aggregation and novel approaches to prevent protein aggregation.
+Target audience is primarily 1st year CAMB, other BGS graduate students, or students interested in
+acquiring a cell biological perspective on the topic. MD/PhDs and Postdoc are welcome. MS and
+undergraduate students must obtain permission from course directors. Class size is limited to 14
+students.
+SM 620. Thematic Concepts in Developmental Biology. (A) DiNardo, S., Speck, N..Prerequisite(s):
+BIOM 600 (CELL 600); Gene Regulation; a developmental biology course (CAMB 511 or equivalent) is
+suggested not required. CAMB students have priority.
+The goal of this seminar course is to foster discussion about general strategies used by cells and
+organisms to solve fundamental problems during development. This is not a survey course in
+Developmental Biology. Rather, we focus on an overarching theme for the semester (see below),
+enabling us to define the issues central to that theme, and explore attempts to uncover solutions using
+different model systems. Primary research papers are assigned for discussion, and all students are
+expected to contribute thoughtfully and energetically to the discussion each week. Prior years' topics
+have been: "Cell migration in Development", "Evolutionary Development", "Developmental links to
+Disease", "Cell Biology in Development", "Stem Cells", "Rulers, Clocks & Oscillators in Development",
+"Cell Biological Mechanisms in Development. Offered fall semester.
+SM 691. Advanced Topics in Cell Biology & Physiology. (J) E. Grishchuk, M. Marks, C.
+Deutsch.Prerequisite(s): BIOM 600 or a similar survey course in cell biology. Permission needed for all
+non-CAMB students. Advanced undergrads must contact instructor to confirm qualifications.
+This course, together with its companion CAMB 692, offers an advanced, in depth analysis of selected
+topics in cell biology and physiology. CAMB 691 and 692 are complementary courses that focus on
+different aspects of cell biology; these courses are offered on an alternating basis in the spring
+semester. The courses can be taken in either order, but require BIOM 600 or an equivalent
+background in basic cell biology. CAMB 691 will focus on key issues at the forefront of research in the
+areas of (1) Channels and transporters, (2) Vesicular and viral trafficking, (3) Tissue mechanics, (4)
+Heart and muscle physiogy, (5) Cytoskeletal duynamics and cell division. The course format pairs
+faculty presentations with student-led discussion sessions highlighting important papers from the
+primary literature. Students will be evaluated on their presentations, their participation in class
+discussions, and weekly problem sets. Offered alternately in the spring semester with CAMB 692.
+
+Page 10 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 632. (PHRM632) Targeting the cancer cell: from mecnanism to precision medicine. (B) X.
+Hua, J. Field, , A. Resnick, and W. Pear.Prerequisite(s): BIOM 600, Molecular and Cell Biology
+Courses. Priority given to PhD students. Class is limited to CAMB, PHARM, IMUN and other graduate
+students, including engineering. Masters will go on waiting list.
+This course, "Targeting the cancer cell: from mecanism to precision medicine", will examine how
+various signal transduction mechanisms influence cell functions including replication, growth,
+transcription, translation and intracellular trafficking. We will also consider how non-cell autonomous
+mechanisms, such as the tumor microenvironment and the immune system influence cancer cell
+signali ng. We will consider how important signaling pathways, such as Ras, Raf, Notch , Wnt, TGF
+beta, and various kinases/phophatases become dysregulated in cancer, as well as delve into how the
+DNA damage response, immune system, and tumor microenvironment exert important influences on
+oncogenic signaling.
+In the first half of the course, invited faculty members will pick 2 relatively recent papers from their
+field that highlight important areas. Each paper will be assigned to a student, who will meet with the
+faculty mentor prior to the class to discuss the paper and their presentation. During the class, students
+will present each paper for approximately 45 minutes with time for discussion. Students will present
+the important background, break down the paper, look for strengths and weakness and come up with
+a plan of what the next set of experiments could or should be. In the second half of the course,
+students will independently pick a relevant paper for in class presentation and will also write a short
+"News and Views" style article based on the paper they have chosen. The goal ot the course is to
+provide students with a view of the cancer cell that integrates both cell autonomous and non-cell
+autonomous signals and to use this infomration to consider how to successfully treat cancer.
+SM 633. Advanced Seminar in Gene Therapy. (K) Dr. James M. Wilson..Prerequisite(s): Background
+in biochemistry, cell biology, molecular biology, and immunology.
+This year's Advanced Seminar in Gene Therapy will cover controversial topics in the field. It will meet
+on Wednesdays from 4:30 - 6:30pm. The goal of this seminar is to provide graduate students with an
+understanding of the challenges, both experimentally and practical, that face the gene delivery field. At
+least two sessions will deal with ethical issues. With the exception of the first class meeting, each of
+the weekly, two-hour sessions will be devoted to a discussion of two recent papers. All students are to
+have read the papers. Evaluation will be based on attendance (required), active participation, and
+preparation of reviews of papers. Students will be introduced to the process of manuscript review and
+will be asked to provide critical reviews for two manuscripts.
+Students who are not in CAMB need to request permission from the course director, Dr. James
+Wilson, via email: wilsonjm@mail.med.upenn.edu.
+SM 637. Gene Therapy: Vectors, Immunology, and Disease. (J) J. Riley.Prerequisite(s): Background
+in molecular biology, virology and immunology. BGS Students only. BGS Students only
+This seminar course is designed to provide students with a cohesive understanding of virology and
+immunology of gene therapy. Three major themes will be covered: vectors, vector immunology and
+gene therapy of genetic and acquired diseases. The topics to be covered are viewed as an extension
+of topics covered in CAMB 610 (Molecular Basis of Gene Therapy), although CAMB 610 is not an
+absolute prerequisite for this seminar. Each class will consist of a brief introduction by an instructor,
+reviewing background information related to the theme discussion. The topics are explored through
+discussions, led by assigned students, of seminal research articles. Students are expected to have
+thoroughly reviewed the assigned articles and be able to present and discuss various aspects of the
+papers. Regular attendance and active participationin the discussions, which focus on critical
+evaluation of experimental design, data presentation and interpretation, is essential. Student
+evaluation will be based on attendance, in-class presentation (for 50% of the letter grade), and a takehome exam (for another 50% of the grade).
+
+Page 11 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 692. Advanced Topics in Cell Biology and Physiology II: Cell Signaling. (K) M. Lemmon, J.
+Baur.Prerequisite(s): BIOM 600 or a similar survey course in cell biology, or the permission of the
+instructor. We encourage participation by non-CAMB students.
+Cells in complex organisms are required to adapt rapidly in a changing enviro nment. Maintaining
+homeostasis while performing specialized functions requires that cells respond to extracellular signals
+as well as fluctuations in a host of intracellular metabolites. This course will cover selected topics and
+general principles related to signal transduction and the control of metabolic flux in living cells. The
+course format will include student-led discussion sessions both providing an overview of a topic as
+well as focusing on important papers from the primary literature. Students will be evaluated on their
+presentations and participation, as well as problem sets. Offered alternatelyin the spring sememster
+with CAMB 691.
+695. Scientific Writing. (B) J. Katz, J. Lok.Prerequisite(s): BIOM 600, BIOM 555 and CAMB 605.
+Preference for enrollment in CAMB 695 is given to CAMB students with highest priority given to
+second-year students. Students from graduate groups other than CAMB may be enrolled if space
+permits.
+This 7-week course is designed to introduce students to basic scientific writing skills and is ideal for
+second year graduate students preparing for qualifying examinations. Participants will review the
+general principles of clear, persuasive writing, and will apply these principles to writing for a scientific
+audience. Particular emphasis will be placed on conveying the significance of your research, outlining
+the aims, and discussing the results for scientific papers and grant proposals. The course will also
+provide an overview of the structure and style of research grant proposals and scientific manuscripts.
+Classes are highly interactive, and the majority of class time will be spent discussing student scientific
+writing.
+Evaluation: The goal of the course is to encourage active and open interaction among students.
+Ideal endpoints include improved self-editing, and development of effective strategies for offering and
+receiving editorial recommendations among peers. Grading will be predominantly based on class
+attendance, participation, and timely submission of assignments-not on the quality of the writing itself.
+SM 696. Contemporary Topics in Parasitology Research. (B) J. Lok, C. Lengner, and M.
+Povelones.Prerequisite(s): CAMB 549-001, Parasites and Parasitism.
+This is a paper-based seminar course. Each week a student is assigned a recent seminal paper
+related to parasitology research. The papers are chosen by guest faculty. Students are required to
+provide concise but comprehensive background and present the paper in a journal club style format. A
+principal aim of the course is to develop the ability think outside of the box and to cultivate the skills
+necessary for developing the ability to critically appraise one's own research and that of others. The
+ability to present and review work will be tested.
+SM 697. Biology of Stem Cells. (B) P. Gadue, C. Lengner.Prerequisite(s): BGS Core Courses.
+Graduate students only. NO undergraduates. Students other than CAMB will need permits. CAMB
+students receive priority seating.
+The goal of this course is to introduce graduate students to the field of stem cell biology through
+lectures and reviews of important contributions from the literature. Topics include stem cell niche
+biology, epigenetics and reprogramming, tissue specific stem cells such as hematopoietic and
+epithelial stem cells, tissue regeneration, tissue engineering, and ethical and legal issues of stem cell
+and regeneration biology. The future potential and challenges in stem cell and regeneration biology will
+be discussed. Important aspects of stem cell identification and characterization utilizing multiple model
+systems will also be a focus. Offered Spring Semester. Limited to 14 students.
+
+Page 12 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 698. Elective Tutorials in Cell Biology. (C) Lee, Robert (Fall semester) and Wei Tong (Spring
+semester).Prerequisite(s): Cell 600 or an alternative senior undergraduate, graduate, or professional
+school course in Cell Biology. Corequisite(s): Interested students must contact Dr. Burkhardt in
+advance with chosen topic and mentor in the Fall semester. Students interested in the spring semester
+must contact Dr. Tong in advance with chosen topic and mentor.
+This tutorial course is designed to provide students with an in-depth knowledge of a specific topic in
+cell biology through directed readings with a faculty member. The tutorial can be used to enable
+students to become more deeply acquainted with the literature related to their thesis projects or to
+expand on another topic of interest.
+SM 700. Topics in Microbiology. (B) S. Cherry.Prerequisite(s): Permission from instructor required.
+Student must have taken Immunology and 2 MVP pathogen classes.
+This course is designed for second year students in the MVP program, and focuses on pathogen-host
+interactions. Students make a presentation designed for 30 minutes on a topic of their choice. The
+topic can be something that they are working on, or simply something that they are interested in. They
+are requested to provide sufficient background, discuss what is known and what is not known about
+the topic, and then frame two to three Specific Aims. The success of the course rests entirely upon the
+quality of the faculty and students involved. In past years, the class have been very interactive, with
+each of the 11 classes lasting about 1.5 hours. The discussions are deliberately wide-ranging, and
+review recent literature, techniques, and how to construct a grant. Generally, two faculty will be in
+attendance.
+704. Stress Responses and Metabolism in Cancer. (B) C. Simon, K. Wellen, Z. Arany.Prerequisite
+(s): Must have taken first year CAMB courses. Permission to enroll is required from course directors,
+preference is given to second year CAMB students in the Cancer Biology Program.
+The course will meet once weekly for student presentations and lectures. The goal of the course will
+be to give students a better understanding of the abrogation of normal cellular metabolism and stress
+signaling during cancer and how these interplay with each other to create/maintain a malignant state.
+Besides student presentations the course will include 4 lectures devoted to metabolomics
+methodologies.
+
+Page 13 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 701. Tumor Microenvironment. (A) E. Pure & C. Koumenis.Prerequisite(s): First year CAMB core
+courses must be completed. Course is for 2nd year graduate students and beyond. Corequisite(s): CB
+students get first priority followed by other CAMB students.
+Course Content: This 15-week course is designed for second year (and up) graduate students
+interested in learning about the tumor microenvironment. The course will cover the cross-talk between
+the main players (tumor cells, stroma, vasculature and immune cells) of the local tumor
+microenvironment field as well as the systemic response/impact of primary tumors, disseminated
+tumor cells and metastases, and emphasize the connections between the basic biology of the tumor
+microenvironment to potential therapeutic intervention. The goals of this course are to enrich scientific
+culture, train for clear and concise oral presentations, improve grant-writing skills, and develop critical
+thinking , professional composure and discussion skills.
+The course will be divided into 3 broad topic areas. At the beginning of each block, faculty members
+will present a 1 hour didactic lecture and overview of the topic followed by questions and discussions
+by students. Each week's session will be led by one or two students depending on the class size and
+inc lude a didactic primary research paper including specific technical background needed for the
+paper, presenting the data in the paper, leading discussion on the data and conclusions drawn from
+the paper. Required reading (including reviews and 1-2 primary papers) related to each week's class
+will be assigned for all participants in preparation for in class discussion focused on the contribution
+and impact of the presented paper to the field. Students will be guided in choosing the approproate
+depth of background and topic area and in giving formal presentations and constructive criticism of
+scientific data. Additionally each student will write a specific aim for a grant using data reviewed in one
+of his or her presentations as"preliminary data".
+Evaluation: Students will be evaluated on their participation in class (40%), their presentations
+(40%) and their written assignment (Grant Specific Aim) (20%). Students will be given feedback
+immediately after their presentations and at the end of the second block on their in-class participation.
+SM 702. (BMB 650) Current Biochemical Topics. (B) Black, B. & Shorter, J..Prerequisite(s): Course
+is limited to BGS graduate students and undergrads from the Vagelos Scholars Program.
+Participation in the "Dr. George W. Raiziss Biochemical Rounds", a weekly seminar program
+sponsored by the Department of Biochemistry and Biophysics. Program deals with a wide range of
+modern biochemical and biophysical topics presented by established investigators selected from our
+faculty, and by leading scientists from other institutions.
+703. (BE 640) The ECM, adhesion receptor signaling, and translational biomechanics. (J) R.
+Mauck, R. Wells..Prerequisite(s): BIOM 600.
+This course is geared towards first and second year graduate students in BGS/CAMB and SEAS/BE
+with an interest in the interface of extracellular matrix (ECM) cell biology and biomechanics. Students
+will learn about the ECM and adhesion receptors and their impact on the cytoskeleton and signaling,
+as well as fundamental concepts in biomechanics and engineered materials. We will discuss how
+these topics can inform the study of cell biology, physiology and disease. An additional objective of the
+course is to give students experience in leading critical discussions and writing manuscript reviews.
+Invited outside speakers will complement the strengths of the Penn faculty.
+
+Page 14 of 15
+
+CELL AND MOLECULAR BIOLOGY
+(MD) {CAMB}
+SM 705. Advanced Topics in Bacterial-Host Interactions. (B) Igor Brodsky and Sunny
+Shin.Prerequisite(s): Strong background in cell biology, immunology and/or bacteriology fulfilled by 1st
+year CAMB (previous BGS) courses. Course is limited to 2nd - 3rd year graduate students or
+advanced undergraduates with course directors permission.
+This course will delve into specific topics in general area of bacterial pathogenesis and bacteria-host
+interactions. We will be exploring key historical and current papers on topics related to bacterial
+invasion of and replication within host cells, bacterial interference with host cell signaling pathways,
+bacterial interactions with host mucosal tissues, and the role of bacterial colonization in shaping and
+instructing host immune responses. Each week, a student will lead the class in the discussion of
+published papers on a specific topic. The format of each class will be a 10-15 minute introduction of
+the key background and underlying questions to be presented by the student, followed by an in-depth
+anaylsis by all members of the class of one to two articles. Students will be graded based on their
+introductory presentation and active participation in the paper discussions.
+SM 752. (GCB 752) Genomics. (B) S. Diskin.Prerequisite(s): GCB 531/534 Intro to Genomics or
+equivalent, or permission from instructor.
+Recent advances in molecular biology, computer science, and engineering have opened up new
+possibilities for studying the biology of organisms. Biologists now have access to the complete
+genomic sequence and set of cellular instructions encoded in the DNA of specific organisms, including
+homo sapiens, dozens of bacterial species, the yeast Saccharomyces cerevisiae, the nematode C.
+elegans, and the fruit fly Drosophila melanogaster.
+The goals of the course include the following: 1) introduce the basic principles involved in
+sequencing genomes, 2) familiarize the students with new instrumentation, informative tools, and
+laboratory automation technologies related to genomics; 3) teach the students how to access the
+information and biological materials that are being developed in genomics, and 4) examine how these
+new tools and resources are being applied to basic and translational research. This will be
+accomplished through in depth discussion of classic and recent papers.
+995. Dissertation.
+
+Page 15 of 15
+
+

@@ -1,0 +1,32 @@
+LOGIC, INFORMATION AND COMPUTATION
+(AS) {LGIC}
+L/R 010. (PHIL005) Ideas in Logic and Computation. (B) Weinstein. This is a Formal
+Reasoning course.
+This course provides an introduction to some of the fundamental ideas of logic and computation.
+Topics will include truth functional logic, quantificational logic, and logical decision problems.
+210. (MATH340) Applied Mathematics of Information and Computation I. (A) Scedrov,
+Towsner.Prerequisite(s): MATH 114 or MATH 115 or permission of the instructor.
+The first semester of a two-semester course designed to intoduce students to a range of
+mathematical subjects useful in the analysis of information and computation. This course will
+treat topics chosen from set theory, combinatorics, graph theory, and number theory.
+220. (MATH341) Applied Mathematics of Information and Computation II. (M) Scedrov,
+Towsner.Prerequisite(s): LGIC 210 or permission of the instructor.
+The second semester of a two-semester course devoted to mathematical subjects useful in the
+analysis of information and computation. Topics will be drawn from automata theory, formal
+languages, computability and complexity, and information theory.
+310. (MATH570, PHIL410, PHIL412) Logic I. (C) Scedrov, Towsner, Weinstein.Prerequisite(s):
+Math 371 or Math 503.
+Propositional logic: semantics, formal deductions, resolution method. First order logic: validity,
+models, formal deductions; Godel's completeness theorem, Lowenheim-Skolem theorem: cutelimination, Herbrand's theorem, resolution method. Computability: finite automata, Turing
+machines, Godel's incompleteness theorems. Algorithmically unsolvable problems in
+mathematics.
+SM 320. (MATH571, PHIL412) Logic II. (C) Scedrov, Towsner, Weinstein.Prerequisite(s): LGIC
+310 or permission of the instructor.
+The second semester of a two-semester course on the fundamental results and techniques of
+mathematical logic. Topics will be drawn from model theory, proof theory, recursion theory, and
+set theory. Connections between logic and algebra, analysis, combinatorics, computer science,
+and the foundations of mathematics will be emphasized.
+
+Page 1 of 1
+
+

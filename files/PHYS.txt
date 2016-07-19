@@ -1,0 +1,408 @@
+PHYSICS
+(AS) {PHYS}
+008. Physics for Architects I. (I) Physical World Sector. All classes.Prerequisite(s): Entrance credit in
+algebra and trigonometry. Credit is awarded for only one of the following courses: PHYS 008, PHYS
+101, PHYS 150, or PHYS 170. Students with AP or Transfer Credit for PHYS 091 or 093 who
+complete PHYS008 will thereby surrender the AP or Transfer Credit.
+An introduction to the classical laws of mechanics, including static equilibrium, elasticity, and
+oscillations, with emphasis on topics most relevant to students in architecture. Credit is awarded for
+only one of the following courses: PHYS 008, PHYS 101, PHYS 150, or PHYS 170. Students with AP
+or Transfer Credit for PHYS 091 or 093 who complete PHYS008 will thereby surrender the AP or
+Transfer Credit.
+009. Physics for Architects II. (J) Physical World Sector. All classes. Credit is awarded for only one
+of the following courses: PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with AP or
+Transfer Credit for PHYS 092 or 094 who complete PHYS008 will thereby surrender the AP or Transfer
+Credit.
+A continuation of PHYS 008 introducing waves, sound, light, fluids, heat, electricity, magnetism, and
+circuits, with emphasis on topics most relevant to students in architecture. Credit is awarded for only
+one of the following courses: PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with AP or
+Transfer Credit for PHYS 092 or 094 who complete PHYS008 will thereby surrender the AP or Transfer
+Credit.
+016. Energy, Oil, and Global Warming. (C) Natural Science & Mathematics Sector. Class of 2010
+and beyond.Prerequisite(s): Algebra and Trigonometry. May be counted as Science Studies for
+students in Class of 2009 and prior. Target audience: Non-science majors (although science/
+engineering students are welcome).
+The developed world's dependence on fossil fuels for energy production has extremely undesirable
+economic, environmental, and political consequences, and is likely to be mankind's greatest challenge
+in the 21st century. We describe the physical principles of energy, its production and consumption, and
+environmental consequences, including the greenhouse effect. We will examine a number of
+alternative modes of energy generation - fossil fuels, biomass, wind, solar, hydro, and nuclear - and
+study the physical and technological aspects of each, and their societal, environmental and economic
+impacts over the construction and operational lifetimes. No previous study of physics is assumed.
+050. Physics Laboratory I. (C) Prerequisite(s): AP score of 5 on the Physics B or Physics C Mechanics exam, or transfer credit for PHYS 91 or PHYS 93. Only for students with above
+prerequisites. Course carries .5 course unit and student receives grade. Permit required. Only for
+students with above prerequisites.
+Experiments in classical mechanics.
+051. Physics Laboratory II. (C) Prerequisite(s): AP score of 5 on the Physics B or Physics C Electricity and Magnetism exam, or transfer credit for PHYS 92 or PHYS 94. PHYS 050. Only for
+students with above prerequisites. Course carries .5 course unit and student receives grade. Permit
+required. Only for students with above prerequisites.
+Experiments in electromagnetism and optics.
+
+Page 1 of 10
+
+PHYSICS
+(AS) {PHYS}
+101. General Physics: Mechanics, Heat and Sound. (S) Physical World Sector. All
+classes.Prerequisite(s): Entrance credit in algebra and trigonometry, and a background in calculus.
+Corequisite(s): PHYS 101 LAB.Credit is awarded for only one of the following courses: PHYS 008,
+PHYS 101, PHYS 150, or PHYS 170. Students with AP or Transfer Credit for PHYS 91 or PHYS 93
+who complete PHYS 101 will thereby surrender the AP or Transfer Credit.
+An introduction to the classical laws of motion requiring a background in calculus. Suggested for
+students in a pre-health program. Credit is awarded for only one of the following courses: PHYS 008,
+PHYS 101, PHYS 150, or PHYS 170. Students with AP or Transfer Credit for PHYS 91 or PHYS 93
+who complete PHYS 101 will thereby surrender the AP or Transfer Credit.
+102. General Physics: Electromagnetism, Optics, and Modern Physics. (S) Physical World Sector.
+All classes.Prerequisite(s): PHYS 101. Corequisite(s): PHYS 102 LAB.Credit is awarded for only one
+of the following courses: PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with AP or
+Transfer Credit for PHYS 92 or PHYS 94 who complete PHYS 102 will thereby surrender the AP or
+Transfer Credit.
+A continuation of PHYS 101 emphasizing an introduction to classical electricity and magnetism,
+relativity theory, optics, and the quantum theory of matter, requiring a background in calculus.
+Suggested for students in a pre-health program. Credit is awarded for only one of the following
+courses: PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with AP or Transfer Credit for
+PHYS 92 or PHYS 94 who complete PHYS 102 will thereby surrender the AP or Transfer Credit.
+137. Community Physics Initiative. (A)
+This is an Academically Based Community Service Course (ABCS). It will be aligned to the
+Philadelphia School District curriculum in introductory physics at University City High School (UCHS).
+The UCHS curriculum roughly parallels the contents of first semester introductory physics (noncalculus) at Penn.
+140. Principles of Physics I (without laboratory). (C) Corequisite(s): MATH 104.For Engineering
+students whose course of study does not require a physics laboratory course. Those who are enrolled
+in a dual degree program with the College must register for the lab-based version of this course,
+PHYS 150.
+Classical laws of motions; interactions between particles; conservation laws and symmetry principles;
+particle and rigid body motion; gravitation, harmonic motion. Engineering students only.
+141. Principles of Physics II (without laboratory). (S) Prerequisite(s): PHYS 140. Corequisite(s):
+MATH 114.For Engineering students whose course of study does not require a physics laboratory
+course. Those who are enrolled in a dual degree program with the College must register for the labbased version of this course, PHYS 151.
+Electric and magnetic fields; Coulomb's, Ampere's, and Faraday's laws; Maxwell's equations;
+emission, propagation, and absorption of electromagnetic radiation; interference, reflection, refraction,
+scattering, and diffraction phenomena. Engineering students only.
+
+Page 2 of 10
+
+PHYSICS
+(AS) {PHYS}
+150. Principles of Physics I: Mechanics and Wave Motion. (C) Physical World Sector. All classes.
+Corequisite(s): MATH 104, PHYS 150 LAB.Credit is awarded for only one of the following courses:
+PHYS 008, PHYS 101, PHYS 150, or PHYS 170. Students with AP or Transfer Credit for PHYS 91 or
+PHYS 93 who complete PHYS 150 will thereby surrender the AP or Transfer Credit.
+This calculus-based course is recommended for science majors and engineering students. Classical
+laws of motion; interactions between particles; conservation laws and symmetry principles; particle
+and rigid body motion; gravitation, harmonic motion. Credit is awarded for only one of the following
+courses: PHYS 008, PHYS 101, PHYS 150, or PHYS 170. Students with AP or Transfer Credit for
+PHYS 91 or PHYS 93 who complete PHYS 150 will thereby surrender the AP or Transfer Credit.
+151. Principles of Physics II: Electromagnetism and Radiation. (S) Physical World Sector. All
+classes.Prerequisite(s): PHYS 150 or PHYS 170. Corequisite(s): MATH 114, PHYS 151 LAB.Credit is
+awarded for only one of the following courses. PHYS 009, PHYS 102, PHYS 151, or PHYS 171.
+Students with AP or Transfer Credit for PHYS 92 or PHYS 94 who complete PHYS 151 will thereby
+surrender the AP or Transfer Credit.
+The topics of this calculus-based course are electric and magnetic fields; Coulomb's, Ampere's, and
+Faraday's laws; Maxwell's equations; emission, propagation, and absorption of electromagnetic
+radiation; interference, reflection, refraction, scattering, and diffraction phenomena. Credit is awarded
+for only one of the following courses. PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with
+AP or Transfer Credit for PHYS 92 or PHYS 94 who complete PHYS 151 will thereby surrender the AP
+or Transfer Credit.
+240. Principles of Physics IV: Modern Physics (without laboratory). (B) Prerequisite(s): PHYS 151
+or 171. Corequisite(s): MATH 240.
+Special relativity, an introduction to the principles of quantum mechanics, properties of electrons,
+protons, neutrons, and the elements of atomic structure and nuclear structure. Electromagnetic
+radiation and photons; interaction of photons with electrons, atoms, and nuclei.
+SM 170. Honors Physics I: Mechanics and Wave Motion. (A) Physical World Sector. All
+classes.Prerequisite(s): MATH 104 or permission of the instructor. Corequisite(s): MATH 114 or
+permission of instructor.Benjamin Franklin Seminar. Credit is awarded for only one of the following
+courses: PHYS 008 PHYS 101, 150, or PHYS 170. Students with AP or Transfer Credit for PHYS 91
+or PHYS 93 who complete PHYS 170 will thereby surrender the AP or Transfer Credit.
+This course parallels and extends the content of PHYS 150, at a significantly higher mathematical
+level. Recommended for well-prepared students in engineering and the physical sciences, and
+particularly for those planning to major in physics. Classical laws of motion: interaction between
+particles; conservation laws and symmetry principles; rigid body motion; noninertial reference frames;
+oscillations. Credit is awarded for only one of the following courses: PHYS 008 PHYS 101, 150, or
+PHYS 170. Students with AP or Transfer Credit for PHYS 91 or PHYS 93 who complete PHYS 170 will
+thereby surrender the AP or Transfer Credit.
+
+Page 3 of 10
+
+PHYSICS
+(AS) {PHYS}
+SM 171. Honors Physics II: Electromagnetism and Radiation. (B) Physical World Sector. All
+classes.Prerequisite(s): MATH 114 and PHYS 150 or PHYS 170, or permission of instructor.
+Corequisite(s): MATH 240 or permission of instructor.Benjamin Franklin Seminar. Credit is awarded for
+only one of the following courses: PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with AP
+or Transfer Credit for PHYS 92 or PHYS 94 who complete PHYS 171 will thereby surrender the AP or
+Transfer Credit.
+This course parallels and extends the content of PHYS 151, at a somewhat higher mathematical level.
+Recommended for well-prepared students in engineering and the physical sciences, and particularly
+for those planning to major in physics. Electric and magnetic fields; Coulomb's, Ampere's, and
+Faraday's laws; special relativity; Maxwell's equations, electromagnetic radiation. Credit is awarded for
+only one of the following courses: PHYS 009, PHYS 102, PHYS 151, or PHYS 171. Students with AP
+or Transfer Credit for PHYS 92 or PHYS 94 who complete PHYS 171 will thereby surrender the AP or
+Transfer Credit.
+230. Principles of Physics III: Thermal Physics and Waves. (A) Prerequisite(s): PHYS 150/151 or
+PHYS 170/171 and MATH 104, MATH 114 or 116. Corequisite(s): MATH 240.
+Elementary thermodynamics and statistical physics including heat engines and the MaxwellBoltzmann distribution, independent and forced harmonic motion, coupled oscillators, normal modes,
+longitudinal and transverse sound and light waves, interference and diffraction, and elementary
+Fourier analysis and the uncertainty principle.
+250. Principles of Physics IV: Modern Physics. (B) Prerequisite(s): PHYS 150/151 or PHYS
+170/171. Corequisite(s): MATH 240.PHYS 250 students take a two-hour lab
+Special relativity, an introduction to the principle of quantum mechanics, properties of electrons,
+protons, neutrons, and the elements of atomic structure and nuclear structure. Electromagnetic
+radiation and photons; interaction of photons with electrons, atoms, and nuclei.
+280. (BCHE280) Physical Models of Biological Systems. (A) Prerequisite(s): PHYS 101 (or higher),
+MATH 104-MATH 114 or MATH 104-MATH 115 or MATH 116. Recommended: previous or concurrent
+PHYS 102; basic background in chemistry and biology.
+Classic case studies of successful reductionistic models of complex phenomena, emphasizing the key
+steps of making estimates, using them to figure out which physical variables and phenomena will be
+most relevant to a given system, finding analogies to purely physical systems whose behavior is
+already known, and embodying those in a mathematical model, which is often implemented in
+computer code. Topics may include bacterial genetics, genetic switches and oscillators; systems that
+sense or utilize light; superresolution and other newmicroscopy methods; and vision and other modes
+of sensory transduction.
+299. Independent Study. (C) Repetitive credit
+Special projects and independent study under the direction of faculty member.
+
+Page 4 of 10
+
+PHYSICS
+(AS) {PHYS}
+L/R 314. (ENVS312, ENVS640) Ocean-Atmosphere Dynamics and Implications for Future
+Climate Change. Marinov.Prerequisite(s): MATH 114 or permission of the instuctor.
+This course covers the fundamentals of atmosphere and ocean dynamics, and aims to put these in
+the context of climate change in the 21st century. Large-scale atmospheric and oceanic circulation,
+the global energy balance, and the global energy balance, and the global hydrological cycle. We will
+introduce concepts of fluid dynamics and we will apply these to the vertical and horizontal motions in
+the atmosphere and ocean. Concepts covered include: hydrostatic law, buoyancy and convection,
+basic equations of fluid motions, Hadley and Ferrel cells in the atmosphere, thermohaline circulation,
+Sverdrup ocean flow, modes of climate variability (El-Nino, North Atlantic Oscillation, Southern
+Annular Mode). The course will incorporate student led discussions based on readings of the 2007
+Intergovernmental Panel on Climate Change (IPCC) report and recent literature on climate change.
+Aimed at undergraduate or graduate students who have no prior knowledge of meteorology or
+oceanography or training in fluid mechanics. Previous background in calculus and/or introductory
+physics is helpful. This is a general course which spans many subdisciplines (fluid mechanics,
+atmospheric science, oceanography, hydrology).
+351. Analytical Mechanics. (B) Prerequisite(s): PHYS 150/151 or PHYS 170/171, MATH 104/114,
+and MATH 240, or permission of instructor.
+An intermediate course in the statics and dynamics of particles and rigid bodies. Langrangian
+dynamics, central forces, non-inertial reference frames, and rigid bodies.
+361. (PHYS561) Electromagnetism I: Electricity and Potential Theory. (A) Prerequisite(s): PHYS
+151 or 171, and MATH 241.
+An intermediate course. Electrostatic fields and potentials, dielectrics, and direct currents.
+411. (PHYS511) Introduction to Quantum Mechanics I. (A) Prerequisite(s): PHYS 150 or 170, 240
+or 250, and MATH 241.
+An introduction to the principles of quantum mechanics designed for physics majors and graduate
+students in physics-related disciplines. The Schrodinger equation operator formalism, central field
+problem, angular momentum, and spin Application to one-dimensional and central field problems.
+362. (PHYS562) Electromagnetism II: Magnetism, Maxwell's Equations, and Electromagnetic
+Waves. (B) Prerequisite(s): PHYS 361.
+A continuation of PHYS 361. Magnetic fields and potentials, electromagnetic induction, Maxwell's
+equations, electromagnetic waves, and radiation.
+364. (PHYS564) Laboratory Electronics. (A) Prerequisite(s): Familiarity with electricity and
+magnetism at the level of PHYS 102, 141, 151 or 171.
+A laboratory-intensive survey of analog and digital electronics, intended to teach students of physics
+or related fields enough electronics to be comfortable learning additional topics on their own from a
+reference such as Horowitz and Hill. Specific topics will vary from year to year from the selection of
+topics listed below. Analog topics may include voltage dividers, impedance, filters, operational
+amplifier circuits, and transistor circuits. Digital topics may include logic gates, finite-state machines,
+programmable logic devices, digital-to-analog and analog-to-digital conversion, and microcomputer
+concepts. Recommended for students planning to do experimental work in physical science.
+
+Page 5 of 10
+
+PHYSICS
+(AS) {PHYS}
+401. (PHYS581) Thermodynamics and the Introduction to Statistical Mechanics and Kinetic
+Theory. (A) Prerequisite(s): PHYS 240 or 250.
+Temperature, entropy and generalized potentials, phase transitions, and introduction to ensemble
+theory and distribution functions.
+412. (PHYS512) Introduction to Quantum Mechanics II. (B) Prerequisite(s): PHYS 411.
+Perturbation theory, variational principle, application of the quantum theory to atomic, molecular, and
+nuclear systems, and their interaction with radiation.
+414. Laboratory in Modern Physics. (B) Prerequisite(s): PHYS 411.
+Supervised experiments in modern physics.
+421. (PHYS529) Modern Optics. (J) Prerequisite(s): PHYS 240 or 250 and 362, or permission of
+instructor.
+Interaction of light with matter. Interference and diffraction, absorption and dispersion, stimulated
+emission and coherence, spectroscopy, non-linear processes.
+433. Order of Magnitude Physics. (C) Prerequisite(s): Prerequisites: PHYS 411 or permission from
+instructor.
+This course focuses on the art of estimating physical quantities to within the nearest factor of ten.
+Problem solving techniques such as dimensional analysis and scaling relations will be covered and
+applied to a wide range of topics including fluid mechanics, waves and sound, atomic physics, material
+properties, astrophysics, everyday life, and more. The course is intended for advanced undergraduate
+students.
+499. Senior Honor Thesis. (C) Prerequisite(s): PHYS 412 and 414.
+Experimental and theoretical research projects in various areas of physics planned by student in
+consultation with a member of faculty. A written thesis and an oral presentation and defense are
+required.
+500. (MATH594) Mathematical Methods of Physics. (A)
+A discussion of those concepts and techniques of classical analysis employed in physical theories.
+Topics include complex analysis. Fourier series and transforms, ordinary and partial equations, Hilbert
+spaces, among others.
+501. Introduction to Research. (C) Taken by all first-year graduate students. This is a required
+seminar that does not carry credit or a grade.
+Introduction to research in particle, nuclear, condensed matter and astrophysics. Selected current
+topics from journals.
+503. General Relativity. (C)
+This is a graduate level, introductory course in general relativity. The basics of general relativity will be
+covered with a view to understanding the mathematical background, the construction of the theory,
+and applications to the solar system, black holes, gravitational waves and cosmology. The latter part of
+the course will cover some of the basic modern topics in modern cosmology, including the current
+cosmological model, the accelerating universe, and open questions driving current research.
+
+Page 6 of 10
+
+PHYSICS
+(AS) {PHYS}
+505. Introduction to Cosmology. (M) Prerequisite(s): Graduate standing in physics or permission of
+instructor.
+Introduction to physical cosmology emphasizing recent ideas on the very early evolution of the
+universe. The course will introduce standard big bang cosmology, new theories of the very early
+universe, and the key observations that have tested and will be testing these ideas. No prior
+knowledge of astrophysics, cosmology, general relativity, or particle physics will be assumed, although
+aspects of each will be introduced as part of the course. The course is intended for graduate students
+and advanced undergraduates.
+516. Electromagnetic Phenomena. (B)
+Survey of electrodynamics, focusing on applications to research done in the Department. Topics
+include mathematical structure and relativistic invariance properties of Maxwell equations, tensor
+methods, and the generation and scattering of radiation, in vacuum and in materials. Applications vary
+from year to year but include optical manipulation, astrophysical phenomena, and the generalizations
+from Maxwell's theory to those of other fundamental interactions (strong, electroweak, and
+gravitational forces).
+522. Introduction to Elementary Particle Physics. (M) Prerequisite(s): Permission of instructor
+required.
+An introduction to elementary particles (photons, leptons, hadrons, quarks), their interactions, and the
+unification of the fundamental forces.
+517. Particle Cosmology. (C)
+This introduction to cosmology will cover standard big bang cosmology, formation of large-scale
+structure, theories of the early universe and their observational predictions, and models of dark
+energy. It is intended for graduate students or advanced undergraduates. No prior knowledge of
+general relativity or field theory will be assumed, although aspects of each will be introduced as part
+of the course.
+518. Introduction to Condensed Matter Physics. (B) Prerequisite(s): Undergraduate training in
+quantum mechanics and statistical thermodynamics.
+An introduction to condensed matter physics designed primarily for advanced undergraduate and
+graduate students desiring a compact survey of the field. Band theory of solids, phonons, electrical
+magnetic and optical properties of matter, and superconductivity.
+521. Advanced Laboratory. (B)
+Directed experiments in classical and modern physics designed to acquaint the student with modern
+laboratory instrumentation and techniques.
+525. Special Projects. (C) Repetitive credit
+Special projects under the direction of a faculty member.
+
+Page 7 of 10
+
+PHYSICS
+(AS) {PHYS}
+526. Astrophysical Radiation. (H)
+This is a course on the theory of the interaction of light and matter designed primarily for graduate and
+advanced undergraduate students to build the basic tools required to do research in astrophysics.
+Topics to be discussed include structure of single- and multi-electron atoms, radiative and collisional
+processes, spectral line formation, opacity, radiation transfer, analytical and numerical methods, and a
+selection of applications in astrophysics based on student research interest.
+528. Introduction to Liquid Crystals. (C)
+Overview of liquid crystalline phases, their elasticity, topology, and dynamics.
+530. Modern Optical Physics and Spectroscopy. (K) Prerequisite(s): Working knowledge of
+electricity and magnetism and quantum mechanics. Graduate level course designed for beginning or
+intermediate graduate students in physics, but it is likely to be of use to a broader community including
+beginning graduate students whose research involves light scattering in electrical engineering,
+chemistry, and biophysics, and advanced undergraduates.
+Introduction to contemporary optics. Topics include propagation and guiding of light waves, interaction
+of electromagnetic radiation with matter, lasers, non-linear optics, coherent transcient phenomena,
+photon correlation spectroscopies and photon diffusion.
+531. Quantum Mechanics I. (A) Prerequisite(s): A minimum of one semester of quantum mechanics
+at the advanced undergraduate level.
+Wave mechanics, complementarity and correspondence principles, semi-classical (WKB)
+approximation, bound state techniques, periodic potentials, angular momentum, scattering theory,
+phase shift analysis, and resonance phenomena.
+532. Quantum Mechanics II. (B) Prerequisite(s): PHYS 531.
+Spin and other two dimensional systems, matrix mechanics, rotation group, symmetries, time
+independent and time dependent perturbation theory, and atomi and molecular systems.
+533. Topics in Cosmology. (M)
+This course aims to survey three or four topics of current research interest in cosmology, mostly at the
+level of review articles. The topics will be covered in greater depth and with more connections to
+ongoing research than the introductory cosmology course, ASTR 525. The course will be largely
+accesible to first and second year graduate students. Some exposure to cosmology and general
+relativity will be helpful but the first two weeks will attempt to bridge that gap. The topic selection will
+be done in part with input from the students. For the Fall 2009 semester, Dark Energy will be the first
+topic, Nonlinear Dynamics the likely second topic and Gravitational Lensing (focus on strong lensing)
+is a possible third topic. A few short problem sets and a presentation/write-up on a topic of interest,
+based on a review article or selected papers, will make up the course requirement.
+
+Page 8 of 10
+
+PHYSICS
+(AS) {PHYS}
+SM 535. (BIOL535) Topics in Theory of Living Systems. (M) Kim, Goulian, Akcay,
+Balasubramanian, Raj, Mossel.Prerequisite(s): Permission of instructor.
+The goal of this course is to discuss broad conceptual theories that address complex phenomena of
+living systems. Example questions include: what is the molecular architecture of information
+processing in cells and developing organisms? What is the functional architecture of cooperative
+organization from molecules in a cell to whole organism social interactions? How is complex multifactorial information represented in organisms? The course will meet once a week and students will
+research relevant papers, lead discussions, and generate synopsis of group discussions. At the end of
+the semester, faculty and students are expected to co-author a review report of the discussed topics.
+564. (PHYS364) Laboratory Electronics. (A)
+A laboratory-intensive survey of analog and digital electronics, intended to teach students of physics
+or related fields enough electronics to be comfortable learning additional topics on their own from a
+reference such as Horowitz and Hill. Specific topics will vary from year to year from the selection of
+topics listed below. Analog topics may include voltage dividers, impedance, filters, operational
+amplifier circuits, and transistor circuits. Digital topics may include logic gates, finite-state machines,
+programmable logic devices, digital-to-analog and analog-to-digital conversion, and microcomputer
+concepts. Recommended for students planning to do experimental work in physical science.
+580. (BCHE580) Biological Physics. (M) Prerequisite(s): MATH 240 and MATH 241 (or equivalent
+preparation), PHYS 401 or familiarity with statistical mechanics and thermodynamics. Recommended:
+Basic background in biology.
+The course will explore the basic physical principles behind the structure and function of life across
+many length and time scales (molecule, cell, organism, population). Emphasis will be given on
+overarching physical themes such as entropy and biological noise, and how they affect the
+organization of living matter and its emergent properties. Topics may include biopolymers and single
+molecule biophysics, molecular motors, gene and transcription networks, pattern formation in
+biological systems, phyllotaxis, neural computing and evolution.
+581. (PHYS401) Thermodynamics. (A)
+582. (BE 580) Medical Radiation Engineering. (A)
+This course in medical radiation physics investigates electromagnetic and particulate radiation and its
+interaction with matter. The theory of radiation transport and the basic concept of dosimetry will be
+presented. The principles of radiation detectors and radiation protection will be discussed.
+585. (BE 530, BIBB585, NGG 594, PSYC539) Theoretical and Computational Neuroscience. (B)
+This course will develop theoretical and computational approaches to structural and functional
+organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural
+coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks
+of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi)
+ideas that address why the brain is organized the way that it is. The course will be appropriate for
+advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus,
+linear algebra and differential equations is required (except by permission of the instructor). Prior
+exposure to neuroscience and/or Matlab programming will be helpful.
+601. Introduction to Field Theory. (A)
+Elementary relativistic quantum field theory of scalar, fermion, and Abelian gauge fields. Feynman
+Diagrams.
+
+Page 9 of 10
+
+PHYSICS
+(AS) {PHYS}
+611. Statistical Mechanics. (A) Prerequisite(s): PHYS 401, 531, or equivalent.
+Introduction to the canonical structure and formulation of modern statistical mechanics. The
+thermodynamic limit. Entropic and depletion forces. Gas and liquid theory. Phase transitions and
+critical phenomena. The virial expansion. Quantum statistics. Path integrals, the Fokker-Planck
+equation and stochastic processes.
+612. Advanced Statistical Mechanics. (M) Prerequisite(s): PHYS 611 or equivalent.
+In depth study of classical and quantum lattice spin models, perturbation techniques, and the
+renormalization group.
+622. Introduction to Elementary Particle Physics. (M) Prerequisite(s): PHYS 601.
+Introduction to the phenomenology of elementary particles, strong and weak interactions, symmetries.
+632. Relativistic Quantum Field Theory. (M) Prerequisite(s): PHYS 601.
+Advanced topics in field theory, including renormalization theory.
+633. Relativistic Quantum Field Theory. (M) Prerequisite(s): PHYS 632.
+A continuation of PHYS 632, dealing with non-Abelian gauge theories.
+661. Solid State Theory I. (M)
+This course is intended to be an introductory graduate course on the physics of solids, crystals and
+liquid crystals. There will be a strong emphasis on the use and application of broken and unbroken
+symmetries in condensed matter physics. Topics covered include superconductivity and superfluidity.
+662. Solid State Theory II. (M)
+A continuation of PHYS 661.
+696. Advanced Topics in Theoretical Physics. (M)
+990. Masters Thesis. (C)
+995. Dissertation. (C)
+999. Independent Study. (C)
+
+Page 10 of 10
+
+

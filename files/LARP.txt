@@ -1,0 +1,538 @@
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+
+Core Courses
+501. Studio I. (A) Faculty.
+The focus of this foundation studio is to explore ways of recording and representing landscape - with
+an emphasis on material, space, rhythm and measure - through a range of drawings and
+constructions. The studio attempts to create a sensibility toward landscape where the act of surveying
+a site is as much an imaginative endeavor as is the crafting of an artifact or the construction of a path
+in a landscape. Emphasis is placed on visual and manual skills in two-dimensional and threedimensional constructions (drawing, fabrications, model-making, etc.), while developing ways to "see"
+landscape. The studio is structured around the themes of wetness/dryness and enclosure/disclosure,
+and works with one or more sites in the Philadelphia region. Recent sites have included Bartram's
+Gardens and East Fairmount Park in Philadelphia. In the past, the studio has focused on a territory
+around Martha's Furnace in the Pine Barrens, NJ; a part of the Meadowlands in northern NJ; an
+anthracite strip-mine in part of Pennsylvania's Appalachian Mountains; the Wissahickon Creek and,
+the Schuylkill River Trail in Philadelphia; and Great Falls in Paterson, NJ. Projects involve the making
+of pathways in these otherwise undesigned environments.
+502. Studio II. (B) M'Closkey/Faculty.Prerequisite(s): LARP 501: Studio I.
+This foundation design studio explores the relationship among sites, drawings, models and the making
+of landscape architectural projects. The studio site is typically located on vacant or abandoned land in
+North Philadelphia along the Delaware River. Such sites are fairly large in size and present a complex
+set of issues, including fragmentation, lack of access, and contamination. Through the design of a
+park, students test and refine the relationship among project concept, modes of visualization, and
+project formation (organizational and material).
+As a precursor to site work, students experiment with methods and materials for making
+organization and form in two and three dimensions. In the early part of the semester, we explore
+techniques of imaging that generate multiples (scenarios), serial progressions (transformations of a
+sort), and iterations (transformations of another). Through various grafting techniques, we use the
+resultant drawings and models as analogous structures in order to imagine possible future
+organizations and uses for the site. These studies occur in conjunction with site interpretations ranging
+from photographs and sketches, to measured drawings and diagrams. The objective for the studio is to
+develop an informed and imaginative response to the site in order to create new relationships among
+the site, its immediate edges and the larger neighborhood or region.
+511. Workshop I: Ecology and Built Landscapes. (A) Willig and Popowsky.
+This workshop explores a sequence of sites extending from the Atlantic Ocean to the Appalachian
+Mountains that illustrates the changing geology and topography of the regional physiographic
+provinces including the Atlantic Coastal Plain, Piedmont, and Valley and Ridge. In moving westward
+along the transect, field trips to natural areas and constructed sites will highlight the diversity of
+regional plant communities ranging from primary dune to salt marsh, serpentine Virginia pine-oak
+forest to seepage wetland, and more. Analysis of the inter-connections between the underlying
+geology, topography, hydrology, soils, vegetation, wildlife, and human interventions will reveal patterns
+reflecting process and demonstrate key ecological and cultural systems and processes through the
+production of field notebooks as well as large-scale measured drawings. Ultimately students will
+develop a vocabulary (recognition, identification and nomenclature) of the materials of landscape, its
+substance, its ecology, and its changing nature owing to place and time.
+NOTE: COURSE MEETS IN ASSIGNED CLASSROOM FROM 9-1PM. CLASS MEETING FROM
+2-5PM IS DEDICATED TO FIELD WORK.
+
+Page 1 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+512. Workshop II: Landform and Planting Design. (B) Olgyay.Prerequisite(s): LARP 511: Workshop
+I. Corequisite(s): Summer Field Ecology Laboratory/Willig.
+Workshop II combines two of the most elemental tools in the practice of landscape architecture:
+landform and planting design. Grading - the shaping and sculpting of the landform - is both art and
+science, and thus Workshop II aims to provide an appreciation of landform as an evocative component
+in the design vocabulary as well as a critical tool in solving difficult design problems. The basic
+techniques and strategies of grading design (slopes, terraces, water management, grade change
+devices) will be introduced, practiced and reinforced, so that grading design becomes an integral part
+of the students' design approach. Lecture, field trips, modeling, in-class exercises, and group projects
+will be used.
+The Planting component provides students with a working overview of the principles and processes
+of planting design. Plants will be considered both as individual elements and as part of larger dynamic
+systems. The natural distribution of plants, concepts of plant community and successional patterns,
+and the relationship of planting an topography will be used as the initial framework for planting design.
+Planting design typologies will be examined as an outgrowth of these "natural" patterns. The role of
+plants as a key element in the structural design of the landscape will be explored through a
+combination of modeling, plan and section drawing, temporal studies, writing, field trips and case
+studies. Emphasis will be placed on process and evolution: the temporality of planting (daily, seasonal
+and annual changes), establishment and maintenance of plantings, and the process of planting
+design. During the first week of May, a five-day field ecology course focuses on techniques of urban
+revitalization, sustainable land use, reclamation, and restoration. The field trips offer insight into the
+diversity of approaches to using plants to promote positive environmental change.
+542. Media II: Digital Visualization. (B) VanDerSys.Prerequisite(s): LARP 533: Media I.
+Continuing the sequence of the Landscape Architecture media classes, this course will provide
+students with the techniques to explore and examine precision surface profiles and land forming
+strategies, in both physical and digital models. These models provide a basis to speculate on what
+processes and programs might be engendered or instigated.
+Rhino will be the primary modeling platform. Associated plug-ins of Grasshopper, Rhino Terrain,
+Sonic, and Bongo will help extend the toolset. GIS will facilitate the collection and analysis of extent
+data. The Adobe Creative Cloud will also be used for documenting and expressing modeling
+processes through static and time-based visualizations.
+533. Media I: Drawing and Visualization. (A) Faculty.
+Drawing is the ability to experience deeply things we see and envision. It allows us, not only to
+represent things or images seen, but, to discover and construct space and depth on the two
+dimensions of drawing surface. Expanding the tools of drawing, this course presents inquiries into
+applied media providing a basis for envisioning the speculative and developing an economy of
+expression. Work will be closely related to work in Studio I. Students will be introduced to the formal
+syntax of drawing (line, contour, structure, texture, chiaroscuro), graphic grammar (orthographic,
+oblique, perspective projection drawings and free-hand sketching) alongside exercises in material
+expression (collage, assemblage).
+
+Page 2 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+535. (LARP780) Theory I: The Culture of Nature. (A) Weller.
+Landscape architecture, architecture and visual art are all mediations between nature and culture.
+This course is designed to help students form their own view regarding our relationship with the
+"natural" world around us in an age of ecological crisis. To achieve this, the course provides a
+stimulating historical and contemporary survey of ideas of nature. We explore ways "nature" has been
+understood mythically, theologically, ideologically, philosophically, scientifically, and artistically through
+the ages, with an emphasis on contemporary culture. We survey the way in which the polarity of
+culture and nature has been historically constructed and more recently, deconstructed. The
+pedagogical philosophy of this course is that an appreciation of the broad pattern of history and the
+ideas that have shaped it are foundational to living a critical and ethical life and central to the process
+of making contemporary art, architecture, and landscape architecture.
+540. Theory II: History of Ideas and Forms in Landscape Architecture. (B) Fabiani Giannetto.
+This course unfolds several contemporary issues that shape the profession, such as giving form to
+environmental values, balancing science and art, ecology and design, reconsidering the need for the
+beautiful vis-a-vis the many sites challenged by pollution and abuse. Among the topics of discussion,
+this course will also take into account how recent phenomena such as the late twentieth-century
+increase in world population, sprawl, and environmental pollution, and how these have changed the
+reality described by the very word "nature" and have contributed to expand the domain of landscape
+architecture. The discussion of topics will integrate contemporary ideas and their roots in earlier
+theoretical formulation. The past will be presented as a way to illuminate, receive, and critique the
+present. Course objectives are to become familiar with the social and cultural processes that inform
+the landscape architectural discourse and to be able to discuss in an informed manner the impact of
+the latter upon design trends; to be able to trace the roots of contemporary ideas in earlier theoretical
+formulations; and to be able to think critically and to enhance synthesis and augmentation skills.
+543. Media III: Flows: Linear / Non-Linear. (A) VanDerSys/Faculty.Prerequisite(s): Students in the 3yr MLA program must complete LARP 533: Media I and LARP 542 Media II prior to beginning LARP
+543: Media III.
+This course is the third in the media sequence and is required of all MLA students at the 600 level.
+This course engages the generative potential of the dynamic and temporal attributes of the landscape
+medium. Time-based visualizations are used to investigate landscape organizations shaped through
+the dynamic interplay of varying processes and their spatial consequences. Emphasis will parallel the
+LARP 601 on urban ecology and landscape systems.
+544. Media IV: Futures: Trends and Trajectories. (B) Freese.Prerequisite(s): Students in the 3-yr
+MLA program must complete LARP 533: Media I, LARP 542 Media II and LARP 543: Media III prior to
+beginning LARP 544: Media IV.
+This course is the fourth in the media sequence and is required of all MLA students at the 600 level.
+This course exposes students to parametric tools as mechanisms for analyzing and generating both
+predictable and emergent terrain dependent urban morphologies. Rather than inert lines of shapes,
+space infrastructure are visualized as products of force and flow. Emphasis will parallel the LARP 602
+studio on forms of urbanization. This course is open to Landscape Architecture students only. Students
+outside of Landscape Architecture will need instructor permission to enroll in this course.
+
+Page 3 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+612. Workshop IV: Advanced Landscape Construction. (A) Burrell.Prerequisite(s): LARP 611:
+Workshop III.
+Advanced Landscape Construction: The Art and Craft of Design Documentation and Detailing
+introduces students to the process of landscape documentation as means of strengthening design
+intent through careful material selection and articulation of form. The course builds upon Workshop III
+by expanding the concept of site systems to the full range of drawings, details, specifications, and
+contracts used by landscape designers in the creation of the man-made environment. The course
+features lectures, case studies and field walks, exploring documentation from initial concept through
+construction administration. Topics will include materials and their use in exterior environments,
+documentation phases and their role in a projects evolution and the art of detailing to ensure beautiful,
+durable landscapes that define cohesive design.
+601. Studio III. (A) Faculty.Prerequisite(s): Students in the 3-yr MLA program must complete LARP
+501: Studio I and LARP 502: Studio II prior to beginning LARP 601: Studio III.
+This studio brings together both two-year and three-year MLA students for a landscape studio problem
+that works at a regional scale, as well as multiple design scales. LARP 601 - the Green Stimuli studio emphasizes rigorous site analysis, the strategic organization of living material, and the potential of
+design to produce a wide range of effects. Studio problems are "live" - local leaders and experts are
+actively trying to solve them, there is an audience for student work outside the University, and projects
+have the potential to stimulate debate and new directions.
+The Green Stimuli studio takes on design problems where soil, terrain, geology, mineral resources,
+climate, water, plants, wildlife, and living systems interactions are major drivers. Studio projects
+explore one or more of these dimensions in depth to reach high levels of design exploration, strategic
+thinking, technical resolution and physical expression. The studio's topics intersect with a broader
+universe of practical concerns, including land use, local and regional economies, real estate
+development and public policy, as well as philosophical and artistic questions about nature and
+ecology. The intent is that designed Green Stimuli make new connections between the material of
+landscape and the economic, infrastructural, scientific, social, cultural and creative attributes of a
+region.
+602. Studio IV. (B) Marcinkoski/Faculty.Prerequisite(s): Students in the 3-yr MLA program must
+complete LARP 501: Studio I, LARP 502: Studio II and LARP 601: Studio III prior to beginning LARP
+602: Studio IV.
+This studio is the fourth and final studio in the core sequence and is designed to introduce students to
+essential competencies related to contemporary problems in urban design. The studio operates in
+what have been referred to as "global cities" - contexts in which there are significant pressures on the
+physical form of a metropolis from substantial population and economic growth (both ongoing and
+projected). These pressures induce considerable demands for the development of new contexts. The
+studio is focused on managing and megotiating these pressures through landscape-driven strategies
+capable of guiding and organizing this urbanization. Students develop individual design strategies
+through a process of mapping, modeling, scenario building and fieldwork that lead to both conceptual
+and physical proposals for the development of new urban districts and metropolitan agendas.
+
+Page 4 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+611. Workshop III: Site Engineering and Water Management. (A) Faculty.Prerequisite(s): Students
+in the 3-yr MLA program must complete LARP 511: Workshop I and LARP 512: Workshop II prior to
+beginning LARP 611: Workshop III.
+Building upon the skills and concepts developed in Workshops I and II, this intermediate workshop
+focuses on technical aspects of site design, with an emphasis on landscape performance. Functional
+considerations related to landscapes and their associated systems - including circulation, drainage
+and stormwater management, site stabilization and remediation - will be explored as vital and integral
+components of landscape design, from concept to execution. Lectures, case studies, field trips, and
+focused design exercises will enable students to develop facility in the tools, processes and metrics by
+which landscape systems are designed, evaluated, built and maintained. In concert with the
+concurrent design studio, students will consider the means by which functional parameters can give
+rise to the conceptual, formal, and material characteristics of designed landscapes.
+701. Studio V. (A) Faculty.
+These advanced elective studios provide opportunities for focused exploration of particular themes in
+contemporary landscape architecture. Important emerging and accomplished designers, often from
+divergent points-of-view, interests and backgrounds, are invited to run these studios. Collaborative
+options (between Landscape and the Departments of Architecture or City Planning) are sometimes
+offered across the School. In addition to our own faculty who offer some of these studios (Fabiani
+Giannetto, Gouverneur, Marcinkoski, Mathur, M'Closkey, Neises, Olin, Pevzner, Sanders, Tomlin),
+visitors have included Paolo Burgi (Switzerland), Peter Latz (Munich), Bernard Lassus (Paris), Margie
+Ruddick (Philadelphia), Chris Reed (Boston), Peter Beard (London), Nicholas Quennell (New York),
+Ken Smith (New York), Raymond Gastil (New York), Alessandro Tagliolini (Italy), Ignacio Bunster
+(Philadelphia), Perry Kulper (Los Angeles),James Wines (New York), Lee Weintraub (New York),
+Charles Waldheim (Chicago), Stanislaus Fung (Australia), Dennis Wedlick (New York), Sandro
+Marpillero (New York), Peter Connolly (Australia), and former associate professor Anita Berrizbeitia.
+More recent visitors have been Claire Fellman (New York), Catherine Mosbach (Paris), Nanako
+Umemoto/Neil Cook (New York), Valerio Morabito (Italy), Carol and Colin Franklin (Philadelphia), Keith
+Kaseman (Philadelphia), Silvia Benedito (New York), Claudia Taborda (Lisbon), Mark Thomann (New
+York), Jerry Van Eyck (New York), and Martin Rein-Cano (Berlin).
+660. (CPLN660) Fundamentals of Urban Design. (A) Al.
+This course is a requirement for students enrolled in Certificate in Urban Design and for Master of City
+Planning students enrolled in the Urban Design concentration. How should urban designers give
+shape to the city? What urban design methods could they apply? This course helps students acquire
+the principles that can inform urban design practice. It has three major pedagogical objectives. First, it
+helps students understand the contemporary city through a series urban design tools. Second, it
+covers both historical and modern urban design principles. Finally, it includes all the scales in which
+urban designers operate, ranging from the fundamentals of social interaction in public space, to the
+sustainability of the region." This course is open to other interested PennDesign students if there is
+space and with permission of the instructor.
+
+Page 5 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+702. Studio VI. (B) Faculty.
+These advanced elective studios provide opportunities for focused exploration of particular themes in
+contemporary landscape architecture. Important emerging and accomplished designers, often from
+divergent points-of-view, interests and backgrounds, are invited to run these studios. Collaborative
+options (between Landscape and the Departments of Architecture or City Planning) are sometimes
+offered across the School. In addition to our own faculty who offer some of these studios (Fabiani
+Giannetto, Gouverneur, Marcinkoski, Mathur, M'Closkey, Neises, Olin, Pevzner, Sanders, Tomlin),
+visitors have included Paolo Burgi (Switzerland), Peter Latz (Munich), Bernard Lassus (Paris), Margie
+Ruddick (Philadelphia), Chris Reed (Boston), Peter Beard (London), Nicholas Quennell (New York),
+Ken Smith (New York), Raymond Gastil (New York), Alessandro Tagliolini (Italy), Ignacio Bunster
+(Philadelphia), Perry Kulper (Los Angeles),James Wines (New York), Lee Weintraub (New York),
+Charles Waldheim (Chicago), Stanislaus Fung (Australia), Dennis Wedlick (New York), Sandro
+Marpillero (New York), Peter Connolly (Australia), and former associate professor Anita Berrizbeitia.
+More recent visitors have been Claire Fellman (New York), Catherine Mosbach (Paris), Nanako
+Umemoto/Neil Cook (New York), Valerio Morabito (Italy), Carol and Colin Franklin (Philadelphia), Keith
+Kaseman (Philadelphia), Silvia Benedito (New York), Claudia Taborda (Lisbon), Mark Thomann (New
+York), Jerry Van Eyck (New York), and Martin Rein-Cano (Berlin).
+761. Urban Ecology. (A) Carlisle/Pevzner.
+This course introduces students to the core concepts, processes, and vocabulary of contemporary
+urban ecology. It aims to provide a conceptual framework and grounding in an understanding of
+ecological processes, in order to empower students to develop and critique the function and
+performance of landscape interventions. Urban ecology describes the interaction of the built and
+natural environment, looking at both ecology in the city, as well as ecology of the city. Lectures, case
+studies, critical reading and design exercises will enable students to increase their ability to analyze
+and interpret ecological systems and processes. By analyzing the application of ecological concepts in
+the design management of urban landscapes, urban ecology will be explored as a dynamic, humaninfluenced system. Registration is limited to MLA students in the LARP 601 studio.
+781. (CPLN673) Case Studies in Contemporary Urbanism, Landscape Arch, and Design. (B)
+Gouverneur.
+This course will expose students to a wide array of case studies in planning, urban design, and
+landscape architecture including notions of sustainable development, the interplay between open
+space and built form, the rehabilitation of existing areas as historic districts, commercial corridors, and
+the improvement of squatter settlements. Also, it will focus on city expansions and new towns,
+housing, mix-use developments, and areas of new centrality. The program will also address territorial
+planning, the improvement of open space systems, and site specific interventions of parks, plazas,
+streetscape and gardens. Cases will provide the proper ground for analysis and interpretation of
+issues related to the design and implementation of "good" landscape and urban form. Class
+discussions will be complemented with short design exercises. We will also enjoy the presence of
+outstanding visiting lecturers who will share with us cutting-edge information, derived from their
+professional practice and research. Registration is limited to MLA students in the LARP 602 studio and
+to students in the Urban Design Certificate program . This course is cross-listed with CPLN 673.
+
+Elective Courses
+
+Page 6 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+704. Urban Design Research Studio. (B) Gouverneur/Al.
+This course is a requirement for students enrolled in the Certificate of Urban Design. The Urban
+Design Research Studio (UDRC) is a capstone educational experience open to students of
+architecture, planning, landscape architecture and historic preservation in PennDesign. The studio's
+focus is how design intelligence can be applied to complex urban problems which are at once
+systemic and spatial. Reaching across scales and across disciplines the studio immerses students in
+the social, economic, political, ecological and aesthetic complexity of the contemporary city in a way
+that interweaves the speculative quality of the design process with the analytical and evidence-based
+empiricism of urban reseach. Interdisciplinary collaboration is the studio's modus operandi and its
+purpose is to develop techniques and strategies by which contemporary cities can become not only
+metabolically more efficient but also more edifying of the human spirit in the 21st century. Acceptance
+into the studio is based on interview and portfolio with priority placements given to students enrolled in
+the Urban Design Certificate Program.
+740. Topics in Digital Media. (C) Faculty.Prerequisite(s): LARP-543, MEDIA III.
+These courses offer advanced instruction in the uses and applications of various digital media,
+including Geographical Information Systems, 3-D modeling, video, animation, and web-design. These
+courses are open to all interested School of Design students who already have a working knowledge
+of basic digital graphic techniques and with permission of the instructor. Recent topics have been:
+Simulated Natures (fall 2015, 2014), instructors Keith VanDerSys, Joshua Freese; Digital Fabrication
+(spring 2009-2013), instructor Keith VanDerSys; Non-Static Representation: Video, Animation, and
+Interactive Media (fall 2013, 2012), instructor: Todd Montgomery; Interoperable Terrains (fall
+2008-2013), instructor: Keith Kaseman; Kino-Eye: Intro to Spatial Filmmaking (fall 2011, 2010),
+instructor: Richie Gelles; Geometry Clouds, Fluid Landscapes (fall 2002-2006), instructor: David Ruy;
+Tactical Surfaces / Topographic Modeling (fall 2002), instructor: Charles McGloughlin.
+710. Implementation of Urban Design. (B)
+This course is a requirement for students enrolled in the Certificate of Urban Design. With a focus on
+contemporary major cities this subject charts the various ways in which urban design is typically
+conceived, procured, administered and ultimately delivered. From the very conception of a project to
+its completion, the various methods and avenues through which contemporary cities are planned,
+designed, and constructed are examined from multiple perspectives so that students become familiar
+with the myriad issues and main actors involved in urban development. Though exemplary case
+studies the subject offers a comprehensive understanding of the complexities and contingencies of
+contemporary city making, placing a particular emphasis on the role of the urban designer as a
+practical, ethical and visionary agent of change. This course may open to other interested PennDesign
+students if there is space and with permission of the instructor.
+720. Topics in Representation. (C) Faculty.Prerequisite(s): LARP501, LARP533, LARP601,
+ARCH501, ARCH532 OR ARCH601.
+In these advanced representation courses the work extends to new ways of documenting and seeing
+landscape. These courses are open to all interested School of Design students who have previous
+drawing experience or have taken foundation studios. Recent topics have been: Traces and
+Inscriptions (spring 2013), instructors: Anuradha Mathur, Matthew Neff; Landscape Representation
+(fall annually),instructors: Valerio Morabito; Landscape Drawing (spring annually), instructor: Laurie
+Olin; Landscape Drawing (spring 2008), instructors: David Gouverneur, Trevor Lee; Shifting
+Landscapes: A Workshop in Representation (spring 2005, 2004), instructor: Anuradha Mathur; and
+The Agile Pencil and Its Constructs (spring 2004) instructor: Mei Wu.
+
+Page 7 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+730. Topics in Professional Practice. (C) Sanders. Fall 2015: course offering is limited to LARP
+majors or by permission of the instructor.
+These seminar courses explore ideas and methods in current landscape architectural practice. They
+include instruction in professional procedures, office management, project development, contracts,
+and collaborative ventures. They include visits to construction sites, professional offices and archives.
+Recent topics have been: Transformational Leadership (fall 2015), instructor: Lucinda Sanders, Office
+Practice (spring 2003-2015) instructor: Lucinda Sanders.
+741. (CPLN632) Modeling Geographic Space. (B) Tomlin.
+This course explores the nature and use of raster-oriented (i.e. image-based) Geographic Information
+Systems (GIS) for the analysis and synthesis of spatial patterns and processes. Previous experience
+in GIS is not required.
+SM 743. (CPLN670) Geospatial Software Design. (A) Tomlin.
+The purpose of this course is to equip students with a selected set of advanced tools and techniques
+for the development and customization of geospatial data-processing capabilities. It is open to any
+student with experience equivalent to that of an entry-level class on GIS.
+SM 745. (CPLN680) Advanced Topics in GIS. (B) Tomlin.
+This course offers students an opportunity to work closely with faculty, staff, local practitioners, and
+each other in conducting independent projects that involve the development and/or application of
+Geographic Information System (GIS) technology. The course is open to all students who can
+demonstrate sufficient experience, expertise, or initiative to purse a successful term project.
+750. Topics in Construction, Horticulture and Planting Design. (C) Faculty.
+These courses explore relevant topics in construction, horticulture and planting design as they relate
+to contemporary landscape architecture. The aim is to supplement fundamental skills and ideas
+explored in the core curriculum workshops with more advanced, cutting-edge research, technology
+and case studies. The teaching faculty are leading practitioners and researchers in the field. These
+courses are open to all interested School of Design students.
+Recent topics have been: Urban Horticulture and Planting Design (fall annually since 2009),
+instructor: David Ostrich; Detailing New Urban Landscapes (spring 2012, 2011), instructor: Tom Ryan;
+Building New Urban Landscapes, Construction, and Planting Design (fall 2009, 2008), instructor: Tom
+Ryan; Urban Horticulture: Designing and Managing Landscape Plantings in Stressful Environments
+(1998-2003), instructor: Paul Meyer; Advanced Planting Design, instructors: Rodney Robinson
+(2003-2009), Dennis McGlade (fall 2006), Sheila Brady; and Sustainable Large Scale Planting of
+Trees, Shrubs, Perennials and Grasses (fall 2001), instructor: Wolfgang Oehme.
+755. Arboretum Management I: Understanding Plants. (A) Skema.
+In this course, students will learn about plants from an oraganismal perspective, an applied/practical
+perspective, an aesthetic perspective, an environmental perspective, and an evolutionary perspective.
+Utilizing the plant collection of the Morris Arboretum as a living laboratory and the expertise of
+arboretum staff, this course will bring students, novices and experts alike, to a better understanding of
+plants. Session topics integrate both theoretical and hands-on practical work. Course assessment will
+be based on weekly practical assignments and two exams.
+Please note that this course takes place at the Morris Arboretum in the Chestnut Hill section of
+Philadelphia and students are responsible for transporting themselves to and from the arboretum on
+their own for class each week. For further information about the course, students may contact Cynthia
+Skema (cskema@upenn.edu).
+
+Page 8 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+756. Arboretum Management II: Evaluating Public Gardens. (B) Skema.
+This interdisciplinary course looks at public gardens as a whole, studying these public institutions and
+their performance in the four major services they undertake: research, horticultural display,
+conservation and education/outreach. Students, of any level or discipline, begin the course by learning
+what arboreta and botanic gardens are, how they function, and what role they fill in our society
+through a series of lecture sessions at the Morris Arboretum. For the remainder of the semester, the
+students take that knowledge into the field to apply what they have learned and evaluate some of the
+many public gardens in "America's Garden Capital," the Philadelphia region, with expert instructors
+from the Morris Arboretum as guides. Course assessment will be based on one exam, and a series of
+essays pertaining to their garden evaluations. Garden evaluations and the written work can be tailored
+to a particular subject of interest to a student, if pertinent within the public garden realm.
+Please note that this course takes place at the Morris Arboretum in the Chestnut Hill section of
+Philadelphia and students are responsible for transporting themselves to and from the arboretum on
+their own or to other Philadelphia area public gardens as required for class each week. For further
+information about the course, students may contact Cynthia Skema (cskema@upenn.edu).
+760. Topics in Ecological Design. (C) Faculty.
+These elective courses explore relevant topics in ecological design and new technologies as they
+relate to contemporary landscape architecture. The courses explore topics such as ecology,
+sustainability, habitat restoration, hydrology, green roof and green architecture technology, soil
+technology, and other techniques pertinent to the construction of ecologically dynamic, functioning
+landscapes. The teaching faculty are leading practitioners and researchers in the field. These courses
+are open to all interested PennDesign students.
+Recent topics have been: Large-Scale Land Reclamation Projects (annually since 2005), instructor:
+William Young; Green Roof Systems (spring 2010-2014), instructor: Susan Weiler; Restoration
+Ecology (fall biennially since 2004), instructor: David Robertson; Sustainable Development: The
+Queen Elizabeth Olympic Park, London (fall 2012), instructor: John Hopkins; Ecological Economies
+and Infrastructure (spring 2012), instructor: John Hopkins; Contemporary Issues in Sustainability: The
+London 2012 Olympic Park and Other European Examples (fall 2011), instructor: John Hopkins;
+James Ludwig (spring 2004); Sustainable Landscape Design for Watershed Protection (fall 2008,
+2006, 2005, 2004,2003, 2002), instructor: Katrin Scholz-Barth; and Ecological Restoration in the
+Urban Context (spring 2002, 2001), instructor: Deborah Marton.
+SM 770. (HSPV620) Topics in Landscape Architecture History and Theory. (C) Faculty.
+These advanced seminars explore central issues in the history and theory of landscape architecture
+from the Renaissance to the present day. The focus is upon the cultural context of built works, their
+relation to conceptual writings (contemporary with the designs as well as modern) and the dialogue
+between modern professional practice and historical example and method.
+Recent topics taught by Professor Hunt have been: Place & Peacefulness (fall 2012); Texts & Topics
+(fall 2011); The Role of History in Contemporary Landscape Architecture (fall 2010); Understanding
+Venice Research Seminar (spring 2009); Sculpture Parks and Sculpture in Parks (fall 2008); Six
+Landscape Architects & What We Say About Them (spring 2007); Open Spaces & Open Places: The
+Design and Use of American Landscapes (spring 2006), co-taught with Emily Cooperman; Reception,
+or the After Life of Landscapes (Spring 2005), Land Art and Ian Hamilton Finlay (fall 2004), Lawrence
+Halprin: Theory, Practice, Context & the Archival record (spring 2004) co-taught with Emily
+Cooperman; French Landscape Architecture: Case Studies (spring 2003); Picturesque as Modernism
+(spring 2002).
+Recent topics taught by Professor Fabiani Giannetto have been: Landscape Theory and Criticism:
+Six Case Studies (spring 2013); Villa Gardens and Villa Life: Cultural and Social Transformations
+(spring 2012); and American Landscape Architecture & Its Sources (spring 2011).
+Recent topics taught by Professor Aaron Wunsch have been: Therapeutic Landscapes in America
+(spring 2014); The American Suburb: Real and Ideal (spring 2013).
+
+Page 9 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+790. LARP Summer Institute: Landscape Operations. (L) Faculty. Course fee: $500.00
+This one-week course, for entering three-year MLA students, introduces concepts and techniques for
+analyzing, representing, and operating on landform, the fundamental medium of landscape
+architecture. Students will learn representational and model-making techniques for conveying
+topography, and will describe a series of landscape interventionss on a topographic surface. Through
+models and drawings, students will develop an appreciation for the spatial implications of landform, for
+landscape narrative, for the movement of water and people across the landscape, and for the
+operation of reshaping the ground. Course enrollment is by permit only. Please contact Darcy Van
+Buskirk (LARP Dept.) at darcyv@design.upenn.edu.
+780. (LARP535) Topics in Theory and Design. (C) Faculty.
+These advanced seminars explore advanced ideas in contemporary landscape architectural design
+and theory. A special link is made between the analysis of built work and text to design practice and
+the making of projects. Topics include the intersections of art, nature and creativity; practices of
+analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and crossdisciplinarity; vision and visuality; and representational structures, both verbal and visual. These
+courses fulfill the Landscape Architecture Theory III requirement and are open to all interested School
+of Design students.
+Recent topics have been: Classics Considered: The Craft and Criticism of Landscape Architecture
+(fall 2015), instructors: Laurie Olin, Raffaella Fabiani Giannetto; Designing with Risk (spring 2016,
+2015), instructors: Matthijs Bouw, Ellen Neises (2015); WORK: Aspects and Topics in Landscape
+Architecture (spring 2016, 2015), instructor: Laurie Olin; Edge Operations (spring 2014), instructor:
+Meg Studer; Landscape Thinking Research Seminar (spring 2013), instructor: Richard Weller;
+Designed Ecologies (fall 2011-2013 ), instructor: Ellen Neises; Environment Regimes (spring 2013, fall
+2011, 2010, 2009, spring 2007, 2006), instructor: Dilip da Cunha; Case Studies in Urbanism,
+Landscape and Design (spring 2004-2014) instructor: David Gouverneur; Landscape Production and
+Visual Culture (spring 2009), instructor: Claudia Taborda; Landscape and Globalization (spring 2010),
+instructor: Claudia Taborda; Concepts & Theories in Contemporary Landscape Architecture (fall 2008,
+2007, 2006, 2004, 2003), instructor: Anita Berrizbeitia; Paradoxical Spaces (spring 2008), instructors:
+Linda Pollak and Sandro Marpillero; Contemporary European Landscape Architecture (fall
+2007),instructor: Joseph Disponzio;
+796. Independent Studio. (S) Faculty.
+An independent studio may be undertaken in the final semester but is not required. The independent
+studio is intended to provide highly motivated students who have demonstrated their ability to work
+independently with the opportunity to pursue topics that extend the boundaries of the profession. For
+permission, students must prepare a written proposal in the preceding semester and apply for
+approval from the faculty. Details available in Landscape Architecture department office.
+999. Independent Study. (S) Faculty.
+An independent study may be taken for elective credit at any point during the degree program for a
+letter grade. For permission, students must prepare a written proposal in the preceding semester and
+obtain a Landscape Architecture faculty advisor to oversee their work. Details are available in the
+Landscape Architecture department office.
+
+Summer Institutes
+
+Page 10 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+791. LARP Summer Institute: Landscape Operations. (L) Faculty. Course fee: $500.00
+This one-week course, for entering three-year MLA students, introduces the fundamental tools and
+techniques of hand drawing for landscape architects. Exercises will range from architectural drafting
+and measured site observation, to constructed section and projective landscape imagination. The
+class will instrcut students in the fundamental concepts of scale, measure, graphic hierarchy, line and
+texture, and explore the representation of geology, built form and vegetation. Students will begin to
+develop a visual vocabulary and become familiar with representational methods and techniques that
+they will continue to explore throughout the Summer Institute and into the fall semester. Course
+enrollment is by permit only. Please contact Darcy Van Buskirk (LARP Dept.) at
+darcyv@design.upenn.edu.
+792. LARP Summer Institute: Natural Systems (3-year students). (L) Willig. Course fee: $500.00
+This four-day session for entering three-year MLA students will provide an introduction to the varied
+physiographic provinces and associated plant communities of the greater Philadelphia region. Through
+a review of available mapping and on-site study we will characterize and consider the connections
+between climate, geology, topography, hydrology, soils, vegetation, wildlife, and disturbance, both
+natural and anthropogenic. With a focus on plants students will begin to develop a familiarity with the
+local flora (native and non-native) including plant species identification, preferred growing conditions,
+and potential for use. Field trips will include visits to the Inner Coastal Plain and Piedmont. Course
+enrollment is by permit only. Please contact Darcy Van Buskirk (LARP Dept.) at
+darcyv@design.upenn.edu.
+793. LARP Summer Institute: Landform and Grading Workshop. (L) Olgyay. Course fee: $500.00
+The reading and shaping of landform is an elemental tool in the practice of landscape architecture.
+The act of grading design - the shaping and sculpting of landform - is both art and science. This fourday session for entering two-year MLA students aims to provide an appreciation of landform as both
+an evocative component in the design vocabulary and as a critical tool in resolving difficult design
+problems. Basic techniques and strategies of grading design are introduced and reinforced, so that
+grading design becomes an integral part of the student's design approach. This session is intended to
+provide a concise overview of the principles and process of landform and grading design, and is
+designed to prepare the entering two-year students for Workshop III. Course enrollment is by permit
+only. Please contact Darcy Van Buskirk at darcyv@design.upenn.edu.
+794. LARP Summer Institute: Natural Systems (2-year students). (L) Willig. Course fee: $500.00
+This five-day session for entering two-year MLA students will provide an introduction to the varied
+physiographic provinces and associated plant communities of the greater Philadelphia region. Through
+a review of available mapping and on-site study we will characterize and consider the connections
+between climate, geology, topography, hydrology, soils, vegetation, wildlife, and disturbance, both
+natural and anthropogenic. With a focus on plants students will begin to develop a familiarity with the
+local flora (native and non-native) including plant species identification, preferred growing conditions
+and potential for use. Field trips will include visits to the Coastal Plan and Piedmont of New Jersey and
+Pennsylvania. Course enrollment is by permit only. Please contact Darcy Van Buskirk (LARP Dept.) at
+darcyv@design.upenn.edu.
+
+Page 11 of 12
+
+LANDSCAPE ARCHITECTURE & REGIONAL PLANNING
+(FA) {LARP}
+795. LARP Summer Institute: Computing Introduction and Academic Writing. (L) VanDerSys/
+Fleming. Course fee: $500.00
+The Intro to Computing session introduces students to the facilities of digital media as the primary
+mode of design visual communication. The course provides a short, yet intensive, hands-on inquiry
+into the production and expression of digital media that is essential for all designers. Through a series
+of working labs, students learn various software applications and associated techniques to execute
+precise two-dimensional representations of three-dimensional concepts. Students also learn the
+PennDesign systems, network basics and computer lab procedures.
+In the Academic Writing session, students will also receive a basic introduction to research
+methods, research resources, academic writing, citation formats and standards expected by the
+School of Design. Course enrollment is by permit only. Please contact Darcy Van Buskirk at
+darcyv@design.upenn.edu.
+
+Page 12 of 12
+
+

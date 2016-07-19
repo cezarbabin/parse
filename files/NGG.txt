@@ -1,0 +1,170 @@
+INSTITUTE OF NEUROLOGICAL SCIENCES
+(MD) {NGG}
+510. (PHRM510) Neurotransmitter Signaling & Pharmacology. (J) Steve Thomas, Teresa Reyes,
+Chris Pierce.
+This course will provide in-depth information on neurotransmitters and their associated signaling
+systems. Emphasis will be placed on the wealth of new molecular information that has been gathered
+to examine how neurons function and communicate. Students will develop skills to appreciate, present
+and critically evaluate the current literature in neurotransmitter signaling and neuropharmacology.
+521. (BE 521) Brain Computer Interface. Prerequisite(s): BE 301 (Signals and Systems) or
+equivalent, computer programming experience, preferably MATLAB (e.g., as used in BE labs, BE
+209/210/310). Some basic neuroscience background (e.g. BIOL 215, BE 305, BE 520, NGG core
+course), or independent study in neuroscience, is required. This requirement may be waived based
+upon practical experience on a case by case basis by the instructor.
+This course is geared to advanced undergraduate and graduate students interested in understanding
+the basics of implantable neuro-devices, their design, practical implementation, approval, and use.
+Reading will cover the basics of neuro signals, recording, analysis, classification, modulation, and
+fundamental principles of Brain-Machine Interfaces. The course will be based upon twice weekly
+lectures and "hands on" weekly assignments that teach basic signal recording, feature extraction,
+classification and practical implementation in clinical systems. Assignments will build incrementally
+toward constructing a complete, functional BMI system. Fundamental concepts in neurosignals,
+hardware and software will be reinforced by practical examplesand in-depth study. Guest lecturers and
+demonstrations will supplement regular lectures.
+SM 534. (CAMB534) Sem Current Genetics Research. (B)
+This is an advanced seminar course emphasizing genetic research in model organisms and how it
+informs modern medicine. Each week a student will present background on a specific human disease.
+This is followed by an intense discussion by the entire class of 2 recent papers in which model
+organisms have been used to address the disease mechanism and/or treatment. As a final
+assignment, students will have the opportunity to write, edit, and publish a "News & Views" style article
+in the journal "Disease Models and Mechanisms".
+572. Electrical Language of Cells. (A) Toshinori Hoshi, Doug Coulter.
+This course introduces students to high-speed electro-chemical signaling mec hanisms that occur in
+nerve and other excitable cells during normal activity. Topics considered in substantial detail include: a)
+a basic description of the passive and active membrane electrical properties; b)the molecular
+architecture and functional role of ion channels in cell signaling; c)the role of the calcium ion as an
+umbiquitous chemical mesenger, with applications to neuro-secretion; d)excitatory and inhibitory
+transmission in the central nervous sytem; e) sensory transduction, as illustrated by the visual,
+olfactory, and autitory pathways. The course assumes a standard background in cell biology, as well as
+basic concepts from college physics and college calculus.
+573. (PSYC609) Systems Neuroscience. (B) Yale Cohen, Diego Contreras.
+This course provides an introduction to what is known about how neuronal circuits solve problems for
+the organism and to current resarch approaches to this question. Topics include: vision, audition,
+olfaction, motor systems, plasticity, and oscillations. In addition, the course aims to provide an
+overview of the structure of the central nervous system. A number of fundamental concepts are also
+discussed across topics, such as: lateral inhibition, integration, filterting, frames of reference, error
+signals, adaptation. The course format consists of lectures, discussions, readings of primary literature,
+supplemented by textbook chapters and review articles.
+
+Page 1 of 4
+
+INSTITUTE OF NEUROLOGICAL SCIENCES
+(MD) {NGG}
+575. (BIOL442, PSYC421) Neurobiology of Learning and Memory. (I) Ted Abel, Isabel Muzzio.
+This course focuses on the current state of our knowledge about the neurological basis of learning
+and memory. A combination of lectures and discussions will explore the molecular and cellular basis of
+learning in invertebrates and vertebrates from a behavioral and neural perspective.This course is
+intended for upper level undergraduate and graduate students.
+578. (BIOL488) Advance Topics in Behavioral Genetics. (J) Ted Abel, Maja Bucan, Robert Schultz.
+This course focuses on the use of genetic techniques to study the molecular and cellular bases of
+behavior. Particular emphasis will be given to the role of genetic approaches in understanding the
+biological processes underlying learning, memory storage, circadian rhythms, and drug abuse.
+Reverse genetic approaches utilizing gene knockout and transgenic technology, as well as forward
+genetic approaches using mutagenesis and quantitative genetic techniques, will be discussed.
+582. (PHRM540, PSYC605) Behavioral Neuropharmacology. (J)
+SM 583. (PSYC745) Seminar FMRI Data Analysis. (C) Seminar FMRI Data Analysis..
+Seminar FMRI Data Analysis.
+584. Neurobiology of Sleep and Circadian Rhythms. (H) Allan Pack, David Raizen.
+The objectives of this course are: to discuss and evaluate mechanisms controlling sleep and circadian
+rhythms; to survey novel approaches to investigations in these areas; indicate the clinical relevance of
+these ideas where possible. About half the course consists of core lectures on basic rhythms, sleep,
+and their neural substrates. The rest of the lectures are devoted to special topics which change from
+year to year.
+598. Advanced Systems Neuroscience. (I) Marc Schmidt, Long Ding.Prerequisite(s): Core III or
+Permission of course director.
+How do we perceive the external world with different senses? How do we use our knowledge of the
+world to make decisions that benefit us? How do we transform these decisions into actions? How do
+we improve the execution of the actions themselves? Most importantly, from a neuroscience
+perspective, how does our brain do it? These are some of the fundamental questions in neuroscience.
+The Advanced Systems Neuroscience course explores these questions with two focuses: 1) what are
+our current best guesses? 2) what are the strategies/techniques used in systems neuroscience that
+have proven successful in improving our guesses? The course will follow a general sensorydecisionmaking motor theme, with lectures, presentations of research articles by students and
+presentations of experiment proposals by students. Lectures by faculty members will review leading
+hypotheses in particular topics and illustrate key experiments/results that support those hypotheses;
+paper presentations by students will facilitate more detailed understanding of how studies were
+constructed and how results were obtained and interpreted; experiment proposals by students (with
+faculty mentors) will serve as exercisesfor the students to develop critical skills in designing
+experiments and writing proposals.
+
+Page 2 of 4
+
+INSTITUTE OF NEUROLOGICAL SCIENCES
+(MD) {NGG}
+587. Neurobiology of Disease. (J) Marc Dichter.Prerequisite(s): Working knowledge of biology and
+chemistry. Corequisite(s): Permission of course director.
+This course is designed to familiarize neuroscientists with basic information about a number of
+important neurological and psychiatric disease, focusing on a relatively brief clinical description of the
+condition and a more in depth discussion of what is currently understood about the basic pathobiology
+of the disorder.
+The course is divided into two parts: on Tuesday afternoons there will be a formal didactic teaching
+session. The first part of each lecture (1/2 hour to 1 hour) will be devoted to a discussion of the
+disease in question and the second part will consist of one or two student presentations (in lieu of a
+paper or exam) reviewing in depth one critical neuroscience component of the disease. Each student
+will work with the course director or an assigned faculty member to develop her/his lecture. On
+Thursday afternoons, a faculty member will present a research seminar or chalk talk describing the
+research she or he is conducting in that particular disease. Papers will be provided before the seminar
+so the students will be familiar with the research. It is expected that having a research seminar given
+after the introductory lecture will allow the students to become familiar in depth with at least one
+approach to each disease.
+594. (BIBB585, PHYS585, PSYC539) Theoretical and Computational Neuroscience. (B) Vijay
+Balasubramanian.Prerequisite(s): Previous coursework in physiology and in differential equations and
+some familiarity with computers, or instructor's permission.
+Theoretical studies of neural function from the molecular to the cognitive level. Emphasis on
+organization and function of neural maps, synaptic plasticity, vision, and recent neural network models
+of higher brain functions and on neurobiological problems that are well suited to computational study.
+597. (CAMB597) Neural Development, Regeneration and Repair. (A) Greg Bashaw, Michael
+Granato.
+The goal of this course is to examine the principles underlying nervous system development and to
+appreciate how understanding the molecular mechanisms that govern development can be used to
+inform approaches to promote regeneration and repair. This is not a survey course. Rather, the course
+will focus on selected topics, for which we will discuss the genetic, molecular and cellular strategies
+employed to study these problems in different model organisms. Emphasis is on how to interpret and
+critically evaluate experimental data. Each class is 1.5 hours in length. During the first hour, an
+assigned paper will be discussed in detail. During the last 20-30 minutes, faculty will introduce
+methods, concepts, background and information pertinent to the paper that will be discussed at the
+following meeting. Topics for Spring 2014 will include: 1) Neural specification, diversification and the
+use of Stem Cells for neural replacement and repair, 2) Axon guidance at the midline and
+regenerationin spinal cord, 3) Neuronal tiling, self-avoidance and Wallerian degeneration, 4)
+Development of olfactory circuits and 5) Synapse formation, positioning and synaptic partner choice.
+There are no exams, but each student will submit two short (two page) research proposals related to
+the topics presented.
+SM 600. Topics in Neurobiology of Disease 001: Neurodegenerative Diseases.
+615. (BMB 518, CAMB615) Protein Conformation Diseases. (I) Yair Argon, Harry Ischiropoulos.
+Protein misfolding and aggregation has been associated with over 40 human diseases, including
+Alzheimer's disease, Parkinsons disease, amytrophic lateralsclerosis, prion diseases, alpha (1)antitrypsin deficiency, inclusion body myopathy, and systemic amyloidoses. This course will include
+lectures, directedreadings and student presentations, to cover seminal and current papers on the cell
+biology of conformational diseases including topics such as protein folding and misfolding, protein
+degradation pathways, effects of protein aggregation on cell function, model systems to study protein
+aggregation and novel approaches to prevent protein aggregation.
+
+Page 3 of 4
+
+INSTITUTE OF NEUROLOGICAL SCIENCES
+(MD) {NGG}
+618. Recovery After Neural Injury. (K) Akiva Cohen.
+The human nervous system is subject to several types of injury, (traumatic, ischemic, epileptic,
+demyelinating and/or inflamatory) that cause serious functional deficits. The mechanisms used by the
+central and peripheral nervous systems for functional recovery from these injuries will be described in
+this course. The molecular and cellular pathobiology of CNS injury will be reviewed and methods to
+enhance functional recovery will be discussed in detail. These include the limitation of secondary
+neuronal damage by pharmacological manipulations (neuroprotection), the promotion of
+regeneration,and plasticity, the application of bioengineering strategies, and the use of behavioral
+rehabilitative approaches. Course Format: a combination of lecture, journal club stype student
+presentations and classroom discussion.
+799. Independent Study. (C)
+SM 695. Scientific Writing. (B) Alice Chen-Plotkin, Joshua Ian Gold.Prerequisite(s): NGG Precandidacy exam students only.
+This 7-class course is designed to introduce students to basic scientific writing skills and is timed for
+second year graduate students preparing for qualifying examinations. Participants will review the
+general principles of clear, persuasive writing, and will apply these principles to writing for a scientific
+audience. Particular emphasis will be placed on conveying the significance of your research, outlining
+the aims, and discussing the results for scientific papers and grant proposals. The course will also
+provide an overview of the structure and style of research grant proposals and scientific manuscripts.
+Classes are highly interactive, and the majority of class time will be spent discussing student scientific
+writing. The goal of the course is to encourage active and open interaction among students. Ideal
+endpoints include improved self-editing, and development of effective strategies for offering and
+receiving editorial recommendations among peers.
+SM 706. (BIBB473, PSYC473) Neuroeconomics. (C)
+990. Master's Thesis. (M)
+
+Page 4 of 4
+
+

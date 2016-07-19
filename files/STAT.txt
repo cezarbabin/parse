@@ -1,0 +1,553 @@
+STATISTICS
+(WH) {STAT}
+101. Introductory Business Statistics. (C) Staff.Prerequisite(s): MATH 104 or equivalent;
+successful completion of STAT 101 is prerequisite to STAT 102.
+Data summaries and descriptive statistics; introduction to a statistical computer package; Probability:
+distributions, expectation, variance, covariance, portfolios, central limit theorem; statistical inference
+of univariate data; Statistical inference for bivariate data: inference for intrinsically linear simple
+regression models. This course will have a business focus, but is not inappropriate for students in the
+college.
+102. Introductory Business Statistics. (C) Staff.Prerequisite(s): STAT 101.
+Continuation of STAT 101. A thorough treatment of multiple regression, model selection, analysis of
+variance, linear logistic regression; introduction to time series. Business applications.
+111. Introductory Statistics. (C) Staff.Prerequisite(s): High school algebra.
+Introduction to concepts in probability. Basic statistical inference procedures of estimation,
+confidence intervals and hypothesis testing directed towards applications in science and medicine.
+The use of the JMP statistical package.
+112. Introductory Statistics. (C) Staff.Prerequisite(s): STAT 111.
+Further development of the material in STAT 111, in particular the analysis of variance, multiple
+regression, non-parametric procedures and the analysis of categorical data. Data analysis via
+statistical packages.
+405. (STAT705) Statistical Computing with R. (C) Waterman.Prerequisite(s): STAT 102 or STAT
+112 or STAT 430.
+The goal of this course is to introduce students to the R programming language and related ecosystem. This course will provide a skill-set that is in demand in both the research and business
+environments. In addition, R is a platform that is used and required in other advanced classes taught
+at Wharton, so that this class will prepare students for these higher level classes and electives.
+422. (STAT722) Predictive Analytics for Business. (C) Staff.Prerequisite(s): STAT 102 or STAT 112
+or STAT 431.
+This course follows from the introductory regression classes, STAT 102, STAT 112, and STAT 431 for
+undergraduates and STAT 613 for MBAs.
+It extends the ideas from regression modeling, focusing on the core business task of predictive
+analytics as applied to realistic business related data sets. In particular it introduces automated
+model selection tools, such as stepwise regression and various current model selection criteria such
+as AIC and BIC. It delves into classification methodologies such as logistic regression. It also
+introduces classification and regression trees (CART) and the popular predictive methodology known
+as the random forest.
+By the end of the course the student will be familiar with and have applied all these tools and will
+be ready to use them in a work setting. The methodologies can all be implemented in either the JMP
+or R software packages.
+430. (STAT510) Probability. (C) Staff.Prerequisite(s): MATH 114 or MATH 115 or equivalent.
+Discrete and continuous sample spaces and probability; random variables, distributions,
+independence; expectation and generating functions; Markov chains and recurrence theory.
+
+Page 1 of 13
+
+STATISTICS
+(WH) {STAT}
+431. (STAT511) Statistical Inference. (C) Staff.Prerequisite(s): STAT 430.
+Graphical displays; one- and two-sample confidence intervals; one- and two-sample hypothesis tests;
+one- and two-way ANOVA; simple and multiple linear least-squares regression; nonlinear regression;
+variable selection; logistic regression; categorical data analysis; goodness-of-fit tests. A methodology
+course. This course does not have business applications but has significant overlap with STAT 101
+and 102.
+432. (STAT512) Mathematical Statistics. (B) Staff.Prerequisite(s): STAT 430 or 510 or equivalent.
+An introduction to the mathematical theory of statistics. Estimation, with a focus on properties of
+sufficient statistics and maximum likelihood estimators. Hypothesis testing, with a focus on likelihood
+ratio tests and the consequent development of "t" tests and hypothesis tests in regression and
+ANOVA. Nonparametric procedures.
+433. (STAT533) Stochastic Processes. (C) Steele, Mossel.Prerequisite(s): STAT 430, or permission
+of instructor.
+An introduction to Stochastic Processes. The primary focus is on Markov Chains, Martingales and
+Gaussian Processes. We will discuss many interesting applications from physics to economics.
+Topics may include: simulations of path functions, game theory and linear programming, stochastic
+optimization, Brownian Motion and Black-Scholes.
+434. Financial and Economic Time Series. (A) Foster.Prerequisite(s): STAT 101 - 102 or 431.
+Familiarity with linear algebra.
+This course will introduce students to the time series methods and practices which are most relevant
+to the analysis of financial and economic data. After an introduction to the statistical programming
+language R the course develops an autoregressive models, moving average models, and their
+generalizations. The course then develops models that are closely focused on particular features of
+financial series such as the challenges of time dependent volatility.
+435. (STAT711) Forecasting Methods for Management. (C) Shaman.Prerequisite(s): STAT 102 or
+112 or 431.
+This course provides an introduction to the wide range of techniques available for statistical
+forecasting. Qualitative techniques, smoothing and decomposition of time series, regression,
+adaptive methods, autoregressive-moving average modeling, and ARCH and GARCH formulations
+will be surveyed. The emphasis will be on applications, rather than technical foundations and
+derivations. The techniques will be studied critically, with examination of their usefulness and
+limitations.
+436. Stochastic Modeling. (A) Staff.Prerequisite(s): STAT 430 or equivalent or permission of
+instructor.
+This course will allow the student to solve stochastic control problems, arising in economics and
+finance, as well as in engineering and biology. We will study probability, Markov processes,
+martingales, and Ito calculus mainly at an intuitive, non-rigorous, level. The student will be expected
+to put in a lot of effort, but the return will be proportional.
+
+Page 2 of 13
+
+STATISTICS
+(WH) {STAT}
+451. (BEPP451, BEPP851, STAT851) Fundamentals of Actuarial Science I. (A)
+Lemaire.Prerequisite(s): MATH 104, STAT 430. STAT 430 can be taken concurrently with BEPP 451/
+STAT 451.
+This course is the usual entry point in the actuarial science program. It is required for students who
+plan to concentrate or minor in actuarial science. It can also be taken by others interested in the
+mathematics of personal finance and the use of mortality tables. For future actuaries, it provides the
+necessary knowledge of compound interest and its applications, and basic life contingencies
+definition to be used throughout their studies. Non-actuaries will be introduced to practical
+applications of finance mathematics, such as loan amortization and bond pricing, and premium
+calculation of typical life insurance contracts. Main topics include annuities, loans and bonds; basic
+principles of life contingencies and determination of annuity and insurance benefits and premiums.
+452. (BEPP452, BEPP852, STAT852) Fundamentals of Actuarial Science II. (B)
+Lemaire.Prerequisite(s): BEPP 451/STAT 451.
+This specialized course is usually only taken by Wharton students who plan to concentrate in
+actuarial science and Penn students who plan to minor in actuarial mathematics. It provides a
+comprehensive analysis of advanced life contingencies problems such as reserving, multiple life
+functions, multiple decrement theory with application to the valuation of pension plans.
+453. (BEPP453, BEPP853, STAT853) Actuarial Statistics. (A) Lemaire.Prerequisite(s): STAT 430.
+This course covers models for insurer's losses, and applications of Markov chains. Poisson
+processes, including extensions such as non-homogeneous, compound, and mixed Poisson
+processes are studied in detail. The compound model is then used to establish the distribution of
+losses. An extensive section on Markov chains provides the theory to forecast future states of the
+process, as well as numerous applications of Markov chains to insurance, finance, and genetics. The
+course is abundantly illustrated by examples from the insurance and finance literature. While most of
+the students taking the course are future actuaries, other students interested in applications of
+statistics may discover in class many fascinating applications of stochastic processes and Markov
+chains.
+454. (BEPP454, BEPP854, STAT854) Applied Statistical Methods for Actuaries. (B)
+Lemaire.Prerequisite(s): STAT 430, STAT 431.
+One half of the course is devoted to the study of time series, including ARIMA modeling and
+forecasting. The other half studies modifications in random variables due to deductibles, copayments, policy limits, and elements of simulation. This course is a possible entry point into the
+actuarial science program. The Society of Actuaries has approved STAT 854 for VEE credit on the
+topic of time series.
+472. (STAT712) Decision Making under Uncertainty. (M) Stine.Prerequisite(s): STAT 102 or 112 or
+431.
+Fundamentals of modern decision analysis with emphasis on managerial decision making under
+uncertainty and risk. The basic topics of decision analysis are examined. These include payoffs and
+losses, utility and subjective probability, the value of information, Bayesian analysis, inference and
+decision making. Examples are presented to illustrate the ideas and methods. Some of these involve:
+choices among investment alternatives; marketing a new product; health care decisions; and costs,
+benefits, and sample size in surveys.
+
+Page 3 of 13
+
+STATISTICS
+(WH) {STAT}
+470. (STAT503, STAT770) Data Analytics and Statistical Computing. (C) Buja.Prerequisite(s):
+STAT 101 and 102 or STAT 111 and 112 or STAT 431.
+This course will introduce a high-level programming language, called R, that is widely used for
+statistical data analysis. Using R, we will study and practice the following methodologies: data
+cleaning, feature extraction; web scrubbing, text analysis; data visualization; fitting statistical models;
+simulation of probability distributions and statistical models; statistical inference methods that use
+simulations (bootstrap, permutation tests).
+471. (STAT571, STAT701) Modern Data Mining. (C) Zhao.Prerequisite(s): STAT 102 or 112 or 431.
+Modern Data Mining: Statistics or Data Science has been evolving rapidly to keep up with the
+modern world. While classical multiple regression and logistic regression technique continue to be
+the major tools we go beyond to include methods built on top of linear models such as LASSO and
+Ridge regression. Contemporary methods such as KNN (K nearest neighbor), Random Forest,
+Support Vector Machines, Principal Component Analyses (PCA), the bootstrap and others are also
+covered. Text mining especially through PCA is another topic of the course. While learning all the
+techniques, we keep in mind that our goal is to tackle real problems. Not only do we go through a
+large collection of interesting, challenging real-life data sets but we also learn how to use the free,
+powerful software "R" in connection with each of the methods exposed in the class.
+473. (STAT953) Bioinformatics. (B) Ewens.Prerequisite(s): Good background in probability and
+statistics at the approximate level of STAT 430 and STAT 431. The material will follow the class
+textbook, Ewens and Grant "Statistical Models in Bioinformatics", Springer, second edition, 2005.
+An introduction to the use of statistical methods in the increasingly important scientific areas of
+genomics and bioinformatics. The topics to be covered will be decided in detail after the initial class
+meeting, but will be taken from the following: - background probability theory of one and many
+random variables and of events; background statistical inference theory, classical and Bayesian;
+Poisson processes and Markov chain; the analysis of one and many DNA sequences, in particular
+shotgun sequencing, pattern analysis and motifs; substitution matrices, general random walk theory,
+advanced statistical inference, the theory of BLAST, hidden Markov models, microarray analysis,
+evolutionary models.
+474. (STAT974) Modern Regression for the Social, Behavioral and Biological Sciences. (B)
+Berk.Prerequisite(s): STAT 102 or 112 or equivalent.
+Function estimation and data exploration using extensions of regression analysis: smoothers,
+semiparametric and nonparametric regression, and supervised machine learning. Conceptual
+foundations are addressed as well as hands-on use for data analysis.
+475. (BSTA775, STAT920) Sample Survey Design. (M) Small.Prerequisite(s): STAT 102 or 112 or
+431.
+This course will cover the design and analysis of sample surveys. Topics include simple sampling,
+stratified sampling, cluster sampling, graphics, regression analysis using complex surveys and
+methods for handling nonresponse bias.
+
+Page 4 of 13
+
+STATISTICS
+(WH) {STAT}
+476. (MKTG476, MKTG776) Applied Probability Models in Marketing. (C) Fader.Prerequisite(s):
+High comfort level with basic integral calculus, and recent exposure to a formal course in probability
+and statistics such as STAT 430 is strongly recommended.
+This course will expose students to the theoretical and empirical "building blocks" that will allow them
+to construct, estimate, and interpret powerful models of customer behavior. Over the years,
+researchers and practitioners have used these models for a wide variety of applications, such as new
+product sales, forecasting, analyses of media usage, and targeted marketing programs. Other
+disciplines have seen equally broad utilization of these techinques. The course will be entirely
+lecture-based with a strong emphasis on real-time problem solving. Most sessions will feature
+sophisticated numerical investigations using Microsoft Excel. Much of the material is highly technical.
+500. (BSTA550, PSYC611) Applied Regression and Analysis of Variance. (A)
+Rosenbaum.Prerequisite(s): STAT 102 or 112 or equivalent.
+An applied graduate level course in multiple regression and analysis of variance for students who
+have completed an undergraduate course in basic statistical methods. Emphasis is on practical
+methods of data analysis and their interpretation. Covers model building, general linear hypothesis,
+residual analysis, leverage and influence, one-way anova, two-way anova, factorial anova. Primarily
+for doctoral students in the managerial, behavioral, social and health sciences.
+501. (PSYC612) Introduction to Nonparametric Methods and Log-linear Models. (B)
+Rosenbaum.Prerequisite(s): STAT 102 or 112 or equivalent.
+An applied graduate level course for students who have completed an undergraduate course in basic
+statistical methods. Covers two unrelated topics: loglinear and logit models for discrete data and
+nonparametric methods for nonnormal data. Emphasis is on practical methods of data analysis and
+their interpretation. Primarily for doctoral students in the managerial, behavioral, social and health
+sciences. May be taken before STAT 500 with permission of instructor.
+511. (STAT431) Statistical Inference. (C) Staff.Prerequisite(s): STAT 510 or equivalent.
+Graphical displays; one- and two-sample confidence intervals; one- and two-sample hypothesis tests;
+one- and two-way ANOVA; simple and multiple linear least-squares regression; nonlinear regression;
+variable selection; logistic regression; categorical data analysis; goodness-of-fit tests. A methodology
+course.
+502. (EDUC683) Survey Methods and Design. (B) Boruch.Prerequisite(s): STAT 520 or equivalent.
+Methods and design of field surveys in education, the social sciences, criminal justice research, and
+other areas. It treats methods of eliciting information through household, mail, telephone surveys,
+methods of assuring privacy, enhancing cooperation rates and related matters. Fundamentals of
+statistical sampling and sample design are covered. Much of the course is based on contemporary
+surveys sponsored by the National Center for Education Statistics and other federal, state, and local
+agencies.
+503. (STAT470, STAT770) Data Analytics and Statistical Computing. (C) Buja.Prerequisite(s): Two
+courses at the statistics 400 or 500 level.
+This course will introduce a high-level programming language, called R, that is widely used for
+statistical data analysis. Using R, we will study and practice the following methodologies: data
+cleaning, feature extraction; web scrubbing, text analysis; data visualization; fitting statistical models;
+simulation of probability distributions and statistical models; statistical inference methods that use
+simulations (bootstrap, permutation tests).
+
+Page 5 of 13
+
+STATISTICS
+(WH) {STAT}
+510. (STAT430) Probability. (C) Brown.Prerequisite(s): A one year course in calculus.
+Elements of matrix algebra. Discrete and continuous random variables and their distributions.
+Moments and moment generating functions. Joint distributions. Functions and transformations of
+random variables. Law of large numbers and the central limit theorem. Point estimation: sufficiency,
+maximum likelihood, minimum variance. Confidence intervals.
+512. (STAT432) Mathematical Statistics. (B) Staff.Prerequisite(s): STAT 430 or 510 or equivalent.
+An introduction to the mathematical theory of statistics. Estimation, with a focus on properties of
+sufficient statistics and maximum likelihood estimators. Hypothesis testing, with a focus on likelihood
+ratio tests and the consequent development of "t" tests and hypothesis tests in regression and
+ANOVA. Nonparametric procedures.
+520. Applied Econometrics I. (A) Shaman.Prerequisite(s): MATH 114 and MATH 312 or
+equivalents, and an undergraduate introduction to probability and statistics.
+This is a course in econometrics for graduate students. The goal is to prepare students for empirical
+research by studying econometric methodology and its theoretical foundations. Students taking the
+course should be familiar with elementary statistical methodology and basic linear algebra, and
+should have some programming experience. Topics include conditional expectation and linear
+projection, asymptotic statistical theory, ordinary least squares estimation, the bootstrap and
+jackknife, instrumental variables and two-stage least squares, specification tests, systems of
+equations, generalized least squares, and introduction to use of linear panel data models.
+521. Applied Econometrics II. (B) Shaman.Prerequisite(s): STAT 520. This is a continuation of STAT
+520.
+Topics include system estimation with instrumental variables, fixed effects and random effects
+estimation, M-estimation, nonlinear regression, quantile regression, maximum likelihood estimation,
+generalized method of moments estimation, minimum distance estimation, and binary and
+multinomial response models. Both theory and applications will be stressed.
+531. (MATH547) Stochastic Processes. (B) Steele.Prerequisite(s): STAT 530.
+Markov chains, Markov processes, and their limit theory. Renewal theory. Martingales and optimal
+stopping. Stable laws and processes with independent increments. Brownian motion and the theory
+of weak convergence. Point processes.
+533. (STAT433) Stochastic Processes. (C) Steele, Mossel.Prerequisite(s): STAT 510 or equivalent.
+An introduction to Stochastic Processes. The primary focus is on Markov Chains, Martingales and
+Gaussian Processes. We will discuss many interesting applications from physics to economics.
+Topics may include: simulations of path functions, game theory and linear programming, stochastic
+optimization, Brownian Motion and Black-Scholes.
+542. Bayesian Methods and Computation. (B) Jensen.Prerequisite(s): STAT 430 or 510 or
+equivalent or permission of instructor.
+Sophisticated tools for probability modeling and data analysis from the Bayesian perspective.
+Hierarchical models, mixture models and Monte Carlo simulation techniques.
+
+Page 6 of 13
+
+STATISTICS
+(WH) {STAT}
+551. Introduction to Linear Statistical Models. (B) Brown.Prerequisite(s): STAT 550.
+Theory of the Gaussian Linear Model, with applications to illustrate and complement the theory.
+Distribution theory of standard tests and estimates in multiple regression and ANOVA models. Model
+selection and its consequences. Random effects, Bayes, empirical Bayes and minimax estimation for
+such models. Generalized (Log-linear) models for specific non-Gaussian settings.
+553. Machine Learning. (B) Staff.Prerequisite(s): STAT 510 and 512 or equivalent.
+This course gives a broad overview of the machine learning and statistical pattern recognition. Some
+topics will be rather glanced over while others will be considered in-depth. Topics include supervised
+learning (generative/discriminative models, parametric/nonparametric, neural networks, support
+vector machines, boosting, bagging, random forests), online learning (prediction with expert advice),
+learning theory (VC dimension, generalization bounds, bias/variance trade-off), unsupervised
+learning (clustering, k-means, PCA, ICA). Most of the course concentrates on the supervised and
+online learning.
+701. (STAT471, STAT571) Modern Data Mining. (C) Zhao.Prerequisite(s): STAT 613 or equivalent.
+Modern Data Mining: Statistics or Data Science has been evolving rapidly to keep up with the
+modern world. While classical multiple regression and logistic regression technique continue to be
+the major tools we go beyond to include methods built on top of linear models such as LASSO and
+Ridge regression. Contemporary methods such as KNN (K nearest neighbor), Random Forest,
+Support Vector Machines, Principal Component Analyses (PCA), the bootstrap and others are also
+covered. Text mining especially through PCA is another topic of the course. While learning all the
+techniques, we keep in mind that our goal is to tackle real problems. Not only do we go through a
+large collection of interesting, challenging real-life data sets but we also learn how to use the free,
+powerful software "R" in connection with each of the methods exposed in the class.
+571. (STAT471, STAT701) Modern Data Mining. (C) Zhao.Prerequisite(s): Two courses at the
+statistics 400 or 500 level or permission from instructor.
+Modern Data Mining: Statistics or Data Science has been evolving rapidly to keep up with the
+modern world. While classical multiple regression and logistic regression technique continue to be
+the major tools we go beyond to include methods built on top of linear models such as LASSO and
+Ridge regression. Contemporary methods such as KNN (K nearest neighbor), Random Forest,
+Support Vector Machines, Principal Component Analyses (PCA), the bootstrap and others are also
+covered. Text mining especially through PCA is another topic of the course. While learning all the
+techniques, we keep in mind that our goal is to tackle real problems. Not only do we go through a
+large collection of interesting, challenging real-life data sets but we also learn how to use the free,
+powerful software "R" in connection with each of the methods exposed in the class.
+705. (STAT405) Statistical Computing with R. (C) Waterman.Prerequisite(s): STAT 613 or STAT
+621 or waiving the Statistics Core completely.
+The goal of this course is to introduce students to the R programming language and related ecosystem. This course will provide a skill-set that is in demand in both the research and business
+environments. In addition, R is a platform that is used and required in other advanced classes taught
+at Wharton, so that this class will prepare students for these higher level classes and electives.
+
+Page 7 of 13
+
+STATISTICS
+(WH) {STAT}
+711. (STAT435) Forecasting Methods for Management. (C) Shaman.Prerequisite(s): STAT 613 or
+equivalent.
+This course provides an introduction to the wide range of techniques available for statistical
+forecasting. Qualitative techniques, smoothing and decomposition of time series, regression,
+adaptive methods, autoregressive-moving average modeling, and ARCH and GARCH formulations
+will be surveyed. The emphasis will be on applications, rather than technical foundations and
+derivations. The techniques will be studied critically, with examination of their usefulness and
+limitations.
+712. (STAT472) Decision Making Under Uncertainty. (M) Stine.Prerequisite(s): STAT 520 or STAT
+613 or equivalent.
+Fundamentals of modern decision analysis with emphasis on managerial decision making under
+uncertainty and risk. The basic topics of decision analysis are examined. These include payoffs and
+losses, utility and subjective probability, the value of information, Bayesian analysis, inference and
+decision making. Examples are presented to illustrate the ideas and methods. Some of these involve:
+choices among investment alternatives; marketing a new product; health care decisions; and costs,
+benefits, and sample size in surveys.
+722. (STAT422) Predictive Analytics for Business (formerly STAT 622). (C) Staff.Prerequisite(s):
+STAT 613 or STAT 621 or having waived the statistics core completely.
+This course follows from the introductory regression classes, STAT 102, STAT 112, and STAT 431 for
+undergraduates and STAT 613 for MBAs.
+It extends the ideas from regression modeling, focusing on the core business task of predictive
+analytics as applied to realistic business related data sets. In particular it introduces automated
+model selection tools, such as stepwise regression and various current model selection criteria such
+as AIC and BIC. It delves into classification methodologies such as logistic regression. It also
+introduces classification and regression trees (CART) and the popular predictive methodology known
+as the random forest.
+By the end of the course the student will be familiar with and have applied all these tools and will
+be ready to use them in a work setting. The methodologies can all be implemented in either the JMP
+or R software packages.
+770. (STAT470, STAT503) Data Analytics and Statistical Computing. (C) Buja.Prerequisite(s):
+STAT 613 or STAT 621 or waiving the Statistics Core completely.
+This course will introduce a high-level programming language, called R, that is widely used for
+statistical data analysis. Using R, we will study and practice the following methodologies: data
+cleaning, feature extraction; web scrubbing, text analysis; data visualization; fitting statistical models;
+simulation of probability distributions and statistical models; statistical inference methods that use
+simulations (bootstrap, permutation tests).
+851. (BEPP451, BEPP851, STAT451) Fundamentals of Actuarial Science I. (A)
+Lemaire.Prerequisite(s): One semester of calculus.
+This course is the usual entry point in the actuarial science program. It is required for students who
+plan to concentrate or minor in actuarial science. It can also be taken by others interested in the
+mathematics of personal finance and the use of mortality tables. For future actuaries, it provides the
+necessary knowledge of compound interest and its applications, and basic life contingencies
+definition to be used throughout their studies. Non-actuaries will be introduced to practical
+applications of finance mathematics, such as loan amortization and bond pricing, and premium
+calculation of typical life insurance contracts. Main topics include annuities,loans and bonds; basic
+principles of life contingencies and determination of annuity and insurance benefits and premiums.
+
+Page 8 of 13
+
+STATISTICS
+(WH) {STAT}
+900. Advanced Probability. (M) Staff.Prerequisite(s): STAT 531 or equivalent.
+The topics covered will change from year to year. Typical topics include the theory of large deviations,
+percolation theory, particle systems, and probabilistic learning theory.
+852. (BEPP452, BEPP852, STAT452) Fundamentals of Actuarial Science II. (B)
+Lemaire.Prerequisite(s): STAT 851 or BEPP 851.
+This specialized course is usually only taken by Wharton students who plan to concentrate in
+actuarial science and Penn students who plan to minor in actuarial mathematics. It provides a
+comprehensive analysis of advanced life contingencies problems such as reserving, multiple life
+functions, multiple decrement theory with application to the valuation of pension plans.
+853. (BEPP453, BEPP853, STAT453) Actuarial Statistics. (A) Lemaire.Prerequisite(s): Two
+semesters of Statistics.
+This course covers models for insurer's losses, and applications of Markov chains. Poisson
+processes, including extensions such as non-homogeneous, compound, and mixed
+Poissonprocesses are studied in detail. The compound model is then used to establish the
+distribution of losses. An extensive section on Markov chains provides the theory to forecast future
+states of the process, as well as numerous applications of Markov chains to insurance, finance, and
+genetics. The course is abundantly illustrated by examples from the insurance and finance literature.
+While most of the students taking the course are future actuaries, other students interested in
+applications of statistics may discover in class many fascinating applications of stochastic processes
+and Markov chains.
+854. (BEPP454, BEPP854, STAT454) Applied Statistical Methods for Actuaries. (B)
+Lemaire.Prerequisite(s): One semester of probability.
+One half of the course is devoted to the study of time series, including ARIMA modeling and
+forecasting. The other half studies modifications in random variables due to deductibles, copayments, policy limits, and elements of simulation. This course is a possible entry point into the
+actuarial science program. The Society of Actuaries has approved STAT 854 for VEE credit on the
+topic of time series.
+901. (OIDD931) Stochastic Processes II. (M) Staff.Prerequisite(s): OPIM 930 or equivalent.
+Martingales, optimal stopping, Wald's lemma, age-dependent branching processes, stochastic
+integration, Ito's lemma.
+910. (BSTA852) Forecasting and Time Series Analysis. (K) Stine.Prerequisite(s): STAT 520 or 541
+or equivalent.
+Fourier analysis of data, stationary time series, properties of autoregressive moving average models
+and estimation of their parameters, spectral analysis, forecasting. Discussion of applications to
+problems in economics, engineering, physical science, and life science.
+915. Nonparametric Inference. (M) Staff.Prerequisite(s): STAT 520 or equivalent.
+Statistical inference when the functional form of the distribution is not specified. Nonparametric
+function estimation, density estimation, survival analysis, contingency tables, association, and
+efficiency.
+
+Page 9 of 13
+
+STATISTICS
+(WH) {STAT}
+920. (BSTA775, STAT475) Sample Survey Methods. (M) Small.Prerequisite(s): STAT 520, 541 or
+550 or permission of instructor.
+This course will cover the design and analysis of sample surveys. Topics include simple random
+sampling, stratified sampling, cluster sampling, graphics, regression analysis using complex surveys
+and methods for handling nonresponse bias.
+921. Observational Studies. (A) Small.Prerequisite(s): STAT 520, 541 or 550 or permission of
+instructor.
+This course will cover statistical methods for the design and analysis of observational studies. Topics
+will include the potential outcomes framework for causal inference; randomized experiments;
+matching and propensity score methods for controlling confounding in observational studies; tests of
+hidden bias; sensitivity analysis; and instrumental variables.
+924. Advanced Experimental Design. (M) Staff.Prerequisite(s): STAT 552.
+Factorial designs, confounding, incomplete blocks, fractional factorials, random and mixed models,
+response surfaces.
+925. Multivariate Analysis: Theory. (M) Ma.Prerequisite(s): STAT 530, 550 and 552 or permission of
+instructor.
+This is a course that prepares PhD students in statistics for research in multivariate statistics and
+high dimensional statistical inference. Topics from classical multivariate statistics include the
+multivariate normal distribution and the Wishart distribution; estimation and hypothesis testing of
+mean vectors and covariance matrices; principal component analysis, canonical correlation analysis
+and discriminant analysis; etc. Topics from modern multivariate statistics include the Marcenko-Pastur
+law, the Tracy-Widom law, nonparametric estimation and hypothesis testing of high-dimensional
+covariance matrices, high-dimensional principal component analysis, etc.
+926. Multivariate Analysis: Methodology. (M) Buja.Prerequisite(s): STAT 541 or permission of
+instructor.
+This is a course that prepares PhD students in statistics for research in multivariate statistics and
+data visualization. The emphasis will be on a deep conceptual understanding of multivariate methods
+to the point where students will propose variations and extensions to existing methods or whole new
+approaches to problems previously solved by classical methods. Topics include: principal component
+analysis, canonical correlation analysis, generalized canonical analysis; nonlinear extensions of
+multivariate methods based on optimal transformations of quantitative variables and optimal scaling
+of categorical variables; shrinkage- and sparsity-based extensions to classical methods; clustering
+methods of the k-means and hierarchical varieties; multidimensional scaling, graph drawing, and
+manifold estimation.
+927. (BSTA854) Bayesian Statistical Theory and Methods. (M) Zhao.Prerequisite(s): STAT 551.
+A course in Bayesian statistical theory and methods. Axiomatic developments of utility theory and
+subjective probability, and elements of Bayesian theory.
+
+Page 10 of 13
+
+STATISTICS
+(WH) {STAT}
+928. Statistical Learning Theory. (B) Rakhlin.Prerequisite(s): Probability and linear algebra.
+Statistical learning theory studies the statistical aspects of machine learning and automated
+reasoning, through the use of (sampled) data. In particular, the focus is on characterizing the
+generalization ability of learning algorithms in terms of how well they perform on "new" data when
+trained on some given data set. The focus of the course is on: providing the fundamental tools used
+in this analysis; understanding the performance of widely used learning algorithms; understanding
+the "art" of designing good algorithms, both in terms of statistical and computational properties.
+Potential topics include: empirical process theory; online learning; stochastic optimization; margin
+based algorithms; feature selection; concentration of measure.
+930. (MATH546) Probability. (A) Steele.Prerequisite(s): STAT 430 or 510 or equivalent.
+Measure theory and foundations of Probability theory. Zero-one Laws. Probability inequalities. Weak
+and strong laws of large numbers. Central limit theorems and the use of characteristic functions.
+Rates of convergence. Introduction to Martingales and random walk.
+932. (BSTA653) Survival Models and Analysis Methods for Medical and Biological Data. (M)
+Zhao.Prerequisite(s): STAT 551.
+Parametric models, nonparametric methods for one-and two-sample problems, proportional hazards
+model, inference based on ranks. Problems will be considered from clinical trials, toxicology and
+tumorigenicity studies, and epidemiological studies.
+933. Analysis of Categorical Data. (M) Rosenbaum.Prerequisite(s): STAT 541 and 551.
+Likelihood equations for log-linear models, properties of maximum likelihood estimates, exact and
+approximate conditional inference, computing algorithms, weighted least squares methods, and
+conditional independence and log-linear models. Applied topics, including interpretation of log-linear
+and logit model parameters, smoothing of tables, goodness-of-fit, and incomplete contingency tables.
+940. Advanced Inference I. (M) Staff.Prerequisite(s): STAT 551.
+The topics covered will change from year to year. Typical topics include sequential analysis,
+nonparametric function estimation, robustness, bootstrapping and applications decision theory,
+likelihood methods, and mixture models.
+941. Advanced Inference II. (M) Staff.Prerequisite(s): STAT 940.
+A continuation of STAT 940.
+SM 950. Quantitative Consulting Seminar. (B) Waterman.Prerequisite(s): No prerequisites, but
+please talk to the instructor to determine your fit with the course.
+The Practicum offers the opportunity for small combined teams of PhD's and MBA to work on "real
+life" quantitative consulting projects. These projects are drawn from both business and University
+sources. The emphasis is on providing a relevant and comprehensible solution to the client's problem.
+In-class brainstorming sessions, client presentations and written reports give students the
+opportunity to test for the existence of an intersection between their quantitative and communication
+skills.
+SM 951. Statistical Practice II. (M) Staff.Prerequisite(s): STAT 540, 541, 550 and 551.
+A continuation of STAT 950.
+
+Page 11 of 13
+
+STATISTICS
+(WH) {STAT}
+953. (STAT473) Bioinformatics. (B) Ewens.Prerequisite(s): Good background in probability and
+statistics at the approximate level of STAT 430 and STAT 431. The material will follow the class
+textbook, Ewens and Grant "Statistical Models in Bioinformatics", Springer, second edtion, 2005.
+An introduction to the use of statistical methods in the increasingly important scientific areas of
+genomics and bioinformatics. The topics to be covered will be decided in detail after the initial class
+meeting, but will be taken from the following: - background probability theory of one and many
+random variables and of events; background statistical inference theory, classical and Bayesian;
+Poisson processes and Markov chain; the analysis of one and many DNA sequences, in particular
+shotgun sequencing, pattern analysis and motifs; substitution matrices, general random walk theory,
+advanced statistical inference, the theory of BLAST, hidden Markov models, microarray analysis,
+evolutionary models.
+955. Stochastic Calculus and Financial Applications. (A) Steele.Prerequisite(s): STAT 530 or
+equivalent.
+Selected topics in the theory of probability and stochastic processes.
+956. Financial and Economic Time Series. (B) Steele.Prerequisite(s): A graduate course in
+statistics or econometrics. Familiarity with linear algebra.
+This graduate course introduces students to the time series methods and practices which are most
+relevant to the analysis of financial and economic data. The course will address both theoretical and
+empirical issues. Extensive use will be made of the S-Plus Statistical Language, but no previous
+experience of S-Plus will be required. The course begins with a quick review of ARIMA models. Most
+of the course is devoted to ARCH, GARCH, threshold, switching Markov, state space, and nonlinear
+models.
+SM 957. Seminar in Data Analysis. (M) Staff.Prerequisite(s): STAT 541, 551, 552, 925, or
+equivalents; permission of instructor.
+Survey of methods for the analysis of large unstructured data sets: detection of outliers, Winsorizing,
+graphical techniques, robust estimators, multivariate problems.
+961. Statistical Methodology. (A) Buja.Prerequisite(s): STAT 431 or 520 or equivalent; a solid
+course in linear algebra and a programming language.
+This is a course that prepares 1st year PhD students in statistics for a research career. This is not an
+applied statistics course. Topics covered include: linear models and their high-dimensional geometry,
+statistical inference illustrated with linear models, diagnostics for linear models, bootstrap and
+permutation inference, principal component analysis, smoothing and cross-validation.
+SM 991. Seminar in Advanced Application of Statistics. (C) Staff.
+This seminar will be taken by doctoral candidates after the completion of most of their coursework.
+Topics vary from year to year and are chosen from advance probability, statistical inference, robust
+methods, and decision theory with principal emphasis on applications.
+970. Mathematical Statistics. (A) Small.Prerequisite(s): STAT 431 or 520 or equivalent; comfort with
+mathematical proofs (e.g., MATH 360).
+Decision theory and statistical optimality criteria, sufficiency, point estimation and hypothesis testing
+methods and theory.
+
+Page 12 of 13
+
+STATISTICS
+(WH) {STAT}
+972. (BSTA820) Advanced Topics in Mathematical Statistics. (C) Cai.Prerequisite(s): STAT 970
+and 971.
+A continuation of STAT 970.
+974. (STAT474) Modern Regression for the Social, Behavioral and Biological Sciences. (B)
+Berk.Prerequisite(s): Two statistics courses at the graduate school level including a solid foundation
+in the generalized linear model.
+Function estimation and data exploration using extensions of regression analysis: smoothers,
+semiparametric and nonparametric regression, and supervised machine learning. Conceptual
+foundations are addressed as well as hands-on use for data analysis.
+024. PENN SUMMER ABROAD. (L)
+100. PENN SUMMER GLOBAL INST.
+
+Page 13 of 13
+
+

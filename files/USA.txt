@@ -1,0 +1,69 @@
+URBAN SPATIAL ANALYTICS
+(FA) {USA}
+Urban Spatial Analytics is a graduate major in the department of City and Regional Planning
+(CPLN) in the School of Design.
+500. (CPLN671) Spatial Statistics and Data Analysis. (A) Eugene Brusilovskiy.
+This hands-on course will provide an introduction to statistical methods and will serve as a prequel to
+ESE502. Topics covered will include exploratory univariate analysis, correlation and Chi-square
+analysis, t-tests and ANOVA. Non-parametric alternatives to the standard tests will be discussed. OLS
+regression, including assumptions and diagnostics, will be covered in detail. Heavy emphasis will be
+placed on the application of each method covered. The course will conclude with an introduction to
+spatial statistical methods and a brief overview of linear algebra and matrix notation for OLS and
+spatial regression. Students will learn to use JMP-IN, ArcGIS and GeoDa for data analysis.
+501. Introduction to Applied Statistics. (B) Brusilovskiy.
+This hands-on course will provide an introduction to statistical methods and will serve as a prequel to
+ESE502. Topics covered will include exploratory univariate analysis, correlation and Chi-square
+analysis, t-tests and ANOVA. Non-parametric alternatives to the standard tests will be discussed. OLS
+regression, including assumptions and diagnostics, will be covered in detail. Heavy emphasis will be
+placed on the application of each method covered. The course will conclude with an introduction to
+spatial statistical methods and a brief overview of linear algebra and matrix notation for OLS and
+spatial regression. Students will learn to use JMP-IN, ArcGIS and GeoDa for data analysis.
+502. Web Based Gis. (B)
+503. (CPLN503) Modeling Geographical Objects. (A) Tomlin or Hillier.
+This course offers a broad and practical introduction to the acquisition, storage,
+retrieval,maintenance, use, and presentation of digital cartographic data with vector-oriented (i.e.
+drawing based) geographic information systems (GIS) for a variety of environmental science,
+planning, and management applications. Previous experience in GIS is not required.
+SM 504. Business and Crime Geographics. (B) Amos.Prerequisite(s): Prior experience with
+ArcGIS.
+In this hands-on course, students will learn how to use ESRI Business Analyst software and data to
+undertake real estate and social service market studies, business location studies, and consumer
+expenditure profiles. New this year, the course will also explore techniques and software for tracking
+and forecasting crime; and deploying police resources.
+505. Web-based Mapping. (B) Landis and Dailey.Prerequisite(s): CPLN 670 / LARP 743.
+This hands-on course will teach students how to develop and implement web-and internet-based
+mapping tools and applications using ESRI's ArcGIS Server and ArcGIS Online products as well as
+the GoogleMaps Applications Programming Interface (API). Students will learn how to use web-based
+tools to build spatial databases, analyze and display spatial data at multiple scales, mix web-based
+vector and raster data with image data, conduct spatial analysis and develop urban and
+environmental planning applications.
+506. Business and Crime Geographics. (B)
+
+Page 1 of 2
+
+URBAN SPATIAL ANALYTICS
+(FA) {USA}
+507. (CPLN590) Spatial Analysis for Urban and Environmental Planning. (A) Steif.Prerequisite(s):
+MUSA 501 or CPLN 503 or equivalent.
+This course builds on prior knowledge of GIS and basic statistics to help students to develop GIS and
+spatial analysis applications for use in urban and environmental planning and management. Each
+weekly session will focus on a particular analytical approach (e.g., buffering, geo-processing, map
+algebra, network analysis) as applied to a particular urban or environmental planning tasks (e.g.,
+identification of development opportunities, prioritizing conservation lands, urban growth modeling,
+housing price modeling). The format of the class includes weekly lectures/in-class demos; and weekly
+homework assignments. The course will make extensive use of ArcGIS and associate Extensions,
+especially Spatial Analyst, Network Analyst, and Business Analyst. One-year student versions of
+ArcGIS and ArcGIS extensions will be available free of charge at the City Planning Office. ArcGIS
+runs best on Windows machines; those with Macs will need to install a Windows emulator.
+610. (CPLN690) Javascript Programming for Planning Applications. (B) Faculty.
+This course will introduce city planning, MUSA and design graduate students to Java and Javascript.
+Students will learn the logic and syntax of the Java programming language for use in simple web
+applications (Weeks 1 to 7); as well as how to program database and map-oriented web and desktop
+applications using Javascript (Weeks 8 to 14). The "hands-on" uses of Java and Javascript in urban
+planning applications will be emphasized. Students will hone their programming and applications
+development skills through a series of bi-weekly assignments.
+800. MUSA Capstone Project. (C)
+
+Page 2 of 2
+
+

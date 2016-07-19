@@ -1,0 +1,154 @@
+ENGINEERING MATHEMATICS
+(EG) {ENM}
+
+375. Biological Data Science I - Fundamentals of Biostatistics. (C) Prerequisite(s): Sophomores
+and Juniors only.
+The purpose of this course is to provide students with skills to analyze and interpret small and large
+biological data sets. Fundamentals in probability and statistics will be taught through the use of
+homework problems, case studies and projects focused on computational analysis of biological data.
+Topics covered include: Populations and samples; random variable; discrete and continuous
+probability distributions; exploratory data analysis; descriptive statistics; confidence intervals;
+expectations; variances; central limit theorem; independence; hypothesis testing; fitting probability
+models; pvalues; goodness-of-fit tests; correlation coefficients; non-parametric tests; ANOVA; linear
+regression; bootstrapping; and maximum likelihood estimation.
+512. Nonlinear Dynamics and Chaos. (C) Prerequisite(s): MATH 240 or ENM 510, Senior or
+Master's standing in engineering.
+This course covers the essential mathematics behind continuous and discrete nonlinear dynamical
+systems with applications in Physics, Biology, Chemistry and Engineering. It covers one-dimensional,
+two-dimensional, three-dimensional and n-dimensional flows for continuous systems and onedimensional flows for discrete systems. It also covers Cantor's set theory and Fractals.
+220. Discrete Dynamical Systems and Chaos. (C) Prerequisite(s): MATH 103, MATH 104 and
+MATH 114 (Calculus of a Single Variable and some knowledge of Comples Numbers).
+This course will cover the mathematics behind the dynamics of discrete systems and difference
+equations. Topics include: Real function iteration, Converging and Diverging sequences, Periodic and
+chaotic sequences, Fixed-point, periodic-point and critical-point theories, Bifurcations and perioddoubling transitions to chaos, Symbolic dynamics, Sarkovskii's theorem, Fractals, Complex function
+iterations, Julia and Mandelbrot sets. In the past, mathematics was learned only through theoretical
+means. In today's computer age, students are now able to enjoy mathematics through experimental
+means. Using numerous computer projects, the student will discover many properties of discrete
+dynamical systems. In addition, the student will also get to understand the mathematics behind the
+beautiful images created by fractals. Throughout the course, applications to: Finance, Population
+Growth, Finding roots, Differential Equations, Controls, Game and Graph Problems, Networks,
+Counting Problems and other real-world systems will be addressed.
+L/R 251. Analytical Methods for Engineering. (B) Prerequisite(s): MATH 240 or equivalent along
+with sophomore standing in SEAS, or permission of the instructor(s).
+This course introduces students to physical models and mathematical methods that are widely
+encountered in various branches of engineering. Illustrative examples are used to motivate
+mathematical topics including ordinary and partial differential equations, Fourier analysis, eigenvalue
+problems, and stability analysis. Analytical techniques that yield exact solutions to problems are
+developed when possible, but in many cases, numerical calculations are employed using programs
+such as Matlab and Maple. Students will learn the importance of mathematics in engineering.
+321. Engineering Statistics. (C)
+This course covers the topics in probability and statistics with an emphasize on the application of
+probability theories and statistical techniques to practical engineering problems. Mathematical
+derivations of theorems will be presented whenever it is necessary to illustrate the concepts involved,
+however.
+
+Page 1 of 4
+
+ENGINEERING MATHEMATICS
+(EG) {ENM}
+L/R 427. (MEAM527) Finite Elements and Applications. (A) Prerequisite(s): MATH 241 or ENM 251
+and PHYS 151.
+The objective of this course is to equip students with the background needed to carry out finite
+elements-based simulations of various engineering problems. The first part of the course will outline
+the theory of finite elements. The second part of the course will address the solution of classical
+equations of mathematical physics such as Laplace, Poisson, Helmholtz, the wave and the Heat
+equations. The third part of the course will consist of case studies taken from various areas of
+engineering and the sciences on topics that require or can benefit from finite element modeling. The
+students will gain hand-on experience with the multi-physics, finite element package FemLab.
+L/R 502. Numerical Methods and Modeling. (B) Sinno.Prerequisite(s): Knowledge of a computer
+language, Math 240 and 241; ENM 510 is highly recommended; or their equivalents.
+Numerical modeling using effective algorithms with applications to problems in engineering, science,
+and mathematics, and is intended for graduate and advanced undergraduate students in these areas.
+Interpolation and curve fitting, numerical integration, solution of ordinary and partial differential
+equations by finite difference, and finite element methods. Includes use of representative numerical
+software packages such as MATLAB PDE Toolbox.
+503. Introduction to Probability and Statistics. (A) Prerequisite(s): MATH 240 or equivalent.
+Introduction to combinatorics: the multiplication rule, the pigeonhole principle, permutations,
+combinations, binomial and multinomial coefficients, recurrence relations, methods of solving
+recurrence relations, permutations and combinations with repetitions, integer linear equation with unit
+coefficients, distributing balls into urns, inclusion-exclusion, an introduction to probability. Introduction
+to Probability: sets, sample setsevents, axioms of probability, simple results, equally likely outcomes,
+probability as a continuous set function and probability as a measure of belief, conditional probability,
+independent events, Bayes' formula, inverting probability trees. Random Variables: discrete and
+continuous, expected values, functions of random variables, variance. Some Special Discrete
+Random Variables: Bernoulli, Binomial, Poisson, Geometric, Pascal (Negative Binomial)
+Hypergeometric and Poisson.
+Some Special Continuous Random Variables: Uniform, Exponential, Gamma, Erlang, Normal, Beta
+and Triangular. Joint distribution functions, minimum and maximum of independent random variables,
+sums of independent random variables, reproduction properties. Properties of Expectation: sums of
+random variables, covariance, variance of sums and correlations, moment-generating function. Limit
+theorems: Chebyshev's inequality, law of large numbers and the central-limit theorem. Extra Topics:
+Generating random numbers and simulation, Monte-Carlo methods, The Poisson Process and
+Queueing Theory, Stochastic Processes and Regular Markov Chains, Absorbing Markov Chains and
+Random Walks.
+510. Foundations of Engineering Mathematics - I. (A) Prerequisite(s): MATH 240, MATH 241 or
+equivalent.
+This is the first course of a two semester sequence, but each course is self contained. Over the two
+semesters topics are drawn from various branches of applied mathematics that are relevant to
+engineering and applied science. These include: Linear Algebra and Vector Spaces, Hilbert spaces,
+Higher-Dimensional Calculus, Vector Analysis, Differential Geometry, Tensor Analysis, Optimization
+and Variational Calculus, Ordinary and Partial Differential Equations, Initial-Value and Boundary-Value
+Problems, Green's Functions, Special Functions, Fourier Analysis, Integral Transforms and Numerical
+Analysis. The fall course emphasizes the study of Hilbert spaces, ordinary and partial differential
+equations, the initial-value, boundary-value problem, and related topics.
+
+Page 2 of 4
+
+ENGINEERING MATHEMATICS
+(EG) {ENM}
+511. Foundations of Engineering Mathematics - II. (B) Prerequisite(s): ENM 510 or equivalent.
+Vector Analysis: space curves, Frenet - Serret formulae, vector theorems, reciprocal systems, co and
+contra variant components, orthogonal curvilinear systems. Matrix theory: Gauss-Jordan elimination,
+eigen values and eigen vectors, quadratic and canonical forms, vector spaces, linear independence,
+Triangle and Schwarz inequalities, n-tuple space.Variational calculus: Euler-Lagrange equation, Finite
+elements, Weak formulation, Galerkin technique, FEMLAB. Tensors: Einstein summation, tensors of
+arbitrary order, dyads and polyads, outer and inner products, quotient law, metric tensor, Euclidean
+and Riemannian spaces, physical components, covariant differentiation, detailed evaluation of
+Christoffel symbols, Ricci's theorem, intrinsic differentiation, generalized acceleration, Geodesics.
+520. Principles and Techniques of Applied Math I. (A) Prerequisite(s): Basic theory of ordinary and
+partial differential equations.
+This course is targeted to engineering PhD students in all areas. It will focus on the stud of linear
+spaces (both finite and infinite dimensional) and of operators defined on such spaces. This course will
+also show students how powerful methods developed by the study of linear spaces can be used to
+systematically solve problems in engineering. The emphasis in this course will not be on abstract
+theory and proofs but on techniques that can be used to solve problems. Some examples of
+techniques that will be studied include, Fourier eries, Green's functions for ordinary and partial
+differential operators, eigenvalue problems for ordinary differential equations, singular value
+decomposition of matrices, etc.
+L/R 521. Principles and Techniques of Applied Math II. (B)
+This course is a continuatin of ENM 520 (or equivalent) and deals with classcial methods in applied
+mathematics. The topics to be covered include: Functions of a Complex Variable, Partial Differential
+Equations, Asymptotic and Perturbawtin Methods, and Convex Analysis and Variational Methods.
+601. Special Topics in Engineering Mathematics - Nonlinear Dynamics and Chaos. (B)
+Prerequisite(s): Permission of Instructor.
+This course covers the essential mathematics behind continuous and discrete nonlinear dynamical
+systems with applications in Physics, Biology, Chemistry and Engineering. It covers one-dimensional,
+two-dimensional, three-dimensional and n-dimensional flows for continuous systems and onedimensional flows for discrete systems. It also covers Cantor's set theory and Fractals.
+540. Topics In Computational Science and Engineering. (M) Prerequisite(s): Background in
+ordinary and partial differential equations; proficiency in a programming language such as MATLAB,
+C, or Fortran.
+This course is focused on techniques for numerical solutions of ordinary and partial differential
+equations. The content will include: algorithms and their analysis for ODEs; finite element analysis for
+elliptic, parabolic and hyperbolic PDEs; approximation theory and error estimates for FEM.
+
+Page 3 of 4
+
+ENGINEERING MATHEMATICS
+(EG) {ENM}
+600. Functional Analysis. (C) Prerequisite(s): ENM 500, ENM 501 or ENM 510, ENM 511 or
+equivalent.
+This course teaches the fundamental concepts underlying metric spaces, normed spaces, vector
+spaces, and inner-product spaces. It begins with a discussion of the ideals of convergence and
+completeness in metric spaces and then uses these ideas to develop the Banach fixed-point theorem
+and its applications to linear equations, differential equations and integral equations. The course
+moves on to a study of normed spaces, vector spaces, and Banach spaces and operators defined on
+vector spaces, as well as functional defined between vector spaces and fields. The course then
+moves to the study of inner product spaces, Hilbert spaces, orthogonal complements, direct sums,
+and orthonormal sets. Applications include the study of Legendre, Hermite, Laguerre, and Chebyshev
+polynomials, and approximation methods in normed spaces. The course then concludes with a study
+of eigenvalues and eigenspaces of linear operators and spectral theory in finite-dimensional vector
+spaces.
+
+Page 4 of 4
+
+

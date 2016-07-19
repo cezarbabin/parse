@@ -1,0 +1,17 @@
+MARKET & SOCIAL SYSTEM ENGNEER
+(EG) {MKSE}
+
+312. Theory of Networks. (C) Prerequisite(s): ESE 301 and MATH 312.
+Networks are ubiquitous in our modern society, playing an increasingly larger role in everyday life.
+These include: Social Networks such as Facebook or Twitter, infrastructure networks such as the
+Internet, or energy networks such as the electric grid. Network Science and Engineering is a new
+discipline that investigates the structure of large complex networks and their behavior and
+properties, and then designing technologies that control and manipulate their behaviors to bring
+about greater benefits to society. In this course students will learn some of the basic tools, methods,
+and algorithms for analysis of networked systems, as well as practical applications of this new
+science.
+150. Mkt/Soc Sys on Internet. (C)
+
+Page 1 of 1
+
+

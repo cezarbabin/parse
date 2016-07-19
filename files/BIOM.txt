@@ -1,0 +1,86 @@
+BIOMEDICAL GRADUATE STUDIES
+(MD) {BIOM}
+501. Mechanisms of Disease and Therapeutic Interventions. (C) Dr. Mitch Lewis and Dr. Carolyn
+Cambor.Prerequisite(s): BIOM 600 Cell Biology and Biochemistry.
+This is the first offering of a graduate course in cellular pathology analgous to an existing medical
+course with the same name. The course was designed to complement BIOM 600 Cell Biology. This
+course will cover basic cellular pathology and the five basic pathological processes that underlie all
+diseases: cellular responses to injury, tissue response to injury, tissue repair processes, hemodynamic
+disorders and neoplasia. The course consists of virtual lectures, reading assignments, and one
+discussion class each week. Sufficient background in immunology and genetics will be provided as it
+relates to pathological processes.
+502. Molecular Basis of Disease I. (B) Dr. Hao Shen and John Lynch.Prerequisite(s): Permission of
+course directors. This course is reserved for BGS students only. BIOM 502 introduces students to
+basic mechanisms of disease and examines ~8 diseases in detail. The specific diseases chosen for
+discussion may vary year to year. The focus of the course will be on understanding the
+pathophysiology of the diseases and how research has enhanced not only our knowledge of disease
+mechanisms but has also led to improved therapy for patients with these diseases. Students will
+spend 1-2 weeks on each disease. Students will use materials from the medical school curriculum for
+background information and will use journal articles for class discussion.
+SM 510. Case Studies in Translational Research (CSTR). (A) Drs. Mitch Weiss, Emma Meagher
+and Skip Brass. This course starts on August 27, 2007. It is held on either Monday or Wednesday from
+2 - 3:30 pm
+This course is open to MD/PhD, VMD/PhD and Biomedical Graduate Studies PhD students. All
+second year combined degree students are expected to take this course unless excused by Dr. Brass.
+Enrollment is limited to 24 students but interested VMD/PhD and BGS students are welcome as space
+permits
+CSTR is a seminar style course where groups of students work with selected Penn faculty to
+prepare a discussion and literature review on disease topics. Topics will include gene therapy for
+hemophilia, retinal disease and wound healing, cytokine therapies for immune disorders, genetic sleep
+disturbances and vaccine delopment. Most of the course will focus on the analysis of successful
+translational research projects that are taking place here at Penn.
+515. Public Health Certificate Program.
+555. Regulation of the Genome. (B) Drs. Zhaolan Zhou and Ben Black.Prerequisite(s): Permission of
+Instructors.
+Regulation of gene expression including chromatin structure, transcription, DNA modification, RNA
+processing, translation, control of gene expression via microRNAs and post-translationalprocessing.
+590. INTRO SUMMER SESSION. (L)
+599. GTMS Clinical Clerkship.
+
+Page 1 of 2
+
+BIOMEDICAL GRADUATE STUDIES
+(MD) {BIOM}
+600. Cell Biology. (A) Dr. Richard Assoian, Director. Dr. Kurt Engleka, Assistant Course Director.
+Theme Directors: Drs. Mickey Marks, John Weisel, Toshi Hoshi, and Xiaolu Yang.Prerequisite(s):
+Permission of Instructor.
+BIOM 600 is an intermediate level graduate course designed to introduce students to the molecular
+components and physiological mechanisms that underlie the structure and function of cells. The
+course is designed as an in-depth survey to cover general concepts central to the field of biochemistry
+and cell biology and to emphasize these concepts within the context of current scientific research
+questions and technical approaches. Lectures will focus on recent discoveries in contemporary cell
+biology involving (i) basic cellular biochemistry; (ii) mechanisms of membrance transport and
+excitability; (iii) intracellular compartmentalization and protein/vesicle targeting, organelle biogenesis;
+(iv) cytoskeletal arthitecture, cell motility and adhesion; and (v) molecular mechanisms of signal
+transduction. Efforts will be made to familiarize students with recent technical advances in molecular,
+biochemical, microscopic, spectroscopic, and electrophysiologic techniques.
+611. Biological Data Analysis. (B) Mary Putt, PhD.Prerequisite(s): Students with a strong
+quantitative background may wish to consult their advisors about the possibility of taking a statistics
+course with more rigorous mathematical underpinnings.
+BIOM 611 is a 1cu introductory course required for 1st year BGS students. The course provides an
+overview of fundamental concepts in biostatistics. The first half of the course explores fundamental
+statistical concepts including random variables and probability distributions, sources of variation,
+experimental design, hypothesis testing and confidence intervals. Both parametric and non-parametric
+(permutation and rank-based) approaches to inference will be discussed. During the first half of the
+semester we will introduce the software package R (in Rstudio) and illustrate how to manipulate data
+in R, explore and graph data, conduct simple tests, create confidence intervals and choose a sample
+size for a simple two-group comparisons. Approaches to developing reproducible code will be
+illustrated. During the second half of the course, we will explore analysis of variance, regression
+modeling and categorical data analysis both in class and in lab. The course emphasizes (1) the
+understanding of statistics through computational approaches rather than mathematical derivations
+and formulae and (2) the selection, application and interpretation of basic statistical methods
+appropriate to data arising from the basic biological sciences.
+There will be a lecture on Tuesdays from 11-12:30 pm and labs on Wednesday, Thursday or Friday
+from 3:30 - 5:00 pm. Students will need to bring their own laptop and will be expected to pick a lab day
+and stick with that day throughout the semester. Also, there will be a optional review/homework
+session on Mondays from 3:30 - 5:00 pm.We will carry out activities to help understand fundamental
+concepts in statistics. Both the lecture and lab will requiure a laptop with access to the internet. Some
+of these activities will use INZIGHT, a free R-based software platform out of the University of New
+Zealand.
+799. Independent Study..
+895. (BE 895) Methods in BE Education..
+995. EXCHANGE SCHOLAR DISS.
+
+Page 2 of 2
+
+

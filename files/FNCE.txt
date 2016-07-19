@@ -1,0 +1,668 @@
+FINANCE
+(WH) {FNCE}
+100. Corporate Finance. (C) Prerequisite(s): ECON 10 or ECON 001 or ECON 002, MATH 104,
+ACCT 101 and STAT 101. Acct 101 and Stat 101 may be taken concurrently.
+This course provides an introduction to the theory, the methods, and the concerns of corporate
+finance. The concepts developed in FNCE 100 form the foundation for all elective finance courses. The
+main topics include: 1) the time value of money and capital budgeting techniques; 2) uncertainty and
+the trade-off between risk and return; 3) security market efficiency; 4) optimal capital structure, and 5)
+dividend policy decisions. During the fall semester there are honors sections of FNCE 100 offered. The
+seats in the honors sections are awarded through an application process. Please go to https://
+fnce.wharton.upenn.edu/programs/course-applications/ for additional information.
+101. Monetary Economics and the Global Economy. (C) Prerequisite(s): ECON 10 or ECON 001
+and ECON 002 and MATH 104. Students cannot receive credit for both FNCE 101 and ECON 102
+WHARTON STUDENTS ARE REQUIRED TO TAKE FNCE101.
+This is an intermediate-level course in macroeconomics and the global economy, including topics in
+monetary and international economics. The goal is to provide a unified framework for understanding
+macroeconomic events and policy, which govern the global economic environment of business. The
+course analyzes the determinants and behavior of employment, production, demand and profits;
+inflation, interest rates, asset prices, and wages; exchange rates and international flows of goods and
+assets; including the interaction of the real economy with monetary policy and the financial system.
+The analysis is applied to current events, both in the US and abroad. During the spring semester there
+are honors sections of FNCE 101 offered. The seats in the honors sections are awarded through an
+application process. Please go to https://fnce.wharton.upenn.edu/programs/course-applications/ for
+additional information.
+203. Advanced Corporate Finance. (C) Prerequisite(s): FNCE 100, (FNCE 611), FNCE 101, (FNCE
+613) STAT 101, and STAT 102. Professor Opp and Professor Galla do not require FNCE 101 as a
+prerequisite.
+The objective of this course is to study the major decision-making areas of managerial finance and
+some selected topics in financial theory. The course reviews the theory and empirical evidence related
+to the investment and financing policies of the firm and attempts to develop decision-making ability in
+these areas. This course serves as an extension of FNCE 100 (FNCE 611). Some are as of financial
+management not covered in FNCE 100 are covered in FNCE 203. These may include leasing,
+mergers and acquisitions, corporate reorganizations, financial planning and working capital
+management, and some other selected topics. Other areas that are covered in FNCE 100 are covered
+more in depth and more rigorously in FNCE 203. These include investment decision making under
+uncertainty, cost of capital, capital structure, pricing of selected financial instruments and corporate
+liabilities, and dividend policy. During the Spring semester, Professor Opp does not allow students to
+take this course pass/fail.
+205. Investment Management. (C) Prerequisite(s): The prequisites for Undergraduates are FNCE
+100, and STAT 101-102 (STAT 102 may be taken concurrently with this course. Given that investment
+management requires one to analyze and deal effectively with uncertainty, a good grounding in
+statistics is essential, and familarity with statistics should extend through multiple regression,
+covariance, and correlation.
+This course studies the concepts and evidence relevant to the management of investment portfolios.
+Topics include diversification, asset allocation, portfolio optimization, factor models, the relation
+between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short)
+strategies, mutual funds, performance evaluation, long-horizon investing and simulation. The course
+deals very little with individual security valuation and discretionary investing (i.e., "equity research" or
+"stock picking").
+
+Page 1 of 14
+
+FINANCE
+(WH) {FNCE}
+206. (FNCE717) Financial Derivatives. (C) Prerequisite(s): The following introductory Finance and
+Statistics courses are recommended but not required. FNCE 101 and STAT 102 are recommended
+and can be taken concurrently.
+The purpose of this course is to provide the student with the necessary skills to value and to employ
+options, futures, and related financial contracts. In order to provide a useful treatment of these topics
+in an environment that is changing rather rapidly, it is necessary to stress the fundamentals and to
+explore the topics at a technical level. The topics that will be covered include the valuation of futures
+contracts on stock indices, on commodities and Treasury instruments; the valuation of options;
+empirical evidence; strategies with respect to these assets; dynamic asset allocation strategies, of
+which portfolio insurance is an example; swaps; and the use (and misuse) of derivatives in the context
+of corporate applications. One-third of the course will be devoted to futures, a third to options, and a
+third to their applications. Many of the applications will be sprinkled along with the coverage of futures
+and options.
+207. Corporate Valuation. (C) Prerequisite(s): FNCE 100, (FNCE 611) ACCT 101, AND STAT 101
+111 OR EQUIVALENT ACCT 101 RECOMMENDED.
+The focus of this course is on the valuation of companies. Topics discussed include discounted cash
+flow techniques and valuation using alternative valuation techniques such as price multiples.
+Emphasis is on developing the required information for valuation from financial statements and other
+information sources.
+208. International Corporate Finance. (A) Prerequisite(s): A thorough knowledge of FNCE 100
+(FNCE 611) is assumed.
+Analyzes financial problems corporations face that result from operating in an international
+environment. Major topics include managing exchange risk through hedging and financing, measuring
+exchange rate exposure, calculating the cost of capital for foreign operations, assessment of sovereign
+risks, capital budgeting from a project and parent perspective, and international taxation.
+209. (FNCE721, REAL209, REAL721) Real Estate Investment: Analysis and Financing. (C)
+Prerequisite(s): FNCE 100.
+This course provides a broad introduction to real estate with a focus on investment and financing
+issues. Project evaluation, financing strategies, investment decision making and real estate capital
+markets are covered. No prior knowledge of the industry is required, but students are expected to
+rapidly acquire a working knowledge of real estate markets. Classes are conducted in a standard
+lecture format with discussion required. The course contains cases that help students evaluate the
+impact of more complex financing and capital market tools used in real estate. There are case studies
+and two midterms, depending on instructor.
+220. International Banking. (A) Prerequisite(s): FNCE 100, FNCE 101.
+This course focuses on international financial institutions and international banking activities. We will
+examine how current and historical events are reshaping the industry. We will focus on the basic
+analytics of managing a bank's exposure to liquidity, credit, market and country risk. In addition, we
+will consider how to evaluate and compare the risk exposures and performance of individual banks.
+Throughout the semester we will discuss public policy issues such as international debt crises and
+regulation.
+
+Page 2 of 14
+
+FINANCE
+(WH) {FNCE}
+219. International Financial Markets. (C) Prerequisite(s): FNCE 100, (FNCE 611), FNCE 101,(FNCE
+613) STAT 101.
+This course focuses on international financial markets and exchange rates. Topics include pricing in
+the foreign currency and Eurocurrency markets, use of forward exchange for hedging, short-term
+returns and market efficiency in the international money markets, foreign currency options,
+international capital asset pricing, pricing of foreign currency bonds, currency swaps, Eurocurrency
+syndicated loans, foreign currency financing and exposure management.
+230. (BEPP230, REAL230) Urban Fiscal Policy. (A) Robert Inman.Prerequisite(s): FNCE 101 and
+ECON 001.
+The purpose of this course is to examine the financing of governments in the urban economy. Topics
+to be covered include the causes and consequences of the urban fiscal crisis, the design of optimal
+tax and spending policies for local governments, funding of public infrastructures and the workings of
+the municipal bond market, privatization of government services, and public financial systems for
+emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as
+important determinants of real estate prices, the infrastructure crisis, financing and the provision of
+public education, and fiscal constitutions for new democracies using South Africa as an example.
+235. Fixed Income Securities. (C) Prerequisite(s): FNCE 100 and STAT 621.
+This course covers fixed income securities (including fixed income derivatives) and provides an
+introduction to the markets in which they are traded, as well as to the tools that are used to value
+these securities and to assess and manage their risk. Quantitative models play a key role in the
+valuation and risk management of these securities. As a result, although every effort will be made to
+introduce the various pricing models and techniques as intuitively as possible and the technical
+requirements are limited to basic calculus and statistics, the class is by its nature quantitative and will
+require a steady amount of work. In addition, some computer proficiency will be required for the
+assignments, although familiarity with a spreadsheet program (such as Microsoft Excel) will suffice.
+238. Capital Markets. (C) Prerequisite(s): FNCE 100,(FNCE 611), FNCE 101 (FNCE 613).
+The objective of this course is to give you a broad understanding of the framework and evolution of
+U.S. capital markets, the instruments that are traded, the mechanisms that facilitate their trading and
+issuance, and the motivations of issuers and investors across different asset classes. The course will
+highlight the problems that capital market participants are seeking to solve, which you can use in your
+post-Wharton careers to evaluate future market innovations. We will consider design, issuance, and
+pricing of financial instruments, the arbitrage strategies which keep their prices in-line with one
+another,and the associated economic and financial stability issues. We will draw from events in the
+aftermath of the recent financial crisis, which illustrate financing innovations and associated risks, as
+well as policy responses that can change the nature of these markets.
+239. Behavioral Finance. (C) Prerequisite(s): FNCE 100, FNCE 101. Recommended: FNCE 205 and
+FNCE 203.
+There is an abundance of evidence suggesting that the standard economic paradigm - rational agents
+in an efficient market - does not adequately describe behavior in financial markets. In this course, we
+will survey the evidence and use psychology to guide alternative theories of financial markets. Along
+the way, we will address the standard argument that smart, profit-seeing agents can correct any
+distortions caused by irrational investors. Further, we will examine more closely the preferences and
+trading decisions of individual investors. We will argue that their systematic biases can aggregate into
+observed market inefficiencies. The second half of the course extends the analysis to corporate
+decision making. We then explore the evidence for both views in the context of capital structure,
+investment, dividend, and merger decisions.
+
+Page 3 of 14
+
+FINANCE
+(WH) {FNCE}
+250. Venture Capital and the Finance of Innovation. (C) Prerequisite(s): FNCE 100 (FNCE 611) and
+FNCE 101 (FNCE 613)- (FNCE 101-FNCE 613 may be taken concurrently).
+This course covers the finance of technological innovation, with a focus on the valuation tools useful in
+the venture capital industry. These tools include the "venture capital method," comparables analysis,
+discounted cash flow analysis, contingent-claims analysis. The primary audience for this course is
+finance majors interested in careers in venture capital or in R&D-intensive companies in health care or
+information technology.
+385. ASP FIN-TECH. Prerequisite(s): A thorough knowledge of FNCE 100 is assumed.
+The course exposes students to this fast-growing and exciting intersection between finance (Fin) and
+technology (Tech) while emphasizing the role data and analytics play. The course is structured around
+three main FinTech areas: (i) Lending/Banking services, (ii) Clearing (iii) Trading. It provides specific
+coverage and examples of developments from(1) peer-to-peer lending, (2) blockchain and distributed
+ledgers, (3) networks and their use in trading, and (4) algo trading and its use of non-standard inputs.
+In each of these areas, we start by analyzing the marketplace, and the incumbents, and the business
+case and strategies of the incoming technology-based players, while understanding the role data and
+analytics play in driving the technology-based services. The course is built arund a large number of
+examples and cases, guest lectures, student presentations, and group projects. Student are thus
+expected to work in teams and demonstrate a high level of independent learning and initiative.
+251. The Finance of Buyouts and Acquisitions. Prerequisite(s): FNCE 100 (FNCE611), FNCE 101
+(FNCE 613), Co-Requisite FNCE 203 (FNCE 726) Advanced Corporate Finance or FNCE 207 (FNCE
+728) Corporate Valuation. FORMAT: Lectures, cases, and guest speakers. Grading: Class
+participation, two students projects, two exams.
+The course focuses on financial tools, techniques, and best practices used in buyouts (financial
+buyers) and acquisitions (strategic buyers). While it will touch upon various strategic, organizational,
+and general management issues, the main lens for studying these transactions will be a financial one.
+It will explore how different buyers approach the process of finding, evaluating, and analyzing
+opportunities in the corporate-control market; how they structure deals and how deal structure affects
+both value creation and value division; how they add value after transaction completion; and how they
+realize their ultimate objectives (such as enhanced market position or a profitable exit). The course is
+divided into two broad modules. The first module covers mergers and acquisitions, and the second
+one studies buyouts by private equity partnerships. During the spring semester this course cannot be
+taken pass/fail.
+256. Finance Energy. (C) Professor Erik Gilje.Prerequisite(s): FNCE 203-Advanced Corporate
+Finance or FNCE 207-Corporate Valuation. Students who receive permission to enroll without the
+prerequisites are expected to review the relevant topics as necessary to meet the requirements of the
+class.
+The objective of this course is to provide students with detailed knowledge of corporate structures,
+valuation methods, project finance, risk management practices, corporate governance issues, and
+geo-political risks in the energy industry. In general, this course seeks to provide students with an
+overall context for understanding energy issues and risks, and how these might affect financing and
+investment decisions for both providers of energy and end-users of energy.
+
+Page 4 of 14
+
+FINANCE
+(WH) {FNCE}
+SM 383. Strategic Equity Finance. (B) Professor David Musto and Professor David
+Erickson.Prerequisite(s): FNCE 100 - Corporate Finance.
+This course combines lectures and cases, and will go through actual situations where companies
+need to make strategic decisions on raising equity capital. Wewill address different phases of a
+company's life cycle. Through these cases, from the decision-makers perspective, we will explore the
+different paths that can be taken and consider issues such as investor activism, governance and
+regulatory and valuation impact. FNCE 383 is a half semester course offered in Q3 during the spring
+semester.
+397. (FNCE897) Finance In The Middle East & North Africa. Professor Bulent Gultekin, Finance
+Department and Professor Michael J.T. McMillen, Penn Law School. Course Format - This course will
+be taught through cases and lectures. Guest Lecturers - Distinguished practitioners will lecture and
+conduct case discussions. Our guest lecturers will bring their experience and insights to the
+classroom.
+This is a Wharton Global Modular Course on finance in the Middle East and North Africa. Its objective
+is to bring students, academics and industry experts together to study financial markets, practice, and
+institutions in this region.
+399. Supervised Study in Finance. Prerequisite(s): Senior standing, 3.4 grade point average, and
+permission of a Finance Department standing faculty member.
+Integrates the work of the various courses and familiarizes the student with the tools and techniques
+of research.
+603. Basics Of Finance.
+FNCE 603 prepares students for the basic corporate finance class, FNCE 611. It covers the
+fundamental characteristics of stocks, bonds, and options and net present value. The course will
+demonstrate how to use Microsoft Excel and a financial calculator to perform these calculations.
+Inactive
+611. (FNCE100) Corporate Finance. Prerequisite(s): ACCT 611/612/613; MGEC 612/611; STAT
+613/621 prerequisite or concurrent.
+This course serves as an introduction to business finance (corporate financial management and
+investments) for both non-majors and majors preparing for upper-level course work. The primary
+objective is to provide the framework, concepts, and tools for analyzing financial decisions based on
+fundamental principles of modern financial theory. The approach is rigorous and analytical. Topics
+covered include discounted cash flow techniques; corporate capital budgeting and valuation;
+investment decisions under uncertainty; capital asset pricing; options; and market efficiency. The
+course will also analyze corporate financial policy, including capital structure, cost of capital, dividend
+policy, and related issues. Additional topics will differ according to individual instructors.
+615. Macroeconomics and The Global Economic Environment (Half CU). Prerequisite(s): FNCE
+611 or FNCE 612.
+FNCE 615 Introduction To Macroeconomics and The Global Economic Environment (Half Cu) is
+intended for non-finance majors. It is a half-semester course in macroeconomics, with an emphasis on
+current events and policy applications. The goal of this course is to provide the foundation needed to
+recognize and understand broad economic and financial movements in the global economy. Key topics
+include national income accounting, production and economic growth, employment, business cycles,
+monetary and fiscal policy, and international finance. By the end of this course, students will be able to
+evaluate and discuss the global economic environment in which business and financial decisions are
+made. PLEASE NOTE: This course will not count towards a Finance Major
+
+Page 5 of 14
+
+FINANCE
+(WH) {FNCE}
+612. Accelerated Corp Finance. Q-1 Half Semester course
+This course is intended for students with prior knowledge of finance or with strong analytical
+backgrounds. Together with the pre-term preparation course (FNCE604) the foundation for subsequent
+courses in corporate finance, corporate valuation, investments, and financial derivatives. Its purpose is
+to develop a framework for analyzing a firm's investment and financial decisions. This course will start
+where FNCE604 ends. More precisely, it will provide an introduction to capital budgeting techniques
+under uncertainty, asset valuation, the operation and efficiency of capital markets, the optimal capital
+structure and dividend policy of the firm and options. In short, it will cover all the topics of a typical
+semester-long finance introductory class in six weeks. This course assumes that students are familiar
+with the material covered in FNCE 604. As a result, it is only available to those students who
+successfully passed the Finance Placement Exam at the end of the pre-term. This course is not
+suitable for students new to finance and with limited analytical backgrounds. This course is hard. The
+pace is fast and it requires a major investment of time and effort outside class.
+613. Macroeconomics and the Global Economic Environment.
+This course is required for all students except those who, having prior training in macroeconomics,
+money and banking, and stabilization policy at an intermediate or advanced level, can obtain a waiver
+by passing an examination. The purpose of FNCE 613 is to train the student to think systematically
+about the current state of the economy and macroeconomic policy, and to be able to evaluate the
+economic environment within which business and financial decisions are made. The course
+emphasizes the use of economic theory to understand the workings of financial markets and the
+operation and impact of government policies. Specifically, the course studies the determinants of the
+level of national income, employment, investment, interest rates, the supply of money, inflation,
+exchange rates, and the formulation and operation of stabilization policies.
+614. Corporate Finance ( Half CU). Prerequisite(s): ACCT 611/612/613; MGEC 612/611; STAT
+613/621 prerequisite or concurrent.
+This course serves as an introduction to corporate investments for non-majors. The primary objective
+is to provide a framework, concepts, and tools for analyzing financial decisions based on fundamental
+principles of modern financial theory. The approach is rigorous and analytical. Topics covered include
+discounted cash flow techniques, corporate capital budgeting and valuation, investment decisions
+under uncertainty, and capital asset pricing. This course will not cover the following topics included in
+FNCE 611, the full semester Corporate Finance course: market efficiency, corporate financial policy
+(including capital structure, cost of capital, dividend policy, and related issues), and options. Please
+Note: This course will not count towards the Finance Major. Format: Primarily lecture. Grading based
+on problem sets, one or two cases, and a final exam.
+717. (FNCE206) Financial Derivatives. (C) Prerequisite(s): The following introductory Finance and
+Statistics courses are recommended but not required. FNCE 611 or FNCE 612; STAT 613: FNCE 613
+may be taken concurrently.
+The purpose of this course is to provide the student with the necessary skills to value and to employ
+options, futures, and related financial contracts. In order to provide a useful treatment of these topics
+in an environment that is changing rather rapidly, it is necessary to stress the fundamentals and to
+explore the topics at a technical level. The topics that will be covered include the valuation of futures
+contracts on stock indices, on commodities and Treasury instruments; the valuation of options,
+empirical evidence, strategies with respect to these assets, dynamic asset allocation strategies, or
+which portfolio insurance is an example, swaps, and the use (and misuse) of derivatives in the context
+of corporate applications. One-third of the course will be devoted to futures, a third to options, and a
+third to their applications. Many of the applications will be sprinkled along with the coverage of futures
+and options.
+
+Page 6 of 14
+
+FINANCE
+(WH) {FNCE}
+719. International Financial Markets. (C) Prerequisite(s): FNCE 611 or FNCE 612; FNCE613 may
+be taken concurrently.
+FNCE 719 is a course on international financial markets and exchange rates. Topics include pricing in
+the foreign currency and Eurocurrency markets, use of forward exchange for hedging, short-term
+returns and market efficiency in the international money markets, foreign currency options,
+international capital asset pricing, pricing of foreign currency bonds, currency swaps, Eurocurrency
+syndicated loans, foreign currency financing and exposure management.
+720. Investment Management. (C) Prerequisite(s): The prerequisites for MBA students are FNCE
+611 or FNCE 612; and STAT 613 or STAT 621 Given that investment management requires one to
+analyze and deal effectively with uncertainty, a good grounding in statistics is essential, and familarity
+with statistics should extend through multiple regression, covariance, and correlation.
+This course studies the concepts and evidence relevant to the management of investment portfolios.
+Topics include diversification, asset allocation, portfolio optimization, factor models, the relation
+between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short)
+strategies, mutual funds, perfermance evaluation, long-horizon investing and simulation. The course
+deals very little with individual security valuation and discretionary investing (i.e., "equity research" or
+"stock picking").
+725. Fixed Income Securities. (A) Prerequisite(s): FNCE 611 and STAT 621.
+This course covers fixed income securities (including fixed income derivatives) and provides an
+introduction to the markets in which they are traded, as well as to the tools that are used to value
+these securities and to assess and manage their risk. Quantitative models play a key role in the
+valuation and risk management of these securities. As a result, although every effort will be made to
+introduce the various pricing models and techniques as intuitively as possible and the technical
+requirements are limited to basic calculus and statistics, the class is by its nature quantitative and will
+require a steady amount of work. In addition, some computer proficiency will be required for the
+assignments, although familiarity with a spreadsheet program (such as Microsoft Excel) will suffice.
+726. Advanced Corporate Finance. (C) Prerequisite(s): FNCE 611 or FNCE 612; FNCE 613.
+The objective of this course is to study the major decision-making areas of managerial finance and
+some selected topics in financial theory. The course reviews the theory and empirical evidence related
+to the investment and financing policies of the firm and attempts to develop decision-making ability in
+these areas. This course serves as an extension of FNCE 611. Some areas of financial management
+not covered in FNCE 611 are covered in FNCE 726. These may include leasing, mergers and
+acquisitions, corporate reorganizations, financial planning, and working capital management, and
+some other selected topics. Other areas that are covered in FNCE 611 are covered more in depth and
+more rigorously in FNCE 726. These include investment decision making under uncertainty, cost of
+capital, capital structure, pricing of selected financial instruments and corporate liabilities, and
+dividend policy.
+728. Corporate Valuation. (C) Prerequisite(s): Minimum of normal first-year courses in accounting,
+economics, statistics, and FNCE 611 or 612; FNCE 613 (further coursework in financial accounting
+such as ACCT 742 is very useful).
+The focus of this course is on the valuation of companies. Topics discussed include discounted cash
+flow techniques and valuation using alternative valuation techniques such as price multiples.
+Emphasis is on developing the required information for valuation from financial statements and other
+information sources.
+
+Page 7 of 14
+
+FINANCE
+(WH) {FNCE}
+730. (BEPP773, REAL730) Urban Fiscal Policy. (A) Dr. Robert Inman.Prerequisite(s): MGEC 621,
+FNCE 611. Lectures. There is a mid-term and final exam.
+The purpose of this course is to examine the financing of governments in the urban economy. Topics
+to be covered include the causes and consequences of the urban fiscal crisis, the design of optimal
+tax and spending policies for local governments, funding of public infrastructures and the workings of
+the municipal bond market, privatization of government services, and public financial systems for
+emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as
+important determinants of real estate prices, the infrastructure crisis, financing and the provision of
+public education, and fiscal constitutions for new democracies using South Africa as an example.
+731. International Corporate Finance. (A) Prerequisite(s): FNCE 611 or 612 - A thorough knowledge
+of Corporate Finance is assumed.
+This course analyzes financial problems corporations face that result from operating in an international
+environment. Major topics covered are corporate strategy and the decision to invest abroad,
+international portfolio diversification, managing exchange risk, taxation issues, cost of capital and
+financial structure in the multinational firm, and sources of financing. Departmental Website: https://
+fnce.wharton.upenn.edu/ Registration: Registration for MBA electives is handled through the MBA
+Course Auction. For questions about core courses or MBA electives that don't appear in the course
+auction please contact the MBA Program Office. Non-MBAs interested in graduate classes must work
+throught the academic department and the MBA Program Office.
+732. International Banking. (A) Prerequisite(s): FNCE 611 or 612; FNCE 613. One, but not both, can
+be taken concurrently.
+This course focuses on international financial institutions and international banking activities. We will
+examine how current and historical events are reshaping the industry. We will focus on the basic
+analytics of managing a bank's exposure to liquidity, credit, market and country risk. In addition, we
+will consider how to evaluate and compare the risk exposures and performance of individual banks.
+Throughout the semester we will discuss public policy issues such as international debt crises and
+regulation.
+751. The Finance of Buyouts and Acquisitions. Prerequisite(s): Pre-Requisites FNCE 611 and
+FNCE 613 (Or 612) - C0-Requisites FNCE 726 or FNCE 728 may be taken concurrently.
+The focus of this course is on buying (or acquiring controlling stakes in) firms. The main topics to be
+covered are mergers and friendly acquisitions, hostile takeovers and buyouts. Using case studies, the
+course surveys the drivers of success in the transactions. While issues regarding motive and strategy
+will be discussed, financial theory would be the main lens used to view these control acquiring
+transactions. This will allow students to (1) evaluate transactions through valuation approaches and (2)
+structure deals employing financial innovation as a response to legal framework and economic
+frictions. This course should be of interest to students interested in pursuing careers as private equity
+investors, advisors in investment banking and corporate managers that deal with these issues. This
+course assumes familiarity with valuation analysis. During the spring semester students are not
+permitted to take this course pass fail.
+
+Page 8 of 14
+
+FINANCE
+(WH) {FNCE}
+738. (FNCE238) Capital Markets. (C) Prerequisite(s): FNCE 611 or 612; FNCE 613.
+The objective of this course is to give you a broad understanding of the instruments traded in modern
+financial markets, the mechanisms that facilitate their trading and issuance, as well as, the motivations
+of issuers and investors across different asset classes. The course will balance functional and
+institutional perspectives by highlighting the problems capital markets participants are seeking to
+solve, as well as, the existing assets and markets which have arisen to accomplish these goals. We
+will consider design, issuance, and pricing of financial instruments, the arbitrage strategies which keep
+their prices in-line with one another,and the associated economic and financial stability issues. The
+course is taught in lecture format, and illustrates key concepts by drawing on a collection of case
+studies and visits from industry experts.
+739. Behavioral Finance. (C) Prerequisite(s): FNCE 611 or 612; FNCE 613. Recommended: FNCE
+720 and FNCE 726.
+There is an abundance of evidence suggesting that the standard economic paradigm - rational agents
+in an efficient market - does not adequately describe behavior in financial markets. In this course, we
+will survey the evidence and use psychology to guide alternative theories of financial markets. Along
+the way, we will address the standard argument that smart, profit-seeing agents can correct any
+distortions caused by irrational investors. Further, we will examine more closely the preferences and
+trading decisions of individual investors. We will argue that their systematic biases can aggregate into
+observed market inefficiencies. The second half of the course extends the analysis to corporate
+decision making. We then explore the evidence for both views in the context of capital structure,
+investment, dividend, and merger decisions.
+750. Venture Capital and the Finance of Innovation. (C) Prerequisite(s): FNCE 611 and FNCE 613 FNCE 613 may be taken concurrently.
+This course covers the finance of technological innovation, with a focus on the valuation tools useful in
+the venture capital industry. These tools include the "venture capital method," comparables analysis,
+discounted cash flow analysis, contingent-claims analysis, and real options. The primary audience for
+this course is finance majors interested in careers in venture capital or in R&D-intensive companies in
+health care or information technology.
+754. Impact Investing. Christopher Geczy, Ph.D..Prerequisite(s): Prerequisites This course has no
+specific prerequisites, but given its wide-ranging subject matter, students will benefit from completion
+of any of the following Wharton courses: FNCE 613 Macroeconomics and the Global Economic
+Environment; FNCE 720Investment Management; FNCE 738 Capital Markets; and FNCE 895 Private
+Equity. Coursework or practical experience in microeconomics, development economics, international
+philanthropy, Non-Governmental Organizations, financial risk management and political risk analysis
+will also be useful.
+This course explores Impact Investing, a discipline that seeks to generate social benefits as well as
+financial returns. From tiny beginnings, the Impact Investment space has expanded and now
+commands significant attention from policymakers, wealthy and public-spirited individuals, academia
+and, not least, the world's largest asset managers and philanthropic foundations. Evangelists believe it
+may be the key to freeing the world from poverty. Skeptics think it will remain confined to the boutique.
+Regardless, Impact Investing is becoming a distinct career specialization for finance professionals
+despite the diverse skillset each must have and the uncertainty of the new field's growth.
+
+Page 9 of 14
+
+FINANCE
+(WH) {FNCE}
+756. Finance Energy. (C) Professor Erik Giljie.Prerequisite(s): The prerequisites for the course are
+FNCE 726-Advanced Corporate Finance or FNCE 728-Corporate Valuation. Students who receive
+permission to enroll without the prerequisites are expected to review the relevant topics as necessary
+to meet the requirements of the class.
+The objective of this course is to provide students with detailed knowledge of corporate structures,
+valuation methods, project finance, risk management practices, corporate governance issues, and
+geo-political risks in the energy industry. In general, this course seeks to provide students with an
+overall context for understanding energy issues and risks, and how these might affect financing and
+investment decisions for both providers of energy and end-users of energy.
+883. Strategic Equity Finance. (B) Professor David Musto and Professor David Erickson.Prerequisite
+(s): FNCE 611 - Corporate Finance.
+This course combines lectures and cases, and will go through actual situations where companies
+need to make strategic decisions on raising equity capital. We will address different phases of a
+comany's life cycle. Through these cases, from the decision-makers perspective, we will explore the
+different paths that can be taken and consider issues such as investor activism, governance and
+regulatory and valuation impact. FNCE 883 is a half semester course offered in Q3 of the spring
+semester.
+895. (FNCE395) Private Equity. Prerequisite(s): FNCE 726 and FNCE 751 or permission from the
+instructor.
+This course will be a survey of the private equity asset class. Its objective is to provide an
+understanding of the concepts, agents, and institutions involved in the late stage corporate private
+equity market in the U.S. and around the globe. It will examine the buyout market and the activities of
+buyout funds from the differing perspectives of private equity investors, private equity fund sponsors,
+and managers of the portfolio companies. The course will be taught almost entirely with cases.
+Distinguished Wharton alumni in the private equity industry will be our guest speakers for many of the
+cases based on transactions they concluded. While this course is primarily intended for graduate
+students, admission may be granted to a limited number of interested undergraduate students.
+PLEASE NOTE: this course may be recorded for live or subsequent distribution, display, broadcast, or
+commercialization in any media, including video, audio, or electronic media. For additional information,
+see the course syllabus or contact the department.
+884. ASP - Advanced Topics in Private Equity. Professor Bilge Yilmaz (yilmaz@wharton.upenn.edu)
+and Fellow David Bard.Prerequisite(s): Successful completion of core finance requirements, FNCE
+611 and FNCE 613, as well as FNCE 726 or FNCE 751; special permission can also be requested
+based on relevant professional experience.
+This course will address a variety of applied topics in private equity (PE), with a focus on growth and
+later-stage buyout transactions (venture capital is not explicitly addressed in this course), and a
+primarily U.S.-centric view that should be largely applicable in other markets. In addition, the course
+will focus on the transaction stage of PE investing i.e., the art of the deal and mostly leave aside deal
+sourcing, portfolio management and investor relations. The goal of this course is to educate students
+about the substance, process and mechanics of PE investing, through the lens of the investment
+professionals, counterparties and advisors that drive transactions to completion. Course topics will
+address the entire deal process, and will include the following: Commercial Diligence (incl. financial
+modeling); Debt Financing; Accounting Diligence; Sales & Purchase Agreements; Comps Analysis;
+and Other Advisory Work. Throughout the course, students will learn about each element of the deal
+process through in-class lectures, while concurrently apply those learnings to a real-time mock deal,
+and preparing dealmaterials that mirror a real private equity transaction. The in-class lectures will
+cover both conceptual frameworks and real-world examples.
+
+Page 10 of 14
+
+FINANCE
+(WH) {FNCE}
+885. FIN-TECH. Prerequisite(s): A thorough knowledge of FNCE 611 is assumed.
+The course exposes students to this fast-growing and exciting intersection between finance (Fin) and
+technology (Tech) while emphasizing the role data and analytics play. The course is structured around
+three main FinTech areas: (i) Lending/Banking services, (ii) Clearing (iii) Trading. It provides specific
+coverage and examples of developments from(1) peer-to-peer lending, (2) blockchain and distributed
+ledgers, (3) networks and their use in trading, and (4) algo trading and its use of non-standard inputs.
+In each of these areas, we start by analyzing the marketplace, and the incumbents, and the business
+case and strategies of the incoming technology-based players, while understanding the role data and
+analytics play in driving the technology-based services. The course is built arund a large number of
+examples and cases, guest lectures, student presentations, and group projects. Student are thus
+expected to work in teams and demonstrate a high level of independent learning and initiative.
+893. Global Monetary and Financial Institutions: Theory and Practice. Professor Zvi Eckstein;
+Dean of Arison School of Business and Tiomkin School of Economics. Herzliya, Israel.Prerequisite(s):
+FNCE 611 or 612; FNCE 613; STAT 613. Requirements; Final examinations (60%-passing grade is
+required); three out of four assignments done by teams of 3-4 students (30%); active participation in
+class discussion (10%)
+This course aims to provide the future global manager and financial analyst with the knowledge on
+policies set by central banks, regulators and governments toreach the goals of price and financial
+stability as well as support of growth and employment. The core of the course connects between the
+formal and actual goals that central banks follow and the related economic analysis on which the
+goals and the policies are set. We will explain the economic rationale for the policy prescriptions to
+reach the goals and how these are implemented using institutional framework in the US, the European
+Central Bank (ECB), Israel and remarks on other countries. We use data, current events and events of
+the 2007-2012 financial crisis as a basis for discussion and assignments. All these are aimed at
+understanding how and why the Federal Reserve of the US (the Fed), The bank of Israel (BOI) and
+the European Central Bank (ECB) set their policies and how that is related to academic research on
+these issues.
+896. (WH 215) Finance in Europe.
+This is a short seminar on finance in Europe. Its objective is to bring students, academics and several
+industry experts together to study financial markets, practice, and institutions in Europe. The course
+will primarily examine the following areas: 1.Current challenges in European markets and Euro Zone
+2.Political economy of European Union 3.Alternative Investments 4.Investment Banking & Cross
+Border Mergers and Acquisitions. We will cover the above topics by studying the practice and
+transactions in Europe with a comparison to USA and rest of the world. This is a half unit course and it
+is designed for Wharton MBAs. Exceptionally motivated undergraduate students are also welcome to
+take the course.
+911. Financial Economics. (A) Prerequisite(s): ECON 681 or ECON 701, Matrix Algebra, and
+Calculus.
+The objective of this course is to undertake a rigorous study of the theoretical foundations of modern
+financial economics. The course will cover the central themes of modern finance including individual
+investment decisions under uncertainty, stochastic dominance, mean variance theory, capital market
+equilibrium and asset valuation, arbitrage pricing theory, option pricing, and incomplete markets, and
+the potential application of these themes. Upon completion of this course, students should acquire a
+clear understanding of the major theoretical results concerning individuals' consumption and portfolio
+decisions under uncertainty and their implications for the valuation of securities.
+
+Page 11 of 14
+
+FINANCE
+(WH) {FNCE}
+897. (FNCE397, WH 214) Finance In The Middle East & North Africa. Professor Bulent Gultekin,
+Finance Department and Professor Michael J.T. McMillen, Penn Law School. Course Format - This
+course will be taught through cases and lectures. Guest Lecturers - Distinguished practitioners will
+lecture and conduct case discussions. Our guest lecturers will bring their experience and insights to
+the classroom.
+This is a Wharton Global Modular Course on finance in the Middle East and North Africa. Its objective
+is to bring students, academics and industry experts together to study financial markets, practice, and
+institutions in this region.
+912. Corporate Finance and Financial Institutions. (B) Prerequisite(s): ECON 681 or ECON 701.
+This course provides students with an overview of the basic contributions in the modern theory of
+corporate finance and financial institutions. The course is methodology oriented in that students are
+required to master necessary technical tools for each topic. The topics covered may include capital
+structure, distribution policy, financial intermediation, incomplete financial contracting, initial and
+seasoned public offerings, market for corporate control, product market corporate finance interactions,
+corporate reorganization and bankruptcy, financing in imperfect markets, security design under
+adverse selection and moral hazard, and some selected topics.
+921. Introduction to Empirical Methods in Finance. (B) Prerequisite(s): FNCE 911 (can be taken
+concurrently), STAT 510 and 511 or equivalent.
+This course is an introduction to empirical methods commonly employed in finance. It provides the
+background for FNCE 934, Empirical Research in Finance. The course is organized around empirical
+papers with an emphasis on econometric methods. A heavy reliance will be placed on analysis of
+financial data.
+922. Continuous-Time Financial Economics. (A) Prerequisite(s): FNCE 911, ECON 701, ECON
+703. (Graduate level knowledge of analysis and statistics is highly recommended but not required).
+This course covers some advanced material on the theory of financial markets developed over the last
+two decades. The emphasis is on dynamic asset pricing and consumption choices in a continuous
+time setting. The articles discussed include many classical papers in the field as well as some of the
+most recent developments. The lectures will emphasize the concepts and technical tools needed to
+understand the articles.
+923. Financial Economics Under Imperfect Information. (M) Prerequisite(s): FNCE 922.
+This course covers General equilibrium and rational expectations, foundations of the theory of
+information; learning from prices in rational expectations equilibrium models, moral hazard, adverse
+selection, and signalling Bidding theories.
+924. Intertemporal Macroeconomics and Finance. (B) Prerequisite(s): FNCE 911.
+This is a doctoral level course on macroeconomics, with special emphasis on intertemporal choice
+under uncertainty and topics related to finance. Topics include: optimal consumption and saving, the
+stochastic growth model, q-theory of investment, (incomplete) risk sharing and asset pricing. The
+course will cover and apply techniques, including dynamic programming, to solve dynamic
+optimization problems under uncertainty. Numerical solution methods are also discussed.
+
+Page 12 of 14
+
+FINANCE
+(WH) {FNCE}
+925. Topics In Asset Pricing. (C)
+This course will analyze several aspects of liquidity. Mostly, it will concentrate on liquidity as an asset's
+property of being traded quickly and at low cost, but the notion of availability of cash will also be
+studied. Particular attention will be devoted to exogenous transaction costs, asymmetric information
+and search frictions as determinants of asset liquidity and, consequently, price. We will also look at
+liquidity risk, institutional features arising as response to liquidity problems, and financing constraints.
+The course will concentrate on theoretical models, but the empirical literature will be referred to
+throughout.
+926. Empirical Methods in Corporate Finance. (A) Prerequisite(s): STAT 521 - Students are
+required to have taken a graduate sequence in Econometrics, you should be comforable with
+econometrics at the level of William Green's "Econometric Analysis of Cross-Section and Panel Data".
+The course will cover a variety of microeconometic models and methods including panel data models,
+program evaluation methods [e.g. difference in differences, matching techniques, regression
+discontinuity design] instrumental variables, duration models, structural estimation [e.g. simulated
+methods of moments]. The structure of the course consists of lectures, student presentations, and
+empirical exercises. I will utilize published studies in a variety of fields such as corporate finance, labor
+economics, and industrial organization to illustrate the various techniques. The goal of the course is to
+provide students with a working knowledge of various econometric techniques that they can apply in
+their own research. As such, the emphasis of the course is on applications, not theory.
+927. Selected Topics in Empirical Corporate Finance. (A) Prerequisite(s): While there are no official
+prerequisites, it would be very beneficial if you have taken the Financial Institutions (FNCE 912) and
+Empirical Methods in Corporate Finance (FNCE 926) Ph.D courses. You should be comfortable with
+the basic concepts covered in those courses.
+The general objective of the course is to teach and encourage students to explore interesting research
+questions in corporate finance. We will work toward this goal by introducing students to several
+advanced topics in empirical corporate finance and expose students to some current work. An
+emphasis will be put on the link between empirical and theoretical work, and how to think about
+research questions critically.
+Inactive
+928. Methods In Finance Theory. (B) PROFESSOR YIRAN JOHN ZHU.Prerequisite(s): Some
+mathematical sophistication. A familiarity with the basic principles of microeconomics is useful but not
+required.
+This doctoral level course introduces students to game theory and continuous-time methods. Both
+techniques represent fundamental approaches to organizing, modeling and understanding complex
+financial phenomena. The game theory half will cover equilibrium concepts, moral hazard, signaling
+and screening. Highlights include rigorous formulations and analyses of the perfect Bayesian
+equilibrium concept and the principal-agent relationship. Both ideas are central to theories of
+corporate finance and financial markets - subjects that the students will be exposed to in the spring.
+The continuous-time methods half will cover basic stochastic calculus and applications to capital
+structure, Merton's consumption-portfolio, and problem and optimal contracts.
+932. Corporate Finance. (C) Prerequisite(s): FNCE 911, FNCE 921, or permission of instructor.
+This course covers Advanced theory and empirical investigations; financial desisions of the firm,
+dividends, capital structure, mergers, and takeovers.
+
+Page 13 of 14
+
+FINANCE
+(WH) {FNCE}
+933. International Finance. (M) Prerequisite(s): FNCE 911 (FNCE 922 recommended).
+This course provides an understanding of current academic research in the areas of international
+finance and international macroeconomics. Students will learn the tools for conducting research in this
+field.
+934. Empirical Methods In Asset Pricing. (A) Prerequisite(s): FNCE 911 and FNCE 921.
+Rigorous treatment of current empirical research in finance. Applications of multivariate and nonlinear
+methods. Intertemporal and multifactor pricing models. Conditional distributions, and Temporal
+dependence in asset returns.
+937. Applied Quantitative Methods in Finance. (A) Prerequisite(s): FNCE 911.
+This is an advanced course in quantitative theory applied to macro and finance models. It is intended
+for doctoral students in finance, economics and related fields. The course focuses on four broad
+theoretical literatures: (i) firm investment and growth; (ii) corporate, household and sovereign debt; (iii)
+asset pricing in general equilibrium; and (iv) equilibrium macro models with a financial sector. My
+approach is to develop and discuss in detail a unified framework that is suited to address most topics,
+usually covering a few central topics and the core papers. We then discuss the more recent literature,
+highlighting how authors combine and expand upon the core ideas. This part of the course usually
+relies on regular student presentations.
+939. Behavioral Finance. (C) Prerequisite(s): FNCE 911.
+There is an abundance of evidence suggesting that the standard economic paradigm-rational agents
+in an efficient market-does not adequately describe behavior in financial markets. In this course, we
+will survey the evidence and use psychology to guide alternative theories of financial markets with an
+eye towards identifying frontiers and opportunities for new research. Along the way, we will address
+the standard argument that arbitrage will eliminate any distortions caused by irrational investors.
+Further, we will examine more closely the preferences and trading decisions of individual investors.
+We will argue that their systematic biases can aggregate into observed market inefficiencies. The
+second half of the course extends the analysis to corporate decision making. We present the two
+themes of behavioral corporate finance: rational managers exploiting financial market inefficiencies
+and managerial decision-making biases. We then explore the evidence for both views in the context of
+capital structure, investment, dividend, and merger decisions. We emphasize the importance of
+differentiating the behavioral approach from information models and other more traditional
+methodology.
+Not currently being offered.
+
+Page 14 of 14
+
+

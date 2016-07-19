@@ -1,0 +1,226 @@
+BIOCHEMISTRY AND MOLECULAR BIOPHYSICS
+(MD) {BMB}
+508. Macromolecular Biophysics: Principles and Methods. (A) Sharp.Prerequisite(s): Senior
+undergraduate or graduate level biochemistry or biophysics.
+This course introduces students to the physical and chemical properties of biological
+macromolecules, including proteins and nucleic acids. It surveys the biophysical techniques used to
+study the structure and thermodynamics of macromolecules. It is intended to be a first course for
+graduate students with an undergraduate background in either physics, chemistry or biology,and no
+necessary background in biochemistry.
+509. Structural and Mechanistic Biochemistry. (B) Van Duyne.Prerequisite(s): BMB 508 and BIOM
+600 or permission of course director.
+The course will focus on the key biochemical task areas of living cells. The course progresses from
+primarily molecular level events, such as storage and tralslation of genetic information, creation,
+control and removal of proteins, to higher organization levels such as metabolic pathways, signaling
+pathways, regulation and homeostasis. Each section will cover structure details of the relevant
+molecules, appropriate binding/catalysis events, regulatory aspects, and how they fit into the relevant
+pathway(s) and cell function. Material will be covered with a combination of formal lectures and
+student presentations.
+518. (CAMB615, NGG 615) Protein Conformation
+Ischiropoulos.Prerequisite(s): BIOM 600 or equivalent.
+
+Diseases.
+
+(I)
+
+Argon
+
+and
+
+Protein misfolding and aggregation has been associated with over 40 human diseases, ranging from
+Alzheimer's disease, Parkinson's disease,amyotrophic lateral sclerosis, prion diseases, alpha(1)antitrysin deficiency, inclusion body myopathy, and systemic amyloidoses. This course will include
+lectures, directed readings and student presentations to cover seminal and current papers on the cell
+biology of conformational diseases including topics such as protein folding and misfolding, protein
+degradation pathways, effects of protein aggregation on cell function, model systems to study protein
+aggregation and novel approaches to prevent protein aggregation.
+554. (CHEM555) Macromolecular Crystallography: Methods and Applications. (A) Marmorstein
+and Skordalakes.Prerequisite(s): Undergraduate calculus and trigonometry.
+This is an introductory course on methods and applications of macromolecular structure
+determination using X-ray crystallography. The course will be broken up into three parts: 1) Principles
+of X-ray crystallography involving didactic lectures on the technique with weekly problem sets; 2)
+Workshops on macromolecular structure determination involving hands-on experience with the
+technology; 3) Student "journal club" presentations on current high impact publications involving X-ray
+crystal structure determination.
+560. Methods of Scientific Inquiry in Biological Systems. (B) Wilson and Domotor.Prerequisite(s):
+Graduate students in biological sciences or permission of instructors.
+The foundational, social and methodological aspects of scientific reasoning in biomedical disciplines
+are discussed, including: 1) theories, laws, causal/functional explanation and experimental
+methodology in biology and medicine; 2) case studies in selected fields of biomedical sciences with
+special regards to strategies in concept and hypothesis formation, discovery, gathering evidence and
+testing, and 3) social and moral factors pertinent to the research enterprise.
+
+Page 1 of 5
+
+BIOCHEMISTRY AND MOLECULAR BIOPHYSICS
+(MD) {BMB}
+567. (CHEM567) Bioinorganic Chemistry. (C) Dmochowski.
+This course covers selected topics in bioinorganic chemistry. Special emphasis is placed on dioxygen
+chemistry and electron transfer processes. Course topics include: 1) oxygen uptake and utilization; 2)
+oxygen transport; 3) oxygen and O atom incorporation into substrates; 4) metalloenzyme-catalyzed
+C-C bond formation; 5) the metallobiochemistry of DNA; 6) metal-sulfide proteins; 7) manganese
+containing metalloproteins; 8) photosystem II, light-driven electron transfer and the biological watersplitting reaction; 9) biological electron transfer; 10) electron transfer theory; 11) mechanisms of
+energy storage and release; and 12) long-distance electron transfer reactions.
+581. (BE 581) Techniques of Magnetic Resonance Imaging. (K) Song and Wehrli.
+Detailed introduction to the physics and engineering of magnetic resonance imaging as applied to
+medical diagnosis. Covered are magnetism, spatial encoding principles, Fourier analysis, spin
+relaxation, imaging pulse sequences and pulse design, contrast mechanisms, chemical shift, flow
+encoding, diffusion and perfusion and a discussion of the most relevant clinical applications.
+585. (GCB 585) Wistar Institute Cancer Biology Course: Signaling Pathways in Cancer. (A)
+Skordalakes and Murphy.Prerequisite(s): Undergraduates and Master's degree candidates require
+permission from the course directors.
+This course is intended to provide foundational information about the molecular basis of cancer.
+When necessary the significance of this information for clinical aspects of cancer is also discussed.
+The main theme centers around cell cycle checkpoints with specific emphasis on the biochemistry
+and genetics of DNA damage signaling pathways, DNA damage checkpoints, mitotic checkpoints and
+their relevance to human cancer. The course is taught by the organizers and guest lecturers from
+universities and research institutions in the Northeast.Following every lecture, students present a
+research paper related to the topic of that lecture. The course is intended for first and second year
+graduate students but all graduate students are welcome to attend.
+598. Tutorial. (S) Kim Sharp and staff.
+The tutorial course is designed for in-depth study of a specific topic thorugh one-on-one meetings
+and discussions between the student and a selected BMB faculty member. The intent of the course is
+to broaden the students knowledge, thus the tutorial may not be taken with the student's current
+rotation advisor or thesis advisor. Choice of faculty member and topic is by prior mutual agreement
+between the student and faculty member, subject to approval by the course director. Student and
+faculty member will typically meet for an hour or so 2 - 3 times per week. The course may take the
+form of literature study, or where appropriate, a mini-project (typically computer-based) A tutorial can
+be used by students to become more deeply acquainted with the literature related to their thesis
+project or to help prepare students for their Candidacy Exam. Upon completion of the tutorial,
+students must prepare a written description of the area studied (5-10 typewritten pages)
+601. Fundamentals of Magnetic Resonance. (I) Reddy.
+This course introduces basic theoretical and experimental concepts of magnetic resonance and its
+applications in biochemistry, biology and medicine. Topics covered include description of the
+phenomenon of magnetic resonance, and classical and quantum strategies to compute nuclear spin
+responses in liquids,solids and biological tissues, polarization transfer and multiple quantum effects
+and their applications in biomedicine. Nuclear spin relaxation in solid-state materials and in biological
+systems will be discussed. Concepts of magnetic resonance imaging, imaging strategies, image
+contrast, and diagnostic applications are discussed. The course includes several practicals dealing
+with the demonstration of NMR hardware and experiments to compute basic NMR parameters on
+high resolution and clinical MRI scanners. For fur ther details of this course,visit
+www.mmrrcc.upenn.edu
+
+Page 2 of 5
+
+BIOCHEMISTRY AND MOLECULAR BIOPHYSICS
+(MD) {BMB}
+602. Imaging Biomarkers. (K) Reddy (course director), Borthakur, Elliot, Hariharan.Prerequisite(s):
+BMB 601 or permission of course director; students with prior NMR and MRI background will be given
+priority. Course meets for eight weeks (1/2 credit)
+Introduction to principles of imaging based biomarkers for studying metabolic and functional integrity
+of biological tissues in vivo. Topics covered include a general overview of multimodal imaging
+biomarkers and a special emphasis on theoretical and practical aspects of MRI biomarkers based on
+magnetic resonance relaxation, chemical exchange, and metabolic spectroscopy as well as functional
+responses and their applications in diagnostic imaging of different diseases.
+624. Molecular and Physical Basis of Ion Channels. (K) Kallen. Course meets all semester (half
+time) for 1/2 credit.
+The course is a journal club format, targeted to graduate and MD/PhD students interested in ion
+channels from graduate programs in Physiology, Pathology, Neuroscience, Pharmacology,
+Biochemistry & Molecular Biophysics. It meets for one hour, once a week on alternate weeks and is
+coupled to the Ion Channel Journal Club, which also meets for one hour on the same alternate weeks
+(9:30-10:30 a.m., Thursdays, B400 Richards Building). A faculty member meets with students to
+discuss and review the contents of each selected article early in the week in preparation for the
+subsequent Journal Club presentation. This elective course is meant to introduce students to the
+latest advances in ion channel research and includes topics extending from biophysics, structure, and
+physiology to cell biology and medical applications.
+618. Applications of High Resolution NMR Spectroscopy to Problems in Structural Biology. (I)
+Wand.Prerequisite(s): Undergraduate biochemistry and physical chemistry and BMB 601, or
+permission of instructor. Course meets for 8 weeks and is offered for 1/2 credit
+A lecture-based course designed to introduce graduate students to applications of modern highresolution multinuclear and multidimensional NMR spectroscopy to problems in structural biology. The
+course will first introduce classical definitions and descriptions of nuclear magnetic resonance and a
+convenient formalism for the analysis of advanced NMR experiments. Concepts and applications of
+multidimensional homonuclear 1H NMR and multidimensional heteronuclear spectroscopy of proteins
+and nucleic acids will be described. Resonance assignment strategies including analysis of triple
+resonance spectroscopy will be covered. The origin, measurement and extraction of structural
+restraints and their use in structure determination will be surveyed and illustrated with recent
+examples.
+619. Protein Folding. (J) Axelsen and Englander. Course meets for 8 weeks and is offered for 1/2
+credit.
+Introduction to the folding of mainly soluble proteins but also membrane proteins. Critical readings in
+the current literature and important earlier literature. Class discussion of papers from the literature
+with didactic lectures as required. Exposure to principles and use of equilibrium, kinetics,
+thermodynamics and the range of biophysical technologies as they occur in the scientific literature.
+622. Physical Principles of Mechano-Enzymes. (J) Dominguez, Goldman, Grishchuk and
+Ostap.Prerequisite(s): Biochemistry. Course meets for 8 weeks and is offered for 1/2 credit.
+This course will provide an introduction to the biochemical, structural, and mehanical properties of
+energy-transducing enzymes. We will emphasize the relationships of mechanical, thermal, and
+chemical forces in mechano-enzyme function.
+
+Page 3 of 5
+
+BIOCHEMISTRY AND MOLECULAR BIOPHYSICS
+(MD) {BMB}
+626. Mass Spectrometry and Proteomics. (J) Speicher and Garcia. Course meets for 8 weeks and
+is offered for 1/2 credit
+This course will provide a detailed introduction to proteomics and mass spectrometry. The role of
+mass spectrometry in both characterizing proteins for traditional protein structure-function studies and
+identification of proteins in proteome studies will be emphasized. Targeted and global proteomes,
+quantitative protein profiling and compositional proteomics, and applications of proteome studies will
+be discussed. Intended for first and second year graduate students and others with an interest in
+proteomics and mass spectrometry.
+627. Computer Programming for Biochemists and Biophysicists. (J) Sharp and Van
+Duyne.Prerequisite(s): Permission of instructor for nonBMB students. Course meets for eight weeks
+and is offered for 1/2 credit.
+An introductory course on programming and algorithms for scientists with an emphasis on
+applications to biophysics. Students will learn to write, debug, and execute basic programs through
+lectures, in-class workshops, and programming projects outside of class.
+628. Principles of Scientific Instruments. (J) Liebman. Course meets for eight weeks and is offered
+for 1/2 credit.
+Proper use of the tools of one's trade is essential to quality assurance. General confidence in the
+infallibility of even simple scientific instruments (SI) can be the cause of serious misapplication of
+research effort. This course teaches how to think about and use all SI's intelligently. It reviews first
+principles of instrument detection, selection, operation, calibration, truth-testing, trouble shooting and
+data analysis. Error appraisal and avoidance are analyzed using common laboratory examples.
+Anyone who cares is welcome. And we should all care. Emphasis sculpted to student needs.
+629. Quantitative Problems in Biochemistry. (H) Kallen. Course meets for 8 weeks for 1/2 credit
+Students will be assigned problems in a range of topics, including thermodynamics, enzyme kinetics,
+redox potentials, and will present their answers in class. This course is intended to complement
+material covered in BMB 508 and 509, providing a rigorous review of quantitative methods.
+632. Probing Structure and Function of Complex RNA-Protein Machines. (H) Lynch.
+RNA-Protein complexes or RNPs can range from simple assemblies to megadalton enzymatic
+machines.The latter include two of the most abundant and essential enzymatic complexes for
+converting genes to functional protein -the ribosome and the spliceosome. Understanding the
+molecular interactions that hold these RNPs together and how these complexes function has required
+the development of new techniques and pushed the boundaries of quantitative biochemistry. In this
+course we will take an in-depth look at general concepts common to many RNA binding proteins, the
+methods used to study protein-RNA and RNA-RNA interactions, and how the complex nature of large
+RNPs uniquely allow them to achieve their precise functions. The course will be a combination of both
+lectures and student-lead discussion of recent literature. Students will be evaluated based on their
+presentations of primary literature and their participation in class discussion.
+SM 650. (CAMB702, PHRM650) Current Biochemical Topics. (S) Black and Shorter.Prerequisite(s):
+Permission needed from Department.
+Participation in the "Dr. George W. Raiziss Biochemical Rounds", a weekly seminar program
+sponsored by the Department of Biochemistry and Biophysics. Program deals with a wide range of
+modern biochemical and biophysical topics presented by established investigators selected from our
+faculty, and by leading scientists from other institutions.
+
+Page 4 of 5
+
+BIOCHEMISTRY AND MOLECULAR BIOPHYSICS
+(MD) {BMB}
+699. Laboratory Rotation. (S) Kohli.
+Supervised "mini-projects" for graduate students in Biochemistry and Molecular Biophysics. End of
+the semester requirements are 1) poster presentations; 2) written rotation summaries; or 3) talks.
+Course is offered fall, winter, spring, and summer semesters.
+700. (CHEM700, PHRM630) Selected Topics in Chemistry. (B) Petersson.Prerequisite(s): Strong
+background in undergraduate chemistry required and at least one semester of biological chemistry
+desirable.
+The course will focus on current topics in chemical biology, particularly experiments in which 1)
+chemical synthesis enables one to probe or control biological systems in novel ways or 2)
+manipulation of biological systems facilitates novel chemical syntheses. As the goal of the course is to
+familiarize students with innovative recent experimental approaches and to stimulate them to
+conceive of their own new methodology, students will be responsible for delivering presentations on
+topics selected from the literature and generating several novel research proposal ideas, one of which
+will be elaborated into a full proposal. The prepared seminar will allow students to explore topics not
+covered in Professor Petersson's lectures or to research one of those topics in more depth. The
+proposal will be evaluated for creativity, feasibility and impact.
+SM 705. Candidacy Exam Preparation Course. (B) Marmorstein, Lynch and Nelson. Course meets
+for 8 weeks at the beginning of the spring semester, for 1/2 credit.
+This course is designed for second year BMB students to prepare them for the Candidacy
+Examination, which must be completed in the spring semester of the second year.
+799. Independent Study (Yrs 1 - 2). Staff.
+990. Master's Thesis Research. (C) Staff. See Department for section numbers
+995. Dissertation Research. Staff. See Department for section numbers
+
+Page 5 of 5
+
+

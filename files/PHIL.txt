@@ -1,0 +1,1499 @@
+PHILOSOPHY
+(AS) {PHIL}
+
+Introductory Courses
+L/R 001. Introduction to Philosophy. (C) Humanities & Social Science Sector. Class of 2010 &
+beyond. Detlefsen, Singer, Weisberg. Also fulfills General Requirement in History & Tradition for Class
+of 2009 and prior. Freshman Seminar sections offered
+Philosophers ask difficult questions about the most basic issues in human life. Does God exist? What
+is real? What can we know about the world? What does it mean to have a mind? Do I have free will?
+What should I do? How should we live together? Do our lives have meaning? This course is an
+introduction to some of these questions and to the methods philosophers have developed for thinking
+clearly about them.
+SM 002. Ethics. (C) Society Sector. All classes. S.Meyer, Tan, Lord, M.Meyer.
+Ethics is the study of right and wrong behavior. This introductory course will introduce students to
+major ethical theories, the possible sources of normativity, and specific ethical problems and
+questions. Topics may include euthanasia, abortion, animal rights, the family, sexuality, bioethics, crime
+and punishment and war.
+L/R 003. (CLST103) History of Ancient Philosophy. (A) History & Tradition Sector. All classes.
+S.Meyer.
+This course is an introduction to philosopy in the ancient world. While today, philosophy is considered
+a branch of academic inquiry, many of the ancient Greeks and Romans, however, held a radically
+different conception of the discipline. For them, philosophy was nothing less than an entire way of life-not just a set of doctrines or arguments, but an orientation and set of lived practices, a conscious and
+continual reforming of the self in light of some principle or principles. In this course, we will examine
+the major movements and figures of ancient philosophy. Major figures will include Socrates, Plato,
+Aristotle, the Stoics, the Epicureans, and the Skeptics.
+L/R 004. (GSWS006) History of Modern Philosophy. (B) History & Tradition Sector. All classes.
+Hatfield, Detlefsen.
+This course is an introduction to a few central themes in philosophy in the 17th and 18th centuries,
+and to some of the crucial thinkers who addressed those themes. Topics to be covered may include,
+among others, the nature of the human being (including the human mind), the relationship between
+God and the created world, the nature of freedom, and the relations among natural sciences,
+philosophy and theology in this rich period of human history.
+L/R 005. (LGIC010, PHIL505) Formal Logic I. (C) Domotor, Weinstein. This is a Formal Reasoning
+course.
+This course provides an introduction to some of the fundamental ideas of logic. Topics will include truth
+functional logic, quantificational logic, and logical decision problems.
+006. (PHIL506) Formal Logic II. (B) Weinstein.
+An introduction to first-order logic including the completeness, compactness, and Lowenheim-Skolem
+theorems, and Godel's incompleteness theorems.
+
+Page 1 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+007. Critical Thinking. (M) Staff.
+This course will provide the student with informal techniques for identifying and analyzing arguments
+found in natural language. Special attention will be paid to developing the ability to assess the strength
+of natural language arguments, as well as statistical arguments.
+L/R 008. (PPE 008) The Social Contract. (B) Society Sector. All classes. Freeman,Tan.
+This is a critical survey of the history of western modern political philosophy, beginning from the Early
+Modern period and concluding with the 19th or 20th Century. Our study typically begins with Hobbes
+and ends with Mill or Rawls. The organizing theme of our inventigation will be the idea of the Social
+Contract. We will examine different contract theories as well as criticisms and proposed alternatives to
+the contract idea, such as utilitarianism. Besides the above, examples of authors we will read are
+Locke, Rousseau, Hume, Mill and Marx.
+SM 010. (PPE 210) Topics in Philosophy I. (M) Tan.
+Topics in Philosophy: Philosophy through Great Books: In this seminar we will approach and examine
+different philosophical issues by reading some of the so-called "great books", including central western
+philosophy works by Plato, Descartes, Hobbes, and Mill as well as books like The Epic of Gilgamesh,
+The Bhagavad Gita, and The Analects. We read these canonical works because they are among the
+key and enduring works of humanity, and to learn how their authors understand and approach
+philosophical and practical problems that continue to confront us. Topics to be discussed include the
+idea of justice, what is the good life, the possibility and basis of knowledge, nature vs society, social
+obligations, and morality and conflict.
+015. Logic and Formal Reasoning. (B) Domotor.
+This course offers an introduction to three major types of formal reasoning: deductive, inductive
+(probabilistic and statistical), and practical (decision-making). The course will begin with the study of
+classical sentential and predicate logics. It will move on to elementary probability theory, contemporary
+statistics, decision theory and game theory.
+SM 024. Philosophy of Biology. Staff.
+Why was Darwin's theory of evolution revolutionary? What actually evolves: genes, individuals or
+groups? What factors other than natural selection determine evolution and how important are they? To
+what extent do genes affect our behavior? Does the race have a biological basis? What is biodiversity
+and why should we care about it? In this course we will examine these questions from a philosophical
+point of view. This course will have two parts. In the firsst part we will examine the foundations of
+evolutionary theory, starting off with Darwin's own formulation. We will then look at external and interal
+criticisms of evolutionary theory. Topics will include creationism and intelligent design, adaptationism,
+and the units of selection debate. In the second part of the course we will apply this knowledge to
+contemporary ethical issues. We will focus on biological theories of race and gender and examine their
+criticisms. We will also discuss the possibility of grounding ethics in evolutionary theory, the
+emergence of ecosystem ecology and the concept of biodiversity and its role in environmental policy.
+Please note that no previous knowledge of philosophy or biology is required to attend this course.
+
+Page 2 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+L/R 025. Philosophy of Science. (C) Natural Science & Mathematics Sector. Class of 2010 and
+beyond. Weisberg,Spencer.
+What counts as a scientific theory? What counts as evidence for a scientific theory? Are scientific
+inferences justified? Does science give us truths or approximate truths about a world that exists
+independently of us? How can we know? Does it matter? These are all perennial questions in the
+philosophy of science, and the goal of this course is to look at how philosophers have answered these
+questions since the scientific revolution. In addition to reading classic work by philosophers of science,
+we will read material from living and dead scientists in order to gain a deeper appreciation of the
+philosophical questions that have troubled the most brilliant scientists in Western science.
+026. (STSC026) Philosophy of Space and Time. (A) Natural Science & Mathematics Sector. Class of
+2010 and beyond. Domotor.
+This course provides an introduction to the philosophy and intellectual history of space-time and
+cosmological models from ancient to modern times with special emphasis on paradigm shifts, leading
+to Einstein's theories of special and general relativity and cosmology. Other topics include Big Bang,
+black holes stellar structure, the metaphysics of substance, particles, fields, and superstrings,
+unification and grand unification of modern physical theories. No philosophy of physics background is
+presupposed.
+SM 028. (GSWS028) Introduction to Feminist Philosophy. (M) M.Meyer. Offered through the
+College of General Studies
+Feminist theory grows out of women's experience. In this course we will investigate how some
+contemporary feminist thinkers' consideration of women's experience has caused them to criticize
+society and philosophy. Traditional philosophical areas addressed may include ethics, social and
+political philosophy, aesthetics, philosophy of religion, and epistemology.
+SM 029. Philosophy of Sport. (M) M.Meyer.
+This is an introductory philosophy course that uses philosophical tools to understand and answer
+questions that arise in and about sports. The central question to be answered is what constitutes
+cheating in sports, especially by methods that enhance athletic performance. Other topics may include
+the nature of competition in sport, the appropriate competitors in sporting events, and the ethics of
+team loyalty.
+SM 045. Animal Minds. (M) Staff.
+In this course, we will examine philosophical issues in nonhuman animal cognition. We will consider
+questions such as the following: Do nonhuman animals use concepts? How do we assess different
+interpretations of their behaviour? What is the role of anthropomorphism in thinking about nonhuman
+animal cognition? How are intelligence and sociality related?
+SM 032. Topics in Contemporary Philosophy. (M) Varying instructors.
+Transhumanists seek to extend the capacities of the human mind beyond the bounds of the human
+brain and body through technology. Indeed, for them, such an extension of human thinking and feeling
+represents the next big step in human cognitive evolution. In this course, we will examine the
+philosophical conception of a mind that underpins this movement to extend the human mind beyond
+human biology. Through an examination of the hypothesis that there can be non-biological thinking
+and feeling, we consider whether technologies that enable or enhance human mental faculties might
+one day completely supplant the biological machinery of the human body. We will also consider the
+moral issues surrounding the creation of transhumans. The questions that we consider in this course
+will get to the heart of what it means to possess a human mind and indeed to be a human being.
+
+Page 3 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+L/R 034. (RELS011) Philosophy of Religion. (M) Steinberg.
+An introductory philosophical examination of questions regarding the nature of religious experiences
+and beliefs; arguments for and against the existence of God; the problem of evil; the relationships of
+faith, reason and science, the possibility of religous knowledge, the role of religious communities, etc.
+Readings from the history of philosophy, 20th century and contemporary analytic philosophy, and the
+European phenomenological, existential, and hermeneutic traditions.
+L/R 044. (CIS 140, COGS001, LING105, PSYC107) Introduction to Cognitive Science. (A) Kearns,
+Liberman, Weinstein, Hatfield. Formal Reasoning Course. All Classes
+Scope and limits of computer representation of knowledge, belief and perception, and the nature of
+cognitive processes from a computational prespective.
+L/R 050. (RELS155, RELS455, SAST150) Introduction to Indian Philosophy. (M) History & Tradition
+Sector. All classes. Staff.
+This course will take the student through the major topics of Indian philosophyby first introducing the
+fundamental concepts and terms that are necessary for a deeper understanding of themes that
+pervade the philosophical literature of India -- arguments for and against the existence of God, for
+example, the ontological status of external objects, the means of valid knowledge, standardsof proof,
+the discourse on the aims of life. The readings will emphasize classical Hindu, Buddhist, and Jain
+philosophical articulations (from 700 B.C.Eto 16th century CE) but we will also supplement our study
+of these materials with contemporary or relatively recent philosophical writings in modern India.
+054. Contemporary Continental Philosophy. (M) Staff.
+An introduction to 20th century continental European philosophy, focusing on the origins and
+development of phenomenology and existentialism and their influence on contemporary thought. The
+course will include an introduction to the phenomenology of Edmund Husserl and examine the
+subsequent development of modern philosophic existentialism by critics of Husserl, such as Martin
+Heidegger, Jean-Paul Sartre or Maurice Merleau-Ponty. Finally, the important influence of
+phenomenology and existentialism on contemporary trends in French, German, and American
+philosophy will be explored, including hermeneutics, deconstruction, post-modernism, and postanalytic philosophy. No previous study of philosophy is required.
+SM 055. Existentialism. (M) Staff.
+This course treats "existentialism" as an historical, philosophical, and literary phenomenon. In addition
+to close readings of philosophical texts by Nietzsche, Kierkegaard, Heidegger, Sartre, Simone de
+Beauvoir, and Camus, we will read literary works by Dostoyevsky, Ibsen, Kafka, Beckett, Knut
+Hamsun, and Richard Wright. There will also be semi-regular film screenings. Topics include death,
+anxiety, resentment, and will-to-power, authenticity, faith, the absurd, racism and sexism, sources of
+art and morality, and the nature of human existence.
+
+Page 4 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+067. (GRMN248) 19th Century Philosophy. (M) Jarosinski.
+"God is dead." this famous, all too famous death sentence, issued by the 19th-century German
+philosopher Friedrich Nietzsche, also signaled the genesis of a radical challenge to traditional notions
+of morality, cultural life, and the structure of society as a whole. In this course we will examine both the
+"modernity" of Nietzsche's thought and the ways in which his ideas have helped to define the very
+concept of Modernity (and, arguable, Postmodernity) itself. In exploring the origin and evolution of
+Nietzsche's key concepts, we will trace the ways in which his work has been variously revered or
+refuted, championed or co-opted, for more than a century. We will survey his broad influence on
+everything from philosophy and literature to music and art, theater and psychology, history and cultural
+theory, politics and popular culture. Further, we will ask how his ideas continue to challenge us today,
+though perhaps in unexpected ways. As we will see, Nietzsche wanted to teach us "how to
+philosophize with a hammer."
+SM 072. (HSOC101, PPE 072) Biomedical Ethics. (M) Society Sector. All classes. Gibbons.
+This course is an introduction to bioethics, focusing on ethical questions arising at the beginning and
+end of life. Topics will include procreative responsibilities, the question of wrongful life, and prenatal
+moral status as well as questions of justice related to markets for sperm, eggs and gestation. We will
+also attend to dilemmas at the end of life, including the authority of advance directives, euthanasia and
+the allocation of life-saving therapies.
+L/R 077. Philosophy of Law. (M) Society Sector. All classes. Freeman, Guerrero, Tan.
+This course is an introduction to the Philosophy of law. The central question of the course is this: why
+have law? Answering that question requires engaging with another question: what is law? We will
+approach those two questions in a variety of ways throughout the semester. In the first section of the
+course, we will begin by discussing one important feature of law: its close connection to coercion and
+punishment. Many have argued that the close relationship between law and coercion creates a
+demand for justification: what can or does justify law, given that law involves coercion? We will explore
+answers to that question. We will also consider a more general question: what good is law? (if we
+didn't have law, why might we want it?) The second section of the course engages with these same
+issues but in more concrete settings: the areas of criminal law and property law. We will consider what,
+if anything, is distinctive about those two areas of law, and we will consider whether the purported
+purpose(s) of law in general that we discuss in the first section make more or less sense when we
+consider these two specific areas of law. We will also consider distinctive aspects of the sources of law
+in these two areas of law: democratically enacted statutes, in the case of criminal law; and judge-made
+common law, in the case of property law.
+The third and final section of the course will consider an unusual and particularly significant kind of
+law: constitutional law. We will consider the purpose(s) of constitutions, how constitutionalism relates
+to democracy, and how constitutions ought to be understood and interpreted, in light of our answers to
+these first two questions. Throughout the course, we will engage with both classic and contemporary
+work, reading work by Michelle Alexander, Jeremy Bentham, Angela Davis, Ronald Dworkin, John
+Hart Ely, H.L.A. Hart, Thomas Hobbes, John Locke, John Stuart Mill, Robert Nozick, Martha
+Nussbaum, Richard Posner, Jeremy Waldron, and others.
+SM 073. (ENVS073, PPE 073) Topics in Ethics. (M) Gibbons, M.Meyer.
+This course examines some of the central theoretical and applied questions of ethics. For example,
+what is the good life? By what measure or principles do we evaluate the rightness and wrongness of
+actions? How does ethical reasoning help us understand and address real world problems such as
+world hunger, social injustice, sex and race discrimination, allocation of scare resources and the like.
+The course can be organized around an applied topic or practical issue such as global ethics, just war,
+biomedical ethics or environmental ethics.
+
+Page 5 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 074. Business Ethics. (M) Staff.
+In this course we will begin by examining practical ethical dilemmas facing businesses. Since usually
+people, not businesses, face ethical quandaries, we will consider how a business can face an ethical
+dilemma at all. Maybe it doesn't even make sense to attribute responsibilities, liabilities, or agency to
+corporations. If businesses do indeed have moral responsibilities, perhaps that means that employees
+have corresponding rights against their employers. With a better understanding of how the ethical
+world intersects with the business world, we can thoughtfully discuss the place of the corporation in
+society.
+L/R 076. Political Philosophy. (M) Freeman.
+An introduction to some central issues in social and political philosophy: liberty, equality, property,
+authority, distributive justice. Readings from Hobbes, Locke, Mill, Marx, Rawls, Nozick.
+SM 079. Environmental Ethics. (M) Kovaka.
+In this course we will investigate some of the ethical issues that arise from our relationship with the
+environment. We will examine important issues in environmental ethics, supplementing our
+discussions by considering how the latest scientific results affect environmental thinking and policy.
+Topics covered will include (but not be limited to): What are our responsibilities toward the
+environment, as individuals and as members of institutions? How do our responsibilities toward the
+environment relate to other ethical considerations? Do non-human animals/species/ecosystems have
+intrinsic value? What should conservationists conserve (Conservation vs restoration, keystone species
+vs ecosystems)?
+SM 080. Aesthetics. (M) Arts & Letters Sector. All Classes. Staff.
+This course examines philosophical issues centering on the nature and value of the arts. Some
+questions we'll consider are: What is art? What does it mean to have an aesthetic experience? How
+are aesthetic experiences different from non-aesthetic ones? What is the relation between art and
+truth? How do the moral qualities in a work of art affect its aesthetic qualities? Why are emotions
+important in our interpretations of artworks? What is the relation between art and expression? Do
+forgeries necessarily have less aesthetic value than original artworks? What are aesthetic judgments,
+and are they merely expressions of taste? Lecture and discussion will center on both classical and
+contemporary works in aesthetics.
+155. Continental Philosophy. (M) Staff.
+In this course we read various texts in the Enlightment tradition and more recent ones critical of
+modern distortions of this tradition. We shall begin briefly with Kant and Marx, two exemplars of this
+tradition, and then we shall study in some detail the views of the Frankfurt School (especially the
+writing of Horkheimer and Adorno), Foucault, and Derrida. Background readings from Nietzsche and
+Saussure shall also be assigned to place the material from Foucault and Derrida in its proper context.
+
+Intermediate Courses
+
+Page 6 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 209. Introduction to Plato. (M) S.Meyer.
+This course involves a close reading of the most important dialogues written by Plato, one of the
+greatest philosophers of all time. We will examine a wide range of topics in metaphysics, epistemology,
+and ethics: What is the nature of the soul? Is there an afterlife? What are the fundamental entities in
+the world? What are Plato's "forms"? What is knowledge and what can be known? Are we born as a
+blank slate or is something innate in us? What is the good life? What is the best way for us to live our
+lives? We will see how Plato attempts to answer these quesitons in his early, middle, and late
+dialogues, and we will ask whether and how exactly he is self-critical and changes his views over time.
+SM 202. Topics in Ethics I. McAninch.
+As an account of the standard of right conduct, consequentialism is sometimes said to be the view
+that the rightness of an act is determined entirely by the value of its consequences. Since the 1970s,
+consequentialism and its most widely-endorsed version, utilitarianism, have been the subjects of a
+number of influential critiques. Philosophers have contended that consequentialism cannot account for
+the distinctive values of justice and fairness, for the significance of character, for the agent-relativity of
+some moral demands, and for the action-guiding function that moral theories are thought to possess.
+These critiques recommend a close study of the alternative, deontological ethical framework from
+which many of these critiques originate a framework contending that the right is prior to the good, in
+John Rawls words. But these critiques have also prompted spirited responses from consequentialists
+and sophisticated modifications to their theories; these responses are also worth exploring. The focus
+of this course is to consider and assess some of the important strands in this debate, including the
+suggestion that neither moral framework adequately captures human concerns about morality and
+value.
+We will begin by looking at some of the historical antecedents to the contemporary debate, starting
+with work by Bentham, Mill, and Sidgwick. We will then move forward to the contemporary debate,
+reading important critiques by John Rawls, Bernard Williams, Thomas Nagel, Philippa Foot and others,
+as well as responses by Peter Railton, Samuel Scheffler, and others. Finally, we will look at recent
+work by Susan Wolf that provides an alternative perspective on morality, value, and meaningfulness.
+The readings in this class are challenging, but we will approach them carefully and collaboratively.
+SM 203. (OIDD325) Thinking with Models. (M) Weisberg.
+When a flu pandemic strikes, who should get accinated first? What's our best strategy for minimizing
+the damage of global climate change? Why is Philadelphia racially segregated? Why do most sexually
+reproducing species have two sexes, in roughly even proportions? These and many other scientific
+and practical problems required us to get a handle on complex systems. And an important part of
+deepening our understanding and sharpening our intuitions requires us to think with models. Students
+in this laboratory-based course will learn about the varied practices of modeling, and will learn how to
+construct, analyze, and validate models.
+L/R 205. What is Meaning?. (M) Staff.
+This course will survey several central topics in philosophy of mind and language, as well as
+investigate how these areas of philosophy interact with the scientific study of the mind. Among the
+questions we'll be asking are: What is it to have a mind? What is consciousness? What is it to think, to
+perceive, to act, to communicate, to feel emotions? What is the relationship between the mind and the
+brain? Can there be a science of the mind? Of language? What can it tell us? What can philosophy
+contribute to cognitive science?
+
+Page 7 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+210. (CLST210) Introduction to Aristotle. (M) S.Meyer.
+Aristotle (384-323 BCE) was one of the most important philosophers in Classical Greece, and his
+legacy had unparalleled influence on the development of the Western philosophical thought through
+the medieval period. We will study a selection of his works in natural philosophy, metaphysics,
+epistemology, psychology, ethics and politics. All texts will be read in English translation. No
+background in Greek philosophy or knowledge of Greek is required.
+SM 211. (CLST211) Ancient Moral Philosophy. (M) Society Sector. All classes. S.Meyer.
+The Nicomachean Ethics is considered to be Aristotle's major ethical work, and it is still counted
+among the most influential ethical texts altogether. This course will focus on Aristotle's Nicomachean
+Ethics with a special emphasis on questions that are systematically relevant for problems discussed in
+contemporary approaches to virtue ethics. These questions concern, for example, the Aristotelian
+conception of virtue, the scope and nature of practical wisdom, and the relationship between virtue
+and justice.
+SM 220. (MATH220) Proof in Mathematics, Philosophy and Law. (M) Weinstein.Prerequisite(s):
+MATH 103 or PHIL 005.
+Proofs are vital to many parts of life. They arise typically in formal logic, mathematics, the testing of
+medication, and convincing a jury. How do you prove that the earth is essentially a sphere (in
+particular, not flat)? In reality, proofs arise anywhere one attempts to convince others. However, the
+nature of what constitutes a proof varies wildly depending on the situation -- and on whom you are
+attempting to convince. Convincing your math teacher or a judge is entirely different from convincing
+your mother or a jury. The course will present diverse views of Proof. On occasion there may be guest
+lecturers.
+SM 221. Philosophy East and West. (M) Staff.
+This course is an introduction to philosophy through a comparative examination of texts from ancient
+Indian and Greek philosophical traditions. These traditions share fundamental, metaphysical beliefs
+about the nature of the universe and of the self, but we can also observe substantial differences in
+their treatments of the problems of philosophy as well as the solutions they offer to these. We will thus
+read primary sources in both traditions with an eye to the similarities and the differences at play
+between them. Our readings will cover questions of cosmology (How did the universe come into
+being?), metaphysics (What exists?), epistemology (What is knowledge?), and ethics (What is the
+good life? What is the right thing to do?).
+Among some representative pairings: the Rig Veda and Hesiod's Theogony (cosmogony); the
+fragments of Parmenides and the Katha Upanishad (metaphysics); Outlines of Pyrrhonism and the
+Madhyamaka (epistemology); Aristotle's Categories and the Vaishesika Sutra (ontology); the
+Dhammacakkapavattana Sutta and Stoic ethical fragments (ethics).
+All readings will be in English translation. Assessment will be in the form of weekly responses,
+participation, and one term paper.
+SM 223. (ARTH667, VLST223) Philosophy and Visual Perception. Hatfield, Connolly.
+The course starts with a discussison of theories of visual perception and their relation to philosophy.
+We survey the history of visual theories from Euclid to Marr and Rick, with stops to include Ibn AlHaytham, Descartes, Berkeley, Helmholtz, and Gibson. We then consider selected philosophical
+topics, such as the nature of object perception, or the representational relation between images and
+things imaged (eg., between pictures and what they represent).
+
+Page 8 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 225. (STSC108) Introduction to Philosophy of Science. (C) Domotor.
+A discussion of some philosophical questions that naturally arise in scientific research. Issues to be
+covered include: The nature of scientific explanation, the relation of theories to evidence, and the
+development of science (e.g., does science progress? Are earlier theories refuted or refined?).
+SM 226. (PHIL521, PPE 225, PPE 421) Philosophy of Biology. (M) Natural Science & Mathematics
+Sector. Class of 2010 and beyond. Domotor, Spencer, Weisberg.
+This course consists of a detailed examination of evolutionary theory and its philosophical foundations.
+The course begins with a consideration of Darwin's formulation of evolutionary theory and the main
+influences on Darwin. We will then consider two contemporary presentations of the theory: Richard
+Dawkins' and Richard Lewontin's. The remainder of the course will deal with a number of foundational
+issues including adaptation, the units of selections, the evolution of altruism, and the possibility of
+grounding ethics in evolutionary theory.
+SM 227. Conceptions of the Self. (M) Staff.
+Investigation of such topics as the unity of consciousness and personal identity. Some attention will be
+given to the relations between conceptions of the self and conceptions of morality.
+L/R 228. (PPE 204) Philosophy of Social Science. (M) Weisberg, Bicchieri.Prerequisite(s): PPE 008,
+ECON 001, ECON 002, PSCI 182, PPE 153, PPE 201.
+This course is about the foundations of contemporary social science. It focuses on the nature of social
+systems, the similarities and differences between social and natural sciences, the construction,
+analysis, and confirmation of social theories, and the nature of social explanations. Specific topics may
+include: What are social norms and conventions? What does it mean to have one gender rather than
+another, or one sexual orientation rather than another? Should social systems be studied
+quantitatively or qualitatively?
+SM 231. Epistemology. (M) Singer.
+Two basic assumptions of academic research are that there are truths and we can know them.
+Epistemology is the study how knowledge, what it is, how it is produced, and how we can have it.
+Metaphysics, the study of the basic constituents of reality, the study of being as such. In this
+introduction to metaphysics and epistemology, we will ask hard questions about the nature of reality
+and knowledge. No philosophy background is required for this course.
+233. (PPE 233) Philosophy of Economics. (M) Staff.
+In this course, general philosophy of science issues are applied to economics, and some problems
+specific to economics are tackled. While analytical questions like "What is economics?" or "What is an
+economic explanation" must be pursued, the ultimate goal is practical: What is good economics? How
+can economists contribute to a better understanding of society, and a better society? How can we
+make economics better? Topics to be discussed include the following: specific object and method of
+economics as a social science; its relation with other disciplines (physics, psychology and evolutionary
+theory); values in economics (welfare, freedom, equality and neutrality); the role of understanding and
+possible limits of a quantitative approach to human behavior (purposefulness, freedom, creativity,
+innovation); prediction, unpredictability and the pretension of prediction; causation in econometrics and
+in economic theory (equilibrium); selfishness and utility maximization (cognitive and behaviorist
+interpretations); economic models and unrealistic assumptions (realism and instrumentalism);
+empirical basis of economics (observation and experiment); microeconomics and macroeconomics
+(reductionism and autonomy); pluralism in economics (mainstream economics and heterodox
+schools).
+
+Page 9 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 234. (RELS204) Philosophy of Religion. (M) Staff.
+This course will focus on arguments for and against the existence of God. It will begin by examining
+the ontological, cosmological, and design arguments for the existence of God. Included will be a
+discussion of purported evidence for the existence of God from modern biology and cosmology. It will
+then examine arguments against the existence of God based on human and animal suffering, followed
+by arguments against the existence of God arising from the scarcity of credible miracle claims.
+SM 243. Topics In Metaphysics. (M) Domotor.Prerequisite(s): PHIL 001 or PHIL 003 or PHIL 004, or
+permission of instructor.
+In this class we employ science fiction thought experiments as a means of reflecting on questions like:
+What is reality? What is the nature of the self and mind? Might you be in a computer simulation (e.g.,
+as in The Matrix)? Is time travel possible? Can your mind survive the death of your brain by uploading?
+Is time real or is it merely an illusion?
+SM 242. Freedom of the Will. (M) Staff.
+A discussion of various challenges to our self-understanding that arise from thinking about persons
+and their actions as part of the order of nature. Questions to be considered include: what it is to be a
+free agent and what it means to have a free will, the degree to which our beliefs about physical
+causality undermine our beliefs about agency, the nature and importance of moral responsibility, and
+the relationship between freedom and responsibility. Readings are drawn from both historical and
+contemporary sources.
+L/R 244. (PPE 244, VLST221) Introduction to Philosophy of Mind. (C) Domotor, Miracchi.
+This course will survey several central topics in philosophy of mind, as well as investigating how
+philosopy of the mind interacts with scientific study of the mind. Among the questions we'll be asking
+are: What is it to have a mind? What is the relationship between the mind and the brain? Can there be
+a science of the mind? What can it tell us? What can philosophy contribute to a science of the mind?
+What is consciousness? What is it to think, to perceive, to act? How are perception, thought, and
+action related to one another?
+SM 245. Philosophy & Science Fiction. Staff.
+In this class we employ science fiction thought experiments as a means of reflecting on questions like:
+What is reality? What is the nature of the self and mind? Might you be in a computer simulation (e.g.,
+as in The Matrix)? Is time travel possible? Can your mind survive the death of your brain by uploading?
+Is time real or is it merely an illusion?
+247. (COML247, GRMN247) Marx. (M) Humanities & Social Science Sector. Class of 2010 & beyond.
+Jarosinski.
+Precious few, if any, communist states exist today as Karl Marx would have imagined them. Indeed,
+almost every part of the 19th-century culture Marx put under his philosophical microscope has in one
+way or another vanished or been radically transformed: the state, the school, even sex have been
+fundamentally altered during a long 20th century filled with revolutions of culture. This class asks: is
+there a future for a philosopher whose political projects seem so precarious--if they have not failed
+outright-in the face of global capitalism? We will try to answer this question by examining the origins
+and the implications of Marx's writings, but also his complex legacy, from Lenin through Guevara to
+Foucault and Zizek. The course will conclude with a consideration of the role of the radical in today's
+global politics and cultural sphere.
+
+Page 10 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 249. (EDUC576, GSWS249) Philosophy of Education. (M) Detlefsen.
+The philosophy of education asks questions about the foundational assumptions of our formal
+institutions for the reproduction of culture. It ranges therefore, from epistemology and philosophy of
+mind to ethics and political philosophy. For instance: What is the nature of learning and teaching? How
+is it possible to come to know something we did not know already--and how can we aid others in doing
+that? How, if at all, should formal institutions of education be concerned with shaping students' moral
+and civic character? What is the proper relation between educational institutions and the state? We
+also ask questions more specific to our own time and context. For example: how, in a multicultural
+state, should we educate students of varied social identities, like race, gender, and religion? What is
+the relationship between education and justice.
+SM 252. (AFRC254, AFRC552, PHIL552) African American Philosophy. (B) Allen-Castellitto.
+A new field has slowly begun to emerge within the traditional discipline of academic philosophy:
+African-American Philosophy. "African American Philosophy" refers here to conceptually and
+analytically rigorous philosophical studies of topics closely related to the social, legal, economic,
+historical, and cultural experiences of US peoples of African descent. The field has appeared in
+tandem with a striking increase in the number of professionally trained philosophers of African descent
+holding the Ph.D. in philosophy, and employed as full-time teachers and scholars. A recent estimate
+puts the number of philosophers of African descent working in the US at about one hundred; and
+about twenty of these are African-American women. A significant body of scholarship now describes,
+explains, critiques, and evaluates African American culture, slavery, oppression, discrimination,
+integration, segregation, equality, gender politics, labor, families, health, mental health, and the
+significance of race to identity, morality, ethics, politics, democracy, public policy, law, science,
+technology, the humanities and the arts. This unique lecture course will be a thematic introduction to
+African American Philosophy since 1960. Weekly topics will be chosen from among these clusters:
+Slavery, Colonialism, Oppression and Freedom;
+Segregation, Integration and Equality; Gender, Sex and Sexualities; Reproductive Rights and
+Responsibilities; Religion and Spiritualism; Rebellion, Protest, Social Movements and Citizenship;
+Economic Welfare, Labor and Inequality; Violence, Crime and Punishment; Education, Affirmative
+Action and Diversity; Reparations and Forgiveness; Identities and Stereotypes; Nature, Science and
+Health; Psychology, Psychiatry and Mental Health; Pragmatism; Existentialism; and the Sociology of
+Philosophy. We will read works by Cornell West, Adrian Piper, Charles Mills, Lewis Gordon, Anita
+Allen, Anthony Appiah, Lucius Outlaw, Naomi Zack, Lawrence Thomas, Bill Lawson, Michele Moody
+Adams and others. For most undergraduate students, evaluation in the course will be based on a midterm and final exam with essay and objective components. Advanced students and graduate students
+enrolled in the course will have an opportunity to write a substantial supervised paper on a topic of
+their own choosing in lieu of the exams.
+SM 272. (PPE 272) Ethics & the Professions. (M) Tan.Prerequisite(s): At least one of: PHIL 002,
+PHIL 009, PHIL 008 or equivalent.
+Since Louise Brown, the first so-called "test tube baby" was born in 1978, reproductive technologies
+have generated many new ways to "make" babies. These technologies mean that a number of difficult
+ethical questions are inescapable, not only for individuals who otherwise couldn't have children (due to
+biological and/or social constraints) but for the larger society.
+This course will consider the prenatal moral status and identity of the fetus. It explores prenatal (and
+pre-implantation) genetic interventions and their possible effects on the autonomy of the child later in
+life as well as the possible eugenic implications of such interventions. It examines the potential conflict
+between a mother's autonomy and an infant's prenatal harm in the larger context created by new kinds
+of parents and new forms of kinship. Finally, it investigates the market for sperm, eggs, embryos and
+gestation and reflects on the questions of justice they imply.
+
+Page 11 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 255. (GRMN255) Topics in Continental Philosophy. (M) Staff.
+Martin Heidegger is counted among the most controversial thinkers of the 20th century. He is best
+known, however, for his early book "Being and Time". This unfinished project was supposed to be
+completed by several works on major figures of western philosophy, one of which is Kant. In fact, only
+shortly after Being and Time, Heidegger published his first book on Kant: Kant and the Problem of
+Metaphysics. With this book Heidegger's so called metaphysical phase (which lasted at least until the
+mid 1930's) was initiated. In this course, we will read and discuss not only large parts of Being and
+Time but also a selection of these later works that are primarily concerned with the nature and object
+of Metaphysics.
+SM 267. Kant and the 19th Century. (M) Staff.Prerequisite(s): PHIL 004.
+After an orientation to Kant's philosophy, we will examine Hegel, Feuerbach, Marx, and Nietzsche.
+SM 271. (PPE 271) Global Justice. (M) Tan.
+This course is an introduction to some of the central problems in global justice. Samples of these
+topics include: What are our duties to respond to world poverty and what is the basis of this duty? Is
+global inequality in itself a matter of justice? How universal are human rights? Should human rights
+defer to cultural claims at all? Is there a right to intervene in another country to protect human rights
+there? Indeed can intervention to protect human rights ever be a duty? Who is responsible for the
+environment? We will read some influential contemporary essays by philosophers on these topics with
+the goal of using the ideas in these papers as a springboard for our own further discussion and
+analysis.
+SM 273. (LGST225, PHIL473) Ethics in the Profession. (M) Staff.
+This introductory course considers the ethical issues and challenges that arise in the professions.
+Topics may include Legal Ethics, Business Ethics, Medical Ethics, and Political Ethics. No prior
+background in Philosohpy or Ethics is presupposed.
+L/R 277. (PPE 277) Justice, Law and Morality. (M) Freeman, Allen.
+The course will focus on the philosophical background to the individual rights protected by the U.S.
+Constitution, including 1st Amendment freedoms of religion, expression, and associaton; the 14th
+amendment guarantee of Due Process and the rights of privacy, abortion, assisted suicide, and
+marriage; the Equal Protection clause and equal political rights and the legitimacy of affirmative action;
+and the Takings and Contract clauses and their bearing on rights of private property and economic
+freedoms. In addition to Supreme Court decisions on these issues, we will read works by political
+philosophers and constitutional theorists, including J.S. Mill, Ronald Dworkin, Cass Sunstein, Martha
+Nussbaum, Katherine MacKinnon and others.
+279. Contemporary Political Philosophy. (M) Hussain, Tan.
+This course will examine contemporary theories of justice, including libertarianism, liberalism,
+contemporary Marxism and feminism. Examples of topics we will examine are distributive justice,
+liberty, human rights, republicanism, and global justice. Philosophers we will read include John Rawls,
+Ronald Dworkin, Robert Nozick, Michael Walzer, Martha Nussbaum, Susan Moller Okin, and G.A.
+Cohen.
+
+Page 12 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 280. (DTCH330, DTCH509, GRMN280, GRMN330) Topics in Aesthetics. (M) Gibbons.
+What is beauty? What is the relationship between beauty and goodness? What does aesthetic
+judgment tell us, if anything, about the world? This course addresses these and other questions by
+focusing predominantly on Kant's highly influential aesthetic theory. It situates this text in the context of
+other works on aesthetics. We begin with Plato's view expressed in The Symposium that beauty is a
+form to which humans gain (some) access through love. We then turn to essays by Shaftesbury and
+Hume that introduce key aesthetic notions that Kant will elaborate (and revise) -- including those of
+taste, common sense, harmony, and aesthetic disinterest. We also read selections from the work of
+Friedrich Schiller, John Dewey, and A. K. Coomaraswamy who offer alternative accounts of the
+relationship between beauty and ethical life -- a relationship that Kant acknowledges but considers to
+be importantly limited. The question of the relationship between ethics and aesthetics will form the
+backdrop for this semester's reading overall.
+SM 300. Research Methods. Staff.
+An intensive research seminar for undergraduates, aimed at developing philosophical skills in the
+context of a supportive student community. Students will learn to present, discuss, and write
+philosophy, drawing on canonical texts in a range of philosophical areas and methods, along with
+readings which they identify in the course of articulating their own philosophical interests. The course
+may be taken alone or as part of a two-semester sequence, and with or without a stand-alone honors
+thesis. In addition to philosophy majors, the course is also suitable for less advanced students or
+majors in related fields who want to sharpen their analytic skills. Admission is by application only.
+Students should have demonstrated philosophical interest and ability, whether through past enrollment
+in upper-division philosophy courses or through other means; and should submit a transcript, the
+names of 1-2 supporting faculty, and a brief statement (300 words) describing how they expect the
+course to contribute to their philosophical and intellectual development, to Professor Karen Detlefsen
+(detlefse@sas.upenn.edu) by November 2, 2012.
+SM 291. Philosophy of Race. (M) Spencer.
+Historically, philosophical questions about race have been about the nature and reality of race, the
+nature of racism, and social or political questions related to race or racism. In fitting with that history,
+the first part of the course will focus on the nature and reality of race, as understood in biology and as
+understood by ordinary people. We will begin by looking at biological race theories from Francois
+Bernier in 1684 to Pigliucci and Kaplan in 2003. Next, we will look at the philosophical work that has
+been done on the nature and reality of race as ordinarily understood in the contemporary United
+States. We will discuss racial anti-realism, social constructionism about race, and biological racial
+realism from well-known philosophers of race like Anthony Appiah, Sally Haslanger, and Joshua
+Glasgow. The second part of the course will focus on the nature of racism and social or political
+questions related to race or racism. In our discussion of racism, we will cover intrinsic v. extrinsic
+racism, the volitional account of racism, institutional racism, and implicit racism. In our discussion of
+social or political issues realted to race or racism, we will address the issue of whether race-based
+preferential treatment in college admissions is an instance of racism.
+SM 294. (ENGL394) The Human Animal. (M) Staff.
+To ask "what is an animal?" entails wondering about what is being human. We have become
+increasingly aware that animals are not to be relegated to the category of pure otherness, can be
+disposed off and slaughtered at will, and that they may even have some rights. Taking a philosophical
+point of departure with Derrida (The Animal that therefore I am) and Agamben (The Open: Man and
+Animal), we will explore a literary corpus (with Aesop, Cervantes, Poe, Soseki, Ted Hughes, Marianne
+Moore, Kakfa, J.M. Coetzee) as well as a few films, (The Fly, Grizzly Man) so as to question our usual
+assumptions about the limits separating humanity from animality.
+
+Page 13 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+299. Independent Study. (C) Staff.
+Student arranges with a faculty member to pursue a program of reading and writing on a suitable topic.
+301. Directed Honors Research. (C)
+Open only to senior majors in philosophy. Student arranges with a faculty member to do an honors
+thesis on a suitable topic.
+SM 325. Topics in Philosophy of Science. (C) Weisberg. Department Majors Only
+Topics will vary.
+SM 330. (VLST222) Philosophy of Perception. (M) Hatfield. Department Majors Only
+Taking our perceptual experience as a given, what causes it? In a realistic mood, we accept that
+objects in the environment, or in the "external world," cause us to have the perceptual experiences
+that we do (as of a table with food, or as of a garden with flowers in it). Yet on this realistic view, our
+perception is the result of a causal chain that leads from object to eye to brain to experiences, and we
+are only given the last element: the experience. So how do we really know how our experiences are
+caused, and where do we get the idea that they are casued by an external world of physical objects?
+The seminar will focus on the problem of the external world as examined by David Hume, Thomas
+Reid, G. E. Moore, and Bertrand Russell, along with recent authors.
+SM 331. Epistemology. (M) Staff. Department Majors Only
+A seminar for philosophy majors on some main problems of contemporary epistemology, with readings
+on justification, contextualism, non-conceptual content, normativity of rationality, and related topics.
+Student presentations are required as are regular attendance and active participation. There are brief
+written assignments on the readings and a final term paper on a topic approved by the instructor.
+SM 334. Philosophy of Religion. (M) Staff. Department Majors Only
+Systematic examinations of the nature of religious experiences; proofs of the existence of God; the
+problem of evil; the relationship of faith and reason; and the possibility of religious knowledge.
+SM 342. Topics in Metaphysics. (M) Weisberg. Department Majors Only
+Various topics in Metaphysics.
+SM 362. (PHIL565) Modern Philosophical Figures. (M) Hatfield, Detlefsen. Department Majors Only
+Various topics in 17th-18th century philosophy.
+SM 344. Wittgenstein: Mind and Language. (C) Staff. Department Majors Only
+In this class, we will engage in a close reading of Wittgenstein's major writings: the Tractatus LogicoPhilosophicus and the Philosophical Investigations. Some of the main topics to be considered include:
+how languagerelates to the world; what philosophy is and what it can accomplish; the nature of
+understanding; what is involved in following a rule; and the phenomenon of seeing-as.
+A distinctive feature of Wittgenstein's approach to philosoph is his commitment to philosophy as an
+activity rather than a set of doctrines. In keeping with this, the main goal of this class is for you to learn
+to do philosophy: to read closely, to grapple with foundational questions, and to talk seriously with
+others. This class is very much a seminar, and I will avoid lecturing as much as possible.
+
+Page 14 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 359. (PPE 475) Topics in Theoretical Philosophy. Spencer. Department Majors Only
+This is an undergraduate research seminar covering interdisciplinary research in psychology,
+philosophy, sociology and behavioral economics related to social norms. Social norms are informal
+institutions that regulate social life. We will devote particular attention to the following questions: 1.
+What is a good, operational definition of social norms? 2. Is there a difference between social and
+moral norms? 3. How can we measure whether a norm exists, and the conditions under which
+individuals are likely to comply with it? 4. Are behavioral experiments a good tool to answer question
+3? 5. How do norms emerge? 6. How are norms abandoned? 7. What is the role of trendsetters in
+norm dynamics?
+SM 361. Ancient Philosophical Figures. (M) Kahn, S.Meyer.Prerequisite(s): PHIL 003. Department
+Majors Only
+A study of selected topics, texts, and figures from classical Greek philosophy.
+SM 367. Kant and Hegel. (M) Staff. Department Majors Only
+We will examine the main theses of Kant's theoretical and practical philosophy and the role of Hegel's
+criticisms in them in the development of the latter's system of philosophy. Subjects will include Kant's
+theory of space, time, substance, and causation; his transcendental idealism; and his analysis of the
+fundamental principles of morality and his defense of freedom of the will. We will then examine Hegel's
+attempt to overcome the dichotomies of Kant's theoretical philosophy in his objective idealism and his
+criticism of the formalism of Kant's practical philosophy.
+SM 368. Topics in German Idealism. (M) Horstmann. Department Majors Only
+The course will start with a brief review of some features of Kant's philosophy, will focus on Fichte and
+Schelling, and will end with a discussion of the reaction to Idealism by Schopenhauer and Nietzsche.
+SM 372. Topics in Ethics. (M) Freeman.Prerequisite(s): PHIL 002 (or consent of the instructor).
+Department Majors Only
+This is a special course on topics in ethics. The content of the course will vary from semester to
+semester, but will focus on issues in applied ethics. Because of the interdisciplinary nature of the
+topics, readings may come from philosophy as well as other fields including sociology, public health,
+biology, and complex systems research. PHILOSOPHY MAJORS ONLY.
+SM 376. Justice. (M) Freeman. Department Majors Only
+The course will focus on contemporary works on liberalism, democracy, capitalism, and distributive
+justice. Among the questions to be discussed: Which rights and liberties are fundamental in a
+constitutional democracy? What is equality and what requirements does it impose? Are economic
+rights of property and freedom of contract equally important as personal liberties of speech, religion,
+and association? Does capitalism realize a just distribution of income and wealth? What is socialism
+and is it potentially just, or necessarily unjust? Readings from works by John Rawls, Robert Nozick,
+Milton Friedman, and others.
+
+Page 15 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 377. (PPE 377) Philosophy and the Constitution. (C) Freeman. For Philosophy and Philosophy,
+Politics, and Economics Majors (PPE) Only
+The aim of this course is to investigate the philosophical background of our constitutional democracy.
+What is the appropriate role and limits of majority legislative rule? How are we to understand First
+Amendment protections of freedom of religion, speech, and assembly? What is the conception of
+equality that underlies the l4th Amendment's Equal Protection Clause? Is there a right of privacy
+implicit in the Constitution? Do rights of property deserve the same degree of protection as other
+constitutional rights? To investigate these and other constitutional issues, we will read from both
+Supreme Court opinions and relevant philosophical texts.
+SM 379. Topics in Political Philosophy. (M) Freeman, Tan. Department Majors Only
+Various topics in political philosophy.
+SM 380. Topics in Aesthetics. (M) Staff. Department Majors Only
+This course will study particular periods in the history of aesthetics and the philosophy of art or
+particular current problems in the field. Examples of the former would be ancient, eighteenth-century,
+nineteenth-century, or twentieth-century aesthetics; examples of the latter would be the definition of
+art, the nature of representation and/or expression in the arts, and art and morality.
+
+Advanced Courses
+SM 412. (CIS 518, LGIC320, LGIC499, MATH571, MATH670) Topics in Logic. (M) Weinstein.
+This course will examine the expressive power of various logical languages over the class of finite
+structures. The course beings with an exposition of some fundamental results about first-order logic in
+the context of finite structures and then proceeds to consider various extensions of first-order logic
+including fixed-point operators, generalized quantifiers, infinitary languages, and higher-order
+languages. The expressive power of these extensions will be studied in detail and connections with the
+theory of computational complexity and with combinatorics will be explored.
+SM 405. Philosophy of Language. (M) Miracchi.Prerequisite(s): PHIL 005 or PHIL 505 or permission
+of instructor.
+This course provides an overview of 20th century analytic philosophy of language. Here are some of
+the questions we will ask: How do words refer? How do they combine to express thoughts? How do
+words relate to ocncepts or to thoughts more generally? What do words and sentences mean? How
+do we use them to communicate with each other? How does word and sentence meaning depend on
+the contexts in which they are spoken or heard, or on stable features of environments of linguistic
+speakers? Prerequisites: This course will be most suitable for advanced undergraduates and graduate
+students in philosophy or linguistics; others need instructor's permission. Familarity with symbolic logic
+is highly recommended, but not required.
+SM 407. Aristotle. (M) S.Meyer.
+A study of Aristotle's main writings on language, reality, knowledge, nature and psychology. All texts
+will be read in English translation. No background in Greek philosophy or knowledge of Greek is
+required, although previous work in philosophy is strongly recommended.
+
+Page 16 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+410. (LGIC310, MATH570) Introduction to Logic and Computability. (M) Weinstein.Prerequisite(s):
+Math 371 or Math 503.
+Propositional logic: semantics, formal deductions, resolution method. First order logic: validity, models,
+formal deductions; Godel's completeness theorem, Lowenheim-Skolem theorem: cut-elimination,
+Herbrand's theorem, resolution method. Computability: finite automata, Turing machines, Godel's
+incompleteness theorems. Algorithmically unsolvable problems in mathematics.
+SM 414. Philosophy of Mathematics. (M) Weinstein, Ewald.
+The course will focus on the development of the foundations and philosophy of mathematics from the
+late nineteenth-century through the present day. Topics will include logicism, formalism, intuitionism,
+and the foundations of set theory. Ample consideration will be given to some of the fundamental
+results of mathematical logic, such as the Godel incompleteness theorems and the independence of
+the Continuum Hypothesis from Zermelo-Fraenkel set theory, that have had a profound impact on
+contemporary approaches to the philosophy of mathematics.
+L/R 421. (PHIL226, PPE 421) Philosophy of Biology. (M) Weisberg.Prerequisite(s): Either two
+philosophy courses OR Biology 101/102 (or equivalent).
+This course consists of a detailed examination of evolutionary theory and its philosophical foundations.
+The course begins with a consideration of Darwin's formulation of evolutionary theory and the main
+influences on Darwin. We will then consider two contemporary presentations of the theories of Richard
+Dawkins'and Richard Lewontin's. The remainder of the course will deal with a number of foundational
+issues and may include discussions of adaptation, what constitutes a species, evolutionary progress,
+the concept of fitness, the units of selection, the alleged reduction of classical genetics to molecular
+genetics, and the possibility of grounding ethics in evolutionary theory. The evolution of altruism will
+also be discussed, time permitting. PREREQUISITES: Either two philosophy courses OR Biology
+101/102 (or equivalent)
+SM 423. (VLST223) Philosophy and Visual Perception. (C) Hatfield, Connolly.
+The course starts with some central issues in the philosophy of perception from the modern period,
+which many include what we perceive, the meaningful content of perception, and its relation to a mindindependent external world. It will then focus on two or three more specific topics, yet to be chosen.
+These may include: (1) color perception and color metaphysics; (2) object perception in its interplay
+between Gestalt organizational factors and background knowledge; (3) the role of ecological
+regularities in the formation of our visual system and in the ongoing tuning of the system to the
+environment; (4) the geometry of visual space and the phenomenology of visual appearances of size
+and shape; (5) the problem of how visual scenes are experienced by means of images and the
+representational relation between images and things imaged, including the characteristics of linear
+perspective and its status as arbitrary convention or optically and naturally based system. Readings
+from authors such as Bertrand Russell, R. W. Sellars, Tim Crane, Evan Thompson, Robert Swartz,
+Wolfgang Metzger, Nelson Goodman, Richard Wollheim, and William Hopp, among others.
+
+Page 17 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 425. (STSC325) Philosophy of Science. (C) Domotor.Prerequisite(s): Background in elementary
+logic and some rudiments of science.
+This self-contained course (presupposing no substantive prior background in philosophy nor any
+extensive knowledge of science) provides an advanced introduction to the central philosophical
+questions concerning the nature of scientific knowledge and its relation to experience, and the
+metaphysical assumptions underlying the natural sciences. Topics to be covered include: science
+versus pseudoscience, laws of nature, causation, determinism and randomness, theories and models
+in science, scientific explanation, underdetermination of theories by observation and measurement,
+realism and antirealism, reductionism and intertheory relations, objectivity and value judgments in
+science, hypothesis testing and confirmation of scientific theories, and classical paradoxes in scientific
+methodology.
+SM 430. Philosophy of Mind. (M) Staff.
+This course studies particular topics in contemporary philosophy of mind and cognitive science.
+Examples include: the nature of consciousness, naturalistic accounts of intentionality, the nature scope
+of scientific explanation in studying the mind, the intersection of philosophy of mind and epistemology,
+and theories of agency. Typically, readings include both philosophy and empirical work from relevant
+sciences. Prerequisites: This course will be most suitable for advanced undergraduates and graduate
+students in philosophy or related sciences; others need instructor's permission.
+SM 426. (STSC426) Philosophy of Psychology. (M) Hatfield.
+An examination of major trends of thought in experimental psychology in relation to philosopohy and
+the philosophy of science. Questions to be asked include: What is the subject matter and object of
+explanation of experimental psychology? What is the relation between psychology and neuroscience?
+How is scientific psychology related to traditional philosophical investigations of the mental? The
+course covers the classical systems and schools of psychology, starting with Wundt and James, and
+proceeding to behaviorism, Gestalt psychology, cognitive and perceptual psychology, and cognitive
+science. The second half of the course examines contemporary problems, including: introspection and
+consciousness; philosophical foundations of cognitive science (computation vs. information); theories
+of the extended and embodied mind; methodological and conceptual problems in investigating the
+evolution of mind, brain, and culture; and the relation between neuroscience and psychology, using
+cases from particular areas such as attention and memory. Readings will include works by Koehler,
+Skinner, Fodor, Shapiro, and others.
+SM 428. Philosophy of Social Science. (M) Staff.
+An examination of fundamental philosophical issues concerning forms of social organization.
+Consideration of philosophical critiques of society.
+SM 429. (RELS437) Medieval Philosophy. (M) Staff.
+Examination of texts from Augustine, Anselm and Aquinas and perhaps Duns Scotus that provide
+background for early modern philosophy. Regular attendance and class presentations of the assigned
+material required (and graded), as well as a final research term paper.
+
+Page 18 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 431. Theory of Knowledge. (M) Domotor.
+This course introduces students to the field of formal epistemology. Although some formal methods will
+be used, the principal objective is to explore various conceptual issues arising in modeling and
+representing knowledge. Topics include: bridging the gap between mainstream and formal
+epistemology by exploring various versions of the familiar tripartite definition of knowledge (knowledge
+as justified true belief) in light of folksy examples and counterexamples, basic logical and probabilistic
+models of knowledge (Hintikka, Aumann, and Bayesian) and their multi-agent variants, logical
+omniscience and other problems (including the epistemic closure principle), attempts at formalizing
+joint and common knowledge, resource-bounded knowledge, knowledge under limited logical powers,
+and empirical knowledge obstructed by system complexity. There are no prerequisites for this course,
+except some logical maturity.
+SM 434. (RELS401) Philosophy of Religion. (M) Staff.
+Systematic examinations of the nature of religious experiences; proofs of the existence of God; the
+problem of evil; the relationships of faith and reason; and the possibility of religious knowledge.
+436. (CLST436) Hellenistic Philosophy. (M) S.Meyer.Prerequisite(s): This course will be most
+suitable for advanced undergraduates and graduate students in Philosophy or Classics; others need
+instructor's permission.
+A survey of the natural philosophy, ethics, and epistemology of the three major schools of postAristotelian philosophy in the West in the period up to approximately 200 CE: the Stoics (followers of
+Zeno of Citium), the Epicureans (followers of Epicurus), and the Sceptics--both the "Academics" (later
+members of Plato's Academy) and the "Pyrrhonists" (inspired by Pyrrho of Elis). Although l ess well
+known today, the Stoics, in particular, were influential in the development of early Christian philosophy,
+and all three schools were highly influential in the development of early modern philosophy. Authors to
+be read include Cicero, Seneca, Lucreetius, Sextus Empiricus, and Stobaeus. All texts will be read in
+English translation. No Latin or Greek is required.
+SM 441. Metaphysics. (M) Staff.
+Fictionalism: There are fictionalist accounts of morality, possible worlds, mathematical objects, and
+even truth. In this course we wlil examine these accounts and the metaphysical repercussions that the
+fictionalist strategy commits us to. We will be covering various case studies of fictionalism, and
+assessing the validity of such accounts. Authors read will include Sainsbury, Kalderon, Everett, and
+Friend.
+SM 442. Origins of Analytic Philosophy. (M) Staff.Prerequisite(s): PHIL 005 and one other
+philosophy course, or permission of instructor.
+This course will explore the history of analytic philosophy through the lens of two of its most influential
+figures: Gottlob Frege and Ludwig Wittgenstein. In the first half of the course, we will explore Frege's
+project in *The Foundations of Arithmetic* to ground the truths of mathematics in the truths of logic
+and the wider contributions to the philosophy of language and mind he made in attempting to carry out
+this project. In the second half of the course, we will explore Wittgenstein's *Philosophical
+Investigations* with particular attention to the skeptical worries about rule-following and its implications
+for the social basis of mental and linguistic representation. In addition to an in-depth study of these
+primary texts, secondary readings will be drawn from the work of Tyler Burge, Michael Dummett,
+Meredith Williams, Peter Hacker and others. The ultimate goal of the class is to both introduce
+students to the work of Frege and Wittgenstein, and to highlight the ways in which their different
+philosophical methodologies continue to animate debates in analytic philosophy.
+
+Page 19 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 450. African, Latin American and Native American Philosophy. Guerrero.
+This course is an introduction to philosophical work from Africa, Latin America, and the indigenous
+peoples of North America, coverning topics in ethics, metaphysics, epistemology, philosophy of mind,
+aesthetics, social philosophy, and political philosophy. The course aims to give work from these
+traditions greater exposure and to provide a chance for students to enounter work that might spark an
+interst in future research. We will cover in some depth views held by Akan, Axtec, Blackfoot, Dogon,
+Iroquois, Lakota, Navajo, Ojibwa, and Yoruba peoples. We will also read work by a number of
+philosophers, including: Kwame Anthony Appiah, Kwame Gyekye, Julius Nyerere, Sor Juanna Ines de
+la Cruz, Simon Bolivar, Jose Marti, Jose Vasconcelos, Enrique Dussel, Gregory Cajete, Anne Waters,
+and many others. Throughout, we will also engage with related meta-philosophical issues that emerge
+with work from all three areas, allowing for interesting cross-discussion.
+Are these really proper fubfields of philosophy? How do we make sense of the idea of African (or
+Latin American, or Native American) Philosophy as a field? Are there philosophically important
+differences between oral traditions and written traditions? How should we understand ethnophilosophy
+and cultural worldviews as philosophical contributions? How should we think of the "sage" figure in
+relation to philosophy? How do these traditions engage discussions of identity, autonomy, and postcolonialism? Should this work be incorporated into the mainstream philosophical canon?
+SM 444. Wittgenstein. (M) Staff.
+A study of the later philosophy of Ludwig Wittgenstein.
+SM 445. Modal Logic. (M) Domotor.Prerequisite(s): PHIL 005.
+Semi-formal examination of basic modalities and conditionals, including the varieties of necessity,
+possibility, counterfactuals, and causality. Special emphasis on applications to ontological proofs,
+deontic paradoxes, beliefs, an laws. Critical analysis of possible world and belief state semantics.
+448. 19th Century Philosophy. (M) Horstmann.
+After an orientation to Kant's philosophy, we will examine Hegel, Feuerbach, Marx, and Nietzsche.
+SM 460. Continental Rationalism. (M) Hatfield, Detlefsen.Prerequisite(s): PHIL 004 or permission of
+instructor.
+In this course, we will read closely some of the definitive texts of seventeenth century European
+philosophy, using the concept of the human being as our focal point. We will concentrate primarily on
+the human considered as a biological being (thus developing our understanding of the scientific
+advances of this century), as a conscious being (thus developing our understanding of theories of
+mind in this century), and (where relevant) as a moral being. We will focus our attention on Descartes,
+Spinoza and Leibniz, but draw as well upon texts from other thinkers, particularly Elisabeth,
+Malebranche and Cavendish. There will be two lectures per week, and discussion is strongly welcome.
+SM 463. British Philosophy I. (M) Staff.Prerequisite(s): PHIL 004 or permission of instructor.
+A study of epistemology and metaphysics in classical British philosophy. Authors studied included
+Bacon, Hobbes, Locke, Berkeley, Hume, Reid, and Mill.
+SM 464. British Philosophy II. (M) Staff.Prerequisite(s): PHIL 002 or PHIL 004 or permission of
+instructor.
+A study of moral philosophy, political philosophy, and aesthetics in classical British philosophy. Authors
+studied include Hobbes, Locke, Hutcheson, Hume, Kames, Adam Smith, and Reid.
+
+Page 20 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 465. (GRMN551) Kant I. (M) Hatfield, Horstmann.Prerequisite(s): PHIL 004, one advanced
+Philosophy course, or permission of instructor.
+The course will concentrate on the Critique of Pure Reason and discuss in detail Kant's conception of
+knowledge and experience, his criticism of traditional metaphysics and the resulting project of a
+system of transcendental philosophy.
+SM 466. (GRMN552) Kant II. (M) Staff.Prerequisite(s): PHIL 002, PHIL 004, or permission of
+instructor.
+This course is a study of Kant's moral and political philosophy. The central theme of the course is
+Kant's conviction that freedom or "Autonomy" is our most basic value, and that the fundamental law of
+morality as well as the more particular principles of both justice and personal virtue are the means that
+are necessary in order to preserve and promote the existence and exercise of human freedom. Central
+questions will be how Kant attempts to motivate or prove the fundamental value of freedom and the
+connection between this normative issue and his metaphysics of free will. Texts will include Kant's
+Lectures on Ethics, Groundwork for the Metaphysics of Morals, Critique of Practical Reason, Religion
+within the Boundaries of Mere Reason, and Metaphysics of Morals. Written work for the course will
+include one short paper and one term paper.
+SM 467. (GRMN567) Topics in History of Philosophy. (M) Hatfield, Detlefsen.Prerequisite(s):
+Previous course in Philosophy or History and Sociology of Science.
+In this course, we will study figures and themes from the 17th through the 18th centuries, an especially
+fertile period in the history of philosophy. Topics will vary from year to year. Please see individual
+course descriptions.
+SM 475. (PPE 475) Political Philosophy. (M) Freeman, Bicchieri.
+This is a research seminar covering interdisciplinary research in psychology, philosophy, cognitive
+science and behavioral economics. Our focus will be on identifying and discussing issues of
+philosophical significance raised by recent work in moral psychology, experimental economics and
+behavioral decision making.
+SM 468. (GRMN583) Hegel. (M) Horstmann.
+Hegel is famous (or rather infamous) for entertaining and endorsing startling and obscure claims like
+'Contradiction is the rule of truth'. 'The Truth is the whole', 'What is rational is real, and what is real is
+rational'. Before one is in the position to evaluate, to criticize (and to dismiss) these claims one has to
+become familiar with their philosophical background. The aim of the seminar is to find out what is
+meant with claims like these and why Hegel thought of them as reasonable. In order to achieve this
+aim one has to get acquainted with the basic metaphysical assumptions of his philosophy and with the
+problems these assumptions are supposed to solve.
+The seminar will focus primarily on some of Hegel's early Jena writings, his Phenomenology of
+Spirit, on passages from different versions of Hegel's Logic and (maybe) on aspects of his Philosophy
+of Right. Topics that are dealt with include: (1) Hegel's conception of philosophy, (2) the development
+of his system, (3) the problem of an introduction to his system (Phenomenology of Spirit), (4) Hegel's
+criticism of traditional metaphysics, (5) his notion of a 'concept' (Begriff), his theory of the Idea. Other
+topics might become of interest as well.
+
+Page 21 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 472. Survey of Ethical Theory. (M) Lord.
+Murder is wrong. Slavery is unjust. Everyone has reason not to torture their neighbor. Having
+inconsistent preferences is irrational. On these matters most agree. But what do we mean when we
+say these things? What state of mind are we in when we think these things? What, is anything, do
+these claims refer to in the world? Is it the same kind of things that we investigate when we do
+science? Do we know these things? If so, how? Are these claims even true? If they are ever true, are
+they true for everyone? These are some of the core questions of metaethics. This course is an
+investigation of the main questions and problems in metaethics since the turn of the 20th century. We
+will investigate questions about the metaphysics of morality, the philosophy of language of moral talk,
+the philosophy of mind of moral thought, the epistemology of morality, and the objectivity of morality.
+473. (PHIL273) Topics in Ethics. (C) Chappell.
+Is abortion wrong? Or euthanasia? Are we justified in eating animals? Why, or why not? we will
+explore these and other "life and death" ethical problems in a systematic way, seeing how the reasons
+we give in answer to one question may influence what we can consistently say about others.
+477. (LAW 544) Philosophy and the Law. (M) Finkelstein.
+This first half of the course will provide an introduction to the main currents of thought about the nature
+and function of law. It will consider, among other things, the classic problem of the source of law's
+authority, exploring whether an unjust law is still a law, and whether law does or ought to bear a close
+relation to morality. Should Nazi officials or East German border guards be punished if they were "just
+following orders"? What about the judges who enforced the implementation of such laws? Do the
+conclusions we would reach in the foregoing contexts apply to the conduct of Americans in dealing
+with suspected terrorists or other detainees? We will consider the divergent answers to these
+questions suggested by the work of J.L. Austin, H.L.A. Hart, Ronald Dworkin, Joseph Raz, and others.
+After addressing these traditional jurispruudential inquiries, we will turn to more recent philosophical
+inquiries in philosophy of law. What is the justification for punishment and how do the various debates
+in this area play out in specific controversial cases? Is torture ever permissible, whether as part of a
+scheme of punishment or as part of a system of law enforcement? Is targeted killing a permissible part
+of just war theory? What should be our stance to government officials who violate the law?
+As we shall see, each one of these applied topics divides into deontological theorists, on the one
+hand, and utilitarian, or economic, theorists on the other. We will raise the question of whether these
+two theories exhaust the possible moves one might make on these various topics, or whether other
+approaches, such as a contractarian approach, are viable options. The course will require a final, take
+home exam, as well as attendance, preparation and participation in discussion. The latter will count
+towards roughly 10% of students' grades. This course is cross listed with LAW 544.
+SM 479. Modern Political Philosophy. (M) Freeman.
+A survey of several works in modern political philosophy, including Thomas Hobbes's, Leviathan; John
+Locke's, Second Treatise on Government and Letter Concerning Toleration; David Hume's 'Of the
+Original Contract' and 'On Justice'; John Stuart Mill's Utilitarianism, On Liberty, and The Subjection of
+Women; excerpts from Karl Marx's Capital and other writings; and John Rawls's A Theory of Justice.
+SM 480. (COML582, GRMN580) Topics in Aesthetics. (M) Staff.
+Walter Benjamin: Art, Philosophy, Literature. Walter Benjamin (1892-1940) is a philosopher whose
+writings on art, literature, and politics have had tremendous influence on cultural studies. He has been
+variously described as one of the leading German-Jewish thinkers, and a secular Marxist theorist. With
+the publication of a new four-volume collection of his works in English, many more of his writings have
+been made accessible to a wider public. Our seminar will undertake a survey of his work that begins
+with his studies on language and allegory, and continues with his autobiographical work, his writings
+on art and literature, and finally on the imaginary space of the nineteenth-century.
+
+Page 22 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 488. The Idea of Nationalism. (M) Steinberg.
+Nationalism has been the most important geo-political phenomenon of the past two hundred years. Its
+continuing power has been amply demonstrated by recent events in many parts of the world. This
+seminar course will explore the ideology of nationalism, what it means, its philosophical foundations,
+underlying assumptions about the nature of human identity, moral implications, and political
+consequences. In the process, we will explore such questions as: What is a nation? Does every
+identifiable ethnic or national group have a valid claim to a nation-state of its own? How are claims to
+national self-determination justified? How do nations differ from states, peoples, groups, communities,
+and citizenries? How does nationalism relate to notions of "chosenness" or ethnic and cultural
+superiority? Why do nationalist movements seem to so often engender political extremism and violent
+ethno-political conflicts? Is national self-determination compatible with our commitments to
+individualism, rationality, and universal human rights?
+SM 485. (GSWS485) Topics in Gender Theory. (M) Staff.
+This course seeks to assemble some of the philosophical evidence for feminist claims that traditional
+political theories are fundamentlaly inadequate because they have not, and presumably cannot, deal
+with basic facts of gender and the oppression of Women. we will begin by examining the nature of the
+distinction between sex and gender. This will take us through discussions of: the meaning and
+significance of categories being socially constructed, the possibility that sexual differences (and
+inequalities) are in some sense natural and what normative force this has. We will then consider
+varous attempts to describe the nature of women's oppression. What is it? How does it manifest itself
+in the lives of women? This will take us through discussions of freedom, constrained choice, ideology,
+"consciousness raising", androcentrism and the relation between, and methodological importance of,
+ideal and non-ideal theory. Along the way we will be constructing a version of the feminist framework
+known as the dominance approach and seeing how it analyzes three presumed sites of oppression:
+sexuality, reproduction and work/family. Among the authors we will be reading are: Elizabeth
+Anderson, Marily Frye, Sally Haslanger, Rae Langton, Anthony Laden, Catherine MacKinnon, and
+Susan Okin.
+The prerequisite for UNDERGRADUATES taking this course is: two philosophy courses (ONE of
+which is in moral or political philosophy) OR ONE of the following Gender Studies courses: GSWS/
+PHIL 028, GSWS/PoliSci 280, GSWS 320. There will be one short paper (6-8 pages) with revision, a
+longer final paper (15 pages) and weekly one-page reflections on a topic from the previous week's
+discussion.
+
+Page 23 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 489. Ethnicity, Identity and Nationhood. (M) Staff.
+Contemporary public discourse -- in politics, in the media, on the Internet, and throughout our culture
+-- gives expression to intense, sometimes violent, disagreements and conflicts that often frustrate the
+solution of important public policy questions, curtail productive public deliberation and dialogue, and
+profoundly challenge our leaders and institutions. This course will deepen our understanding of the
+role that political and cultural ideologies -- such as liberalism, conservatism, nationalism,
+totalitarianism, fundamentalism, etc. -- play in these conflicts and the psychology of ideological
+thinking that makes them so difficult to resolve.
+We will begin by considering a series of case studies in contemporary political, social and cultural
+conflict, drawn from contemporary events such as the 2012 political campaigns, the 2011 debt ceiling
+debate in Congress, nationalist movements around the globe, etc. We will identify and examine the
+ideologies driving such conflicts, and from these we will draw out the common philosophical
+characteristics and psychological features of ideological thinking. Throughout, we will seek to
+understand the deep attraction of ideological commitments and why they tend to push public discourse
+and behavior to extremes and even violence. Finally, we will consider efforts to reduce or resolve
+ideological conflicts thorugh strategies of political compromise, dialogue, toleration, and democratic
+deliberation.
+
+Graduate Courses
+L/R 505. (PHIL005) Formal Logic. (C) Domotor, Weinstein. Undergraduates Need Permission
+This course provides an introduction to some of the fundamental ideas of logic. Topics will include truth
+functional logic, quantificational logic, and logical decision problems.
+506. (MATH570, PHIL006) Formal Logic II. (B) Weinstein. Undergraduates Need Permission.
+An introduction to first-order logic including the completeness, compactness, and Lowenheim-Skolem
+theorems, and Godel's incompleteness theorems. UNDERGRADUATES NEED PERMISSION
+SM 508. Early Plato. (M) Staff. Undergraduates Need Permission
+A study of Plato's earlier dialogues, from the Apology to the Republic, focussing on the moral and
+political background motivating the doctrine of Forms, and tracing the emergence of that doctrine first
+as a theory of essences (in the dialogues of definition) and finally as a metaphysical theory in the
+Symposium, Phaedo and Republic. UNDERGRADUATES NEED PERMISSION
+SM 510. Late Plato. (M) Staff. Undergraduates Need Permission
+Tracing the development of Plato's metaphysics from the Parmenides to the Timaeus, including key
+passages from the Theaetetus and Sophist.
+SM 513. Plotinus. (M) Staff. Undergraduates Need Permission
+An introduction to the thought of the major philosopher of late antiquity, founder of Neo-Platonism.
+Readings will include generous selections from the Enneads.
+
+Page 24 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 526. (GRMN527) Philosophy of Psychology. (M) Hatfield, Steinberg. Undergraduates Need
+Permission
+The seminar will consider selected episodes in the interaction between philosophy and psychology. It
+starts with an intensive study of Descartes' machine psychology (in the Treatise on Man), which
+should complicate our picture of the history of such interactions. We then proceed, partly in response
+to student interest, to interactions involving Kant and nineteenth-century Kantians, Rylean
+"behaviorism", and recent work on the embodied mind (Wheeler, others).
+521. (PHIL226, PPE 225) Philosophy of Biology. (C) Weisberg. Undergraduates need permission
+This course consists of a detailed examination of evolutionary theory and its philosophical foundations.
+The course begins with a consideration of Darwin's formulation of evolutionary theory and the main
+influences on Darwin. We will then consider two contemporary persentations of the theory: Richard
+Dawkins' and Richard Lewontin's. The remainder of the course will deal with a number of foundational
+issues including adaption, the units of selection, the evolution of altruism, and the possibility of
+grounding ethics in evolutionary theory. UNDERGRADUATES NEED PERMISSION
+SM 522. (CINE502) Philosophy and Film. (M) Detlefsen. Undergraduates Need Permission
+SM 525. (COML525, HSSC527) Topics in the Philosophy of Science. (M) Weisberg,
+Bicchieri.Prerequisite(s): Familiarity with behavioral game theory and psychology. Undergraduates
+Need Permission
+For the last four centuries, scientific research has provided our most reliable understanding of the
+world. Although the scientific revolution started modestly with attempts to understand stellar
+movement, we now know the age and constitution of the universe, the basis of heredity, and we can
+make and break chemical bonds at will. By all appearances, science seems to have made substantial
+progress from the scientific revolution to the global scientific enterprise of the 21st centry. This course
+is about how science has generated this knowledge, and whether it has been as progressive and
+reliable as it seems. We will consider methodological issues such as the sources of scientific
+knowledge, objectivity, the growing importance of computation in the natural sciences, and the nature
+of modeling. We will examine products of scientific research: explanations, models, theories, and laws
+of nature. And we will discuss questions about science and values, including whether non-scientific
+values can and should enter scientific research, the relationship between science and religion, and the
+role of the public in guiding the scientific enterprise.
+L/R 527. (PHIL027) Conceptual Foundations of Quantum Mechanics. (M) Hatfield, Steinberg.
+Undergraduates Need Permission
+Quantum theory provides the fundamental underpinning of modern physical science, yet its
+philosophical implications are so shocking that Einstein could not accept them. By following the
+historical development of 20th century quantum science, the student should gain an appreciation of
+how a scientific theory grows and develops, and of the strong interplay between scientific observation
+and philosophical interpretation. Although students will not be expected to carry out mathematical
+derivations, they should gain an understanding of basic quantum findings. Students enrolling in 527
+must register for the recitation section that is reserved for that number, which is for graduate students.
+SM 528. Philosophy of Social Science. Bicchieri.Prerequisite(s): Familiarity with behavioral game
+theory and psychology. Undergraduates Need Permission
+
+Page 25 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 530. Philosophy of Mind. (M) Hatfield, Miracchi. Undergraduates Need Permission
+Agent Architectures: In philosophy of mind, we spend a lot of time asking about particular kinds of
+mental states--about the nature of perception, belief, desire, intention, etc. But what about how it all fits
+together? How do you put the pieces together to get an intelligent agent out of it. And what does that
+in turn tell us about the nature of mental states? We will spend the first part of the course discussing
+some of the classical positions in philosophy of mind and artifical intelligence--especially functionalism
+and the classical "sandwich model" of Al. Then we will explore some new alternatives. We will
+investigate the possible role of the body, the environment, competences, and emotions in determining
+agent architectures. Of particular interest to us will be the question of whether we can understand the
+architecture of intelligent agents in a way that helps to explain how they might be improved upon and
+made more sophisticated (e.g. by evolution). UNDERGRADUATES NEED PERMISSION.
+SM 531. Social Norms. (M) Bicchieri. Undergraduates Need Permission
+This is a graduate research seminar covering interdisciplinary research in psychology, philosophy,
+sociology and behavioral economics related to social norms. Social norms are informal institutions that
+regulate social life. We will devote particular attention to the following questions: 1. What is a good,
+operational definition of social norms? 2. Is there a difference between social and moral norms? 3.
+How can we measure whether a norm exits, and the conditions under which individuals are likely to
+comply with it? 4. Are behavioral experiments a good tool to answer questions 3? 5. How do norms
+emerge? 6. How are norms abandoned? 7. What is the role of trendsetters in norm dynamics?
+SM 532. Topics in Epistemology. (M) Singer. Undergraduates Need Permission
+This graduate seminar will cover some topics of interest to contemporary epistemologists. Possible
+topics may include skepticism, accounts of knowledge and justification, virtue epistemology, formal
+epistemology, social epistemology, feminist epistemology, meta-epistemology, and epistemic
+normativity. This course will be aimed at philosophy graduate students. Other graduate students and
+undergraduates should consult with the instructor before enrolling.
+SM 550. Topics in Philosophy of Education. (M) Detlefsen. Undergraduates Need Permission.
+In this course, we will examine some of the most pressing problems in contemporary philosophy of
+education. These problems include: how much control over a child's education ought to be allocated to
+parents and how much to the state; what role, if any, ought religion to play in education; how do race
+and gender impact individuals' educational experiences and how should such issues should be
+addressed in the classroom; what sort of (if any) civic education ought to be taught in schools
+(especially in wartime such as in the post 9-11 USA); and how should schools be funded? We will deal
+with a number of case studies, mostly recent, but some crucial historical cases as well. Our readings
+will be primarily philosophical texts, supplemented with those from other fields, such as psychology,
+history and sociology, in order to provide empirical context to the theoretical problems facing education
+today. As a seminar, the instructor welcomes student participation, including students bringing their
+own interests in educational theory to the classroom. At the same time, the instructor will lecture to the
+extent necessary to make classroom discussion espcially rich.
+
+Page 26 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 536. Stoicism. (M) S.Meyer. Undergraduates Need Permission
+A study of some major texts in Ancient Greek Scepticsm. We will begin with Plato's Academy, more
+than a century after the death of its founder, when the head of the school Arcesilaus (315-240 BCE)
+advocates a turn away from "doctrinal Platonism" (that is, working out and defending the tenets of
+Plato's philosophy) and a return to the critical stance of Socrates in many Platonic dialogues, who
+advances no doctrines himself but criticizes the claims of others. Much of the intellectural activity of
+the so-called "Sceptical Academy" is directed at contesting the doctrines of their contemporaries in
+Hellenistic Athens: Stoic, Epicurean, and Peripatetic philosophers, with particular emphasis on the
+Stoic doctrine of the "cognitive impression", which the Stoics invoked as the foundation of all
+knowledge. Many of these debates are reported in Cicero's On Academic Scepticism, which is the first
+text we will study. By the late first century BCE, the Academy departed far enough from this "skeptical
+stance" that in reaction, the Academic Aenesidemus left that institution to found Pyrrhonism, which
+takes the fourth-century figure Pyrrho of Elis (360-270 BCE) as its symbolic figure head. The fullest
+account of Pyrrhonist Scepticism is in the writings of a 2nd century CE physician, Sextus Empirucus,
+whose Outlines of Pyrrhonism and
+Against the Ethicists will be the other major texts studied in this course. All readings will be in
+English translation. No knowledge of Greek or Latin is required.
+SM 540. Topics in Philosophy of Language. (M) Staff. Undergraduates Need Permission
+Expressivism: Emotions, Evaluations, and Linguistic Meaning: In this seminar, we will explore the
+virtues and drawbacks of expressivism, broadly construed. Most contemporary philosophers of
+language analyze meaning in terms of truth-conditional content: how the world would have to be for an
+assertion or other speech act to be satisfied. But in many cases, it's unclear just what ontologically
+rrespectable facts could make our utterances true. Further, much of our communicative activity
+appears to be aimed at affecting our iinterlocutors' hearts and actions as much as their minds. If some
+aspects of conventional linguistic meaning involve the expression of evaluative or emotional attitudes
+rather than (just) truth-conditional content, how should a theory of meaning analyze this? We'll begin
+with classic discussions of moral emotivism (e.g. Ayer, Hare) and more recent versions of
+expressivism in ethics (e.g. Gibbard, Blackburn), paying special attention to the Frege-Geach problem.
+Next, we'll turn to recent discussions of epithets, especially racial slurs, in the philosophy of language
+(e.g. Williamson, Brandom, Hornsby), tracing out similarities and contrasts with moral expressivism.
+SM 547. Leibniz/Locke. (M) Detlefsen. Undergraduates Need Permission.
+This course focuses on topics in philosophy of the 17-18th centuries. Topics may include one of the
+following, according to the interests of the class.
+An examination of the development of a few topics in natural philosophy in the early modern period,
+such as: method (the evolution of hypotheses and their reception, the relation of theory to empirical
+work, and the importance of different kinds of empirical work, e.e. observation, experiment, use of
+instruments); the relation of metaphysics to the 'sciences' (including what is meant by "metaphysics",
+and what falls under the scope of the various sciences); and the special role played by the life
+sciences.
+A study of various social, political, and ethical issues, including the role that women played in these
+issues, and the nascent forms of feminism that emerged in the early modern era.
+
+Page 27 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 551. (GRMN560) Topics in Early Modern Philosophy. (M) Detlefsen. Undergraduates Need
+Permission
+Women, liberty, feminisms and ways of approaching the history of philosophy.
+In this course, we'll look at the various ways women and men of the early modern period thought
+about liberty, most particularly as it related to women as individuals and in their social-political roles.
+We will draw upon texts that are clearly 'philosophical' (in the way we think about philosophy in
+contemporary anglo-analytic philosophy departments) as well as texts that are not so typically
+'philosophical'. In addition to looking at the concept of liberty as it pertains to women, there will be two
+meta-themes to the course. First, does it make sense to think of thinkers writing 300 years ago as
+feminists, or is that just a "vile anachronism" as some scholars believe? And if it does make sense,
+what forms of feminism can we discern in the early modern period? Second, what are the best ways to
+integrate atypical philosophy texts into a study of the history of philosophy?
+SM 560. Descartes. (M) Hatfield. Undergraduates Need Permission
+In this course, we will undertake an intensive study of the thought of Descartes, one of philosophy's
+most important figures. We will read his major works - Rules for the Direction of the Mind, The World,
+Discourse on Method, Meditation on First Philosophy, Principles of Philosophy, and Passions of the
+Soul - as well as some less well-known works and some of his correspondence. We will study his
+ideas on method and epistemology, metaphysics, physics and the life sciences, medicine, the nature
+of the human being, and value theory. While our primary aim will be to understand his philosophy as a
+whole and how his thoughts developed and changed through his life, we will devote some time to
+evaluating his legacy.
+SM 552. (AFRC254, AFRC552, PHIL252) African American Philosophy. (B) Allen-Castellitto.
+A new field has slowly begun to emerge within the traditional discipline of academic philosophy:
+African-American Philosophy. "African American Philosophy" refers here to conceptually and
+analytically rigorous philosophical studies of topics closely related to the social, legal, economic,
+historical and cultural experiences of US peoples of African descent. The field has appeared in tandem
+with a striking increase in the number of professionally trained philosophers of African descent holding
+the Ph.D. in philosophy, and employed as full-time teachers and scholars. A recent estimate puts the
+number of philosophers of African descent working in the US at about one hundred; and about twenty
+of these are African-American women. A significant body of scholarship now describes, explains,
+critiques and evaluates African American culture, slavery, oppression, discrimination, integration,
+segregation, equality, gender politics, labor, families, health, mental health, and the significance of
+race to identity, morality, ethics, politics, democracy, pulic policy, law, science, technology, the
+humanities and the arts. This unique lecture course will be a thematic introduction to African American
+Philosophy since 1960. Weekly topics will be chosen from among these clusters: Slavery, Colonialism,
+Oppression and Freedom;
+Segregation, Integration and Equality; Gender, Sex and Sexualities; Reproductive Rights and
+Responsibilities; Religion and Spiritualism; Rebellion, Protest, Social Movements and Citizenship;
+Economic Welfare, Labor and Inequality; Violence, Crime and Punishment; Education, Affirmative
+Action and Diversity; Reparations and Forgiveness; Identities and Sterotypes; Nature, Science and
+Health; Psychology, Psychiatry and Mental Health; Pragmatism; Existentialism; and the Sociology of
+Philosophy. We will read works by Cornell West, Adrian Piper, Charles Mills, Lewis Gordon, Anita
+Allen, Anthony Appiah, Lucius Outlaw, Naomi Zack, Lawrence Thomas, Bill Lawson, Michele Moody
+Adams, and others. For most undergraduate students, evaluation in the course will be based on a midterm and final exam with essay and objective components. Advanced students and graduate students
+enrolled in the course will have an opportunity to write a substantial supervised paper on a topic of
+their own choosing in lieu of the exams.
+
+Page 28 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 554. (GRMN580) Contemporary Continental Philosophy. (M) Staff. Undergraduates Need
+Permission
+This seminar course is an introduction to 20th-century continental European philosophy, focusing on
+the origins and development of phenomenology, existentialism, hermeneutics, and deconstruction. The
+centrality of phenomenology (and its interpretation) to an understanding of these movements and
+other contemporary trends in European thought will be emphasized throughout. No previous
+background in philosophy is required. Human beings live in a world permeated and defined by
+meanings. How we create, communicate, and comprehend meaning has been one of the central
+questions of continental European philosophy over the past century. In this course, we will explore why
+meaning plays such a central role in all attempts to understand human experience and how this insight
+has profoundly influenced major trends in contemporary thought. We will begin the semester with an
+introduction to the phenomenology of Edmund Husserl and the contemporary debate over its proper
+interpretation. This will be followed by an examination of three existentialist critics of Husserl, whose
+philosophies have influenced much of recent continental thought: Martin Heidegger, Jean-Paul Sartre,
+and Maurice Merleau-Ponty.
+Finally, we will examine the important influence of phenomenology and existentialism on
+contemporary trends in continental philosophy as exhibited in works by Paul Ricoeur, Hans Georg
+Gadamer, Jacques Derrida, Hannah Arendt, and Emmanuel Levinas.
+SM 558. Truth & Concealment. (M) Spencer. Undergraduates need permission.
+This course is an exploration of traditional philosophical questions concerning objectivity in science.
+We will start by addressing central questions in feminist philosophy of science, such as what is
+objective reality and what is objective knowledge? Next, we will explore whether science discovers
+objective real entities or relations, which is a central topic in the scientific realism debate. We will also
+explore whether scientific knowledge is objective. We will read mostly 20th and 21st century
+philosophers of science, such as Goodman, Kuhn, Psillos, and Longino. We will also apply what we
+learn to at least one case study. UNDERGRADUATES NEED PERMISSION
+SM 562. MLA Proseminar in Philosophy. (M) Detlefsen.
+In sixteenth century Europe, what we now think of as philosophy, science and religion were all part of
+a single integrated way of studying the world. By the late eighteenth to early nineteenth century, these
+three areas of study had, to a large degree, diverged into distinct disciplines. In this course we will
+study this separation of disciplines in order to come to some understanding about how and why this
+radical shift in western thought occurred.
+SM 565. (PHIL362) Kant's Critique of Metaphysics. (M) Staff.Prerequisite(s): PHIL 465 or
+permission of instructor. Undergraduates Need Permission
+A study of Kant's critique of metaphysics and theory of regulative ideas in the"Transcendental
+Dialectic" and related texts such as CRITIQUE OF JUDGEMENT, ONLY POSSIBLE PROOF OF THE
+EXISTENCE OF GOD, and LECTURES ON PHILOSOPHICAL THEOLOGY. Collateral readings in
+such authors as Descartes, Leibniz, Spinoza, Wolff, Baumgarten, Mendelssohn, Bayle, and Hume.
+SM 576. (LAW 946) Rationality, Morality and Law. (M) Guerrero, Lord. Undergraduates need
+permission.
+This class will be dedicated to investigating topics related to rationality in its many forms. Potential
+areas of study are metaethics, epistemology, moral psychology, and the philosophies of mind,
+language and action. UNDERGRADUATES NEED PERMISSION.
+
+Page 29 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 567. Development of German Idealism. (M) Horstmann. Undergraduates Need Permission
+This course will start with a brief review of some features of Kant's philosophy and will focus on Fichte
+and Schelling, and will end with a discussion of the reaction to Idealism by Schopenhauer and
+Nietzsche.
+SM 568. (GRMN568) Hegel. (M) Horstmann, Hindrichs. Undergraduates Need Permission
+Hegel's "Lectures on Aesthetics" are a seminal work in the philosophy of art. They conceptualize the
+different kinds of art, and they understand art in the context of a philosophy of history that is centered
+on the concept of freedom. We will explore the intellectual background of Hegel's thinking, especially
+Kant, Schiller, and Schlegel, and investigate the conceptual articulation of art with which Hegel
+provides us.
+SM 572. Contemporary Ethics. (M) Freeman, Meyer. Undergraduates Need Permission
+A venerable idea throughout the history of ethics is that rationality is a fundamental or foundational
+part of the metaphysics of the normative. The course will be an investigation of several different strains
+of this rationalist idea. We'll disucss four rationalist views of the nature of normative reasons (Kantian,
+Humean, Aristotelian, and new-fangled constructivism). Our aim will be to investigate the plausibility of
+these rationalist views against the backdrop of a more recent hypothesis about the metaphysics of the
+normative--viz., the claim that normative reasons themselves are the fundamental constituents of the
+normative.
+SM 577. (LAW 946, LAW 949, LAW 992) Topics in Philosophy of Law. (M) Guerrero, Perry, Berman,
+Finkelstein. Undergraduates Need Permission
+This seminar will examine leading academic theories of constitutional interpretation, starting with
+classic texts by (for illustration) Thayer, Wechsler, Ely, Bobbitt, Dworkin, and Scalia, and emphasizing
+current debates within originalism and between originalists and their critics. While the focus will be on
+American constitutional interpretation, we will also see how that literature is currently running up
+against, and possibly contributing to, more "philosophical" or "jurisprudential" accounts of the contents
+of law. Consistent with the nature of the material, the reading load is likely to be somewhat heavier and
+more demanding than in the average seminar. Students will be expected to read the assigned material
+carefully and to participate actively in class discussions; they will have the option of submitting either a
+single research paper or several shorter papers.
+SM 578. (LAW 946) Topics in Political Philosophy. (M) Freeman, Tan. Undergraduates Need
+Permission
+This course examines the special problems culture and cultural membership pose for the liberal
+conception of justice. Liberal justice is supposedly impartial while cultural claims are thought to be
+partial and particular. And whereas liberal justice is concerned primarily with the individual, cultural
+claims are commonly thought to be group-based. How are these conflicting values to be understood?
+We will examine the problem of culture and justice as it arises in the domestic context (e.g., in the
+context of the liberal state) and in the global context. Some of the more specific questions we will
+examine include: Should our conception of justice be influenced by cultureal claims? Should cultural
+differences shape our understanding of human rights? Or should justice transcend culture? What is
+the relationship between individual freedom and cultural membership? Are there, or should there be,
+such things as cultural rights? If cultural diversity ought to be tolerated and even celebrated, what are
+the limits of cultural toleration? Is nationalism justifiable? Authors we will read include John Rawls,
+Charles Taylor, Amy Gutmann, Will Kymlicka, Martha Nussbaum, and Susan Moller Okin. This course
+is open only to students in the MLA program.
+
+Page 30 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 579. Social Philosophy. Bicchieri. Undergraduates Need Permission
+During the last dozen years there has been an explosion of interest in empirically informed moral
+psychology. In this seminar, we will review some of the cutting empirical and theoretical work that is
+being done in moral psychology and explore its philosophical implications. About half o the sessions of
+the seminar will be led by Professor Bicchieri, Professor Harman or Professor Stitch. The other half will
+be led by leading philosophers and scientists from other departments and other universities.
+SM 600. Proseminar.. (A) Staff.
+An intensive seminar for first-year doctoral students, with readings drawn from recent and
+contemporary eistemology and metaphysics, broadly construed. Students will develop their abilities to
+present and discuss philosophical texts, and to write and revise their own papers.
+601. Consortium Course. (C) Staff. Graduate Students Only
+For graduate students taking courses at other institutions belonging to the Philadelphia area
+Philosophical Consortium.
+SM 607. (CLST607) Presocratic Philosophy. (M) Staff.
+Close study of fragments and doxography for the earliest Greek philosophers in the original texts.
+SM 609. (CLST609, COML609, GREK606) Plato's Republic. (M) Staff.
+A close reading and discussion of Plato's work. As much as possible of the text will be read in Greek.
+SM 610. Plato's Symposium and Phaedrus. (M) Staff.
+A close reading and analysis of Plato's two major dialogues on love.
+SM 612. Topics in Hellenistic Philosophy. (M) S.Meyer.
+Topics will vary.
+SM 611. Plato's Philebus. (M) Staff.
+A close reading of the text of one of Plato's latest and most difficult dialogues. Questions to be
+discussed include: the unity of the dialogue, relation to other late dialogues (such as the TIMAEUS),
+relation to the doctrine of Forms, relation to the "unwritten doctrines". Knowledge of Greek is not
+required.
+SM 613. (LAW 618) Topics in Medieval Philosophy. (M) Staff.
+Close reading of selected texts in medieval philosophy.
+SM 625. Contemporary Metaphysical Problems. (M) Hatfield.
+An examination of selected problems at the intersection of philosophy of psychology, philosophy of
+mind, and metaphysics.
+
+Page 31 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 626. Topics in Philosophy of Psychology. (M) Hatfield.
+We will investigate the notions of function, adaptation, and teleology as found in biology and as
+analyzed in the philosophy of biology; we will then apply these notions to selected problems in the
+philosophy of psychology pertaining to representation and content.
+SM 630. Topics in Philosophy of Mind. (M) Hatfield.
+Topics will vary, and may be historical or contemporary.
+SM 633. (HIST610) Colloquium in American History. (M) Kuklick, B..
+HIST 610 is a topics course. When the subject is appropriate, the course will be cross-listed with
+Philosophy. Please refer to the current timetable.
+SM 642. Contemporary Metaphysics. (M) Staff.
+This course will deal with the nature of necessity, essentialism, idealism and the concept of truth from
+a contemporary perspective.
+SM 643. Carnap. (M) Staff.
+A survey of Carnap's writings, with special attention to The Logical Construction of the World and The
+Logical Syntax of Language.
+SM 644. Quine. (M) Staff.
+A survey of Quine's philosophy with special attention to the critique of analyticity, truth and reference,
+indeterminacy of translations, ontological relativity, and physicalism.
+SM 645. Reference. (M) Staff.
+Contemporary discussions of reference with special attention to referential inscrutability, first person
+authority, and anti-individualism. Readings from Quine, Davidson, Putnam, Field, Wallace, Burge, and
+McDowell.
+SM 646. Topics in Early Analytic Philosophy. (M) Staff.
+Selected interpretive and philosophical issues from Frege, Russell, and early Wittgenstein.
+SM 662. Hume's Philosophy of Mind. (M) Hatfield.
+An examination of Hume's theory of mind, focusing on the Treatise and first Enquiry.
+SM 665. Kant's Theoretical Philosophy. (M) Staff.
+This course will study not Kant's system of philosophy but his philosophy of system, that is, the role of
+the concept of systematicity throughout his philosophical work. Special topics will include the role of
+systematicity in empirical knowledge and science, practical reasoning, and meta-philosophy, where
+systematicity functions as the criterion of the adequacy of philosophical theories themselves. Some
+prior acquaintance with the main themes of Kant's theoretical and practical philosophy will be
+assumed.
+
+Page 32 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+SM 672. Topics in Ethics. (M) S.Meyer.
+Phil 672 will be a workshop on writing papers for submission to either conferences or journals. Papers
+may address any topic in value theory, broadly construed, and some participants may choose to revise
+papers written for previous seminars. All participants will be responsible for generating short
+bibliographies and then leading class discussions on their topics, providing drafts of their papers for
+critique by the class, and presenting their papers to the class. Students who have passed their prelims
+are encouraged to participate as auditors.
+674. (BIOH574) Topics in Bioethics. (M) Staff.
+Topics will vary.
+SM 678. Advanced Topics in Political Philosophy. (M) Tan.
+In this course, we will examine various problems and questions in political philosophy. The focus will be
+on contemporary topics. This is an advanced seminar for graduate students who want to develop a
+professional-level paper on a particular subject, and the course will consist of readings on selected
+topics (selected by students) and students presenting their own papers (in various stages) on these
+topics. For graduate students in Philosophy only.
+SM 679. Liberalism and its Critics. (M) Freeman.
+This course will examine some of the fundamental these of liberalism and some of the criticisms they
+have encountered. In particular, we will examine the classical formulation of liberal theory in Immanuel
+Kant as well as his near-contemporaries Moses Mendelssohn and Wilhelm von Humboldt, and
+criticisms of this view by writers like G.W.F. Hegel and F.H. Bradley; we will then examine modern
+versions of liberalism in John Rawls and Ronald Dworkin, and its criticism, especially by
+"communitarians" like Michael Sandel, Charles Taylor, Alasdair MacIntyre, and Michael Walzer. We will
+be concerned with differences between the classical (Kantian) and contemporary (Rawlsian)
+foundations of liberalism as well as with the validity of the criticisms which have been made of each.
+SM 680. (COML681) History of Aesthetics. (M) Staff.
+A study of 18th century aesthetics focussing on Kant, his contempories, and successors.
+SM 700. Dissertation Workshop. (E) Freeman, Hatfield, Singer.
+Registration required for all third-year doctoral students. Fourth year students and beyond attend and
+present their work in the Dissertation Seminar. From time to time, topics pertaining to professional
+development and dissertation writing will be discussed.
+SM 681. Philosophy of Literature. (M) Staff.
+This course will begin with a survey of current topics and writings in the philosophy of literature: what
+is a narrative? what makes literary language expressive? what can we learn from fiction or poetry?
+The text here will consist largely of selected readings from the new Blackwell Companion to the
+Philosophy of Language. We will then explore the relation between philosophy and literature in more
+depth by discussing Eva Dadlez's new book, "Mirrors to one another: emotion and value in Jane
+Austen and David Hume."
+699. Independent Study. (C) Staff.
+Directed readings in consultation with individual faculty members.
+
+Page 33 of 34
+
+PHILOSOPHY
+(AS) {PHIL}
+990. Masters Thesis. (C) Staff..
+995. Dissertation. (C) Staff.
+Ph.D. candidates, who have completed all course requirements and have an approved dissertation
+proposal, work on their dissertation under the guidance of their dissertation supervisor and other
+members of their dissertation committee.
+998. Teaching Practicum (Independent Study). (C) Staff.
+Supervised teaching experience. Four semesters are required of all Doctoral students in philosophy.
+999. Independent Study. (C) Staff. May be repeated for credit
+
+Page 34 of 34
+
+

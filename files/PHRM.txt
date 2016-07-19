@@ -1,0 +1,164 @@
+PHARMACOLOGY
+(MD) {PHRM}
+495. (CHEM495) HIGH THROUGHPUT DISCOVER. (B)
+510. (INSC596, NGG 510) Neuropharm/Neurochem. (J) Staff.Prerequisite(s): Permission of course
+director. Meets two times per week.
+Neurochemistry and neuropharmacology of the central nervous system. Lectures cover the structure
+and properties of neurons, neurotransmitters and signal transduction. Students are expected to
+already have an understanding of the material in Cooper, Bloom and Roth, THE BIOCHEMICAL
+BASIS of NEUROPHARMACOLOGY or its equivalent. Course readings will be both primary and
+review articles.
+532. (CAMB532) Human Physiology..
+534. (GCB 534) EXPERIMENTAL GENOME SCI.
+SM 542. (CAMB542) Topics in Molecular Medicine. (A) Skip Brass, MD, PhD; Gary Koretzky, MD,
+PhD; Mark Kahn, MD.Prerequisite(s): Permission of the course directors. The course is designed
+primarily for combined degree (MD/PhD) students, but will be available to all medical and graduate
+students as space permits. Prioritywill be given to 2st and 2nd year combined degree students. The
+optimal class size will be 14. Tentatively, the course will meet for one hour from 4 - 5 pm on
+Wednesday afternoons with occasional double sessions that will be two hours long.
+TiMM is planned as a once-weekly seminar course whose goal is to introduct students to the ways in
+which biomedical research can provide new insights into clinical medicine and, conversely, how
+knowledge of clinical disease impacts scientific discovery.
+550. (NGG 576, PSYC750) Advanced Topics in Neuropsychopharmacology. (B) Lucki and
+staff.Prerequisite(s): Permission of instructor. Meets two times per week
+Biological issues relevant to neuropsychiatric illnesses are covered in detail in four sections. The first
+section covers clinical aspects of major psychiatric disorders and includes some contact with patients.
+The second section presents the neuroanatomy of the limbic system. In the third section, emphasis is
+on the mechanisms of action of psychotropic drugs, including antidepressants, antipsychotics,
+anxiolytics, and stimulants. The final section covers information relevant to understanding biological
+processes that may be abnormal in neuropsychiatric illnesses, such as stress, sleep, and circadian
+rhythms, as well as quantitative genetics.
+564. (CBE 564) DRUG DELIVERY.
+In this course, students will learn about drug delivery systems with emphasis on targeted therapeutics
+and translational nanomedicine. The course will be directed and taught by Miriam Wattenbarger (CBE)
+and Vladimir Muzykantov (PHRM). Lectures will also be given by other faculty from the Penn School of
+of Engineering and Applied Science and the School of Medicine. The four main topics for the course
+are traditional drug delivery, drug delivery systems and nanocarriers, targeted and smart drug delivery
+systems, and translational aspects of drug delivery systems. There will be a midterm, final, and a
+group project for the course. Students will form small groups for the project and research a drug
+delivery topic to propose an extension of a current research area. An oral and written proposal will be
+given by each group to the class at the end of the semester. The course is open to SEAS seniors and
+graduate students, SAS college pre-med, pre-BE and pre-BGS seniors, biotechnology MS students,
+PGG and BGS graduate students, Wharton and Dental School students.
+
+Page 1 of 4
+
+PHARMACOLOGY
+(MD) {PHRM}
+570. Principles of Cardiovascular Biology. (B) Drs. Vladimir Muzykantov and Emer
+Smyth.Prerequisite(s): Permission of course director.
+Lectures to be presented by various Medical School faculty members. Topics covered include: general
+principles of vascular biology and hemodynamics, endothelial cells and integral vascular functions,
+signaling in the cardiovascular system, angiogenesis, hemostasis and thrombosis, platelets, platelet/
+vascular interactions, vascular integrins and adhesion molecules, vascular inflammation and oxidative
+stress, white blood cells, vasoactive compounds and drugs, mechanisms of atherosclerosis,
+cholesterol and lipid metabolism, hypertension, novel vascular directed gene and enzyme therapies.
+SM 580. Topics In Pharmacogenetics. (B) DR. A. STEVEN WHITEHEAD.Prerequisite(s): Permission
+of course director.
+This is a "literature-based" course (i.e. a seminar course/literature survey). It will survey the emerging
+technologies and computational advances that have permitted the field of pharmacogenetics to
+mature into a major biomedical discipline over the past few years. It will consider the likely impact on
+disease target identification,the development of new drugs for established and "niche" markets, the
+advent of "personalized medicine", including the selection of therapies that have maximum efficacy
+and minimum side-effect profiles. This course will also touch on some of the ethic issues associated
+with the routine genetic testing of patients to facilitate treatment choices and clinical monitoring.
+590. (REG 590) Molecular Toxicology: Chemical and Biological Mechanisms. (B) Dr. Trevor M.
+Penning.Prerequisite(s): Pre-requisites: Must have taken or will take Fundamentals of Pharmacology
+concurrently. Undergraduate course work in biochemistry and chemistry essential. Exceptions allowed
+based on past course work. Please consult with Course Director. Students: All 1st and 2nd year
+GGPS, CAMB, Neuro and BSTA students with required prerequisites; residents in Environmental and
+Occupational Health, and professional masters students (MPH and MTR).
+Course Goals: Exposures to foreign compounds (drugs, carcinogens, and pollutants) can disrupt
+normal cellular processes leading to toxicity. This course will focus on the molecular mechanisms by
+which environmental exposures lead to end-organ injury and to diseases of environmental etiology
+(neurodegenerative and lung diseases, reproduction disruption and cardiovascular injury). Students
+will learn the difficulties in modeling response to low-dose chronic exposures, how these exposures
+are influenced by metabolism and disposition, and how reactive intermediates alter the function of
+biomolecules. Mechanisms responsible for cellular damage, aberrant repair, and end-organ injury will
+be discussed. Students will learn about modern predictive molecular toxicology to classify toxicants,
+predict individual susceptibility and response to environmental triggers, and how to develop and
+validate biomarkers for diseases of environmental etiology. Students are expected to write a term
+paper on risk assessment on an environmental exposure using available TOXNET information.
+600. Medical Pharmacology BIOM 600. Axelsen and staff. This course focuses on the mechanism of
+action of various classes of agents used in the therapy of human disease. Drug classes covered
+include neuropsychiatric drugs, anesthetics, sedatives and hypnotics, cardiovascular and
+hematological drugs, drugs affecting renal function, inflammation and immune modulation, anticancer
+drugs, antimicrobal drugs, endocrine and metabolic drugs. The course is coprised of four 1-hour
+lectures per week by faculty with special interests and ex.Prerequisite(s): Permission of the instructor.
+Class meets four days a week
+This course will review basic human physiology pertinent to drug action, and then focus on the
+mechanisms of action of the various classes of agents used in the therapy of human disease. It
+consists of lectures by an array of faculty with special interests and expertise in the topic being
+presented. Drug classes covered include: Neuropsychiatric drugs, cardiovascular and hematological
+drugs, anticancer drugs, antimicrobial drugs, endocrine and metabolic drugs.
+
+Page 2 of 4
+
+PHARMACOLOGY
+(MD) {PHRM}
+623. (REG 623) Fundamentals of Pharmacology. (A) Dr. David Manning and staff.Prerequisite(s):
+Permission of course director. Meets three times per week
+This course is designed to introduce students to basic pharmacological concepts with special
+emphasis on the molecular actions of drugs. Subject matter includes use of microcomputers to
+analyze pharmacological data.
+624. MEDICAL PHARMACOLOGY. Axelsen and staff. This course is centered on the molecular basis
+of drug action. It is comprised of four 1-hour lectures per week (as described for PHRM 600) and
+supplemented with weekly problem sets and readings designed to reinforce and expand upon
+materials presented in lecture. Student evaluation is based on four exams and weekly problem sets.
+PHRM 624 is requred of all 2nd year PGG students. PGG students must co-enroll in PHRM 532/
+CAMB 532 (Human Physiology). Prerequisites:Cell Biolo.
+630. (BMB 700, CHEM700) Frontiers in Bioorganic and Medicinal Chemistry. (A) Dr. Ian Blair, Dr.
+Barry Cooperman, Dr. Dewey McCafferty.Prerequisite(s): Permission of the courses directors.
+This advanced course for graduate students will be based primarily on didactic lectures from three
+Penn faculty. Permission for a student to participate should first be obtained from one of the
+participating faculty. A solid background in chemistry and biochemistry will be required. Overviews of
+current and emerging topics in bioorganic and medicinal chemistry will be presented. Students will be
+given short "take home" problem sets, two formal interim examinations, and a formal final examination
+during the semester. Topics that will be covered over the semester include: Mass spectrometry of DNA
+and DNA-adducts, Synthetic peptides/peptide mimics/proteins, including the expansion of the genetic
+code; methods of synthesis and applications, Synthetic RNAs, DNAs and nucleic acid mimics:
+methods of synthesis and applications, Synthetic oligosaccharides: methods of sythesis and
+applications, Combinatorial chemistry, Enzymology of translation, Antibiotic biosynthesis, Introduction
+to drug metabolism, Characterization of drug metabolites, Characterization of reactive metabolites
+from drugs and endogenous molecules, DNA-adducts from drugs and endogenous molecules,
+Lipidomics in drug development.
+SM 632. (CAMB632) Cell Cont Sig Trans Path.. (B)
+640. Topics in Cancer Pharmacology. (B) Dr. Judy Meinkoth and Dr. Wenchao Song.Prerequisite(s):
+permission of course directors. Class meets Wednesdays, 1:00 - 3:00; Fall semester
+Reviews of current literature on topics such as cancer cell signaling, cancer genetics, hormonal
+carcinogens, environmental carcinogens, chemo- and gene therapy of cancer, cancer epidemiology
+and prevention. New hypotheses in cancer etiology, prevention and treatment will be discussed as
+they appear in the literature. The aim of the course is to introduce the students to the latest
+development in the above areas related to cancer pharmacology.
+SM 650. (BMB 650, CAMB702) Topics in Cardiovascular Pharmacology.
+657. (ENVS657) HAZ WASTE HEALTH EFFECTS.
+
+Page 3 of 4
+
+PHARMACOLOGY
+(MD) {PHRM}
+660. Frontiers in Cancer Pharmacology. (A) Dr. Ian A. Blair.Prerequisite(s): Permission of the course
+director.
+This advanced course for graduate students combines didactic lectures from Penn faculty with oral
+presentations and oral assignments from the students. Students should have either completed PHRM
+560, Princliples in Cancer Signaling and Therapeutics or PHRM 640, Topics in Cancer Pharmacology
+or equivalent classes. The faculty will present overviews of current and emerging topics in cancer
+pharmacology. Emphasis of the presentations will be on the translation of basic science discoveries
+into therapeutic agents. Students will choose related topics to explore in more detail. In consultation
+with Dr. Blair, students will prepare a 45-minute presentation (using Power Point slides). Each student
+will give at least two presentations during the semester. The faculty teaching the course will be
+available for help with the presentations. The written assignment will involve a 10-page double spaced
+paper (exclusive of references) with a maximum of 25 references. The assignment will consist of a
+literature review in the area of one of the presentation topics chosen by the student. Additional
+information can be obtained from the Center for Cancer Pharmacology web site: http://
+www.med.upenn.edu/ccp/
+699. Laboratory Rotation.
+799. Independent Study. (C)
+899. Pre-Dissertation Lab Rotation.
+999. Research in Pharmacology. (C) Prerequisite(s): Permission of staff member.
+Independent or collaborative research in various fields of pharmacology arranged individually with
+members of the staff.
+
+Page 4 of 4
+
+

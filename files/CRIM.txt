@@ -1,0 +1,213 @@
+CRIMINOLOGY
+(AS) {CRIM}
+120. Data Science I: Applications in Criminal Justice. Berk.
+Data Science I will introduce student to the collection, management, and analysis of data. Students
+will learn some basic programming in R, a leading programming language for the management and
+analysis of large and complex administrative data (big data). Unlike conventional introductory
+statistics courses that focus on analysis of data using commerical software packages, this course will
+emphasize data collection, management, analysis using basic computer programming and with real
+data common in criminal justice settings. Hands on experience will be emphasized. The textbook in
+Introductory Statistics with R, second edition, by Peter Dalgaard (Springer, 2009)
+270. BIOSOCIAL CRIMINOLOGY. (A) Raine.
+Is there a "natural-born killer"? Why don't psychopaths have a conscience? And is it morally wrong for
+us to punish those who are biologically-wired for a life of crime? This interdisciplinary biosocial course
+argues that answers to these inscrutable questions can be found in the fledging field of
+"neurocriminology". This new sub-discipline brings together the social, clinical, and neurosciences to
+help us better understand, predict, and prevent future crime. We will explore the biosocial bases to
+crime and violence, analyze controversial neuroethical, legal and philosophical issues surrounding
+neurocriminology, and take a field trip to prison. This interdisciplinary course presents perspectives
+from the fields of psychology, neuroscience, criminology, sociology, law, business, public health,
+psychiatry, anthropology, neuroimaging, neuroendocrinology, forensics, nutrition, and pediatrics. It is
+suitable for those without a background in biology or criminology. It is particularly relevant for majors in
+Criminology, Psychology, Nursing, and Biological Basis of Behavior.
+402. (CRIM602) CRIM JUSTICE ANALYTICS. (C)
+535. Introduction to Quantitative Methods for Policy Analysis. (C) Owens.
+This course is an introduction to the basic mathematical tools and ideas that support quantitative
+policy analysis. By the end of the semester, students will be able to identify and explain measures of
+central tendency and variation for catergorical and continuous variables; describe the statistical
+relationship between two variables; conduct and explain "foundational" statistical tests, including
+hypothesis testing and linear regression analysis; manipulate data sets and write simple statistical
+programs in Stata.
+671. (PSYC671) Violence: A Clinical Neuroscience Approach. (A) Raine.
+Developed for both Psychology and Criminology graduates in particular, this interdisciplinary course
+outlines a clinical neuroscience approach to understanding violence in which the tools of
+neuroscience- neuroanatomy, neurophysiology, neurocognition, neuroendocrinology,
+neuropharmacology, molecular and behavioral genetics- are used to help inform the etiology and
+treatment of violence. Clinical components include psychopathy, proactive and reactive aggression,
+homicide domestic violence, conduct disorder, oppositional defiant disorder, antisocial personality
+disorder, crime, and delinquency as well as their comorbid conditions (schizophrenia, drug abuse,
+hyperactivity). The interaction between social, psychological, and neurobiological processes in
+predisposing to violence will be highlighted, together with neurodevelopmental perspectives on
+violence focusing on prospective longitudinal and brain imaging research. Key implications for the
+criminal justice system, neuroethics, forensics psychology, and intervention will also be outlined.
+
+Undergraduate Courses
+
+Page 1 of 5
+
+CRIMINOLOGY
+(AS) {CRIM}
+100. (SOCI233) Criminology. (C) Society Sector. All classes. Hyatt.
+This introductory course examines the multi-disciplinary science of law-making, law-breaking, and
+law-enforcing. It reviews theories and data predicting where, when, by whom and against whom
+crimes happen. It also addresses the prevention of different offense types by different kinds of
+offenders against different kinds of people. Police, courts, prisons, and other institutions are critically
+examined as both preventing and causing crime. This course meets the general distribution
+requirement.
+150. Statistics for the Social Sciences. (A) Ridgeway.
+Statistical techniques and quantitative reasoning are essential tools for properly examining questions
+in the social sciences. This course introduces students to the concepts of probability, estimation,
+confidence intervals, and statistical inference. The course has an applied focus and will show students
+how to use the statistical concepts and methods to answer social science questions. The course will
+require the use of R, a free, open source statistical analysis program. CRIM150 has been approved
+for the quantitative data analysis requirement (QDA).
+200. (SOCI200) Criminal Justice. (C) Society Sector. All classes. MacDonald.
+This course examines how the criminal justice system responds to crime in society. The course
+reviews the historical development of criminal justice agencies in the United States and Europe and
+the available scientific evidence on the effect these agencies have on controlling crime. The course
+places an emphasis on the functional creation of criminal justice agencies and the discretionary role
+decision makers in these agencies have in deciding how to enforce criminal laws and whom to punish.
+Evidence on how society measures crime and the role that each major criminal justice agency plays
+in controlling crime is examined from the perspective of crime victims, police, prosecutors, jurors,
+judges, prison officials, probation officers and parole board members. Using the model of social policy
+evaluation, the course asks students to consider how the results of criminal justice could be more
+effectively delivered to reduce the social and economic costs of crime.
+260. Crime and Human Development. (C) Loeffler.
+One of the central research problems in criminology is the relationship between human development
+and the likelihood of committing crime. This course will examine the tools for measuring the onset of
+crime, its persistence, intermittency, and desistence. These tools include the study of birth cohorts of
+everyone born in a certain time and place, life course studies of juvenile delinquents and nondelinquents, trajectory analysis of people studied from pre-school through middle age, and interviews
+with 70 year old former delinquents who reflect on how their life-course affected the crimes they
+committed. This course will also examine the research findings that have been produced using these
+tools. Students will be asked to consider what these findings imply for major theories of crime
+causation as well as policies for crime prevention.
+SM 280. (SOCI380, URBS280) Neighborhood Dynamics of Crime. (B) Loeffler.
+Crime varies in time, space and populations as it reflects ecological structures and the routine social
+interactions that occur in daily life. Concentrations of crime can be found among locations, with
+antisocial activities like assaults and theft occurring at higher rates because of the demographic
+make-up of people (e.g. adolescents) or conflicts (e.g. competing gangs), for reasons examined by
+ecological criminology. Variation in socio-demographic structures (age, education ratios, and the
+concentration of poverty) and the physical environment (housing segregation, density of bars, street
+lighting) predicts variations between neighborhoods in the level of crime and disorder. Both
+ethnographic and quantitative research methods are used to explore the connections between the
+social and physical environment of areas and antisocial behavior.
+
+Page 2 of 5
+
+CRIMINOLOGY
+(AS) {CRIM}
+300. Law and Criminal Justice. (C) Laufer.
+This course explores constitutional criminal procedure or the law of the Fourth, Fifth, and Sixth
+Amendments to the United States Constitution. Topics included the laws and rules associated with
+search and seizure, arrest, interrogation, the exclusionary rule, and deprivation of counsel. Social
+science evidence that supports or raises questions about legal doctrine will be examined. No
+prerequisites are required.
+320. Practical Data Analysis. (B) Heller.
+This course provides a hands-on introduction to data analysis for social science, with a focus on
+examples from the criminal justice system. Students will gain experience with the practical side of
+statistics by learning to explore, analyze, interpret, and present data - tasks which permeate both the
+academic and professional practice of criminology (and many other fields). The course will provide
+instruction on how to use Excel, Stata, and ArcGIS to answer questions of interest, as well as insight
+into how professionals use data in practice.
+SM 601. (SOCI681) Pro-Seminar in Criminal Justice. (B) Owens.Prerequisite(s): CRIM 600.
+This course examines the scholarship on the causes and consequences of the development of the
+criminal justice system. The primary focus of the course is on the historical development and
+contemporary impact of key actors in the criminal justice system, such as the police, courts, and
+corrections, on society. The course will examine the social and economic effect of criminal justice
+policies and practices. The course emphasizes evidence from the available social science research in
+the United States, with some reference to research in other European nations.
+330. Drugs and Gangs. (A) Owens.
+How do markets for illegal goods and services differ from the typical economic markets we participate
+in on a daily basis? Why is a gang different from other types of groups, and what makes "gang
+related" crime different from other types of criminal behavior? In this class we will study how illegal
+markets and illegal groups function, why individuals participate in them, and what federal, state, and
+local governments do to disrupt "organized" illegal activity.
+Academic research and media reports on drug markets and gang activity will be evaluated
+according to economic theories of law, public finance, and organizational behavior. Upon completion
+of this course, students will be able to use empirical and qualitative evidence to critique existing and
+proposed policies aimed at reducing the social cost of drug use and gang activity.
+SM 410. (CRIM610, SOCI410) Research Seminar in Experiments in Crime and Justice. (A)
+Loeffler.Prerequisite(s): Any statistics or research methods courses leading to familiarity with Excel,
+SPSS, R, Stata, SAS, Matlab, or NumPy.
+This seminar focuses on examining data from experiments in criminology including: randomized
+controlled trials of criminal justice policies, "natural" experiments in crime, and other quasiexperimental studies. A series of experiments conducted by Penn scholars and elsewhere will be
+examined. This seminar also guides criminology majors in writing a research proposal for their thesis.
+Students will learn about how to formulate a research question, develop a review of the literature, and
+how to apply necessary empirical methods. The final paper for this course will be a research proposal
+that can serve as the basis for the student's senior thesis and to satisfy the senior capstone
+requirement. Readings will come from the disciplines of criminology, sociology, psychology,
+economics, and urban planning.
+
+Graduate Courses
+
+Page 3 of 5
+
+CRIMINOLOGY
+(AS) {CRIM}
+SM 600. (SOCI680) Pro-Seminar in Criminology. (A) MacDonald.
+This course provides an overview of the leading criminological theories of crime. The central focus is
+on the major theories of crime developed over the past century from the disciplines of economics,
+psychology, and sociology. The course will focus on the application of social science research as a
+way to evaluate theories of crime. Special attention is devoted to the issues of measurement of crime
+and what is known from the available empirical data. In addition, the course will focus on how these
+theoretical perspectives relate to public policy responses to crime.
+602. (CRIM402) Criminal Justice Data Analytics. (C) Ridgeway.
+This course covers the tools and techniques to acquire, organize, link and visualize complex data in
+order to answer questions about crime and the criminal justice system. The course is organized
+around key questions about police shootings, victimization rates, benchmarking justice system
+performance, identifying crime hotspots, calculating the cost of crime, and finding out what happens
+to crime when it rains. On the way to answer these questions, the course will cover topics including
+data sources, basic programming techniques, SQL, text mining, regular expressions, and geocoding.
+The course will use R, and open-source, object oriented scripting language with a large set of
+available add-on packages.
+SM 603. Research Methods 2/Crime Analysis. (B) Heller.
+This course provides an overview of the application of social science research methods and data
+analysis to criminology. The course will place an emphasis on diagnostic and analytic tools for the
+data analysis. Students will learn basic statistical techniques for the analysis of social science data
+and how to interpret results as part of the rigorous practice of evidence-based Criminology. M.S.
+Studentw will perform semester-long, data-based crime analysis project using quantitative analysis to
+address a specific research question. Student projects culminate with an oral class presentation and
+the submission of a written thesis.
+SM 604. Criminology in Practice. (E) Ridgeway.
+In this capstone course speakers from the University of Pennsylvania and other academic institutions
+and from non-profit research organizations discuss their research, while speakers from government
+and criminal justice policy and practice settings -the consumer of research- share their insights.
+Members of the cohort interact with all guest speakers.
+634. Evidence-Based Crime Prevention. (A) Heller.
+This course considers the use of evidence to identify effective crime prevention policies. The course
+will teach students to think critically about what constitutes convincing evidence, use benefit-cost
+analysis in comparing policy alternatives, and write effective policy memos that can translate research
+into practice. We will develop these skills by studying the effects of different policy approaches to
+crime prevention including incarceration, policing, gun control, drug regulation, and place-based
+interventions, as well as education, social programs, and labor market policies. Emphasis will be on
+the methodological challenges to identifying "what works" and the empirical methods to overcome
+those challenges.
+999. Independent Study and Research. (C) Both terms.
+Primarily for advanced students who work with individual faculty upon permission. Intended to go
+beyond existing graduate courses in the study of specific problems or theories or to provide work
+opportunities in areas not covered by existing courses.
+
+Page 4 of 5
+
+CRIMINOLOGY
+(AS) {CRIM}
+SM 700. (SOCI700) Advanced Pro-Seminar in Criminology. (A) Staff.
+This second year doctoral course is a weekly discussion group designed to help students integrate
+their coursework from different disciplines around the unifying perspectives of criminology. It focuses
+on preparation for the doctoral comprehensive examination, detailed critiques of published research
+reports, and colloquia by leading guest lecturers presenting new research results. Students preparing
+for dissertation research on the causes and prevention of crime will report on their developing
+research ideas.
+SM 701. Advanced Pro-Seminar in Criminal Justice. (B) Staff.
+This second year doctoral course is a weekly discussion group designed to help students integrate
+their coursework from different disciplines around the behavior and operation of criminal law systems.
+It focuses on preparation for the doctoral comprehensive examination, detailed critiques of published
+and unpublished research reports, and colloquia by leading guest lecturers presenting new research
+results. Students preparing for dissertation research on the behavior of criminal law will report on their
+developing research ideas.
+800. Thesis Research Project. (C) Staff.
+700. RETURN ORIENT FOR VMDPHD.
+
+Page 5 of 5
+
+

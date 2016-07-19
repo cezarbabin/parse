@@ -1,0 +1,554 @@
+BIOENGINEERING
+(EG) {BE}
+100. Introduction to Bioengineering. (A) Corequisite(s): MATH 104, PHYS 140 or 150. Freshmen
+Only. Freshmen Only
+Survey course introducing students to the breadth of bioengineering. Course consists of introductory
+lectures, guest speakers/panelists, and a series of small assignments that allow students to explore
+different facets of bioengineering and the Penn Bioengineering program.
+101. Introduction to Bioengineering II. Prerequisite(s): BE 100. Freshmen Only
+Introduction to Bioengineering II. Continuation of the freshman introductory bioengineering course.
+This course introduces students to the design process and emphasizes its role in engineering.
+L/R 200. Introduction to Biomechanics. (A) Prerequisite(s): MATH 114, PHYS 140, or PHYS 150.
+Corequisite(s): MATH 240.
+This course investigates the application of statics and strength of materials to soft and hard biologic
+tissues. The course will cover simple force analyses of the musculoskeletal system and introduces the
+fundamentals of the mechanics of materials including axial loading, torsion and bending and their
+application to biomechanics. The lecture and recitation will be complemented with hands-on examples
+emphasizing connections between theoretical principles and practical applications.
+220. Biomaterials. (B) Prerequisite(s): BE 200, CHEM 102.
+This course investigates the application of materials science and engineering to biomedical
+applications, with a focus on polymers, ceramics, and metals. The course will cover concepts related to
+basic material fabrication and synthesis, structure and property characterization, as well as
+applications of biomaterials. The lecture and recitation will be complemented with laboratory examples
+of material assessment and characterization.
+SM 225. Technology and Engineering in Medicine. (C) Prerequisite(s): Math 114, Physics 140 and
+141 or Physics 150 and 151; sophomore and higher only.
+The course is appropriate for engineering and science majors and premeds. This engineering course
+will provide an examination of technology and its design and its impact on medicine with an emphasis
+on the intersection of engineering with medicine and health. Modules will focus on specific
+technological advances as a basis for the discussion. Planned topics change from yea r to year and
+include, for example, cochlear implants and visual sensory rehabilitative devices. The course includes
+homework and reading assignments. Every student presents a paper on a relevant biomedical
+technology.
+L/R 301. Bioengineering Signals and Systems. (A) Prerequisite(s): MATH 241, PHYS 141 OR 151,
+ENGR 105 (can be taken as a corequisite).
+Properties of signals and systems; Examples of biological and biomedical signal and systems; Signal
+operations, continuous and discrete signals; Linear, time invariant systems; Time domain analysis;
+Systems characterized by linear constant-coefficient differential equations; Fourier analysis with
+applications to biomedical signals and systems; Introduction to filtering; Sampling and the sampling
+theorem. Examples vary from year to year, but usually include signals such as the ECG and blood
+pressure wave, principles of signal coding in the auditory system and cochlear implants, and simple
+applications in biomedical imaging.
+L/R 305. Engineering Principles of Human Physiology. (A) Prerequisite(s): MATH 241.
+Quantitative analysis of cellular and systems-level human physiology. Emphasis is on the neural,
+cardiovascular, musculoskeletal, and pulmonary systems.
+
+Page 1 of 13
+
+BIOENGINEERING
+(EG) {BE}
+L/R 306. Molecular Physiology and Cellular Engineering from Atoms to Disease. Prerequisite(s):
+CHEM 102, MATH 241, PHYS 140/141, BIOL 121.
+This course explores physical biology of the cell across several length and timescales, while
+simultaneously emphasizing molecular specificity and clinical implications such as disease outcome or
+biomedical applications. The course emphasizes how the basic tools and insights of engineering,
+physics, chemistry, and mathematics combined with "Big Data" can illuminate the study of molecular
+and cell biology to make predictive biomedical models and subject them to clinical validation. Drawing
+on key examples and seminal experiments from the current clinical literature, the course demonstrates
+how quantitative models can help refine our understanding of existing biological data and also be used
+to make useful clinical predictions. The course blends traditional models in cell biology with the
+quantitative approach typical in engineering, in order to introduce the student to both the possibilities
+and boundaries of the emerging field of physical systems biology. While teaching physical model
+building in cell biology through a practical, case-study approach, the course explores how quantitative
+modeling based on engineering principles can be used to build a more profound, intuitive
+understanding of cell biology. Lab modules will be embedded in the lectures and all labs will be in
+silico (or computational) in nature.
+309. Bioengineering Lab I. (A) Prerequisite(s): ENGR 105, PHYS 141/151, MATH 240, BE 200, BE
+220.
+The first of two laboratory courses that are taken during the junior year. The goal of these laboratories
+is to provide students with hands-on experience in utilizing fundamental engineering skills to solve
+complex medical problems. Topics vary from year to year but generally include instrumentation, analog
+and electronics, fluid transport, pharmacokinetics, and engineering physiology. The course includes a
+lecture component and laboratory experiments. Students work in teams and submit assignments, a
+midterm, lab reports, and a final lab practical.
+310. Bioengineering Lab II. (B) Prerequisite(s): ENGR 105, PHYS 141/151, BE 220, BIOL 121/123,
+MATH 240. Corequisite(s): MATH 241, BE 301.
+The second of two laboratory courses that are taken during the junior year. The goal of these
+laboratories is to provide students with hands-on experience in utilizing fundamental engineering skills
+to solve complex medically relevant problems. Topics vary from year to year but generally include
+instrumentation, analog and digital electronics, signals and systems, microfluidics, synthetic biology,
+and rapid prototyping. The course includes a lecture component and laboratory experiments. Students
+work in teams and submit assignments, lab reports, and a final lab practical.
+L/R 324. Chemical Basis of Bioengineering II. (A) Prerequisite(s): PHYS 140, 141 or 150, 151,
+MATH 240, CHEM 101, 102.
+Advanced topics in physical chemistry including solution and colloid chemistry, electrochemistry,
+surface phenomena, and macromolecules applied to biological systems.
+330. (MSE 330) Soft Materials. (C) Prerequisite(s): Juniors and higher, CHEM 102.
+This course will serve as an introduction of soft condensed matter to students with background in
+chemistry, physics and engineering. It covers general aspects of fundamental interactions between
+soft materials with applications involving polymers, colloids, liquid crystals, amphiphiles, food and
+biomaterials.
+L/R 350. Introduction to Biotransport Processes. (B) Prerequisite(s): MATH 241, PHYS 140 or 150.
+Introduction to basic principles of fluid mechanics and of energy and mass transport with emphasis on
+applications to living systems and biomedical devices.
+
+Page 2 of 13
+
+BIOENGINEERING
+(EG) {BE}
+400. Preceptorship in Clinical Bioengineering. (B) Junior and Senior BE majors only
+Introduction to the integration of biomedical engineering in clinical medicine through lectures and a
+preceptorship with clinical faculty. This course is for BE majors ONLY, with preference given to BSE
+students.
+440. (BE 540) Biomolecular and Cellular Engineering. (C)
+This course will introduce concepts and methods for the quantitative understanding of molecular and
+cellular phenomena. Topics include molecular recognition, receptor-ligand binding, viral infection,
+signal transduction, cell adhesion, motility, and cytoskeletal dynamics. The course requires
+mathematics at the level of differential equations, and some knowledge of Matlab programming. A
+basic knowledge of cell biology is suggested, although not required.
+441. Engineering Microbial Systems. (C) Prerequisite(s): Biol 121.
+This course is designed to expose students to the principles underlying engineering microbial
+systems. The fundamentals of DNA, RNA, and proteins will be reviewed. An emphasis will be placed
+on recombinant DNA technologies, mutagenesis, cloning, gene knockouts, altered gene expression
+and analysis, with practical real world examples of their application. Throughout this course we will
+also focus on case studies and cricial literature evaluation.
+455. (MEAM455) Continuum Biomechanics. (A) Prerequisite(s): Math through 241; BE 200 or
+MEAM 210; BE 350 or MEAM 302.
+Continuum mechanics with applications to biological systems. Fundamental engineering conservation
+laws are introduced and illustrated using biological and non-biological examples. Kinematics of
+deformation, stress, and conservation of mass, momentum, and energy. Constitutive equations for
+fluids, solids, and intermediate types of media are described and applied to selected biological
+examples. Class work is complemented by computational laboratory experiences.
+483. (BE 583, MMP 507) Molecular Imaging. (C) Prerequisite(s): MATH 241, BIOL 215 or BE 305.
+This course will provide a comprehensive survey of modern medical imaging modalities and the
+emerging field of molecular imaging. The basic principles of X-ray, ultrasound, nuclear imaging, and
+magnetic resonance imaging will be reviewed. The course will also cover concepts related to contrast
+media and targeted molecula r imaging. Topics to be covered include the chemistry and mechanisms
+of various contrast agents, approaches to identifying molecular markers of disease, ligand screening
+strategies, and the basic principles of toxicology and pharmacology relevant to imaging agents.
+470. Medical Devices. (C) Prerequisite(s): Junior or Senior BE Majors only, ENRG 105, permission of
+the instructor. Students who have taken ESE 350 or a similar course may not enroll
+Lab-based course where students learn the fundamentals of medical device design through hands-on
+projects using microcontrollers. Students first learn basic design building blocks regularly employed in
+microcontroller-based medical devices, and then carry out a small design project using those building
+blocks. Projects are informed by reverse-engineering of competing products, FDA regulations, and
+marketplace considerations.
+
+Page 3 of 13
+
+BIOENGINEERING
+(EG) {BE}
+480. Introduction to Biomedical Imaging. (C) Prerequisite(s): BE 301 or ESE 325.
+Introduction to the mathematical, physical and engineering design principles underlying modern
+medical imaging systems including x-ray computed tomography, ultrasonic imaging, and magnetic
+resonance imaging. Mathematical tools including Fourier analysis and the sampling theorem. The
+Radon transform and related transforms. Filtered backprojection and other reconstruction algorithms.
+Bloch equations, free induction decay, spin echoes and gradient echoes. Applications include onedimensional Fourier magnetic resonance imaging, three-dimensional magnetic resonance imaging
+and slice excitation.
+490. Independent Project in Bioengineering. (C) Prerequisite(s): Sophomore, Junior and Senior BE
+majors only.
+An intensive independent study experience on an engineering or biological science problem related to
+bioengineering. Requires preparation of a proposal, literature evaluation, and preparation of a paper
+and presentation. Regular progress reports and meetings with faculty advisor are required.
+492. Independent Project in Bioengineering. (C) Prerequisite(s): Sophomore, Junior and Senior BE
+majors only.
+Second semester of an independent project.
+495. Senior Design Project. (A) Prerequisite(s): Seniors in BE or Department Permission.
+Group design projects in various areas of bioengineering. Projects are chosen by the students with
+approval of the instructor in the Spring semester of the Junior year and refined during the Fall
+semester. The course guides the students through choosing and understanding a biomedical problem,
+defining characteristics of a successful design solution, creatively developing potential approaches to
+designing solutions to eliminate or mitigate the problem, choosing, iteratively refining, and
+implementing a particular solution, and evaluating how well the solution fulfills the need. Final oral and
+written reports are required. Also emphasized are teamwork, project management, time management,
+regulations/standards, and effective communication.
+496. Senior Design Project. (B) Prerequisite(s): Seniors in BE or Department Permission.
+Second semester of a two semester design project.
+497. Senior Thesis in Biomedical Science. (A) Prerequisite(s): Seniors in BAS or Department
+Permission.
+An intensive independent project experience incorporating both technical and non-technical aspects of
+the student's chosen career path. Chosen topic should incorporate elements from the student's career
+path electives, and may involve advisors for both technical and non-technical elements. Topics may
+range from biomedical research to societal, technological and business aspects of Bioengineering. A
+proposal, regular progress reports and meetings with a faculty advisor, a written thesis, and a
+presentation are required.
+498. Senior Thesis in Biomedical Science. (B) Prerequisite(s): Seniors in BAS or Department
+Permission.
+Second semester of a year-long project.
+
+Page 4 of 13
+
+BIOENGINEERING
+(EG) {BE}
+502. From Biomedical Science to the Marketplace. (C) Prerequisite(s): Graduate students or
+permission of the instructor.
+This course explores the transition from discovery of fundamental knowledge to its ultimate application
+in a clinical device or drug. Emphasis is placed upon factors that influence this transition and upon the
+integrative requirements across many fields necessary to achieve commercial success. Special
+emphasis is placed on entrepreneurial strategies, intellectual property, financing and the FDA process
+of proving safety and efficacy. Current public companies in the medical device and drug industry are
+studied in detail and critiqued against principles developed in class.
+504. Biological Data Science II: Data Mini ng Principles for Epigenomics. (C) Prerequisite(s):
+Graduate students or permission of the instructor.
+This course will teach upper level undergraduates and graduate students how to answer biological
+questions by harnessing the wealth of genomic and epigenomic data sets generated by highthroughput technologies such as microarrays and deep sequencing.
+505. Quantitative Human Physiology. (C) Prerequisite(s): Graduate students or permission of the
+instructor.
+Introduction to human physiology using the quantitative methods of engineering and physical science.
+Emphasis is on the operation of the major organ systems at both the macroscopic and cellular level.
+510. Biomechanics and Biotransport. (C) Prerequisite(s): MATH 241, BE 200, 350.
+The course is intended as an introduction to continuum mechanics in both solid and fluid media, with
+special emphasis on the application to biomedical engineering. Once basic principles are established,
+the course will cover more advanced concepts in biosolid mechanics that include computational
+mechanics and bio-constitutive theory. Applications of these advanced concepts to current research
+problems will be emphasized.
+512. Bioengineering III: Biomaterials. (C) Prerequisite(s): General Chemistry, basic biomechanics.
+This course provides a comprehensive background in biomaterials. It covers surface properties,
+mechanical behavior and tissue response of ceramics, polymers and metals used in the body. It also
+builds on this knowledge to address aspects of tissue engineering, particularly the substrate
+component of engineering tissue and organs.
+514. (IPD 504) Rehab Engineering and Design. (C) Prerequisite(s): Graduate students or permission
+of the instructor.
+Students will learn about problems faced by disabled persons and medical rehabilitation specialists,
+and how engineering design can be used to solve and ameliorate those problems. The course
+combines lectures, multiple design projects and exercises, and field trips to clinical rehabilitation
+facilities. Students will have substantial interactio with clinical faculty, as well as with patients.
+
+Page 5 of 13
+
+BIOENGINEERING
+(EG) {BE}
+515. Bioengineering Case Studies. (C) Prerequisite(s): Graduate students or permission of the
+instructor.
+This course introduces students to bioengineering research and development as related to meeting
+clinical needs. The course is broadly organized about the question of "what makes medical technology
+work". It introduces students to the assessment of medical technology including studies to evaluate
+safety and effectiveness of new devices. Introduction to regulatory, ethical, legal, and economic issues
+as they relate to the success of new medical technologies. The course will be taught through
+examination of case studies, which may vary from year to year. Recent case studies included
+mammography, heart assist devices and the artificial heart, hyperthermia, safety of radiofrequency
+energy. The course will include experts (both in person and via teleconferences) and student
+presentations in addition to lectures by the instructor.
+L/R 518. Optical Microscopy. (C) Prerequisite(s): Graduate students or permission of the instructor.
+An introduction to the fundamental concepts of optics and microscopy. Geometrical optics: ray tracing,
+optical elements, imaging systems, optical aberrations. Physical optics: the electromagnetic spectrum,
+the wave equation, diffraction, interference and interferometers, optical resolution limits, optical
+coherence, lasers. Microscopy methods: phase contrast, differential interference contrast, fluorescence
+microscopy, confocal microscopy, multiphoton microscopy, optical coherence tomography,
+superresolution microscopy.
+L/R 521. (NGG 521) Brain-Computer Interfaces. (C) Prerequisite(s): BE 301 (Signals and Systems)
+or equivalent, computer programming experience, preferably MATLAB (e.g., as used the BE labs, BE
+310). Some basic neuroscience background (e.g. BIOL 215, BE 305, INSC core course), or
+independent study in neuroscience, is required. This requirement may be waived based upon practical
+experience on a case by case basis by the instructor.
+The course is geared to advanced undergraduate and graduate students interested in understanding
+the basics ofimplantable neuro-devices, their design, practical implementation, approval, and use.
+Reading will cover the basics of neuro signals, recording, analysis, classification, modulation, and
+fundamental principals of Brain-Machine Interfaces. The course will be based upon twice weekly
+lectures and "hands-on" weekly assignments that teach basic signal recording, feature extraction,
+classification and practical implementation in clinical systems. Assignments will build incrementally
+toward constructing a complete, functional BMI system. Fundamental concepts in neurosignals,
+hardware and software will be reinforced by practical examples and in-depth study. Guest lecturers
+and demonstrations will supplement regular lectures.
+530. (PHYS585) Theoretical Neuroscience. (C) Prerequisite(s): Knowledge of multivariable calculus,
+linear algebra and differential equations is required (except by permission of the instructor). Prior
+exposure to neuroscience and/or Matlab programming will be helpful.
+This course will develop theoretical and computational approaches to structural and functional
+organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural
+coding and decoding with an emphasis on sensory systems, (iii) approaches to t he study of networks
+of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi)
+ideas that address why the brain is organized the way that it is. The course will be appropriate for
+advanced undergraduates and beginning graduate students.
+
+Page 6 of 13
+
+BIOENGINEERING
+(EG) {BE}
+537. (CIS 537) Biomedical Image Analysis. (C) Prerequisite(s): Math through multivariate calculus
+(MATH 241), programming experience, as well as some familiarity with linear algebra, basic physics,
+and statistics.
+This course covers the fundamentals of advanced quantitative image analysis that apply to all of the
+major and emerging modalities in biological/biomaterials imaging and in vivo biomedical imaging.
+While traditional image processing techniques will be discussed to provide context, the emphasis will
+be on cutting edge aspects of all areas of image analysis (including registration, segmentation, and
+high-dimensional statistical analysis). Significant coverage of state-of-the-art biomedical research and
+clinical applications will be incorporated to reinforce the theoretical basis of the analysis methods.
+546. Fundamental Techniques of Imaging I. (C) Prerequisite(s): Graduate students or permission of
+the instructor.
+This course covers the fundamentals of modern techniques in biological and in vivo biomedical
+imaging. This practical course consists of a series of hands-on lab exercises, covering major imaging
+modalities, but also extends to non-radiology modalities of interest in biological, pathological or animal
+imaging (e.g., optical imaging). Topics include x-ray, mammography, MRS, MRI, PET, and ultrasound.
+The emphasis will be on hands-on aspects of all areas of imaging and imaging analysis. Small groups
+of students will be led by a faculty member with technical assistance as appropriate.
+L/R 540. (BE 440, CBE 540) Biomolecular and Cellular Engineering. (C) Prerequisite(s): Graduate
+students or permission of the instructor.
+This course will introduce concepts and methods for the quantitative understanding of molecular and
+cellular phenomena. Topics include molecular recognition, receptor-ligand binding, viral infection,
+signal transduction, cell adhesion, motility, and cytoskeletal dynamics. The course requires
+mathematics at the level of differential equations, and some knowledge of Matlab programming. A
+basic knowledge of cell biology is suggested, although not required.
+541. (CBE 541) Engineering and Biological Principles in Cancer. (B) Prerequisite(s): Seniors in BE
+or permission of the instructor.
+This course provides an integrative framework and provides a quantitative foundation for
+understanding molecular and cellular mechanisms in cancer. The topics are divided into three classes:
+(1) the biological basis of cancer; (2) cancer systems biology; and (3) multiscale cancer modeling.
+Emphasis is placed on quantitative models and paradigms and on integrating bioengineering
+principles with cancer biology.
+547. Fundamental Techniques of Imaging 2. (C) Prerequisite(s): Graduate students or permission of
+the instructor.
+This course is a continuation of the course Fundamental Techniques of Imaging 1 (BE546). It builds
+upon the fall course instruction and continues to expose students to the fundamentals of modern
+techniques in biological and in vivo biomedical imaging. This course consists of a series of hands-on
+lab exercises, covering major imaging modalities, but also extends to non-radiology modalities of
+interest in biological, pathological or animal imaging (e.g., optical imaging). Topics include SPECT,
+Micro-CT, diffuse optical spectroscopy, in vivo fluorescence imaging, and computed tomography. The
+course will continue to emphasize the hands-on aspects of all areas of imaging and imaging analysis.
+Small groups of students will be led by a faculty member with technical assistance as appropriate.
+
+Page 7 of 13
+
+BIOENGINEERING
+(EG) {BE}
+551. BIOMICROFLUIDICS. (C) Prerequisite(s): Experience with an undergraduate level fluid
+mechanics course is preferred. Examples of relevant SEAS courses include BE 350 (Biotransport),
+CBE 350 (Fluid Mechanics), and MEAM 302 (Fluid Mechanics).
+The focus of this course is on microfluidics for biomedical applications. Topics to be covered in the first
+half of this course include microscale phenomena, small-scale fabrication techniques, and sensing
+technologies that are often leveraged in the development of microfluidic systems for the study of
+biomolecules, cells, tissues, and organs in living biological systems. In the second half of this course,
+strong emphasis will be placed on the application of microfluidics in cell biology, bioanalytical
+chemistry, molecular biology, tissue engineering, and drug discovery.
+553. Principles, Methods, and Applications of Tissue Engineering. (C) Prerequisite(s): Graduate
+Standing or instructor's permission.
+Tissue engineering demonstrates enormous potential for improving human health. This course
+explores principles of tissue engineering, drawing upon diverse fields such as developmental biology,
+cell biology, physiology, transport phenomena, material science, and polymer chemistry. Current and
+developing methods of tissue engineering, as well as specific applications will be discussed in the
+context of these principles. A significant component of the course will involve review of current
+literature within this developing field.
+554. (CBE 554) Engineering Biotechnology. (M) Prerequisite(s): Graduate standing or permission of
+the instructor.
+Advanced study of re DNA techniques; bioreactor design for bacteria, mammalian and insect culture;
+separation methods; chromatography; drug and cell delivery systems; gene therapy; and diagnostics.
+L/R 555. (BE 444, CBE 555, MEAM555) Nanoscale Systems Biology. (C) Prerequisite(s):
+Background in Biology, Chemistry or Engineering with coursework in thermodynamics or permission of
+the instructor.
+From single cell manipulations down to studies of single nanoparticles and single molecules, basic
+cell- molecular biology and biotechnologies are increasingly 'nano' as well as quantitative. Lectures
+and laboratories in this course start with nano aspects of optical detection, address the basic
+thermodynamics of biomolecular interactions, and then cover genomic scale devices. Nanoprobe
+methods are then complemented by basic theories of self-assembly and polymers as well as
+application in drug delivery and virus engineering with analyses of limitations imposed by the innate
+immune system. Skills in analytical and professional presentations, papers and laboratory work will be
+developed.
+L/R 557. (CBE 582) From Cells to Tissue: Engineering Structure and Function. (C) Prerequisite
+(s): Math through 241; BE350, BE324 as pre- or corequisites; Molecular & cellular biology.
+The goal of this course is to introduce students to quantitative concepts in understanding and
+manipulating the behavior of biological cells. We will try to understand the interplay between molecules
+in cells and cell function. A particular focus is on receptors - cell surface molecules that mediate cell
+responses. We will also try to understand processes such as adhesion, motility, cytoskeleton, signal
+transduction, differentiation, and gene regulation.
+562. (CBE 562) Drug Discovery & Development. (C) Prerequisite(s): Graduate standing or
+permission of the instructor.
+This course covers topics such as drug discovery targets, drug development, high throughput
+screening, solid phase synthesis, instrumentation, Lab-on-a-chip, pharmacokinetics, and drug delivery.
+
+Page 8 of 13
+
+BIOENGINEERING
+(EG) {BE}
+L/R 558. Principles of Biological Fabrication. (C) Prerequisite(s): Graduate standing or permission
+of the instructor.
+BE 558 introduces methodological approaches that are currently used for the de novo construction of
+biological molecules - primarily, nucleic acids and proteins - and how to use these molecules to
+engineer the properties of cells and intact tissue. By the end of the semester, students should (i)
+possess a molecular-scale understanding of key biological synthesis and assembly processes, (ii)
+gain an intuition for how to create novel methodologies based on these existing processes, and (iii)
+appreciate the drivers of technology adoption. Course content will be placed in context of cutting edge
+applications in bioengineering and human health.
+L/R 559. Multiscale Modeling of Biological Systems. (C) Prerequisite(s): Undergraduates who have
+taken BE 324 or equivalent courses in Quantum Mechanics and/or Statistical Physics need no
+permission. Others, email instructor for permission.
+This course aims to provide theoretical, conceptual, and hands-on modeling experience on three
+different length and time scales that are crucial to biochemical phenomena in cells and to
+nanotechnology applications. Special Emphasis will be on cellular signal transduction. 60% lectures,
+40% computational laboratory. No programming skills required.
+561. Musculoskeletal Biology and Biolengineering. (B) Prerequisite(s): Graduate student standing
+in Engineering and/or CAMB. Undergraduate students with permission of the instructor.
+The goal of this course is to educate students in core principles and expose them to cutting-edge
+research in musculoskeletal biology and bioengineering through (1) lectures covering the basic
+engineering principles, biological fundamentals, and clinical practices involved in the function, repair,
+and regeneration of the musculoskeletal tissues; (2) critical review and presentation by student groups
+of recent and seminal publications in the field related to the basic science, translation, and clinical
+practice of musculoskeletal biology and bioengineering, with discussion input by faculty members with
+relevant expertise. This course will place an emphasis on delivering multidisciplinary knowledge of cell
+and molecular biology, mechanics, material science, imaging, and clinical medicine as it relates to the
+field of musculoskeletal bioengineering and science.
+566. (ESE 566) Network Neuroscience. (C) Prerequisite(s): Graduate standing or permission of the
+instructor. Experience with Linear Algebra and MATLAB.
+The human brain produces complex functions using a range of system components over varying
+temporal and spatial scales. These components are couples together by heterogeneous interactions,
+forming an intricate information-processing network. In this course, we will cover the use of network
+science in understanding such large-scale and neuronal-level brain circuitry.
+L/R 567. (AMCS567, GCB 567) Mathematical Computation Methods for Modeling Biological
+Systems. (C) Prerequisite(s): BE 324 and BE 350.
+This course will cover topics in systems biology at the molecular/cellular scale. The emphasis will be
+on quantitative aspects of molecular biology, with possible subjects including probabilistic aspects of
+DNA replication, transcription, translation, as well as gene regulatory networks and signaling. The
+class will involve analyzing and simulating models of biological behavior using MATLAB.
+
+Page 9 of 13
+
+BIOENGINEERING
+(EG) {BE}
+570. Biomechatronics. (C) Prerequisite(s): A first course in programming, Senior standing in BE or
+permission of the instructor.
+Mechatronics is the combination of mechanical, electrical and computer engineering principles in the
+design of electromechanical systems. Biomechatronics is the application of these principles to human
+biology and includes orthopaedic, hearing, respiratory, vision and cardiovascular applications. In this
+hands-on, project-based course, these biomechatronic systems will be explored. Students will learn
+the basic mechanical and electrical elements needed to complete a biomechatronic design challenge
+including basic circuits, design considerations, material fabrication, microcontrollers and mechanisms
+(e.g. converting rotational motion into linear motion). Students will carry out a final design project
+utilizing these building blocks.
+575. Injury Biomechanics. (C) Prerequisite(s): ENM 500 or 510, BE 510 or MEAM 519 or equivalent.
+A background in physiology and anatomy is also recommended.
+This course is intended as an introduction to investigating the mechanics of injury, from the organism
+to the tissue level. The students will be exposed to both formal didactic instruction and selected field
+work. The course will cover principles in continuum and analytical mechanics, and will use application
+in injury research to illustrate these concepts. The course will be divided into three major units. The
+first unit will be an introduction to variational principles of mechanics and calculus of variations, and
+will apply these concepts to injury problems (e.g., occupant kinematics during a collision, vehicle
+kinematics, impact to padded surfaces). Special emphasis will be placed on converting a system input
+into a body response. The second unit of the course will be used to discuss the effect of gross body
+motion on tissue and organ mechanical response. Material models of biological tissue will be
+discussed, and examples relating body motion to tissue response will be reviewed. In the final unit of
+this course, students are required to research and review a problem of their choice and present a
+report detailing an engineering based solution to the problem.
+580. (PHYS582) Medical Radiation Engineering. (C) Prerequisite(s): Junior standing.
+This course in medical radiatioin physics investigates electromagnetic and particulate radiation and its
+interaction with matter. The theory of radiation transport and the basic concept of dosimetry will be
+presented. The principles of radiation detectors and radiation protection will be discussed.
+586. Signal Analysis & Process. (A) Prerequisite(s): BE 301.
+This course takes off where BE 301 ends. The course will add new topics and methods as well as
+depth and rigor accompanied with biomedical applications. In particular, the course will emphasize
+discrete-time signal processing, relationship betwee continuous-time and discrete-time signals, Fourier
+transform methods, filtering, signal sampling, and reconstruction and biomedical applications.
+581. (BMB 581) Techniques of Magnetic Resonance Imaging. (M) Prerequisite(s): Graduate
+standing or permission of the instructor.
+Detailed survey of the physics and engineering of magnetic resonance imaging as applied to medical
+diagnosis. Covered are: history of MRI, fundamentals of electromagnetism, spin and magnetic
+moment, Bloch equations, spin relaxation, image contrast mechanisms, spatial encoding principles,
+Fourier reconstruction,imaging pulse sequences and pulse design, high-speeding imaging techniques,
+effects of motion, non-Cartesian sampling strategies, chemical shift encoding, flow encoding,
+susceptibility boundary effects, diffusion and perfusion imaging.
+
+Page 10 of 13
+
+BIOENGINEERING
+(EG) {BE}
+583. (BE 483, MMP 507) Molecular Imaging. (C) Prerequisite(s): MATH 241, BIOL 215 or BE 305.
+This course will provide a comprehensive survey of modern medical imaging modalities and the
+emerging field of molecular imaging. The basic principles of X-ray, ultrasound, nuclear imaging, and
+magnetic resonance imaging will be reviewed. The course will also cover concepts related to contrast
+media and targeted molecula r imaging. Topics to be covered include the chemistry and mechanisms
+of various contrast agents, approaches to identifying molecular markers of disease, ligand screening
+strategies, and the basic principles of toxicology and pharmacology relevant to imaging agents.
+584. (MATH584) Mathematics of Medical Imaging and Measurements. (M) Prerequisite(s): Math
+through 241 as well as some familiarity with linear algebra and basic physics.
+In the last 25 years there as has been a revolution in image reconstruction techniques in fields from
+astrophysics to electron microscopy and most notably in medical imaging. In each of these fields one
+would like to have a precise picture of a 2 or 3 dimensional object, which cannot be obtained directly.
+The data that is accessible is typically some collection of weighted averages. The problem of image
+reconstruction is to build an object out of the averaged data and then estimate how close the
+reconstruction is to the actual object. In this course we introduce the mathematical techniques used to
+model measurements and reconstruct images. As a simple representative case we study transmission
+X-ray tomography (CT). In this contest we cover the basic principles of mathematical analysis, the
+Fourier transform, interpolation and approximation of functions, sampling theory, digital filtering and
+noise analysis.
+597. Master's Thesis Research. (C)
+For students working on an advanced research program leading to the completion of master's thesis.
+599. Master's Independent Study. (C)
+The purpose of BE 599 is to allow a student to create a customized curriculum to study material
+beyond or outside the scope of our standard BE course offerings. Independent study is NOT a
+research or design project, it is a one-on-one or small-group course with a professor. The course
+should require an effort comparable to that of a regular course, about 10-12 hours per week. A paper
+or presentation is required
+608. (MTR 620) Translational Therapeuti. (B) Prerequisite(s): Engineering students only or
+permission of the instructor.
+612. Materials Affecting Cell and Molecular Function. (M) Prerequisite(s): Graduate standing or
+permission of the instructor.
+This course provides advanced knowledge regarding the effect of the various classes of materials on
+tissues, cells and molecules, with the emphasis on musculoskeletal tissues. Topics include the effect of
+particulate matter, controlled release carriers and scaffolds for tissue repair. Emphasis is placed on
+recent developments in tissue engineering of bone and cartilage. The course discusses the use of
+materials science techniques in the study of tissue-engineered constructs. Data in the literature related
+to the subject matter will be extensively discussed and the students will write two articles on selected
+topics.
+
+Page 11 of 13
+
+BIOENGINEERING
+(EG) {BE}
+640. (CAMB703) The Extracellular Matrix. (J) Prerequisite(s): BIOM 600. Graduate students only.
+This course is geared towards first and second year graduate students in BGS/CAMB and SEAS/BE
+with an interest in the interface of extracellular matrix (ECM) cell biology and biomechanics. Students
+will learn about the ECM and adhesion receptors and their impact on the cytoskeleton and signaling,
+as well as fundamental concepts in biomechanics and engineered materials. We will discuss how
+these topics can inform the study of cell biology, physiology and disease . An additional objective of
+the course is to give students experience in leading critical discussions and writing manuscript
+reviews. Invited outside speakers will complement the strengths of the Penn faculty.
+645. Biological Elasticity. (M) Prerequisite(s): BE 510 or equivalent.
+Large deformation mechanics of biological materials. Nonlinear elasticity theory, strain energy
+functions, constitutive laws of hyperelastic and viscoelastic biological materials. Applications to heart,
+lung, and arteries.
+650. Adv Biomed Imag Applic. (A)
+L/R 662. (CBE 618, MEAM662) Advanced Molecular Thermodynamics. (C) Prerequisite(s):
+Graduate Standing or permission of the instructor.
+Review of classical thermodynamics. Prediction of thermodynamic functions from molecular
+properties. Concepts in applied statistical mechanics. Modern theories of liquid mixtures.
+SM 699. Bioengineering Seminar. (C)
+799. Research Rotation. (C) Prerequisite(s): PhD Students only.
+For students who are fulfilling the Bioengineering research rotation requirements
+700. Special Topics in Bioengineering. (M)
+The research areas discussed will be those of the participating BE faculty who will direct the
+discussions and present background material. The purpose of the course is to present current
+research being done in the bioengineering Graduate Group and study relevant literature. The grade
+will be based on class participation and a final paper or presentation. Course content and staffing
+varies from year to year.
+895. (BIOM895) Methods in Bioengineering Education. (M) PHD students only
+This course provides training in the practical aspects of teaching. The students will attend seminars
+emphasizing basic pedagogical skills. Depending on the course setting for the practicum portion,
+student will obtain handson experience developing and delivering lectures, leading recitations,
+developing and supervising instructional laboratories, preparing and grading homework, grading
+laboratory reports, and preparing and grading examinations. Practicum experiences will be supervised
+by a faculty mentor. Students will meet during the practicum portion of the course to discuss difficult
+situations encountered in the classroom/laboratory and to constructively review each other. Final
+evaluations will be based on mentor, peer, and student feedback.
+
+Page 12 of 13
+
+BIOENGINEERING
+(EG) {BE}
+899. Independent Study. (C) Graduate Students Only
+The purpose of BE 899 is to allow a student to create a customized curriculum to study material
+beyond or outside the scope of our standard BE course offerings. Rather than a research or design
+project, BE 899 is a one-on-one or small-group course with a professor. Students must submit a
+proposal outlining the study area along with the professor's approval. A paper or presentation is
+required.
+990. Masters Thesis. (C)
+For Master's students who have completed the course requirements for the Master's degree and are
+strictly working to complete the Master's Thesis leading to the completion of a Master's degree.
+Permission Required.
+995. Doctoral Dissertation Status. (C) Prerequisite(s): For Ph.D. Candidates only.
+Ph.D. Students register for Doctoral Dissertation Status after they have advanced to Ph.D. candidacy
+by completing the Candidacy Exam which consists of the Dissertation Proposal Defense.. Permission
+required
+999. Thesis/Dissertation Research. (C)
+For students working on an advanced research program leading to the completion of master's thesis
+or Ph.D. dissertation requirements.
+
+Page 13 of 13
+
+

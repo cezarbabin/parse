@@ -1,0 +1,113 @@
+IMMUNOLOGY
+(MD) {IMUN}
+506. (MICR506) Immune Mechanisms. (A) Terri Laufer, M.D..Prerequisite(s): Permission of
+instructor. 4 h. 1 c.u. Taught Monday, Wednesday, with review session on Friday.
+This is an introductory graduate course which surveys most areas of immunology. It is assumed that
+students have a background in biochemistry and molecular biology, and at least some familiarity with
+immunological concepts.
+Topics covered include the major histocompatibility complex, structure of antibodies and T cell
+receptors, antigen-antibody interactions, the generation of diversity of immunoglobulins and B cells,
+antigen presentation, and immunological tolerance.
+There will be two exams, both of which will require assessment and interpretation of experimental
+data and/or readings from the primary literature.
+507. Immunopathology. (A) Schreiber.Prerequisite(s): MICR 100 or IMUN 506. 2 h
+The relationship between basic immunology and clinical immunologic diseases is emphasized.
+Course lecturers represent University faculty who are established investigators in immunological
+research and established clinical immunologists Course topics include plasma protein systems; B
+cell, T cell, macrophage immunology; immunohematology; tumor immunology; benign and malignant,
+immunoproliferative disorders; neuro-immunology; pulmonary immunology; renal immunology;
+immune complex disease and immunoregulatory abnormalities.
+508. Immune Responses. (B) Peter Felsburg, VMD., Ph.D. and Kate Sullivan, M.D.,
+Ph.D..Prerequisite(s): IMUN 506 or equivalent and permission of instructor. Taught Monday,
+Wednesday & Friday, 9:00am-11:00am. 6 hours, 2 cu.
+This course is designed to (1) extend the basic immunology principles addressed in 506, and (2)
+apply the fundamental principles of the mechanism of immune recognition and development
+presented in 506 to the immune response in health and disease in vivo. The course is designed as a
+series of minicourses which may change from year to year. Each minicourse will cover an important
+topic in immunology in detail. Students must take three minicourses over the Spring semester and
+must take at least one each from the basic and applied immunology categories (see below).
+The course will be taught as formal lectures on Monday and Wednesday and a diThe minicourses
+will be taught as a combination of formal lectures and seminar-format discussions of relevant
+literature. Each minicourse will have a slightly different format. The minicourses will consist of 6
+hours/week for 4 weeks. The semester will be divided into 3 sessions with between 2 to 3
+minicourses offered each session. Progress in the course will be evaluated by an exam/paper at the
+end of each minicourse and class participation. The exams will require students to incorporate the
+knowledge and thinking gained from the in depth analyses of these topics.
+SM 520. Tutorials in Immunology. (A) Randy Cron, M.D., Ph.D..Prerequisite(s): A senior
+undergraduate, graduate or professional school course in Immunology.
+This tutorial course is designed to provide students with an in-depth knowledge of a specific branch
+of Immunology. The tutorial can be used to enable students to become more deeply acquainted with
+the literature related to their thesis projects or to expand on a topic that the student found interesting
+in one of their basic courses. The course is currently the only immunology elective and is, therefore,
+required for all Immunology Graduate Group students. It is also open as an elective to BGS students
+who meet the prerequisite. The tutorial course will be examined by the program director and the
+tutorial leader and the grade will be based on a written paper on the subject studied (5 to 10
+typewritten pages) and by an oral presentation of the paper (15 to 20 minutes).
+599. Immunology Faculty Research Seminar. (C) Dr. David Ar tis; Dr. Jonathan
+Maltzman.Prerequisite(s): Permission of Graduate Group Chair.
+Mandatory attendance at weekly research presentations by graduate group faculty.
+
+Page 1 of 3
+
+IMMUNOLOGY
+(MD) {IMUN}
+605. Current Topics in Cellular and Molecular Immunology. (B) Philip Scott, Ph.D., and Laurence
+Turka, M.D..Prerequisite(s): IMUN 506 or permission of instructor.
+Recent developments in basic cellular and molecular immunology are discussed by students using
+the current literature as a resource. This course reinforces and expands upon concepts presented in
+immunology 506. Students gain experience in critically evaluating current literature and orally
+presenting and defending their ideas.
+In the first part of the course, students presetn one or two papers relevant to a current topic in
+immunology. In the second part, the students each select a research topic and write and defned
+orally a small research proposal. Course aims are to provide more in-depth knowldege in specific and
+timely areas of immunologic research. In addition, the course encourages the development of oral
+presentation skills and the ability to critically evaluate published research and the ideas of one's
+peers.
+SM 607. Grant Writing. (B) Drs. David Allman and Mike Madaio.Prerequisite(s): IMUN 506, 605, and/
+or permission of instructor.
+This course will introduce the student to basic principles of grant writing. In this regard a primary
+objective of the course is to teach you how to describe your ideas and experimental objectives in a
+clear and concise manner within the standard NIH grant format. To accomplish this, you will be
+required to write an NIH, "RO1" type grant proposal based on your current laboratory project.
+609. (CAMB609) Vaccines and Immune Therapeutics. (A) David Weiner, Ph.D., and Paul Offit,
+M.D..Prerequisite(s): The course is intended for graduate students or Medical Students in various
+MS, Ph.D. or MD/Ph.D. programs on the campus as well as local scientists and professionals in the
+community. As a prerequisite students should have taken biology, biochemistry or immunology
+courses at the advanced college level.
+The goal of the Vaccines course is to expand on student s general understanding of the immune
+system and to focus this understanding towards the application of vaccination. Furthermore the
+course will give the student a sense of how these principles are applied to vaccine and immune
+therapeutic development. The course covers basic science as well as the Clinical, Ethical & Political
+implications of Modern Vaccines.
+Initial lectures will review immune mechanisms believed to be responsible for vaccine induced
+protection from disease. Subsequent lectures build on this background to explore the science of
+vaccines for diverse pathogens, including agents of bioterrorism as well as vaccines for cancer. An
+appreciation for the application of laboratory science to the clinical development of vaccines is
+provided in the next section of the course along with lectures that focus on the ethical implications of
+vaccines in different situations. The financial implications of specific vaccines and their impact on the
+global community, is a specific focus of the course.
+The course is lecture style and will have a required reading list prepared in advance to provide the
+students background for the specific topic. Students will be graded by course participation as well as
+by a final written exam. The course is intended for graduate students or Medical Students in various
+MS, Ph.D. or MD/Ph.D. programs on the campus as well as local scientists and professionals in the
+community. As a prerequisite students should have taken biology, biochemistry or immunology
+courses at the advanced college level. A final project will be graded from all students. The final
+project is to propose in a written report a vaccine strategy for a current pathogen of importance that
+does not as yet have an effective vaccine. Strategies used should build on the material presented in
+the class lectures. The details of the final paper will be further discussed in class.
+699. Laboratory Rotation. (C) Various Immunology Group Faculty.Prerequisite(s): Permission of
+instructor and immunology chair.
+Laboratory research conducted under a faculty advisor. Three different rotations covering usually the
+fall semester of the first year through the fall semester of the second year are required of all
+Immunology Ph.D. students.Students will defend the rotation research in their Preliminary Exams.
+
+Page 2 of 3
+
+IMMUNOLOGY
+(MD) {IMUN}
+799. Independent Study.
+899. Predissertation Lab.
+
+Page 3 of 3
+
+

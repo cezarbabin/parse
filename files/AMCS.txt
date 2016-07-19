@@ -1,0 +1,60 @@
+APPLIED MATHEMATICS & COMPUTATIONAL SCI.
+(AS) {AMCS}
+510. (MATH410) Complex Analysis.
+514. (MATH314, MATH514) ADVANCED LINEAR ALGEBRA.
+520. (MATH420) Ordinary Differential Equations.
+525. (MATH425) Partial Dif Equations.
+530. (MATH430) Intro to Probability.
+532. (MATH432) Game Theory.
+567. (BE 567) Mathematical and Computational Modeling of Biological Systems. (M)
+Prerequisite(s): BE 324 and BE 350.
+This is an introductory course in mathematical biology. The emphasis will be on the use of
+mathematical and computational tools for modeling physical phenomena which arise in the study
+biological systems. Possible topics include random walk models of polymers, membrane elasticity,
+electrodiffusion and excitable systems, single-molecule kinetics, and stochastic models of
+biochemical networks.
+599. Independent Study.
+602. Algebraic Techniques for Applied Mathematics and Computational Science, I.. (M) Staff.
+We turn to linear algebra and the structural properties of linear systems of equations relevant to their
+numerical solution. In this context we introduce eigenvalues and the spectral theory of matrices.
+Methods appropriate to the numerical solution of very large systems are discussed. We discuss
+modern techniques using randomized algorithms for fast matrix-vector multiplication, and fast direct
+solvers. Topics covered include the classical Fast Multipole Method, the interpolative decomposition,
+structured matrix algebra, randomized methods for low-rank approximation, and fast direct solvers for
+sparse matrices. These techniques are of central importance in applications of linear algebra to the
+numerical solution of PDE, and in Machine Learning. The theoretical content of this course is
+illustrated and supplemented throughout the year with substantial computational examples and
+assignments.
+603. ALGEBRAIC TECHIQUES II. (M) Staff.
+We begin with an introduction to group theory. The emphasis is on groups as symetries and
+transformations of space. After an introduction to abstract groups, we turn our attention to compact
+Lie groups, in particular SO(3), and their representations. We explore the connections between
+orthogonal polynomials, classical transcendental functions and group representations. This unit is
+completed with a discussion of finite groups and their applications in coding theory.
+608. (MATH608) Analysis. (M) Staff.Prerequisite(s): Math 508-509.
+Complex analysis: analyticity, Cauchy theory, meromorphic functions, isolated singularities, analytic
+continuation, Runge's theorem, d-bar equation, Mittlag-Leffler theorem, harmonic and sub-harmonic
+functions, Riemann mapping theorem, Fourier transform from the analytic perspective. Introduction to
+Real Analysis: Weierstrass approximation, Lebesgue measure and integration Euclideanspaces,
+Borel measures and convergence theorems, C0 and the Riesz-Markov theorem, Lp-spaces, Fubini's
+Theorem.
+
+Page 1 of 2
+
+APPLIED MATHEMATICS & COMPUTATIONAL SCI.
+(AS) {AMCS}
+609. (MATH609) Analysis. (M) Staff.Prerequisite(s): Math 608 or permission of the instructor.
+Real analysis continued: general measure theory, outer measures and Cartheodoryconstruction,
+Hausdorff measures, Radon-Nikodym theorem, the general Fubini theorem. Functional Analysis:
+Hilbert space and L2-theory of the Fourier transform, normed linear spaces, convexity, the HahnBanach theorem, duality for Banach spaces, weak convergence, bounded linear operators, Baire
+category theorem, uniform boundedness principle, open mapping theorem, closed graph theorem,
+compact operators, Fredholm theory, interpolation theorems, Lp-theory for the Fourier transform,
+functional calculus and spectral theory.
+637. (MEAM637, MSE 637) MESOSCALE MODEL AND SIM.
+701. (MATH582) Topics in Applied Math.
+990. Masters Reg Tuition.
+999. Independent Study & Research.
+
+Page 2 of 2
+
+

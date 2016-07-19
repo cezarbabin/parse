@@ -1,0 +1,501 @@
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+632. STAT METH/CATEG SURV ANA. (B)
+754. ADV SURVIVAL ANALYSIS. (A)
+600. Data Science for Biomedical Informatics. Himes.
+Data science refers broadly to using statistics and informatics techniques to gain insights from large
+datasets.Biomedical informatics refers to a range of disciplines that use computational approaches to
+analyze biomedical data to answer pre-specified questions as well as to discover novel hypotheses.In
+this course, we will use R and other freely available software to learn fundamental data science
+applied to a range of biomedical informatics topics, including those making use of health and
+genomic data.After completing this course, students will be able to retrieve and clean data,perform
+exploratory analyses, build models to answer scientific questions, and present visually appealing
+results to accompany data analyses;be familiar with various biomedical data types and resources
+related to them;and know how to create reproducible and easily shareable results with R and github.
+624. Methods in PCOR. (B) Gelfand.Prerequisite(s): Permission of instructor. The goal of this course
+is to provide a broad overview of methods used in patient centered outcomes research (PCOR).
+Expert faculty will lecture on topics such as standards for research questions, patient centeredness,
+systematic reviews, causal inference, heterogeneity of treatment effect handling missing data, data
+networks, Bayesian designs, data registries, and diagnostic tests. Topics may also include advanced
+observational study design, statistical methods for observational studies, health status/quality of life
+as applied to PCOR and case studies of patient engagement.
+625. Advanced Biostatistical Methods for Multivariable Prediction Models. (B)
+Gimotty.Prerequisite(s): Completion of EPID526, EPID527 and either EPID510 or EPID623 or
+equivalent preparation in either categorical analysis or survival analysis. Working knowledge of either
+Stata, SAS or R to fit regression,logistic regression and/or Cox regression models. Permission of
+course director for students outside of School of Medicine graduate programs.
+This course is an introduction to statistical methods that can be used to evaluate biomarker
+prognostic studies and multivariate prediction models. It is designed for advanced MS and PhD-level
+students in epidemiology and related fields(nursing, health policy, social work, demography). Topics
+will include biostatistical evaluation of biomarkers, predictive models based on various regression
+modeling strategies and classification trees, assessing the predictive ability of a model; internal and
+external validation of models; and updating prognostic models with new variables or for use in
+different populations. Students will learn about the statistical methods that are required by current
+reporting guidelines for biomarker prognostic studies or the reporting guidelines for multivariable
+prediction models.
+635. DATABASE BIOMED RESEARCH. (A) Holmes.
+This course is intended to provide in-depth, practical exposure to the design, implementation, and
+use of databases in biomedical research. This course is intended to provide students with the skills
+needed to design and conduct a research project using primary and secondary data. Topics to be
+covered incude: database architectures, data modeling approaches, data normalization,database
+implementation, client-server databases, concurrency, validation, Structured-Query Language (SQL)
+programming, reporting, maintenance, and security.All examples will use problems or data from
+biomedical domains. MySQL will be used as the database platform for the course, althoughthe
+principles apply generally to biomedical research and other relational databases.
+
+Page 1 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+672. This course is designed to teach epidemiology students the statistical principles of
+analysis specific to pharmacoepidemiology study designs including the use of propensity
+scores, inverse probability weighting, instrumental variables and time varying covariates.
+Each of the twelve sessions includes both a lecture component and laboratory component.
+Students will learn the statistical principles and then apply them to example study data sets.
+(L) Ogdie-Beatty, Stephens-Sheilds.Prerequisite(s): EPID 526 and EPID 527: permission of the
+instructor(s).
+
+BIOSTATISTICS (BSTA)
+509. (EPID801) Introduction to Epidemiology.
+510. Introduction to Anatomy and Physiology. (A) Propert.
+The purpose of this course is to introduce students without a background in medicine and biology to
+the basic vocabulary and principles of human anatomy and physiology in preparation for collaborative
+research in biostatistics. The course will begin with an overview of basic human biochemistry, cell
+biology, and genetics. Later topics will focus on the major organ systems including circulation,
+digestion and excretion, neurophysiology, and reproduction. Major disease areas of research such as
+cancer and drug research will also be covered.
+550. (PSYC611, STAT500) App Reg and Anal of Var.
+620. Probability I. (A) Morrison.Prerequisite(s): Two semesters of calculus (through multivariable
+calculus), linear algebra. This course is also offered in the Summer I session.
+This course covers Elements of matrix algebra. Discrete and continuous random variables and their
+distributions. Monents and moment generating functions. Joint distributions. Functions and
+transformations of random variables. Law of large numbers and the central limit theorem. Point
+estimation: sufficiency,maximum likelihood, minimum variance, confidence intervals.
+621. Statisical Inference I. (B) Faculty.Prerequisite(s): BSTA 620.
+Statistical inference including estimation, confidence intervals, hypothesis tests and non-parametric
+methods.
+622. Statistical Inference II. (A) Brown.Prerequisite(s): BSTA 621.
+Statistical inference including estimation, confidence intervals, hypothesis tests and non-parametric
+methods.
+
+Page 2 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+630. Statistical Methods for Data Analysis I. (A) Shults and Putt.Prerequisite(s): Multivariable
+calculus and linear algebra, BSTA 620 (may be taken concurrently).
+This first course in statistical methods for data analysis is aimed at first year Biostatistics degree
+candidates. It focuses on the analysis of continuous data, and includes descriptive statistics, such as
+central tendencies, dispersion measures, shapes of a distribution, graphical representations of
+distributions, transformations, and testing for goodness of fit for a distribution. Populations, samples,
+hypotheses of differences and equivalence, and errors will be defined. One and two sample t-tests,
+analysis of variance, correlation, as well as non-parametric tests and correlations will be covered.
+Estimation, including confidence intervals, and robust methods will be discussed. The relationship
+between outcome variables and explanatory variables will be examined via regression analysis,
+including single linear regression, multiple regression, model fitting and testing, partial correlation,
+residuals, multicolinearity. Examples of medical and biologic data will be used throughout the course,
+and use of computer software demonstrated.
+752. Categorical Data Analysis II.
+631. Statistical Methods and Data Analysis II. (B) Gimotty.Prerequisite(s): linear algebra, calculus,
+BSTA 630, BSTA 620, BSTA 621 (may be taken concurrently).
+This is the second half of the methods sequence and focuses on categorical data and survival data.
+Topics in categorical data to be covered include defining rates, incidence and prevalence, the chisquared test, Fisher's exact test and its extension, relative risk and odds-ratio, sensitivity, specificity,
+predictive values, logistic regression with goodness of fit tests, ROC curves, Mantel-Haenszel test,
+McNemar's test, the Poisson model, and the Kappa statistic. Survival analysis will include defining
+the survival curve, censoring, and the hazard function, the Kaplan-Meier estimate, Greenwood's
+formula and confidence bands, the log rank test, and Cox's proportional hazards regression models.
+Examples of medical and biologic data will be used throughout the course, and use of computer
+software demonstrated.
+651. Introduction to Linear Models and Generalized Linear Models. (B) Tu.Prerequisite(s): linear
+algebra, calculus, BSTA 630, BSTA 620, BSTA 621 (may be taken concurrently).
+This course extends the content on linear models in BSTA 630 and BSTA 631 to more advanced
+concepts and applications of linear models. Topics include the matrix approach to linear models
+including regression and analysis of variance, general linear hypothesis, estimability, polynomial,
+piecewise, ridge, and weighted regression, regression and collinearity diagnostics, multiple
+comparisons, fitting strategies, simple experimental designs (block designs, split plot), random effects
+models, Best Linear Unbiased Prediction. In addition, generalized linear models will be introduced
+with emphasis on the binomial, logit and Poisson log-linear models. Applications of methods to
+example data sets will be emphasized.
+690. Consulting Laboratory I. (C) Faculty.Prerequisite(s): BSTA 630.
+Participation in the consulting laboratory is a requirement for both the Master's and Ph.D. degrees.
+This course covers general principles of statistical consulting and statistical consulting experience.
+There is training on statistical programming, preparation of reports, presentations, and the
+communication aspects of consulting. Each student will be expected to join one of several project
+teams consisting of faculty, research staff, and graduate student consultants; attend meetings along
+with the project team and associated investigators; participate in all or part of the design,
+management, analysis and reporting stages of a project; and gain valuable experience in working
+with actual research projects.
+
+Page 3 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+774. Statistical Methods for Evaluating Diagnostic Tests. (A) Gimotty.Prerequisite(s): BSTA 510,
+BSTA 630, BSTA 631 or equivalent; permission of instructor.
+This course will cover statistical methodology for evaluating diagnostic tests.The topics will include:
+estimation of ROC curves, comparing multiple diagnostic tests, developing diagnostic tests using
+predictive models, measurement error effects on diagnostic tests, random effects models for multireader studies, verification bias in disease classification, methods for time-dependent disease
+classifications, study design issues, related software, and meta-analyses for diagnostic test data.
+820. (STAT972) Statistical Inference III. (B) Faculty.Prerequisite(s): To be advised.
+Statistical inference including estimation, confidence intervals, hypothesis tests and non-parametric
+methods.
+
+EPIDEMIOLOGY (EPID)
+Contact the department for information on courses offered in Epidemiology.
+510. (BSTA511) Introductory Epidemiology. (L) Lewis.Prerequisite(s): Permission of Instructor.
+This course is a series of lectures and workshops, designed to teach basic principles of
+epidemiologic research design. The course provides an overview of of the types of research
+questions that can be addressed by epidemiologic methods. Topics covered include: definitions of
+epidemiology; measures of disease frequency;measures of effect and association; epidemiologic
+study designs, bothexperimental and non-experimental; and an overview of analysis of
+epidemiologicstudies.
+516. Disease Ecology. Levy,Smith.
+The transmission of infectious diseases is a complex and ever-changing process,and the measures
+we have to protect ourselves against pathogens-vaccines,antibiotics,bed nets-can have equally
+complex and unpredictable outcomes.The aim of disease ecology is to understand pathogens and
+their hosts as interacting populations and to use such understanding to design rational strategies to
+curb or eliminate disease transmission.
+A disproportionate number of emerging infectious diseases and recent disease outbreaks in the
+United States and elsewhere have shared a common characteristic-they affect veterinary as well as
+human populations. Many are also vector-borne, passing between different species of hosts through
+insects and other invertebrates. In some cases humans are only 'spillover hosts' whose infection is
+incidental to the transmission cycle. Interdisciplinary approaches are especially important to control
+such diseases. As a particular focus of the course, students will learn the tools needed for successful
+collaborations to address the growing problem of zoonotic and vector-borne diseases.
+518. (PUBH517) Geography & Public Health. (B)
+
+Page 4 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+526. Biostatistics for Epidemiologic Methods I. Bryan/Cucchiara.Prerequisite(s): Permission of
+Instructor. This course runs from mid Summer to mid Fall term.There is a corresponding lab.
+The first half of this will cover graphical methods, probability, discrete and continuous distributions,
+estimation, confidence intervals, and one sample hypothesis testing. Emphasis is placed on
+understanding the proper application and interpretation of the methods. The second half of this
+course will cover two sample hypothesis testing, nonparametric techniques, sample size
+determination, correlation, regression, analysis of variance, and analysis of covariance. Emphasis is
+placed on understanding the proper application and underlying assumptions of the methods
+presented. Laboratory sessions focus on the use of the STATA statistical package and applications to
+clinical data.
+550. (HPR 550) Clinical Economics and Clinical Decision Making. (B) Glick,Williams.Prerequisite
+(s): Permission of Instructor.
+This course focuses on the application of decision analysis and economic analysis to clinical and
+policy research. The course begins with material about the selection, use, and analysis of diagnostic
+tests using two by two tables, likelihood ratios, and ROC curves. The course continues with the
+introduction of more general tools for decision analysis, including decision trees and other
+mathematical models. Special emphasis is placed on the assessment and use of utilities in these
+models. A major focus of the course is the application of economic principles to the evaluation of
+health outcomes. During seminars, students will carry out practical exercises that include problem
+solving, critically analyzing published articles, and learning to use computer software that facilitates
+decision and economic analyses.
+527. Biostatistics for Epidemiologic Methods II. Landis,Shaw. This course runs from mid fall to mid
+spring term. There is a corresponding lab.
+The first half of this covers concepts in biostatistics as applied to epidemiology, primarily categorical
+data analysis, analysis of case-control, cross-sectional, cohort studies, and clinical trials. Topics
+include simple analysis of epidemiologic measures of effect; stratified analysis; confounding;
+interaction, the use of matching, and sample size determination. The second half of this course
+covers concepts in biostatistics as applied to epidemiology, primarily multivariable models in
+epidemiology for analyzing case-control, cross-sectional, cohort studies, and clinical trials. Topics
+include logistic, conditional logistics, and Poisson regression methods; simple survival analyses
+including Cox regression. Emphasis is placed on understanding the proper application and underlying
+assumptions of the methods presented. Laboratory sessions focus on the use of the STATA statistical
+package and applications to clinical data.
+532. Database Management for Clinical Epidemiology. (B) Holmes.Prerequisite(s): Permission of
+Instructor.
+This course provides students with an introduction to the techniques of database management as
+they apply to clinical research. Students learn how to design and implement computerized databases,
+perform basic query and reporting operations, migrate data between various file formats, prepare
+databases for statistical analysis, and perform quality assurance procedures. This course focuses on
+the practical issues of database management and is intended to support each student's planned
+research enterprise. Each class session will be preceded by a one-hour online lecture and brief selfassessment quiz to be completed prior to attending class. This lecture is intended to prepare
+students for the class for the week, which will be dedicated to practical experience in a laboratory
+setting.
+
+Page 5 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+542. Measurement of Health in Epidemiology. (A) Wiebe.Prerequisite(s): Permission of course
+director. Introductory Epidemiology (EPID 510) and Biostatistics for Epidemiologic Methods I
+(EPID526) previously or concurrently.
+Epidemiologic analyses involve three types of procedures: measuring variables (e.g.risk factors),
+estimating population parameters (e.g.risk ratios), and testing statistical hypotheses. This course
+addresses the first of these procedures:measurement, which broadly encompasses the tasks
+involved in obtaining data, without which analyses cannot proceed. Course topics include: defining
+concepts of exposure, disease, and health; approaches to measuring exposure, which may be
+personal or environmental; approaches to measuring disease and health status; assessing the
+validity and reliability of measurement instruments; problems of misclassification of exposure status
+and disease status and problems of missing data; instrument (e.g.questionnaire) development; and
+qualitatative methods.
+SM 560. Issues in Research Protocol Development. (B) Restricted to MSCE degree students
+This course focuses on major issues in research protocol development, including methodological
+issues regarding different research designs, development of research questions, and plans for
+analysis. Each student will present his or her research proposal for open discussion during one of the
+sessions.
+570. Critical Appraisal of the Medical Literature. (B) Restricted to MSCE degree students.
+This course focuses on techniques for critical appraisal of the medical literature. Each student will be
+responsible for at least one critical appraisal session covering different epidemiologic topics.
+575. Introduction to Genetic Epidemiology. (B) Rebbeck,Devoto.Prerequisite(s): Permission of
+Instructor.
+Recent advances have made it feasible to incorporate data on potential genetic risk factors into
+traditional epidemiologic studies. Hence, there is an increasing need for epidemiologists to
+understand the genetic basis of disease, read, and interpret genetic studies, and incorporate the
+collection and analysis of genetic information into studies of disease etiology. The objectives of this
+course are to provide epidemiologists with an understanding of: basic genetics, the tools used by
+geneticists and genetic epidemiologists, and the integration of genetic data into traditional
+epidemiologic study designs. After completing the course, students will be able to read and interpret
+genetic studies. In addition, they will be able to design epidemiologic studies that incorporate genetic
+data collection and analysis.
+580. (HPR 580) Outcomes Research. (A) Silber.Prerequisite(s): EPID 526 or equivalent, EPID 527
+or equivalent, Permission of Instructor.
+This course is divided into two main parts. The first part addresses issues related to the
+measurement of quality in healthcare. Included is a review of the classical-structure-process-outcome
+quality paradigm. The paradigm's strengths and limitations are addressed. This part especially
+focuses on outcome measures of quality and examines the validity of alternative measures. The
+second part deals with observational, or quasi-experimental, research studies. It addresses the
+advantages and limitations of alternative designs, and covers the role of clinical risk adjustment in
+observational studies of medical interventions. It focuses on the problem of selection bias, and
+reviews recent methods for dealing with this bias, such as instrumental variables.
+
+Page 6 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+623. Applied Survival Analysis. (A) Hwang.Prerequisite(s): EPID 510, EPID 526. Offered second
+half of fall term
+This course will focus on the specialized issues related to the analysis of survival or time-to-event
+data. The course begins by closely examining the features unique to survival data which distinguishes
+these data from other more familiar types. Topic include non-parametric survival analysis methods,
+common survival functions, parametric survival models, the proportional hazards model, and
+common model checking methods. All methods will be illustrated by in class examples and homework
+sets.
+582. Systematic Review and Meta-Analysis. (A) Guevara, Umscheid.Prerequisite(s): EPID 510,
+EPID 526 (may be taken concurrently).
+This course will provide an introduction to the fundamentals of systematic reviews and meta-analysis.
+It will cover introductory principles of meta-analysis; protocol development; search strategies; data
+abstraction methods; quality assessment; meta-analytic methods; and applications of meta-analysis.
+621. Longitudinal and Clustered Data in Epidemiologic Research. (A) Localio.Prerequisite(s):
+Completion of EPID 526&527 or equivalent preparation in biostatistics, including generalized linear
+models. Completion of semester course in principles of epidemiology or equivalent. Good working
+knowledge of Stata and SAS and familiarity with principles of first-year calculus and matrix algebra.
+Permission of course director.
+An introduction to the principles of and methods for longitudinal and clustered data analysis with
+special emphasis on clinical, epidemiologic, and public health applications. Designed for advanced
+MS and PhD-level students in epidemiology and related fields. Marginal and conditional methods for
+continuous and binary outcomes. Mixed effects and hierarchical models. Simulations for power
+calculations. Each student will be required to participate in 8 labs and complete associated problem
+sets. They may also use their own data to fulfill these requirements in part. Software will include Stata
+and R.
+622. Applied Regression Models for Categorical Data. (A) Troxel.Prerequisite(s): EPID 510, EPID
+526. Offered first half of fall term
+This course will provide in-depth treatment of several topics in categorical data analysis. After a brief
+review of methods for contingency tables, we will introduce the idea of generalized linear models, and
+focus on two special cases: multiple logistic regression and loglinear models. Each topic will be
+presented in detail by stating the model and covering parameter estimation and interpretation,
+inference, model building, regression diagnostics and assessment of model fit. Finally, we will cover
+extensions to both models, including models for multinomial data, analysis of matched-pair data, and
+random effects models. Topics will be illustrated in class with examples, and we will discuss the use
+of STATA to conduct the analyses.
+630. (REG 630) Clinical Trials. (B) Margolis.Prerequisite(s): EPID 510 or equivalent; EPID 526 or
+equivalent; permission of instructor.
+This course is to serve as a general introduction to clinical trials, with emphasis on trial design issues.
+This is not a course on the biostatistics of clinical trials. It is expected that at the conclusion of the
+course, a studentwill be able to plan a clinical trial. Each class will consist of a two-hour lecture
+followed by a one hour discussion.
+
+Page 7 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+634. Clinical Trial Outcomes: Measurement, Analysis and Interpretation. (A) Farrar.Prerequisite
+(s): EPID 510 or equivalent; permission of instructor.
+This course is intended to teach students the skills necessary to select and/or design appropriate
+outcomes for a clinical trial. Students will focus on recent changes in our understanding of clinical trial
+outcome measurements, analyses, and interpretation for both subjective and objective phenomenon,
+such as adherence, use of multiple outcomes, and clinical importance. While design issues for clinical
+trials are the main focus, other types of clinical studies will be considered as appropriate. Student will
+be expected to learn about the problems inherent in the design of outcome measures of health and
+how to apply different epidemiologic and biostatistical concepts toward a solution. It is expected that
+at the conclusion of the course, students will be able to plan a clinical trial with a valid, responsive,
+and interpretable outcome.
+636. Epidemiological Methods in Acute Care. (M)
+This is an advanced course addressing epidemiological issues as they apply to important clinical
+topics in acute care, including emergency, hospital, and critical care medicine Lectures and
+discussions will have two primary goals: 1) to explore epidemiologic methods specific to acute care
+settings (i.e., choice of outcomes, risk adjustment); and 2) to explore the epidemiology of particular
+diseases (e.g., sepsis, acute lung injury, hospital acquired infections) and research questions of
+current importance in these areas. This course will acquaint students with the classic literature in the
+field adult and pediatric urgent care, emergency medicine, and critical care epidemiology, teach
+advanced epidemiological principles using a problem-based approach, and demonstrate the
+strengths and weaknesses of epidemiological research methodologies as they have been applied to
+acute care.
+638. Topics in Clinical Trial Design and Analysis. (A) Ellenberg.Prerequisite(s): EPID 630 or
+equivalent.
+This course is intended to follow, and be complementary to EPID 630: Clinical Trials. It will build on
+the basic principles of design, conduct, and analysis introduced in that course and will go into more
+detail on particular approaches.Topics covered will include noninferiority trials, phase 1 designs,
+multi-stage and other adaptive designs, graphical data presentations and current ethical
+controversies in clinical trials.
+646. Reproductive EPI. (J) Barhart.
+This is an advanced course that addresses epidemiological research issues as they apply to
+important clinical topics in obstetrics and gynecology and related clinical disciplines. Lectures and
+workshops are designed to acquaint students with seminal issues in the field of reproductive
+epidemiology, to use a body of literature to demonstrate the strengths and weaknesses of
+epidemiolological research designs as they have been applied to obstetrics and gynecology and
+related clinical disciplines, to expose students to the range oftopics studied, to teach advanced
+epidemiologic principles using a problem-based approach, and to stimulate students interested in
+reproductive epidemiology to develop independent research questions.
+640. Advanced Topics in Epidemiology. (B) Kanetsky.Prerequisite(s): EPID 510 or equivalent,
+EPID 526 or equivalent, EPID 527 or equivalent; permission of instructor.
+This course is designed to introduce students to advanced epidemiologic methods through a series
+of readings and discussions. The course aims to deepen the students' understanding of important
+concepts and controversies in contemporary epidemiology and to enhance their ability to think
+critically about empirical epidemiologic research. The course is intended for students who are already
+familiar with the fundamentals of epidemiology and biostatistics, and who wish to gain an
+understanding of the complex issues underlying epidemiologic study design and interpretation.
+
+Page 8 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+644. Cardiopulmonary Epidemiology. (L) Kimmel.Prerequisite(s): EPID 510 or equivalent, EPID
+526 or equivalent, EPID 527 or equivalent, and permission of instructor.
+This is an advanced course that addresses epidemiological research issues as they apply to
+important clinical topics in cardiovascular and pulmonary medicine. Lectures and workshops are
+designed to acquaint students with the classic literature in the fields of cardiovascular and pulmonary
+epidemiology,to use a body of literature to demonstrate the strengths and weakness of
+epidemiological research designs as they have been applied to cardiovascular and pulmonary
+medicine to expose students to the range of topics studied to teach advanced epidemiological
+principles using a problem-based approach, and to stimulate students to develop independent
+research questions.
+645. (BSTA645) Research Methods in Cancer Epidemiology. (L) Schmitz.Prerequisite(s): EPID
+510 or equivalent, EPID 526 or equivalent, EPID 527 or equivalent, and permission of instructor.
+Research in cancer etiology, prevention, treatment, and control includes a wide range of subject
+matter science, from the initial molecular changes which precede the development of cancer to
+issues of primary guidelines for cancer survivors. The course reviews the possible study designs
+applied to cancer etiology, prevention, treatment, and control. These include randomized controlled
+trials and multiple types of observational studies (cohort, case-control, cross-sectional). Other topics
+will include causal inference, bias, and effect modification.
+648. Introduction to Pharmacoepidemiology I. Strom.Prerequisite(s): Permission of Instructor.
+This is an advanced seminar course introducing students to the methods and approaches used in the
+field of pharmacoepidemiology. Topics range from an introduction to the utility of the field; to an
+overview of the different automated databases frequently used in pharmacoepidemiology research;
+selected novel applications of pharmacoepidemiology; and advanced epidemiologic methods used
+within pharmacoepidemiology.
+649. Introduction to Pharmacoepidemiology II. Strom.Prerequisite(s): Permission of Instructor.
+These seminars serve as follow-up to Topics in Pharmacoepidemiology I, continuing with topics
+presented in that course.
+650. Introduction to Pharmacoepidemiology III. Strom.Prerequisite(s): Permission of Instructor.
+These seminars serve as follow-up to Topics in Pharmacoepidemiology II, continuing with topics
+presented in that course.
+652. Renal and Urologic Epidemiology. Feldman,Anderson,Yang.Prerequisite(s): EPID 510 or
+equivalent, EPID 526 or equivalent, EPID 527 or equivalent, and permission of instructor.
+The objective of this course is to prepare students to function as effective, independent researchers
+in the fields of renal and urologic epidemiology by providing the students an understanding of how
+epidemiologic research can and has advance(d) the knowledge of diseases in treatments of renal
+and urologic medicine. The structure of the course consists of a lecture series, workshops, and
+student presentations.
+
+Page 9 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+656. Research Methods in Infectious Diseases Epidemiology. (L) Gross,Lautenbach.Prerequisite
+(s): EPID 510 or equivalent, EPID 526 or equivalent,a course that covers logistical regression such as
+EPID 527 or equivalent,and permission of instructor(s).
+This is an advanced course addressing epidemiological issues as they apply to important clinical
+topics in infectious diseases. Lectures and discussions will serve two primary goals: 1) to explore
+epidemiologic methods specific to infectious diseases (e.g. adherence to therapy) or which have
+important applications to infectious diseases (e.g. molecular epidemiology); and 2) to explore the
+epidemiology of particular infectious diseases or syndromes (e.g. HIV). This course will acquaint
+students with the classic literature in the field of infectious diseases epidemiology, teach advanced
+epidemiological principles using a problem-based approach, and demonstrate the strengths and
+weaknesses of research methodologies as they have been applied to infectious diseases.
+658. Gastroenterology EPI. (K) Yang.Prerequisite(s): EPID 510 or equivalent, EPID 526 or
+equivalent, EPID 527 or equivalent, and permission of instructor.
+This course provides an in-depth presentation of advanced methodological issues in conducting
+clinical epidemiological research in the field of gastroenterology.
+690. Empirical Bioethics. (J) Halpern,Karlawish.Prerequisite(s): Permission of Instructor.
+Solutions to many of the most pressing problems in modern bioethics require empirically testing
+assumptions and theories about human behaviors and attitudes. This course will use papers from the
+primary literature to teach students to understand and use the many methods that have been or
+could be employed to address questions lying at the intersection of ethics and clinical research. In
+addition to participating in weekly discussions of these topical and methodological papers, students
+will be expected to develop and present a protocol for research designed to explore ethical dilemmas
+within their own disciplines.
+664. Methods in Neurologic Clinical Epidemiology. (J) Balcer,Farrar.Prerequisite(s): Permission of
+Instructor.
+This course will introduce students to methods and study design principles that are specific or unique
+to clinical research and trials in neurology, child neurology,neuro-ophthalmology, neurosurgery, and
+related fields.
+666. Pharmacoepidemiology Research Methods. (B) Hennessy.Prerequisite(s): EPID 510 or
+equivalent, EPID 526 or equivalent,a course that covers logistical regression such as EPID 527 or
+equivalent,and permission of instructor(s).
+The purpose of this course is to explore and integrate concepts and considerations that are key to the
+conduct of pharmacoepidemiologic research. The format will be a mixture of seminar, instructor-led
+discussion, student-led discussion, and student presentations. Papers from the applied and methods
+literature will be used to illustrate concepts and as springboards for discussion. Topics covered
+include use of automated databases, pharmacogenomics,and approaches to addressing
+confounding.
+
+Page 10 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+6 7 5 . A dva n c e d M e t h o d s fo r A n a ly s i s o f C o m p l ex
+Rebbeck,Devoto.Prerequisite(s): Permission of Instructor(s).
+
+Genetic
+
+Tr a i t s .
+
+(M)
+
+The recent explosion in the availability of molecular level data coupled with technological
+advancements allowing for large-scale sequencing creates an exciting opportunity to tailor treatment
+decisions to the specific genetic characteristics of a patient. Epidemiologic studies will provide the
+tools to draw from this array of molecular data as well as well-established environmental risk factors
+to predict disease outcomes. However, understanding analytic methods for characterizing the
+complex interactions among genetic polymorphisms, biomarkers,environmental factors, and disease
+outcomes is imperative to draw meaningful and relevant conclusions from these studies. Through this
+course, students will understand and present advanced statistical methods and how they can be
+applied tothe study of complex genetic traits.
+SM 700. Doctoral Seminar in Epidemiology. Levy.Prerequisite(s): Permission of Instructor.
+Restricted to Epidemiology Doctoral Students
+The course is intended to meet the needs of PhD students over the entire program from the
+coursework phase through the dissertation defense, and is intended to optimize cross-fertilization
+between the students at all phases of their program.
+SM 714. Grant Writing/Review. (L) Farrar.Prerequisite(s): EPID510, EPID526, EPID560, and
+EPID570 or Permission of Instructor.
+This course is designed to provide background, and guidance on writing and submitting NIH grants.
+Students will submit a mini proposal at the beginning of the term. Each proposal will be reviewed by a
+group of students from the class and scores will be given. The final project will be a full NIH proposal
+ready for submission.
+721. Longitudinal and Clustered Data in Epidemiologic Research-Advanced Topics. (M)
+Localio,Joffe.Prerequisite(s): EPID621 or a class in longitudinal data at the graduate level, Familiarity
+with principles of first-year calculus and matrix algebra, Good working knowledge of Stata (or SAS)
+and access to Stata v10 license (intercooled or SE or MP), or to SAS v9.2 license,Permission of
+instructor.
+Advanced methods for longitudinal and clustered data analysis with special emphasis on formal
+principles of causal inference, analysis of complex samples from surveys, use of Monte Carlo
+methods of estimation, and methods for adjusting for missing data and dropout, with applications in
+epidemiology, social sciences,and public health. Designed for advanced MS and PhD-level students
+in epidemiology and related fields. Each student will be required to participate in 6 labs and to
+complete the associated problem sets and exercises. Students must satisfy part of this requirement
+by working on their own datasets.
+805. Practicum In Applied Clinical Research Methods.
+813. Biostatistics in Practice Lab. Faculty.
+SM 816. Economic Evaluation of Medical Therapies. Faculty.
+817. Fund of Pharmacoepi..
+848. Topics in Pharmacoepi I..
+866. Pharmacoepidemiology Res..
+
+Page 11 of 12
+
+BIOSTATISTICS AND EPIDEMIOLOGY
+(MD) {EPID}
+
+Page 12 of 12
+
+

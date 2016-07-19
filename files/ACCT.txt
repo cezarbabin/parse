@@ -1,0 +1,163 @@
+ACCOUNTING
+(WH) {ACCT}
+SM . EMPIR DESIGN IN ACCT RES.
+L/R 101. Principles of Accounting I. (C)
+This course is an introduction to the basic concepts and standards underlying financial accounting
+systems. Several important concepts will be studied in detail, including: revenue recognition, inventory,
+long-lived assets, present value, and long term liabilities. The course emphasizes the construction of
+the basic financial accounting statements - the income statement, balance sheet, and cash flow
+statement - as well as their interpretation.
+L/R 102. Managerial Accounting. (C)
+The first part of the course presents alternative methods of preparing managerial accounting
+information, and the remainder of the course examines how these methods are used by companies.
+Managerial accounting is a company's internal language, and is used for decision-making, production
+management, product design and pricing and for motivating and evaluating employees. Unless you
+understand managerial accounting, you cannot have a thorough understanding of a company's
+internal operations. What you learn in this course will help you understand the operations of your
+future employer (and enable you to be more successful at your job), and help you understand other
+companies you encounter in your role as competitor, consultant, or investor.
+201. Financial Accounting I. (A) Prerequisite(s): ACCT 101,102.
+This course revisits topics covered in Introductory Financial Accounting (Accounting 101), with a focus
+on the asset side of the balance sheet: Cash, accounts and notes receivable, inventory, marketable
+securities, equity investments, PPE, and intangibles. The course also covers revenue and expense
+recognition issues, and generally accepted accounting principles that affect the format and
+presentation of the financial statements.
+202. Financial Accounting II. (B) Prerequisite(s): ACCT 101,102.
+Covers liabilities and equities, especially long-term debt, convertible securities, equity issuance,
+dividends, share repurchases, employee stock options, pensions, leases, deferred tax, and derivative
+securities. Related topics covered include computation of diluted earnings per share, disclosure
+issues, earnings management, and basic financial statement analysis of cash flows.
+203. (ACCT703) Cost Accounting. (B) Prerequisite(s): ACCT 101,102, STAT 101,102 & ECON 001.
+Deals with the application of statistical tools and decision models to accounting data for the purpose
+of facilitating managerial control.
+208. (ACCT718) Auditing. (C) Prerequisite(s): ACCT 201, 202 or equivalent.
+This course includes a consideration of the historical role of the auditor and the changing role in
+today's environment, the organization of the accounting profession, and the new influences of the
+Public Company Accounting Oversight Board. It introduces the students to generally accepted
+auditing standards, professional ethics, and legal liability. A conceptual theory of auditing is discussed
+and practical examples of auditing techniques and work programs are used to illustrate the application
+of the theory. The course also covers the auditor's reporting standards and uses case studies and
+professional journal articles as bases for discussion and analysis.
+
+Page 1 of 4
+
+ACCOUNTING
+(WH) {ACCT}
+242. (ACCT742) Financial Statements: Analysis & Reporting Incentives. (C) Prerequisite(s):
+ACCT 101.
+In the course, students learn how to analyze firms' financial statements and disclosures to determine
+how a firm's particular accounting choices reflect the underlying economics of the firm. As a result,
+the course strengthens students' ability to use financial statements as part of an overall assessment
+of the firm's strategy and valuation. The course is especially useful for anyone interested in working
+on the buy or sell side.
+The course provides both a framework for and the tools necessary to analyze financial statements.
+At the conceptual level, it emphasizes that preparers and users of financial statements have different
+objectives and incentives. At the same time, the course is applied and stresses the use of actual
+financial statements. For example, students learn how to detect when firms are managing earnings
+and/or balance sheets. It draws heavily on real business problems and uses cases to illustrate the
+application of the techniques and tools.
+243. (ACCT743) Accounting for Mergers, Acquisitions, and Complex Financial Structures. (A)
+Prerequisite(s): Prerequisites: ACCT 101, 102, 201, 202.
+The objective of this course is to discuss and understand the accounting that underlies merger,
+acquisition, and investment activities among firms that result in complex financial structures. Key
+topics include the purchase accounting method for acquisitions, the equity method for investments,
+the preparation and interpretation of consolidated financial statements, tax implications of mergers
+and acquisitions, earnings-per-share considerations, the accounting implications of intercompany
+transactions and non-domestic investments, etc.
+297. (ACCT897) Taxes and Business Strategy. (C) Prerequisite(s): ACCT 101 and FNCE 101.
+The objective of this course is to develop a framework for understanding how taxes affect business
+decisions. The key themes of the framework - all parties, all taxes and all costs - are applied to
+decision contexts such as investments, compensation, organizational form, and mergers and
+acquisitions. The ultimate goal is to provide a new approach to thinking about taxes that will be
+valuable even as laws and governments change.
+399. Supervised Study. (C) Prerequisite(s): Senior standing and 3.4 average in major related
+subjects.
+Intensive reading and study with some research under the direction of a faculty member. Approval
+from one of the departmental advisers must be obtained before registration.
+611. Fundamentals of Financial Accounting. (C)
+The objective of this course is to provide an understanding of financial accounting fundamentals for
+prospective consumers of corporate financial information, such as managers, stockholders, financial
+analysts, and creditors. The course focuses on understanding how economic events like corporate
+investments, financing transactions and operating activities are recorded in the three main financial
+statements (i.e., the income statement, balance sheet, and statement of cash flows). Along the way,
+students will develop the technical skills needed to analyze corporate financial statements and
+disclosures for use in financial analysis, and to interpret how accounting standards and managerial
+incentives affect the financial reporting process. This course is recommended for students who want a
+more in-depth overview of the financial accounting required for understanding firm performance and
+potential future risks through analysis of reported financial information, such as students intending to
+go into security analysis and investment banking.
+
+Page 2 of 4
+
+ACCOUNTING
+(WH) {ACCT}
+612. Accelerated Financial Accounting. (A)
+The intended audience for this course is students with prior knowledge of financial accounting who
+understand: (1) the recording of economic transactions in the accounting records; (2) the basic
+financial statements that summarize a firm's economic transactions (the balance sheet, the income
+statement and the statement of cash flows) and (3) the fundamental concepts needed to prepare or
+understand published financial statements (e.g. use of accrual accounting). Exploiting prior
+knowledge, the course aims in six weeks to help students become effective users of financial
+statements.
+613. Fundamentals of Financial and Managerial Accounting. (C)
+This course provides an introduction to both financial and managerial accounting, and emphasizes
+the analysis and evaluation of accounting information as part of the managerial processes of
+planning, decision-making, and control. A large aspect of the course covers the fundamentals of
+financial accounting. The objective is to provide a basic overview of financial accounting, including
+basic accounting concepts and principles, as well as the structure of the income statement, balance
+sheet, and statement of cash flows. The course also introduces elements of managerial accounting
+and emphasizes the development and use of accounting information for internal decisions. Topics
+include cost behavior and analysis, product and service costing, and relevant costs for internal
+decision-making. This course is recommended for students who will be using accounting information
+for managing manufacturing and service operations, controlling costs, and making strategic decisions,
+as well as those going into general consulting or thinking of starting their own businesses.
+706. Cost Management. (C) Prerequisite(s): ACCT 611/612/613 or waiver. Lecture, case studies,
+class participation, written group cases, and exams.
+This course covers managerial accounting and cost management practices that can be strategically
+applied across the various functions of a business organization to improve organizational
+performance. The course emphasizes the methods available to measure and evaluate costs for
+decision-making and performance evaluation purposes. It reviews a number of cost management
+issues relating to the design and implementation of strategic, marketing, value analysis, and other
+management models in modern firms; and identifies major contemporary issues in managerial
+accounting and financial decision- making. A variety of case studies in different industries and
+decision contexts are used to examine the application of these concepts.
+718. (ACCT208) Auditing. (C) Prerequisite(s): ACCT 611/612/613 or waiver.
+This course includes a consideration of the role of the auditor, the organization of the accounting
+profession, and the current audit environment. It introduces the student to generally accepted auditing
+standards, professional ethics, and legal liability. A conceptual theory of auditing is discussed and
+practical examples of auditing techniques and work programs are used to illustrate the application of
+the theory. The course also covers the auditor's reporting standards and uses case studies and
+professional journal articles as bases for discussion and analysis.
+747. Financial Statement and Disclosure Analysis. (C) Prerequisite(s): ACCT 611/612/613
+completed or waiver.
+This course focuses on the analysis of financial communications between corporate managers and
+outsiders, including the required financial statements, voluntary disclosures, and interactions with
+investors, analysts, and the media. The course draws on the findings of recent academic research to
+discuss a number of techniques that outsiders can use to detect potential bias or aggressiveness in
+financial reporting. FORMAT: Case discussions and lectures. Comprehensive final exam, group
+project, case write-ups, and class participation.
+
+Page 3 of 4
+
+ACCOUNTING
+(WH) {ACCT}
+SM 910. Accounting Theory Research. (A)
+The course includes an introduction to various analytical models and modeling/mathematical
+techniques that are commonly used in accounting research as well as related empirical applications.
+SM 921. Empirical Research in Accounting I. (B)
+The course covers empirical research design and provides students with a perspective on historically
+important accounting research. Topics covered such as research on the time-series and crosssectional properties of financial accounting measures, capital markets behavior, financial
+intermediaries, and international accounting research.
+SM 922. Empirical Research in Accounting II. (B)
+The course covers empirical research design and provides students perspective on historically
+important accounting research. Topics covered such as research on the time-series and crosssectional properties of financial accounting measures, capital markets behavior, financial
+intermediaries, and international accounting research. Topics covered may include corporate
+governance, executive compensation, debt contracting, accounting regulation, tax, and management
+accounting.
+SM 930. Empirical Design in Accounting Research. Prerequisite(s): At least one graduate level
+course in econometrics.
+Course on empirical methods and their application to accounting research topics.
+
+Page 4 of 4
+
+

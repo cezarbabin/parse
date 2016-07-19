@@ -1,0 +1,189 @@
+INTEGRATED PRODUCT DESIGN
+(EG) {IPD}
+500. PRODUCT ENG BASICS.
+501. Integrated Computer-Aided Design, Manufacturing and Analysis. (B) Prerequisite(s): MEAM
+101, MEAM 150, and MEAM 210, or graduate standing in the School of Engineering, Design, or
+Wharton with similar experience.
+The majority of today's engineered products move through an advanced computer-aided workflow
+which greatly speeds design and process time. This course will explore the fundamental components
+of this workflow through a combination of lectures, hands-on exercises, and a semester design project.
+General course topics include: fundamental design principles, project definition and needfinding,
+advanced computer-aided design, rapid prototyping techniques, computer-controlled machining, and
+an in-depth exploration of the modern analysis and simulation tools that have revolutionized the way in
+which products are designed. Enrollment is limited.
+503. (ARCH303) IPD FUNDAMENTALS.
+504. (BE 514) Rehab Engineering and Design. (C) Prerequisite(s): Graduate students or permission
+of the instructor.
+Students will learn about problems faced by disabled persons and medical rehabilitation specialists,
+and how engineering design can be used to solve and ameliorate those problems. The course
+combines lectures, multiple design projects and exercises, and field trips to clinical rehabilitation
+facilities. Students will have substantial interactio with clinical faculty, as well as with patients.
+509. Needfinding. (B)
+Needfinding is an approach that puts people and their needs at the center of product development and
+business strategy creation. Over 90% of new products introduced into the marketplace fail. A good
+portion of these failures are due to lack of understanding of end consumers and their needs. To
+develop truly successful new products, it's not enough just to ask people what they need or want.
+Designers and engineers need tools and techniques to get beyond what people can explicitly state
+and determine their implicit needs. Needfinding is an approach for developing deep insights that
+provide strategic direction for corporations and open up new possibilities for product development. In
+this class students will gain a toolset from which to develop their own approaches to conducting
+researching for design: learning how to think about other people, about culture, and about new
+perspectives. They will also learn tactical skills: how to define research questions, how to conduct
+observations and interviews, how to interpret results, how to synthesize them into fodder for design,
+and how to communicate their findings in a way that is compelling and actionable for designers,
+marketers, and business strategists.
+This class is designed for graduate students and upper level undergrads with a specific interest in
+product design or design thinking.
+511. Creative Thinking and Design.. (A) It is recommended that undergraduates take MEAM 101
+prior to this course.
+This is a creative & iterative problem solving course that uses a series of mechanical design challenge
+projects to move students into the broad realm of unpredictable often incalculable time-constrained
+problem solving. It explores a wide variety of problem definition, exploration and solving "tools," and a
+variety of surrounding "design thinking" topics, such as ethics and the design of experience. Drawing
+and prototyping are used in the projects for ideation, iteration, speculation and communication.
+
+Page 1 of 5
+
+INTEGRATED PRODUCT DESIGN
+(EG) {IPD}
+514. (MEAM514) Design for Manufacturability. (B) Prerequisite(s): MEAM 101 or equivalent, MEAM
+210 or equivalent, Senior or Graduate standing in the School of Design, Engineering, or Business with
+completed product development and/or design engineering core coursework or related experience.
+This course is aimed at providing current and future product design/development engineers,
+manufacturing engineers, and product development managers with an applied understanding of
+Design for Manufacturability (DFM) concepts and methods. The course content includes materials
+from multiple disciplines including: engineering design, manufacturing, marketing, finance, project
+management, and quality systems.
+515. (MEAM415, OIDD415) Product Design.. (C)
+This course provides tools and methods for creating new products. The course is intended for students
+with a strong career interest in new product development, entrepreneurship, and/or technology
+development. The course follows an overall product methodology, including the identification of
+customer needs, generation of product concepts, prototyping, and design-for-manufacturing. Weekly
+student assignments are focused on the design of a new product and culminate in the creation of a
+prototype. The course is open to juniors and seniors in SEAS or Wharton.
+516. (MEAM516) Advanced Mechatronic Reactive Systems. (B)
+This course combines performance art and advanced mechatronics concepts that include the design
+and implementation of large-scale actuation, advanced sensing, actuation and control. This course
+pairs design school and engineering students to form interdisciplinary teams that together design and
+build electro-mechanical reactive spaces and scenic/architectural elements in the context of the
+performing arts. The two disciplinary groups will be treated separately and receive credit for different
+courses (ARCH746 will be taught concurrently and in some cases co-located) as they will be learning
+different things. Engineering students gain design sensibilities and advanced mechatronics in the form
+of networked embedded processing and protocols for large scale actuation and sensing. Design
+students learn elementary mechatronics and design reactive architectures and work with engineering
+students to build them. The class will culminate in a some artistic performance (typically with
+professional artists) such as a Shakespeare play, robotic ballet, a mechatronic opera.
+517. (OIDD416) Des & Dev Web-Based Prod. (C)
+519. (ESE 519) REAL TIME EMBEDDED SYS. (C)
+SM 521. (ARCH721) DESIGNING SMART OBJECTS. (C)
+SM 528. (ARCH728) Design of Contemporary Products. (B)
+This course was designed to explore intersections of functionality and performance using an
+experimental platform to uncover opportunities within the built environment to create domestic
+products. Provides practical insights into the material manipulation and aesthetic experimentation that
+are essential for the design and fabrication of products. Lectures and case studies help students to
+learn from examples and develop their own designs. Through a series of exercises, students design
+and fabricate a prototype using actual materials. The course addresses problems unique to product
+design, such as scale, weight, cost and production.
+
+Page 2 of 5
+
+INTEGRATED PRODUCT DESIGN
+(EG) {IPD}
+525. Ergonomics/Human Factors Based Product Design. (C)
+Human Factors and Ergonomics knowledge is a critical component of a product designer or design
+engineer's toolbox. This course teaches the direct application of existing human factors/ergonomic
+data to the creation of new product designs. Applying human factors knowledge to problem solving for
+product design happens throughout the design process. It is a useful input as initial ideas begin to ut
+and as a way to verify completed concepts through directly documented user testing and design
+iteration. The course would be a mini-lecture/studio style course in which the students will work in
+class on assigned projects, finding, analyzing, extrapolating and applying data to design solutions and
+creating mockups, modeland prototypes for user testing of their designs.
+SM 526. (ARCH726) Contemporary Furniture Design. (B)
+527. (ARCH727) Industrial Design I.. (A)
+This course provides an introduction to the ideas and techniques of Industrial Design, which operates
+between Engineering and Marketing as the design component of Integrated Product Development.
+The course is intended for students from engineering, design, or business with an interest in multidisciplinary, needs-based product design methods. It will follow a workshop model, combining weekly
+lectures on design manufacturing, with a progressive set of design exercises.
+530. (ARCH733) Building Product Workshop: Transwall. (C)
+As Craig Vogel notes in The Design of Things to Come, "we are in a new economic age that is in need
+of a new renaissance in product development, on that leverages multiple minds working in concert,"
+With this mindset, this interdisciplinary workshop guides students through the product design process
+from design brief to concept generation in one semester, working firsthand with Transwall, a leading
+manufacturer of demountable wall systems, to focus on a specific product need. The design
+opportunity looks for the next generation of pre-manufactured wall systems; getting away from field
+constructed walls and looking at critical issues of mass-produced wall systems; flexibility, mobility,
+structural stability, acoustics, transparency/opacity, and operability. During the workshop, students will
+explore the context that creates the unique need for a new product and have an opportunity to
+conceptualize their design ideas through sketches, scale model studies and partial prototypes.
+532. (ARCH632) Surface Effects. (B)
+Several sections are offered from which students make a selection. This year'sselections include:
+Space and Structure; Surface/Effects.
+SM 544. (ARCH744) Digital Fabrication. (B)
+A seminar and design workshop that explores associative and parametric CAD-CAM strategies, to
+enable an interactive continuity between conception and fabrication. Through parametric 3D
+constructions, students will explore how to link dink different aspects of the architectural projects, such
+as: (1) design intention; (2) control of variation and adaptation; (3) construction constraints; (4) digital
+fabrication processes. The course emphasizes the cross-fertilization of formal, technical and
+performative aspects of the design activity.
+545. (EAS 545) Eng Entrepreneurship I. (C)
+
+Page 3 of 5
+
+INTEGRATED PRODUCT DESIGN
+(EG) {IPD}
+549. (EAS 449) Product Development in Entrepreneurial Ventures. (B) Prerequisite(s): Seniors and
+Graduate students from the School of Design, Engineering or Business that have an interest in
+product design and/or integrated product development in an entrepreneurial environment.
+A product is any artifact, service or experience for which a buyer is willing to pay. Product Design and
+Development is at the core of entrepreneurship. Though in the modern mythology it is a solitary effort
+by a passionate individual, entrepreneurship is frequently more successful when pursued in an
+interdisciplinary environment. Though it rarely requires the greatest time investment, concentration of
+personnel, the majority of the funding or even the greatest depth of expertise to accomplish, excellent
+product design can be the difference between a successful or failed venture. A poorly designed
+"product" can prevent a venture from being successful. An excellently designed product can make a
+competent business plan much more successful. A well defined and designed product solution will
+create differentiation, and cannot only meet customer expectation, but can create desirability. Through
+the review and discussion of case studies, lecture subjects, guest lecturers, field trips, and a semester
+long interdisciplinary team project, this class will provide insight into the problem identification and
+product design processes, user needs research, intellectual property research, experience design,
+Industrial Design, Interface Design, brand development and product centric fundraising processes.
+Specific knowledge areas to be explored: Product design processes, User needs research,
+Intellectual property research, Experience design, Industrial design, Interface design, Product Driven
+Financial development
+551. Design Processes. (C)
+This studio is structured for IPD students as an intensive, interdisciplinary exploration of Design as
+purposeful for Integrated Product Design. The goal of the studio is to give students a firsthand
+experience of various processes involved in creating successful integrated product designs.This first
+semester of the four-semester studio sequence focuses on giving students experience developing
+designs based on a range of starting points: form, function, materiality and manufacturing process.
+Students will practice design through rigorous, consistent processes for thinking through the evolution
+of their ideas. In this course, they will go through an entire design process from conceptualization to
+design to producing prototypes. They will be taught to focus on the specifics of their designs, causing
+them to be conscious of what drives their choices as designers and providing them with a wider range
+of tools to design from in successive projects. Course work will involve readings, assignments, class
+participation, in-class exercises, a mid-term presentation and a final submission.
+552. Problem Framing. (B)
+In the second semester of the four-semester studio sequence, we ask students to take a step back
+from what and how they are designing and ask the question of why they are designing it. We will teach
+them a rigorous process for understanding stakeholder needs and for translating those needs into
+implications for product design. They will begin to develop greater awareness of the personal, social,
+competitive and technological contexts that their products fit into, and to learn how to design for those
+contexts. They will develop the ability to dive into a topic and frame a design problem, and to
+understand the implications of how they frame the problem on what they design. Ideally, they will use
+this process to identify a problem or opportunity to work on for their final project. Course work will
+involve readings, assignments, class participation, in-class exercises, and a final submission.
+SM 561. IPD Theories/Methods I.
+SM 562. (ARCH562) IPD Theories/Methods II. (B)
+568. (FNAR268, FNAR568) INTEGRATIVE DESIGN STUD. (C)
+599. Master's Independent Study. (C)
+SM 699. IPD Seminar.. (C)
+
+Page 4 of 5
+
+INTEGRATED PRODUCT DESIGN
+(EG) {IPD}
+799. Studio Project Thesis.. (C)
+
+Page 5 of 5
+
+

@@ -1,0 +1,194 @@
+DEMOGRAPHY
+(AS) {DEMG}
+SM 524. (SOCI524) Advanced Topics in the Sociology of the Family. (M) Staff.
+The course will review a series of theoretical issues in the sociology of the family and examine major
+empirical studies in which theoretical advances have been made. Special attention will be given to
+work that has a historical and comparative perspective. Opportunities will be provided for original
+research on the family.
+L/R 535. (SOCI535) Quantitative Methods in Sociology I. (A) Allison, Smith.Prerequisite(s): Basic
+algebra.
+This course is an introduction to the practice of statistics in social and behavioral sciences. It is open
+to beginning graduate students and--with the permission of the instructor--advanced undergraduates.
+Topics covered include the description of social science data, in graphical and non-graphical form;
+correlation and other forms of association, including cross-tabulation; bivariate regression; an
+introduction to probability theory; the logic of sampling; the logic of statistical inference and
+significance tests. There is a lecture twice weekly and a mandatory "lab."
+L/R 536. (SOCI536) Quantitative Methods in Sociology II. (B) Allison, Kohler, Park, Schnittker,
+Smith.Prerequisite(s): SOCI 535 or permission of instructor.
+As the second part of a two-semester sequence, this graduate course focuses on regression analysis
+as used in social science research. In particular, we discuss features and assumptions of linear
+regression and logistic regression models. We learn how to apply regression models to real social
+science data using Stata and how to interpret the results.
+SM 541. (GSWS532, SOCI541) Gender, the Labor Force, and Markets. (M) Madden.
+Drawing from sociology, economics and demography, this course examines the causes and effects of
+gender differences in labor force participation, earnings and occupation in the United States and in the
+rest of the developed and developing world. Differences by race, ethnicity and sexual preference are
+also considered. Theories of labor supply, marriage, human captial and discrimination are explored as
+explanations for the observed trends. Finally, the course reviews current labor market policies and
+uses the theories of labor supply, marriage, human capital and discrimination to evaluate their effects
+on women and men.
+604. (SOCI604) Methodology of Social Research. (B) Harknett, Smith, Wilde, Zuberi.
+This course will give students familiarity with the common research methods social scientists use to
+conduct research. Ethnographic, interview, survey, experimental and historical/comparative research
+methods will be covered. Four themes will be explored: 1) the basics of solid research design, 2) the
+various advantages and disadvantages of each method, 3) when the use of a method is appropriate
+or inappropriate for the research question, and 4) how to evaluate researchers' claims on the basis of
+the evidence they present. These themes will be explored by reading examples of and conducting
+exercises designed to give students hands-on experience in each of the methods. Students will
+conduct the exercises on a topic of their choice, which together will culminate in their final paper. The
+course is required and restricted to second year students in sociology and demography.
+607. (SOCI607) Introduction to Demography. (A) Staff.
+A nontechnical introduction to fertility, mortality and migration and the interrelations of population with
+other social and economic factors.
+
+Page 1 of 5
+
+DEMOGRAPHY
+(AS) {DEMG}
+609. (SOCI609) Basic Methods of Demography. (A) Elo, Guillot, Smith.
+The course is designed to introduce students to basic concepts of demographic measurement and
+modeling used to study changes in population size and composition. The course covers basic
+measures of mortality, fertility and migration; life table construction; multiple decrement life tables;
+stable populations; population projections; and age patterns of vital events. Students will learn to apply
+demographic methods through a series of weekly problem sets.
+611. (SOCI611) STRUCT. EQUATION MODEL. (M) Allison.
+Statistical modeling with multiple equations and latent variables. The first part of the course will focus
+on linear models that could be estimated with any of the well-known SEM programs (e.g., LISREL,
+EQS, or Amos). Both Mplus and SAS will be used exclusively in this part of the course. The second
+part will focus on Mplus models for variables that are categorical, count, or censored. Maximum
+likelihood methods for missing data will also be covered.
+612. (SOCI612) CATEGORICAL DATA ANALYSS. (M) Allison.
+This course deals with techniques for analyzing multivariate data which the dependent variable is a
+set of categories (a dichotomy or polytomy). Topics will include linear probability models, logit (logistic)
+regression models, probit models, logit analysis of contingency tables, cumulative logit and probit (for
+ordinal data), multinomial logit, conditional logit (discrete choice), unobserved heterogeneity, log-linear
+models, square tables, response-based sampling, and repeated measures. Methods will be illustrated
+using the Stata System. There will be several assignments using Stata to analyzedata provided by the
+instructor.
+613. (SOCI613) Event History Analysis. Allison.Prerequisite(s): SOCI 536 or equivalent.
+An applications-oriented course on statistical methods for the analysis of longitudinal data on the
+occurrence of events, also known as survival analysis, failure-time analysis, hazard analysis or
+duration analysis. Emphasis on regression-like models in which the risk of event occurrence is a
+function of a set of explanatory variables. Topics include accelerated failure-time models, hazard
+models, censoring, Cox regression models, time-dependent covariates, completing risks, repeated
+events, unobserved heterogeneity, discrete-time methods.
+SM 622. (SOCI622) Fertility. (M) Smith, Kohler, H.
+The biological, social and demographic factors explaining the levels, trends and differentials in human
+fertility. Data, measures, and methods used in the context of the more and the less developed
+countries, with an demphasis on the historical and current course of the fertitlity transition.
+SM 630. (SOCI630) Advanced Special Topics. (M) Staff.
+Topics vary from semester to semester. Course titles include: Race, Colonialism & Methods; Mistakes,
+Errors, Accidents & Disasters, Graduate Research Practicum, Sociology of Violence: Gangs &
+Organized Crime.
+SM 633. (SOCI633) Population Processes I. (A) Elo, Guillot, Parrado, Schnittker.
+This is one of two courses that serve as an introduction to core areas of demography and important
+developments in the field. Population Processes I introduces students to broad set of issues in health,
+mortality, and aging. Readings cover overviews of major topics as well as recent approaches to the
+subject. Attention is focused on description and explanation of variation in health across time, space
+and social groups. One consequence of mortality decline is population aging. We will cover some of its
+implications for individuals, families and societies.
+
+Page 2 of 5
+
+DEMOGRAPHY
+(AS) {DEMG}
+SM 634. (SOCI634) Population Processes II. (B) Flippen, Harknett, Kohler, Parrado, Smith.
+Population Processes II is part of a two-course sequence designed to introduce students to the core
+areas of demography (fertility, mortality, and migration) and recent developments in the field. PP II is
+divided into two parts. The first focuses on family demography and the biological, social and
+demographic factors explaining levels, trends, and differentials in human fertility transition with an
+emphasis on the historical and current course of fertility transition in developed and developing
+countries. The second part of the course provides a comprehensive review of theories and research
+on international migration. Readings examine patterns and processes of global migration during the
+classic age from 1800-1914 as well as during the postwar period from 1945 to the present. The course
+also covers a history and evaluation of immigration policies around the world, and devotes significant
+attention to theoretical and empirical perspectives on immigrant adaptation, including the relationship
+between gender and migration.
+643. (SOCI643) Social Stratification. Jacobs, Park.
+This is an advanced level graduate seminar where we will review contemporary research on social
+stratification and mobility. We will examine empirical and theoretical studies not only in the US but also
+in other countries to address how the pattern of social stratification varies across societies and over
+time. The main topics to be discussed are social mobility, occupational attainment, educational
+inequality, gender and race, and family processes and stratification. We will also examine studies that
+address how national contexts mediate social stratification. Advanced undergraduate students will be
+admitted with permission.
+662. (SOCI662) PANEL DATA ANALYSIS.
+SM 670. (SOCI670) Family Data. (M) Harknett.
+This two semester course will engage each graduate student in an analysis project with qualitative
+and quantitative components, using a linked qualitative longitudinal data set. Students will use survey
+data from the baseline and 12 month wave of the Fragile Families study (described at http://
+crcw.princeton.edu/fragilefamilies/), a national survey of unwed and married parents who have just
+had a child (with unmarried parents over sampled) They will also use transcripts and coded data from
+the TLC3 study, which involved qualitative couple and individual interviews conducted with a subset of
+75 of the couples in the FF survey in 3 waves: about 3 months after the birth and then again 12 and
+24 months after the birth. Most of these are low-income, unmarried, cohabiting parents. The goal of
+the course is for each student to use these two data sets, and the analytic techniques and literature
+covered in the course, to write a paper that can be submitted for publication. The spring will also
+include lots of tips on how to construct a publishable paper. Students should only enroll in this course
+if they plan to take the spring sequel course as well.
+SM 708. (SOCI708) Second-Year Research Seminar II. (B) Staff.
+Demography 708 is the second part of a two-course sequence designed to introduce and familiarize
+second year students with current norms for academic research, presentation and publishing in the
+field of Demography. In Demg708 students are expected to finalize the analyses and to complete their
+second year research paper. This is a required course for second year demography students. Others
+interested in enrolling in the course may do so with the permission of the Chair of the Graduate Group
+in Demography.
+
+Page 3 of 5
+
+DEMOGRAPHY
+(AS) {DEMG}
+SM 677. (SOCI677) International Migration. (M) Flippen.
+A comprehensive review of theories and research on international migration. The course introduces
+the basic precepts of neoclassical economics, the new economics of labor migration, segmented labor
+market theory, world systems theory, social capital theory and the theory of cumulative causation.
+Readings examine patterns and processes of global migration during the classic age from 1800-1914
+as well as during the postwar period from 1945 to the present. The course also covers a history and
+evaluation of immigration policies around the world, and devotes signification attention to theoretical
+and empirical perspectives on immigrant adaptation. Within this larger topic, we will also discuss
+internal migration and urbanization; the relationship between gender and migration; the spatial
+distribution of immigrants within the United States, immigrant communities, and ethnic enclaves; and
+the undocumented population in the United States.
+SM 707. (SOCI707) Second-Year Research Seminar I. (A) Staff.
+This course is intended to hone the skills and judgment in order to conduct independent research in
+sociology and demography. We will discuss the selection of intellectually strategic research questions
+and practical research designs. Students will get experience with proposal writing, the process of
+editing successive drafts of manuscripts, and the oral presentation of work in progress as well as
+finished research projects. The course is designed to be the context in which master's papers and
+second year research papers are written. This is a required course for second year graduate students
+in Demography. Others interested in enrolling in only one of the courses may do so with the
+permission of the Chair of the Graduate Group in Demography.
+SM 731. (SOCI731) Advanced Demographic Methods. (M) Smith.Prerequisite(s): DEMG 609 and
+SOCI 536 (or its equivalent).
+This course considers a variety of procedures for measuring and modeling demographic processes.
+We will consider both deterministic (drawn from classic demographic methods, stable population
+theory, and the like) and stochastic (drawn from statistics) perspectives and methods, including their
+integration. Pre-requisites: DEMG 609 and SOCI 536 (or its equivalent).
+SM 777. (SOCI777) Special Topics in Demography. (M) Staff.
+Special Topics in Demography
+796. (SOCI796) Demographic, Economic, and Social Interrelations. (J) Kohler, Madden.
+The course investigates economic and social determinants of fertility, mortality, and migration, and it
+discusses the effects of population variables on economic and social conditions, including economic
+and social development. Topics discussed in the course include: How do economic changes affect
+marriage, divorce, and child bearing decisions? How do households make decisions about transfers
+and requests? How can economic and sociological approaches be combined in explanatory models of
+demography change? How does immigration to the US affect the ethnic composition of the population,
+the earnings of native workers, taxes on natives, and the macro-economy? What causes the aging of
+populations, and how will population aging affect the economies of industrial nations, and in particular,
+pension programs like Social Security? What accounts for the rise in women's participation in the
+wage labor force over the past century? How are family composition and poverty interrelated? Does
+rapid population growth slow economic development with low income countries? In addition to these
+topics, the course also covers selected methods not included in Dem/Soc 535/536 and 609.
+
+Page 4 of 5
+
+DEMOGRAPHY
+(AS) {DEMG}
+999. Independent Study. (C) Staff.
+Primarily for advanced students who work with individual instructors upon permission. Intended to go
+beyond existing graduate courses in the study of specific problems or theories or to provide work
+opportunities in areas not covered by existing courses.
+
+Page 5 of 5
+
+

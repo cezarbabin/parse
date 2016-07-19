@@ -1,0 +1,806 @@
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+L/R 101. An Introduction to Operations, Information and Decisions. (C) Staff.
+OIDD 101 explores a variety of common quantitative modeling problems that arise frequently in
+business settings, and discusses how they can be formally modeled and solved with a combination of
+business insight and computer-based tools. The key topics covered include capacity management,
+service operations, inventory control, structured decision making, constrained optimization and
+simulation. This course teaches how to model complex business situations and how to master tools to
+improve business performance. The goal is to provide a set of foundational skills useful for future
+coursework atWharton as well as providing an overview of problems and techniques that characterize
+disciplines that comprise Operations and Information Management.
+105. Developing Tools for Data Access and Analysis (VBA and SQL Programming).
+This course provides an introduction to the construction of data analysis tools that are commonly used
+for business applications, especially in consulting and finance. The course builds on the spreadsheet
+and analytical skills developed in OPIM101, providing a much more extensive treatment of
+spreadsheet application development and database management. The first portion of the course will
+focus on programming in VBA, the embedded programming language in the Microsoft Office suite of
+applications. This will be supplemented with discussion of industry best practice in software
+development, such as specification development, interface design, documentation, and testing. The
+second portion of the class will emphasize data access and analysis utilizing SQL, the industry
+standard language for interacting with database software.
+210. Management Information Systems. (C) Staff.
+This course provides a broad-based introduction to the management of information technology
+focusing on three interrelated themes: technology, organization, and strategy. The goal of this course is
+to equip students with the knowledge and tools to utilize information systems to pursue a firm's
+strategic and organizational goals. The course has no prerequisites other than a general interest in the
+applications of information technology.
+221. (ESE 522) Operations Strategy and Process Management. (C) Staff. Cross listed with ESE
+522
+This course examines how organizations can develop and leverage excellence in process
+management. The first module focuses on operations strategy. In these classes, we examine what
+constitutes an operations strategy and how organizations can create value by managing complexity,
+uncertainty, and product development. In the second half of the course, we discuss recent
+developments in both manufacturing and service industries. Specifically, we examine initiatives in
+quality, lean manufacturing and enterprise-wide planning systems. The course is recommended for
+those interested in consulting or operations careers, as well as students with an engineering
+background who wish to develop a better understanding of managing production processes.
+222. (LGST222) Internet Law & Policy. (C) Staff. cross listed with LGST 222
+The Internet has become central to business and daily life. This course looks at how courts,
+legislatures, and regulators confront the major legal issues that the Internet poses. The fundamental
+challenge is that law comes from governments and other institutions in specific places, but the Internet
+is global and virtual. Conflicts such as the shutdown of the Napster peer-to-peer file-sharing service
+and the debate over "network neutrality" regulations for broadband access illustrate the challenge.
+How does the legal system think about Google, Skype, Twitter, and Facebook? How should it?
+223. Service Operations Management. (C) Staff.
+240. (LGST240) Gamification for Business.
+
+Page 1 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+261. (BEPP261, BEPP761, BEPP961, ESE 567, OIDD761) Risk Analysis and Environmental
+Management. (C) Kunreuther. Crosslisted with OPIM 761, BPUB 261, 761, 961, and ESE 567. See
+description under OPIM 761.
+For Spring 2015 - If Risk Analy & Env Mgmt is closed after the pre-registration period, please e-mail
+Kyle Dix at kyledix@wharton.upenn.edu to be added to the wait list for the class. Please be sure to
+include your Name, Student ID #, what section you are interested in (OPIM, BPUB, or ESE) and list
+what class level you are in. We will do our best to accomodate as many students as possible on the
+wait list.
+263. (BEPP263) Environmental & Energy Economics and Policy. Arthur van Benthem.
+This course examines environmental and energy issues from an economist's perspective. Over the
+last several decades, energy markets have become some of the most dynamic markets of the world
+economy, as they experienced a shift from heavy regulation to market-driven incentives. First we look
+at scarcity pricing and market power in electricity and gasoline markets. We then study oil and gas
+markets, with an emphasis on optimal extraction and pricing, and geopolitical risks that investors in
+hyrocarbon resources face. We then shift gears to the sources of environmental problems (many of
+which are energy-related), and policy makers can intervene to solve some of these problems. We talk
+about the economic rationale for a broad range of possible policies: environmental taxes, subsidies,
+performance standards and cap-and-trade. In doing so, we discuss fundamentalconcepts in
+environmental economics such as externalities, valuation of the environment and the challenge of
+designing international agreements. At the end of the course, there will be special attention for the
+economics and finance of renewable energy and policies to foster its growth. Finally, we discuss the
+transportation sector, and anaylze heavily debated policies such as fuel-economy standards and
+subsidies for green vehicles.
+290. Decision Processes. Prerequisite(s): STAT 101 or equivalent strongly recommended.
+This course is an intensive introduction to various scientific perspectives on the processes through
+which people make decisions. Perspectives covered include cognitive psychology of human problemsolving, judgment and choice, theories of rational judgment and decision, and the mathematical theory
+of games. Much of the material is technically rigorous. Prior or current enrollment in STAT 101 or the
+equivalent, although not required, is strongly recommended.
+291. (LGST206, MGMT291, OIDD691) Negotiations. (C)
+Negotiation is the art and the science of creating good agreements between two or more parties. This
+course develops managerial negotiation skills by mixing lectures and practice, using cases and
+exercises in which students negotiate with each other. The cases cover a wide range of problems and
+settings: one-shot deals between individuals, repeated negotiations, negotiations over several issues,
+and negotiations among several parties (both within and between organizations). Class participation
+and case studies account for half the course grade. Students will also write about a negotiation
+experience outside of class.
+292. (LGST292, MGMT292) Adv Topics Negotiation..
+This course is designed to teach negotiation principles and to enable students to develop their
+negotiation skills. This course builds upon and assumes familiarity with the negotiation concepts
+covered in the prerequisite for this course: "Negotiations." In this course, we extend the study and
+practice of negotiations, and we develop a deeper understanding of how specific aspects of the
+negotiation process impact outcomes. Through course lectures, readings, and exercises, students will
+develop a rich framework for thinking about the negotiation process and acquire tools for guiding the
+negotiation process.
+
+Page 2 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+299. JUDG & DEC MAKING RES IM. (A)
+This class provides a high-level introduction to the field of judgment and decision making (JDM) and
+in-depth exposure to the process of doing research in this area. Throughout the semester you will gain
+hands-on experience with several different JDM research projects. You will be paired with a PhD
+student or faculty mentor who is working on a variety of different research studies. Each week you will
+be given assignments that are central to one or more of these studies, and you will be given detailed
+descriptions of the research projects you are contributing to and how your assignments relate to the
+successful completion of these projects. To complement your hands-on research experience,
+throughout the semester you will be assigned readings from the book Nudge by Thaler and Sunstein,
+which summarizes key recent ideas in the JDM literature. You will also meet as a group for an hour
+once every three weeks with the class's faculty supervisor and all of his or her PhD students to
+discuss the projects you are working on, to discuss the class readings, and to discuss your own
+research ideas stimulated by getting involved in various projects. Date and time to be mutually agreed
+upon by supervising faculty and students. the 1CU version of this course will involve approx. 10 hours
+of research immersion per week and a 10-page paper. The
+0.5 CU version of this course will involve approx 5 hours of research immersion per week and a 5page final paper. Please contact Katy Milkman if you are interested in enrolling in this course:
+kmilkman@wharton.upenn.edu
+311. Business Computer Languages. (C)
+This course is taught with the more descriptive title of "Scripting for Business Analytics." "Business
+Analytics" refers to modeling and analysis undertaken for purposes of management and supporting
+decision making. The varieties of techniques and methods are numerous and growing, including
+simple equational models, constrained optimization models, probabilistic models, visualization, data
+analysis, and much more. Elementary modeling of this sort can be undertaken in Excel and other
+spreadsheet programs, but "industrial strength" applications typically use more sophisticated tools,
+based on scripting languages. Scripting languages are programming languages that are designed to
+be learned easily and to be used for special purposes, rather than for large-scale application
+programming. This course focuses on the special purposes associated with business analytics and
+teaches MATLAB and Python in this context. MATLAB and Python are widely used in practice (both in
+management and in engineering), as are the business analytic methods covered in the course. Prior
+programming experience is useful, but not required or presumed for this course.
+314. (OIDD662) Enabling Technologies. (C) Staff.
+Conducting business in a networked economy invariably involves interplay with technology. The
+purpose of this course is to improve understanding of technology (what it can or cannot enable) and
+the business drivers of technology-related decisions in firms. We will be discussing some of the new
+and most disruptive technologies right now to stimulate thought on new applications for commerce and
+new ventures, as well as their implications to the tech industry as a whole. Topics include social media,
+online advertising, big data, and cloud computing.
+The course will take a layered approach (from network infrastructure) to data infrastructure to
+applications infrastructure, or direct enablers of commerce) to first, understanding and then, thinking
+about technology enablers. Network infrastructure layers include fundamentals of wired and wireless
+infrastructure technologies such as protocols for networking, broadband technologies - for last (DSL,
+Cable etc) and other miles (advances in optical networking) and digital cellular communications. Data
+infrastructure layers include usage tracking technologies, search technologies and data mining. Direct
+application layers include personalization technologies (CRM), design technologies for content and
+exchanges, software renting enablers, application service provision, agents and security mechanisms.
+Finally some emberging technology enablers (such as bluetooth, biometrics and virtual reality) are
+identified and discussed.
+
+Page 3 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+321. Introduction to Management Science. (C) Staff.
+Understanding how to use data and business analytics can be the key differential for a company's
+success or failure. This course is designed to introduce fundamental quantitative decisionmaking tools
+for a broad range of managerial decision problems. Topics covered include linear, nonlinear, and
+discrete optimization, dynamic programming, and simulation. Students will apply these quantitative
+models in applications of portfolio management, electricity auctions, revenue management for airlines,
+manufacturing, advertising budget allocation, and healthcare scheduling operations. Emphasis in this
+course is placed on mathematical modeling of real world problems and implementation of decision
+making tools.
+315. Data Base Management Systems. (C) Staff.
+Organizations continue to increase their reliance on computerized database management and
+information retrieval systems. Whether purchasing airplane tickets, managing retail merchandise,
+processing financial trades or simply sending email, data management defines the modern firm. This
+course aimes to provide students with both a practical and theoretical introduction to the design,
+implementation, and use of such systems. Students are introduced to the fundamental concepts and
+principals of data management and gain practical experience by designing and deploying a working
+system. Throughout the course, case studies are used to illustrate theoretical concepts while
+acquainting students with innovative commercial uses of these systems.
+316. (OIDD661) Systems Analysis, Design, and Implementation. (C) Staff.
+At its surface this course introduces students to the management and technical issues associated with
+planning and designing large-scale computer systems. It does so in part as an elaboration of Fred
+Brooks's observation that "The technology, the surrounding organization, and the traditions of the craft
+conspire to define certain items of paperwork." But if that were our only goal, we would soon find
+ourselves mired in (and probably arguing about) the minutiae of how such paper items ought to be
+constructed - not a very helpful pedagogical exercise. So then, at a deeper level we seek to
+understand why the conspiracy endures, and why in spite of it, systems still take too long and cost too
+much to build as a systems project's team members struggle to understand one another across
+disparate discourse communities and world views, differences in experience and training, and over
+long periods of time. More than anything else, within the context of working with the main tools and
+techniques of systems analysis and design, this course treats communication, corroboration, and
+thinking within the boundaries of a technology-oriented project as its primary subjects.
+SM 319. Advanced Decision Systems: Evolutionary Computation. (C)
+This course is taught with the more descriptive title of "Agents, Games, and Evolution." It explores
+applications and fundamentals of strategic behavior. Strategic, or game-theoretic, topics arise
+throughout the social sciences. The topics include--and we discuss--trust, cooperation, market-related
+phenomena (including price equilibria and distribution of wealth), norms, conventions, commitment,
+coalition formation, and negotiation. They also include such applied matters as design of logistics
+systems, auctions, and markets generally (for example, markets for electric power generation). In
+addressing these topics we focus on the practical problem of finding effective strategies for agents in
+strategic situations (or games). Our method of exploration will be experimental: we review and discuss
+experiments, principally computational experiments, on the behavior of boundedly rational agents in
+strategic (or game-theoretic) situations. Course work includes readings, discussions in class
+(organized as a seminar), examinations, and a course project on a topic chosen by the participants.
+
+Page 4 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+325. (PHIL203) Computer Simulation Models. (C) Staff.
+This course focuses on agent-based computational models in the social sciences, especially in
+economic, in commercial and in strategic (game-theoretic) contexts. This relatively recent and now
+rapidly-developing form of computer simulation seeks to explain and predict complex social
+phenomena "from the ground up", through interactions of comparatively simple agents. The course
+reviews experimental and theoretical results, and exposes the students to modern development
+environments for this form of simulation. Students have the opportunity to design and implement
+agent-based simulations. Programming, however, is not required. This course aims to integrate various
+topics in agent-based simulation, while developing an appreciation of the problems that are particularly
+characteristic of this form of simulation so that students will understand its promise and potential.
+353. (OIDD653) MATH MDLNG APPL IN FNCE. (C) Tsoukalas.Prerequisite(s): OPIM321 (or a similar
+optimization class).
+Quantitative methods have become fundamental tools in the analysis and planning of financial
+operations. There are many reasons for this development: the emergence of a whole range of new
+complex financial instruments, innovations in securitization, the increased globalization of the financial
+markets, the proliferation of information technology and the rise of high-frequency traders, etc. In this
+course, models for hedging, asset allocation, and multi-period portfolio planning are developed,
+implemented, and tested. In addition, pricing models for options, bonds, mortgage-backed securities,
+and other derivatives are studied. The models typically require the tools of statistics, optimization, and/
+or simulation, and they are implemented in spreadsheets or a high-level modeling environment,
+MATLAB. This course is quantitative and will require extensive computer use. The course is intended
+for students who have strong interest in finance. The objective is to provide students the necessary
+practical tools they will require should they choose to join the financial services industry, particularly in
+roles such as: derivatives, quantitative trading, portfolio management, structuring, financial
+engineering, risk management, etc. Prospective students should be comfortable with quantitative
+methods
+such as basic statistics and the methodologies (mathematical programming and simulation) taugh
+tin OPIM612 Business Analytics and OPIM321 Management Science (or equivalent). Students should
+seek permission from the instructor if the background requirements are not met.
+410. (OIDD672) Decision Support Systems. (C) Staff. Crosslisted with OPIM 672. See description
+under OPIM 672.
+397. (OIDD697) Retail Supply Chain Management. See description under OPIM 697
+
+Page 5 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+398. (OIDD698) Retail Supply Chains..
+The course will examine how retailers understand their customers' preferences and respond with
+appropriate products through effective supply chain management. The course class sections will deal
+with the following major items: (1) linking finance and operations in retailing, (2) what assortment of
+products should a retailer carry in each store, (3) optimizing the inventory carried of each SKU in each
+store, (4) markdown pricing, (5) store execution and (6) supply chain design. In addition, we will
+consider a broad range of issues facing two retailers, Mothers Work, and Best Buy, when we are
+visited by current and past senior executives from these firms.
+The course is highly recommended for students interested in careers in: (1) Retailing and retail
+supply chains, (2) Businesses like banking, consulting and information technology that provide
+services to retail firms, (3) Manufacturing companies that sell their products through retail firms. Even
+if you don't expect to work for a retailer, this course can be useful to you in two ways. First, because
+retailers are such dominant players in many supply chains today, it is important that the processes
+they follow be understood by manufacturers and distributors, or by the consultants and bankers that
+service retailers and their suppliers. Second, the problems retailers face (e.g., making data accessible,
+interpreting large amounts of data, reducing lead-times, eliciting the best efforts from employees, and
+so forth), are shared by firms in many other industries. It's easier to understand these issues through
+case studies in retailing because we all experience the industry as consumers and can readily relate
+to chronic problems such as stock outs and markdowns.
+The course will be highly interactive, using case discussions in more than half of the classes and
+including senior retail executives in a number of the class sessions.
+399. Supervised Study. (C) 1 c.u. By appointment
+Decision science majors read and report on a bibliography of works in their field of specialization
+provided by a faculty member.
+412. Intro to Computer Programming.. (C)
+415. (IPD 515, MEAM415) Product Design.
+This course provides tools and methods for creating new products. The course is intended for students
+with a strong career interest in new product development , entrepreneurship, and/or technology
+development. The course follows an overall product design methodology, including the identification of
+customer needs, generation of product concepts, prototyping, and design-for-manufacturing. Weekly
+student assignments are focused on the design of a new product and culminate in the creation of a
+prototype. The course is open to juniors and seniors in SEAS or Wharton.
+416. (IPD 517) Design and Development of Web-Based Products and Services.
+In this course, students will study innovation and new product development in the context of Webbased products and services. This course lies at the intersection of product design and information
+technology; it is intended for students with general interests in the design of new products and/or
+information technology management. The course builds from a general product design methodology.
+For example, students begin with opportunity identification and analysis of user needs. However, the
+course also extends principles and practices used in innovation and new product development to
+information technologies in general and the Web in particular. For example, design-for-manufacturing
+is addressed with open-source software and Web services. Robust Engineering and Design of
+Experiments is applied to paper prototyping and server log analysis. The course is an interdisciplinary,
+integrative project-based course. Through weekly assignments, students apply the tools and
+techniques to the design of a new product, culminating in the initial roll-out of a working service. The
+course is open to juniors and seniors in SEAS or Wharton
+
+Page 6 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+469. Information Strategy and Economics. (C)
+The course is devoted to the study of the strategic use of information and the related role of
+information technology. The topics of the course vary year to year, but generally include current issues
+in selling digital products, intermediation, and disintermediation, designing and competing in electronic
+markets, outsourcing, and technology project management. Heavy emphasis is placed on utilizing
+information economics to analyze new and existing businesses in information-intensive industries.
+Technology skills are not required, although a background in information technology management
+(equivalent to OPIM210), strategic management or managerial economics is helpful.
+611. Quality and Productivity. (A)
+Matching supply with demand is an enormous challenge for firms: excess supply is too costly,
+inadequate supply irritates customers. In the course, we will explore how firms can better organize
+their operations so that they more effectively align their supply with the demand for their products and
+services. Throughout the course, we illustrate mathematical analysis applied to real operational
+challenges--we seek rigor and relevance. Our aim is to provide both tactical knowledge and high-level
+insights needed by general managers and management consultants. We will demonstrate that
+companies can use (and have used) the principles from this course to significantly enhance their
+competitiveness.
+612. Business Analytics. (B)
+"Managing the Productive Core: Business Analytics" is a course on business analytics tools and their
+application to management problems. Its main topics are optimization, decision making under
+uncertainty, and simulation. The emphasis is on business analytics tools that are widely used in
+diverse industries and functional areas, including operations, finance, accounting, and marketing.
+621. Decision Models and Uncertainty. (A) Lecture and discussion, with case studies and problem
+assignments.
+The applicability and use of management science models have increased dramatically in recent years
+due to the extraordinary improvements in computer, information, and communication technologies.
+Personal computers and friendly interfaces have become effective "delivery vehicles" for powerful
+decision models that were once the exclusive province of experts. This core course in management
+sicnece has a twofold purpose. First, it seeks to introduce simple models and ideas that provide
+powerful (and oftentimes surprising) qualitative insights about a large spectrum of managerial
+problems. Its main topics include linear and integer programming, decision making under uncertainty,
+and simulation. Second, it aims to give a feeling for the kinds of problems that can be tackled
+quantitatively, the methods and software available for doing so and the difficulties involved in gathering
+the relevant data. the emphasis is on models that are widely used in diverse industries and functions
+areas, including finance, operations, accounting, and marketing.
+613. Managing the Productive Core of the Firm: Information and Business Transformation. (B)
+Information technology has transformed many industries, including media, financial services, and
+retailing, among others. These technologies ahve changed not only how we produce services (e.g.,
+outsourcing and offshoring, and their newest extension, cloud computing) but what services we offer
+(virtual experiences, online advertising, long tail products and services, and social networking). The
+purpose of this course is to improve understanding of how information technologies enable
+transformation of business models within existing organizations as well as the development of
+completely new business models and new organizational forms. The course will serve as an
+introductory course on information technologies and will serve as a foundation on which students can
+explore more advanced technology concepts.
+
+Page 7 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+614. Innovation. (A)
+The course is first and foremost an intensive, integrative, project course in which student teams create
+one or more real businesses. Some businesses spun out of the course and now managed by alumni
+include Terrapass Inc. and Smatchy Inc. The project experience is and exciting context in which to
+learn key tools and fundamentals useful in innovation, problem solving, and design. Examples of these
+tools and fundamentals are: problem definition, identification of opportunities, generating alternatives,
+selecting among alternatives, principles of data graphics, and managing innovation pipelines. The
+course requires a commitment of at least 10 hours of work outside of class and comfort working on
+unstructured, interdisciplinary problems. Students with a strong interest in innovation and
+entrepreneurship are particularly encouraged to enroll. Please read carefully the syllabus posted online before registering for this course.
+615. Operations Strategy. (B)
+Operations strategy is about organizing people and resources to gain a competitive advantage in the
+delivery of products (both goods and services) to customers. This course approaches this challenge
+primarily from two perspectives: 1) how should a firm design their products so that they can be
+profitably offered; 2) how can a firm best organize and acquire resources to deliver its portfolio of
+products to customers. To be able to make intelligent decisions regarding these high-level choices, this
+course also provides a foundation of analytical methods. These methods give students a conceptual
+framekwork for understanding the linkage between how a firm manages its supply and how well that
+supply matches the firm's resulting demand. Specific course topics include designing service systems,
+managing inventory and product variety, capacity planning, approaches to sourcing and supplier
+management, constructing global supply chains, managing sustainability initiatives, and revenue
+management. This course emphasizes both quantitative tools and qualitative frameworks. Neither is
+more important than the other.
+632. (LAW 517) Operations Management: Supply Chain Management. (B) Lectures, cases, class
+discussions.
+Matching supply with demand is a primary challenge for a firm: excess supply is too costly, inadequate
+supply irritates customers. Matching supply to demand is easiest when a firm has a flexible supply
+process, but flexibility is generally expensive. In this course we wll 1) learn how to assess the
+apprppriate level of supply flexibility for a given industry and 2) explore stategies for economically
+increasing a firm's supply flexibility. While tactical models and decisions are part of this course, the
+emphasis is on the qualitative insights needed by general managers or management consultants. We
+will demonstrate that companies can use (and have used) the principles from this course to
+significantly enhance their competitiveness.
+Inactive
+640. (LGST640) Digital Game Design Techniques for Business: Rules, Incentives, Applications.
+(C) Werbach, Hunter.Prerequisite(s): none.
+Why can't work be fun? Leading firms are engaging in the practice of gamification, using the
+techniques of digital game designers to serve objectives as varied as marketing, human resources
+management, productivity enhancement, training, innovation, and customer engagement. This course
+will examine the mechanism of gamification and provide an understanding of their effective use in the
+modern firm. Cross-listed with LGST 640.
+The course will draw upon interdisciplinary source material as well as real-world case studies and
+production game environments to identify effective analytical models, strategies, techniques, and
+metrics for the application of games to business. It will also identify a number of significant pitfalls to
+the successful implementation of gamification techniques, notably legal and ethical issues, the
+difficulty of making things fun, and the problems with implementaing radical change in established
+firms. The course will include both in-person meetings and web-based online sessions.
+
+Page 8 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+654. Product Design and Development. (B) Staff. Lectures, case and problem analyses, group
+presentations, the development of a new product to the prototype stage.
+The course provides the student with a number of tools and concepts necessary for creating and
+managing product development processes.The course consists of two interwoven parts. First, it
+presents the basic steps that are necessary for moving from a "cool idea" to a product sufficiently
+mature to launch an entrepreneurial start-up. This includes cases, lectures, and exercises on topics
+like identifying customer needs, developing a product concept as well as effective prototyping
+strategies. The capstone of this first part is a real project in which student teams conceptualize and
+develop a new product or service up to the completion of a fully functional prototype.
+Second, the course discusses a number of challenges related to product development as
+encountered by management consultants, members of cross-functional development teams as well as
+general managers. We will analyze several cases related to, among others, resource allocation in R&D
+organizations, organizational forms of product development teams, as well as managing development
+projects across large geographic distances.
+652. Advanced Management Science: Models and Applications. (M) Prerequisite(s): OPIM 621.
+This course will cover applications of decision models to managerial problems in a variety of business
+functions. The course will use management science techniques such as mathematical programming
+(LP/IP/NLP), Monte-Carlo simulation, decision trees, probability theory and statistical analysis as the
+vehicle for applying diverse management theories to real-world problems. Potential in-class
+applications include product-line selection, risk management, corporate real options, and supply-chain
+restructuring. The course will emphasize the practical application of these techniques; problems will be
+solved using popular packages such as Excel, and Crystal Ball.
+653. (OIDD353) Mathematical Modeling and its Application in Finance. (C) Tsoukalas.Prerequisite
+(s): Either OPIM321 or OPIM612 (or a similar optimization class).
+Quantitative methods have become fundamental tools in the analysis and planning of financial
+operations. There are many reasons for this development: the emergence of a whole range of new
+complex financial instruments, innovations in securitization, the increased globalization of the financial
+markets, the proliferation of information technology and the rise of high-frequency traders, etc. In this
+course, models for hedging, asset allocation, and multi-period portfolio planning are developed,
+implemented, and tested. In addition, pricing models for options, bonds, mortgage-backed securities,
+and other derivatives are studied. The models typically require the tools of statistics, optimization, and/
+or simulation, and they are implemented in spreadsheets or a high-level modeling environment,
+MATLAB. This course is quantitative and will require extensive computer use. The course is intended
+for students who have strong interest in finance. The objective is to provide students the necessary
+practical tools they will require should they choose to join the financial services industry, particularly in
+roles such as: derivatives, quantitative trading, portfolio management, structuring, financial
+engineering, risk management, etc. Prospective students should be comfortable with quantitative
+methods
+quantitative methods, such as basic statistics and the methodologies (mathematical programming
+and simulation) taught in OPIM612 Business Analytics or OPIM321 Management Science (or
+equivalent). Students should seek permission from the instructor if the background requirements are
+not met.
+655. (MKTG655) Operations, Marketing, and Design Integration. (B) Staff.Prerequisite(s): MKTG
+621, MKTG 622, OPIM 631, OPIM 632. Crosslisted with MKTG 655
+This course covers topics that span marketing and operations management. Students will examine
+issues and decisions that require significant coordination between managers in marketing and
+operations. Topics include channel management, supply chain design, product variety management
+and service operations pricing and control.
+
+Page 9 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+656. (ESE 522) Operations Strategy. (C) Staff.Prerequisite(s): OPIM 621, OPIM 631, and OPIM 632
+or equivalent. Crosslisted with ESE 522
+This course examines how organizations can develop and leverage excellence in process
+management. The first module focuses on operations strategy. In these classes, we examine what
+constitues an operation strategy and how organizations can create value by managing complexity,
+incertainty, and product development. In the second half of the course, we discuss recent
+developments in both manufacturing and service industries. Specifically, we examine initiatives in
+quality, lean manufacturing and enterprise-wide planning systems. The course is recommended for
+those interested in consulting or operations careers, as well as students with an engineering
+backround who wish to develop a better understandingof managing production processes.
+664. Database and Information Management Systems. (C) Staff.
+Data and information are critical to the modern organization. Whether used in knowledge
+management, business intelligence, enterprise resource planning (ERP), product design, marketing,
+personalization and other aspects of managing customer relationships (CRM), the underlying
+principles of data management are the same. This course aims to provide a practical introduction to
+the fundamental principles. Examples and exercises will cover the relational database tools at the core
+of ERP, CRM, and on-line exchanges and portals. However, the course will also use the same basic
+foundations to consider emerging technologies and standards such as XML, ebXML, UDDI, etc.
+Inactive
+658. Service Operations Management. (C) Staff.Prerequisite(s): Courses in operations
+management, linear programming, probability and statistics.
+The service sector represents the largest segment of most industrial economies. In the U.S., for
+example, it accounts for approximately 70% of GDP and 70% of employment. In addition to this "pure"
+service sector, the operations and competitive positions of many manufacturing firms are becoming
+increasingly service-oriented. While operational excellence is critical for success in most industries
+today, in a wide range of service industries this is particularly true. For example, recent, significant
+deregulation in banking, health care, and communications has led to intensified competition and
+pressure on operations. At the same time, the rapid evolution of information technology has enabled
+firms to operate in a fashion - and offer a level of service - that has not been previously possible.
+Elements common to most services make the management of their operations complex, however. In
+particular, services are intangible, not storable or transportable, and often highly variable. Frequently
+their delivery involves distributed operations with a significant amount of customer contact. All of these
+factors make service opertions end up looking quite a bit different than manufacturing operations, and
+the task of achieving excellence in them requires specialized analysis frameworks and tools.
+This course covers a mix of qalitative and quantitative models that provide the necessary tools. The
+class will focus on simple models that should help you to better understand both the difficulty of
+managing and the underlying economics of the service operations being considered. You will have the
+opportunity to apply these course tools in a group service assessment field project.
+659. Advanced Topics in Quantitative Methods and Operations Management. (C)
+Staff.Prerequisite(s): OPIM 631 and OPIM 632.
+The specific content of this course varies from semester to semester, depending on student and
+faculty interest. Recent topics have included global operations, product design and development,
+quality management, and logistics strategy. See department for course description.
+Inactive
+
+Page 10 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+662. (OIDD314) Enabling Technologies. Lectures, discussions, assignments and class participation.
+This course is about understanding emerging technology enablers with a goal of stimulating thinking
+on new applications for commerce. No prerequisite or technical background is assumed. The class is
+self-contained (mainly lecture-based) and will culminate in a class-driven identification of novel
+businesses that exploit these enablers.
+No prerequisite or technical background is assumed. Students with little prior technical background
+can use the course to become more technologically informed. Those with moderate to advanced
+technical background may find the course a useful survey of emerging technologies. The course is
+recommended for students interested in careers in consulting, investement banking and venture
+capital in the tech sector.
+665. Operations Management in Health Care. Faculty.Prerequisite(s): OPIM 631.
+In an era where health care systems around the world face rapidly rising costs and quality issues,
+organizations large and small are looking into the operational side of health care for solutions.
+Likewise, the abundance of unfulfilled needs in the health care marketplace has led to an array of
+technology ventures with innovative new products and services. In this course, we apply the tools of
+operations management to analyze the health care value chain. The course consists of four modules:
+(1) the management of productivity, quality, and variability by care providers, (2) capacity and
+investment decisions under uncertainty confronting pharmaceuticals, (3) the design of health
+insurance by health plans and the determination of health benefits by employers, and (4) business
+ideas and operations models from the intersection of academic research and technology ventures.
+Students will learn from case discussions, hands-on decision tools, and several distinguished
+speakers and alumni from Stanford Hospital & Clinics, Merck, U.S. Naval Academy, and Deloitte
+Consulting. No prior exposure to the health care industry is assumed. The course prepares students
+for several career paths including consulting, operations management, and health care administration
+and is open to both first- and second-year MBA students.
+669. Advanced Topics in Information Strategy. (B) Staff.
+The capstone course for the MBA major "Information Strategy, Systems, & Economics," OPIM 669
+covers essential topics in information strategy - such as pricing of information goods; competing in
+electronic markets; market transparency and search issues; information-intensive strategies; IT
+outsourcing; and software project management - that have high impact on 21st-century business but
+are not typically covered in other Wharton courses.
+Inactive
+672. (OIDD410) Decision Support Systems. (C) Staff. Lectures and discussions, written
+assignments, projects using software packagesto build models.
+The past few years have seen an explosion in the amount of data collected by businesses and have
+witnessed enabling technologies such as database systems, client-server computing and artificial
+intelligence reach industrial strength. These trends have spawned a new breed of systems that can
+support the extraction of useful information from large quantities of data. Understanding the power and
+limitations of these emerging technologies can provide managers and information systems
+professionals new approaches to support the task of solving hard business problems. This course will
+provide an overview of these techniques (such as genetic algorithms, neural networks, and decision
+trees) and discuss applications such as fraud detection, customer segmentation, trading, marketing
+strategies and customer support via cases and real datasets.
+
+Page 11 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+670. Special topics in Information Systems: Simulation and Dynamic Competitive Strategy. (M)
+This course introduces tools and techniques for modeling dynamic competitive strategies - strategies
+that evolve over time as you and competitors take actions in response to each other and to changes in
+the competitive environment. This goes beyond case discussions and approximates the rigor of
+theoretical or game theoretical analyses, even for problems for which no traditional analytical solutions
+exist. Students of the course will learn to model business environments and design simulators with the
+goal of gaining insight and designing policies for strategy implementation. Students will develop
+understanding of the timing and sequencing of the actions required, as well as understanding how to
+modify strategies on the fly based on changing conditions or objectives. Students are introduced to
+state of the art software for general purpose business modeling and simulation.
+Inactive
+673. Global Supply Chain Mgmt..
+Several forces, ranging from technology that has dramatically reduced the cost of communication, to
+political developments such as the opening up of China, Vietnam, and Eastern Europe, have created
+an avalanche of outsourcing and offshoring and lead to supply chains that stretch halfway around the
+world. This course will study the many questions that arise in the management of such global supply
+chains, including: Which design and production activities to do in-house and which to outsource?
+Where to locate various activities around the world? How to forecast the many factors that influence
+these decisions, including inflation in cost factors such as labor and freight, and the likelihood of future
+government regulation or political instability? How to keep the supply chain flexible so as to adapt to
+change? How to manage a geographically disbursed supply chain, including what relationships to
+have with vendors to ensure low cost, high quality, flexibility, safety, humane labor practices and
+respect for sustainability of the environment? The course is highly interactive, using case discussions
+in most classes and senior supply chain executives in many sessions. Grades are based one-third
+each on class participation, indivudla write-ups of the discussion questions for 3 of the class sessions,
+and a course paper.
+676. Electronic Markets: Structures, Market Mechanisms and IT Enabled Strategies. Prerequisite
+(s): MGEC 621 is recommended.
+This course deals with Electronic Markets and Market structures and the strategic uses of information
+within the firm. The course consists of four related modules on the design and functioning of Business
+to Business markets, use of technology to source services from global providers - i.e., outsourcing of
+business processes (as opposed to IT), the use of strategic technological platforms such as CRM and
+Web Services and the technology-enabled precision pricing techniques. Further, students are exposed
+to strategy formulation and execution in an online market where they compete both against each other
+and against (electronic) agents. This course is recommended for students interested in a career in
+consulting, strategic management and to students interested in information technology related
+professions. The course will be delivered through a mix of lectures, case discussions and hands-on
+trading in virtual markets using different market mechanisms. The course Web cafe will be used for
+discussions and responses from instructor and TA. We do not assume or require any specific technical
+knowledge.
+Workings of electronic markets and market mechanisms and how IT can enable the formulation of
+new strategies and empower firms to define new markets in ways that were not possible until recently.
+This is an advanced elective that covers several essential topics in information strategy - IT and
+market structure, impact of IT on knowledge-intensive products and services and creating hybrid
+markets that span multiple channels. Students will compete in simulated electronic markets, using
+different market mechanisms and formulate information-based strategies. Students will also study how
+IT has enabled the globalization of services through the outsourcing of processes (BPO) and how
+quasi market structures which combine elements of organization and markets are emerging in
+knowledge-intensive service industries.
+
+Page 12 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+690. (MGMT690) Managerial Decision Making. (C) Staff. Crosslisted with MGMT 690.
+The course is built around lectures reviewing multiple empirical studies, class discussion,and a few
+cases. Depending on the instructor, grading is determined by some combination of short written
+assignments, tests, class participation and a final project (see each instructor's syllabus for details).
+698. (OIDD398) Value Netwoks. (M) Staff.
+This is a project-based course run in a seminar format to explore current trends and opportunities for
+integration and coordination in IT-enabled value-chain networks. The curriculum is structured around a
+live case; students will work in teams to synthesize data from the live case and evaluate possible
+operational strategies and IT enablers in the context of a real, on-going business restructuring
+decision. Students will review a set of operations strategies affecting production, fulfillment,
+procurement product design, and support that may prove relevant e.g. Postponement, Mass
+Customization, Customer Service Differentiation, Buyer/Supplier Coordination. We also consider
+functionality that underlies relevant information technologies like Enterprise Resource Planning (ERP)
+or Customer Relationship Management (CRM), e.g. data integration, information quality, and security.
+Finally, we invite different vendors into the class to provide students with the opportunity to compare
+and contrast state-of-the-art IT and Operations Management solutions.
+Inactive
+691. (LGST806, MGMT691, OIDD291) Negotiations. (C) Staff.Prerequisite(s): STAT 621,OPIM 621.
+Crosslisted with LGST 806, MGMT 691. Lectures, cases, presentations, and written assignments.
+Negotiation is the art and science of creating good agreements. In this course we will work on both,
+studying economics and psychology for the science, and practicing actual negotiations for the art.
+Throughout we think of negotiation in general terms, relevant not only to salary negotiations and home
+buying, but performance evaluations, speeches, group collaborations and interpersonal relationships.
+We practice these kinds of negotiations in 2-, 3-, 4-, and 6-person exercises. Potential reasons to skip
+this particular negotiation course: 1) We have a strong attendance policy, 2) We have strong nocomputers/phones policies, 3) the course is very discussion oriented, 4) We survey your work
+colleagues about your influence tactics, and 5) you have a short assignment due almost every class.
+Beginning with the second week of class, if you miss one class you lose a letter grade. If you miss two
+classes you fail. We have this policy because it is an experiential class, and because your attendance
+directly affects classmates you are paired with. For some weeks you can attend another section if
+necessary. Cross-listed with MGMT691 and LGST806.
+693. (LGST693) INFLUENCE. (C)
+697. (OIDD397) Retail Supply Chain Management. (C) Lectures, case discussion, guest speakers.
+Class participation, papers, and a team report.
+This course is highly recommended for students with an interest in pursuing careers in: (1) retailing
+and retail supply chains; (2) businesses like banking, consulting, information technology, that provides
+services to retail firms; (3) manufacturing companies (e.g. P&G) that sell their products through retail
+firms. Retailing is a huge industry that has consistently been an incubator for new business concepts.
+This course will examine how retailers understand their customers' preferences and respond with
+appropriate products through effective supply chain management. Supply chain management is vitally
+important for retailers and has been noted as the source of success for many retailers such as Walmart and Home Depot, and as an inhibitor of success for e-tailers as they struggle with delivery
+reliability. See M. L. Fisher, A. Raman and A. McClelland, "Rocket Science Retailing is Coming - Are
+You Ready?," Harvard Business Review, July/August 2000 for related research.
+
+Page 13 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+761. (BEPP261, BEPP761, BEPP961, OIDD261) Risk Analysis and Environmental Management.
+(C) Staff. Cross listed with OPIM 261, BPUB 261, 761, 961, and ESE 567
+This course is designed to introduce students to the role of risk assessment, risk perception and risk
+management in dealing with uncertain health, safety and environmental risks including the threat of
+terrorism. It explores the role of decision analysis as well as the use of scenarios for dealing with these
+problems. The course will evaluate the role of policy tools such as risk communication, economic
+incentives, insurance, regulation and private-public partnerships in developing strategies for managing
+these risks. A project will enable students to apply the concepts discussed in the course to a concrete
+problem. Cross-listed with BPUB 761.
+762. Environmental Sustainability and Value Creation. (C) Staff. MBA mini elective.This course is
+one of the set of mini-elective courses satisfying the core requirement. Lecture and discussion
+including guest speakers. Class discussion, presentations, and final project.
+This course approaches environmental issues, and sustainable development more largely, from the
+standpoint of business. It emphasizes the trends in corporate practices and uses case studies to
+examine the interactions between the environment and the firm. Value creation focuses on new
+innovative services and financial products in this fast growing sphere. This course has three objectives:
+to increase your knowledge as future top decision makers on key environmental questions; to
+recognize environmental concerns as competitive opportunities; to teach students to think strategically
+and act entrepreneurially on environmental issues. You will leave the class with a tool-kit for action.
+763. (BEPP763) ENERGY MARKETS & POLICY.
+898. Advanced Topics. (M)
+900. (PSYC608) Foundations of Decision Processes. (C) Staff.Prerequisite(s): STAT 510 or 550.
+The course is an introduction to research on normative, descriptive and prescriptive models of
+judgement and choice under uncertainty. We will be studying the underlying theory of decision
+processes as well as applications in individual group and organizational choice. Guest speakers will
+relate the concepts of decision processes and behavioral economics to applied problems in their area
+of expertise. As part of the course there will be a theoretical or empirical term paper on the application
+of decision processes to each student's particular area of interest.
+913. Advanced Linear Programming. (M) Prerequisite(s): OPIM 910/ESE504 or equivalent.
+In-depth study of the theory and algorithms related to the solution of linear programming problems.
+Optimality conditions, duality and sensitivity analysis. Primal and dual simplex methods. Interior point
+methods. Large-scale optimization. Dantzig-Wolfe decomposition.
+904. (BEPP904) Experimental Economics. (M) Staff.Prerequisite(s): OPIM900 or permission of the
+instructor.
+Many theories in economics can be tested usefully in experiments in which researchers control
+parameters that are uncontrolled in natural settings. This course presents the theory of the
+experimental method and validity along with several examples of experimental testing: simple
+competitive equilibrium, intertemporal competitive equilibrium, asset markets, futures markets,
+bargaining models, tournaments, reputation-building in repeated games, etc.
+SM 906. Proseminar in Operations and Information Management. (M) Staff.
+
+Page 14 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+910. (ESE 504) Concepts of Math Programming. (A) Staff. Crosslisted w/ ESE 504.
+Introduction to mathematical programming for PhD students who would like to be intelligent and
+sophisticated consumers of mathematical programming theory but do not plan to specialize in this
+area. Integer and nonlinear programming are covered, including the fundamentals of each area
+together with a sense of the state-of-the-art and expected directions of future progress.
+914. Advanced Non-Linear Programming. (M) Staff.Prerequisite(s): OPIM910 or equivalent.
+Convex sets and functions. Tangent cones. Polar cones. Optimality conditions and duality theory.
+Methods for unconstrained and constrained optimization. Interior and exterior penalty methods.
+Lagrangean and augmented Lagrangean methods.
+915. Advanced Graph Theory. (M) Staff.Prerequisite(s): OPIM910 / ESE504 or equivalent.
+Deals mainly with algorithmic and computational aspects of graph theory. Topics and problems include
+reachability and connectivity, setcovering, graph coloring, location of centers, location of medians,
+trees, shortest path, circuits, traveling salesman problem, network flows, matching, transportation, and
+assignment problems.
+916. Advanced Integer Programming. (M) Staff.Prerequisite(s): OPIM 910 or equivalent.
+In-depth review of solution methods: Lagrangean relaxation and column generation, Benders
+partitioning, cross-decomposition, surrogate relaxation, cutting planes and valid inequalities, logical
+processing, probing, branch-and-bound, branch-and-price. Study of special problems and applications:
+matching, location, generalized assignment, traveling salesman, forest planning, production
+scheduling.
+920. Empirical Research in Operations Management.
+Empirical research in Operations Management has been repeatedly called for over the last 10-15
+years, including calls made from the academic thought leaders in the field as well as by many of the
+editors of the top academic journals. Remarkably though, most researchers in the field would be
+pressed to name even three empirical papers published in such journals like Management Science or
+Operations Research. But, has there really been so little published related to empirical Operations
+Management (you might be surprised to learn that all five bullets listed above has been addressed by
+Management Science papers)? What types of problems in operations are interesting and worthwhile
+studying from an empirical viewpoint? How can one get started with an empirical research project in
+Operations Management? These are the questions that are at the heart of this course.
+Specifically, the objective of this course is to (a) expose doctoral students to the existing empirical
+literature and (b) to provide them with the training required to engage in an empirical study
+themselves.
+930. Stochastic Models. (A) Staff.Prerequisite(s): STAT510 or 550 or equivalent.
+This course introduces mathematical models describing and analyzing the behavior of processes that
+exhibit random components. The theory of stochastic processes will be developed based on
+elementary probability theory and calculus. Topics include random walks, Poisson processes, Markov
+chains in discrete and continuous time, renewal theory, and martingales. Applications from the areas
+of inventory, production, finance, queueing and communication systems will be presented throughout
+the course.
+
+Page 15 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+931. (STAT901) Stochastic Processes ll. (B) Staff.Prerequisite(s): OPIM930. Crosslisted with STAT
+901
+Extension of the material presented in OPIM930 to include renewal theory, martingales, and Brownian
+motion.
+932. Queuing Theory. (J) Staff.Prerequisite(s): OPIM930 and OPIM931.
+This course presents the mathematical foundations for the analysis of queueing systems. We will study
+general results like Little's law and the PASTA property. We will analyze standard queueing systems
+(Markovian systems and variations thereof) and simple queueing networks, investigate infinite server
+models and many server approximations, study GI/G/1 queues through random walk approximations,
+and read papers on applied queueing models.
+934. Dynamic Programming and Stochastic Models. (B) Staff.Prerequisite(s): OPIM930.
+The course goal is to provide a brief but fairly rigorous introduction to the formulation and solution of
+dynamic programs. Its focus is primarily methodological. We will cover discrete state space problems,
+over finite or infinite time horizon, with and without discounting. Structured policies and their theoretical
+foundation will be of particular interest. Computational methods and approximation methods will be
+addressed. Applications are presented throughout the course, such as inventory policies, production
+control, financial decisions, and scheduling.
+940. Operations Management. (C) Staff. Crosslisted with ESE 620
+Concepts, models, and theories relevant to the management of the processes required to provide
+goods or services to consumers in both the public and private sectors. Includes production, inventory
+and distribution functions, scheduling of service or manufacturing activities, facility capacity planning
+and design, location analysis, product design and choice of technology. The methodological basis for
+the course includes management science, economic theory,organization theory, and management
+information system theory.
+941. Distribution Systems Seminar. (B) Staff.Prerequisite(s): OPIM940.
+Seminar on distribution systems models and theory. Reviews current research in the development and
+solution of models of distribution systems. Emphasizes multi-echelon inventory control, logistics
+management, network design, and competitive models.
+943. Retail Operations..
+950. Perspectives on Information Systems. (C) Staff.
+Provides doctoral students in Operations and Information Management and other related fields with a
+perspective on modern information system methodologies, technologies, and practices. State-of-theart research on frameworks for analysis, design, and inplementation of various types of information
+systems is presented. Students successfully completing the course should have the skills necessary to
+specify and implement an information system to support a decision process.
+
+Page 16 of 17
+
+OPERATIONS,INFORMATION AND DECISIONS
+(WH) {OIDD}
+SM 951. Seminar on Logic Modeling. (M) Staff.Prerequisite(s): Permission of the instructor and
+some prior knowledge of logic or Prolog.
+Seminar on the elements of formal logic necessary to read and contribute to the Logic modeling
+literature, as well as the implementation principles for logic models. The primary topics include
+elements of sentence and predicate logic, elements of modal logics, elements of semantics,
+mechanical theorem proving, logic and database, nonmonotonic reasoning, planning and the frame
+problem, logic programming, and metainterpreters.
+SM 952. Computational Game Theory. (M) Staff.Prerequisite(s): Permission of instructor and
+knowledge of logic and Prolog or Lisp.
+Seminar on principles of knowledge-based systems including expert systems. Topics include basics of
+expert systems, knowledge representation, meta-level reasoning, causal reasoning, truth maintenance
+systems, model management, planning systems and other applications.
+955. Research Seminar in Information Systems.
+This course provides an overview of some of the key Information Systems literature from the
+perspective of Insormation Strategy and Economics (ISE) and Information Decision Technologies
+(IDT). This course is intended to provide an introduction for first year OPIM doctoral students, as well
+as other Wharton doctoral students, to important core research topics and methods in ISE and IDT in
+order for students to do research in the field of Information Systems. While it is intended as a "first
+course" for OPIM doctoral students in ISE and IDT, it may also be useful for students who are engaged
+in research or plan to perform information technology related research in other disciplines.
+960. Research Seminar in Information Technology - Economic Perspectives. (A)
+Explores economic issues related to information technology, with emphasis on research in
+organizational or strategic settings. The course will follow a seminar format, with dynamically assigned
+readings and strong student contribution during class sessions (both as participant and, for one class,
+as moderator.)
+961. Research Seminar in Information: Strategy, Systems and Economics.
+This is the advanced doctoral-level research research in information strategy and economics that
+builds on the foundations developed in OPIM960. Much of the content will be focused on current
+research areas in information strategy such as the information and organizational economics,
+information technology and firm performance, search cost and pricing, information and incentives,
+coordination costs and the boundary of the firm, and the economics of information goods (including
+pricing and intellectual property protection). In addition, promising empirical approaches such as the
+use of intelligent agents for data collection or clickstream data analysis will be discussed.
+992. Conflict Mgmt Seminar. (B)
+
+Page 17 of 17
+
+

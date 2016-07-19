@@ -1,0 +1,701 @@
+ARCHITECTURE
+(FA) {ARCH}
+
+UNDERGRADUATE COURSES
+Freshman Seminar
+SM 111. Architecture in the Anthropocene. (A) Barber.
+This course will use architecture and the built environmental as a lens to investigate the emerging field
+of the environmental humanities. Our goal will be to analyze and understand these new intellectual
+frameworks in order to consider the relationship between global environmental challenges and the
+process of constructing the built environment. As such, we will oscillate between social and political
+theory, environmental history, and architectural history and theory. Issues of importance will include:
+theories of risk, the role of nature in political conflicts; images, design and environmental
+communication; and the relationship between speculative design and other narratives of the future.
+These conceptual frameworks will be read alongside examples of related creative projects in art,
+literature, and architecture, and will be amplified through presentations and discussions with studio
+faculty and other visitors to the course.
+SM 112. Villa Gardens and Villa Life. (B) Giannetto.
+This seminar will study the idea of villeggiature (villa life) and the ideology associated with countryside
+gardens and plantations. In an examination of the circularity of villa ideology across the centuries,
+other themes will emerge that address the relationship between urban and rural life, between
+architecture and natural environment and between social, cultural, economic, and political forces and
+landscape design. These themes will be explored through the study of selected villas and through the
+reading of sources drawn from villa literature, including architectural and agricultural treatises,
+epistolary exchanges, and drawings.
+
+Design Studios
+L/R 102. Introduction to Design. (B) Faculty.
+An exploration of the design process utilizing drawing and model-making techniques. Skills of
+representation and fabrication are introduced in the context of the development of each student's
+capacity to observe, interpret, and translate design concepts into physical form. The course includes a
+weekly lecture and a biweekly studio component.
+201. Design Fundamentals I. (A) Faculty.Prerequisite(s): ARCH 102.
+This studio course develops drawing and model-making skills with emphasis on digital representation
+and digital fabrication. The capacity of nature-inspired design is explored as a foundation for the
+creative production of new forms of expression.
+202. Design Fundamentals II. (B) Faculty.Prerequisite(s): ARCH 201.
+A studio course exploring the relationship between two-dimensional images and three-dimensional
+digital and physical models. This studio course develops advanced techniques in digital representation
+and fabrication through an investigation of the theme of inhabitation in architecture.
+
+Page 1 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+301. Design I. (A) Faculty.Prerequisite(s): ARCH 202.
+An introduction to the design of architecture in the city. Students explore the relationships between
+two- dimensional patterns and their corresponding three-dimensional interpretations through the
+orthographic drawings of plan, section, and elevation and three-dimensional digital and physical
+models.
+302. Design II. (B) Faculty.Prerequisite(s): ARCH 301. Corequisite(s): ARCH 312.
+An introduction to the design of architecture in the landscape. Issues of mapping, placement, scale,
+and construction are explored through studio design projects, site visits, and discussions. Course work
+focuses on the preparation and presentation of design projects emphasizing analytical skills along with
+the development of imaginative invention and judgment.
+401. Advanced Design. (A) Faculty.Prerequisite(s): ARCH 302. Corequisite(s): ARCH 411.
+Content and technique are explored in this studio course through the vehicle of a design project
+focused on the development of a critical understanding of geometries and mathematics in the
+representation and fabrication of contemporary architecture.
+
+Theory Courses
+L/R 312. Topics in Theory I. (B) Faculty. Corequisite(s): ARCH 302.
+This course examines the development of modern architecture in the early-twentieth century. Case
+studies and selected texts are used to explore how modern architecture responded to the challenges
+of the Industrial Revolution and social modernization.
+L/R 411. Topics in Theory II. (A) Faculty.Prerequisite(s): ARCH 312. Corequisite(s): ARCH 401.
+This course examines the development of geometries in modern architecture. Primary and secondary
+texts are used to explore the origin and evolution of geometrical thinking in architecture.
+
+Technology Courses
+431. (ARCH531) Construction I. (A) Faculty.
+Course explores basic principles and concepts of architectural technology and describes the
+interrelated nature of structure, construction and environmental systems. Open to Intensive Majors
+only.
+432. (ARCH532) Construction II. (B) Faculty.Prerequisite(s): ARCH 431.
+A continuation of Construction I, focusing on light and heavy steel frame construction, concrete
+construction, light and heavyweight cladding systems and systems building. Open to Intensive Majors
+only.
+433. (ARCH533) Environmental Systems I. (A) Faculty.
+An introduction to the influence of thermal and luminous phenomenon in the history and practice of
+architecture. Issues of climate, health and environmental sustainability are explored as they relate to
+architecture in its natural context. The classes include lectures, site visits and field exploration. Open to
+Intensive Majors only.
+
+Page 2 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+434. (ARCH534) Environmental Systems II. (B) Faculty.Prerequisite(s): ARCH 433.
+This course examines the environmental technologies of larger buildings, including heating,
+ventilating, air conditioning, lighting, and acoustics. Modern buildings are characterized by the use of
+such complex systems that not only have their own characteristics, but interact dynamically with one
+another and with the building skin and occupants. Questions about building size, shape, and
+construction become much more complex with the introduction of sophisticated feedback and control
+systems that radically alter their environmental behavior and resource consumption. Class meetings
+are divided between slide lectures, demonstrations, and site visits. Course work includes in-class
+exercises, homework assignments, and a comprehensive environmental assessment of a room in a
+building on campus. Open to Intensive Majors only.
+435. (ARCH535) Structures I. (A) Faculty.
+Theory applied toward structural form. A review of one-dimensional structural elements; a study of
+arches, slabs and plates, curved surface structures, lateral and dynamic loads; survey of current and
+future structural technology. The course comprises both lectures and a weekly laboratory in which
+various structural elements, systems, materials and technical principles are explored. Open to
+Intensive Majors only.
+436. (ARCH536) Structures II. (B) Faculty.Prerequisite(s): ARCH 435.
+A continuation of the equilibrium analysis of structures covered in Structures I. The study of static and
+hyperstatic systems and design of their elements. Flexural theory, elastic and plastic. Design for
+combined stresses; prestressing. The study of graphic statics and the design of trusses. The course
+comprises both lectures and a weekly laboratory in which various structural elements, systems,
+materials and technical principles are explored. Open to Intensive Design majors only.
+
+Other Courses
+303. (IPD 503) Integrated Product Design Fundamentals. (L) Wesley.
+The creation of a successful product requires the integration of design, engineering, and marketing.
+The purpose of this intensive studio course is to introduce basic concepts in the design of threedimensional products. For purposes of the course, design is understood as a creative act of synthesis
+expressed through various modes of 2-dimensional and 3-dimensional representation. The course
+develops basic design skills ranging from hand sketching to the use of digital modeling software and
+rapid prototyping. Fulfills the requirement for a design background course in the interdisciplinary
+graduate program in Integrated Product Design (IPD).
+SM 311. (ITAL311) Venice: Self-Representation, Performance, and Reception. Finotti and Fabiani
+Giannetto.
+This course focuses on the city of Venice and its elusive identity as represented in written, visual and
+built form. Structured as a series of topics and case studies (including primary visual and written
+sources; buildings and gardens) the course aims to introduce students to the material and cultural
+landscape of Venice and develop their ability to "read" the urban fabric and its unique physical context
+by identifying its various features and explaining the political, social, economic and cultural agendas
+that brought them into existence. The course includes visits to Venice, Van Pelt Library Library and the
+Philadelphia Museum of Art.
+490. Independent Study. (C) Faculty. Permission of the Undergraduate Chair.
+492. Senior Thesis. (B) Faculty.Prerequisite(s): ARCH 301. Permission of the Undergraduate Chair
+
+Page 3 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+498. Senior Honors Thesis. (B) Faculty.Prerequisite(s): ARCH 401. Permission of the Undergraduate
+Chair
+
+GRADUATE COURSES
+Summer Institutes
+793. ARCH Summer Institute: History of Architecture. (L) Faculty.
+This is a non-credit course for entering Master of Architecture students. The course will cover western
+architecture from ancient Egypt to the modern age and will satisfy the history pre-requisite condition
+for matriculation in the fall. Course fee: $750.00. Course enrollment is by permit only. Please contact
+Sarah Lam (ARCH Dept.) at sarahlam@design.upenn.edu.
+500. Summer Preparatory Design Studio. (L) Mitnick.
+The Summer Preparatory Studio offers an intensive drawing and design experience to candidates for
+admission to the Graduate Program in Architecture who have not completed the necessary design
+studio prerequisites or who are required to have additional design experience to qualify for
+matriculation into the Master of Architecture Professional Degree Program in September. Enrollment in
+this program does not count towards the Master of Architecture degree. The intent of the drawing
+component of the course is to familiarize the student with primarily black and white mediums (pencil,
+charcoal, ink, etc). Exercises are designed to sharpen the student's ability to see selectively and to
+transform image to paper through both line and tonal renditions in freehand sketch form. Exercises will
+also familiarize the student with basic drafting skills necessary for architectural communication and
+provide an introduction to computer-aided design through applications of the intensive Rhino and
+Illustrator tutorials given in the Digital Navigation course. The design part of the course presents a
+rhythm of basic three-dimensional design studies and simple architectural studio investigations.
+These are intended to build fundamental skills and acquaint the student with the architectural issues
+of form/space, conceptualization, transformation of scale, simple functional and constructional
+problems and a sensitivity to context. Course enrollment is by permit only. Please contact Sarah Lam
+(ARCH Dept.) at sarahlam@design.upenn.edu.
+791. ARCH Summer Institute: Digiblast I: Fundamentals of 3D Modeling. (L) Blasetti and Willems.
+This is a non-credit course for entering Master of Architecture students. The course will cover digital
+modeling and workflow and will prepare students for techniques used in PennDesign's 500 and 600
+level design studios. Course fee: $550.00. Note: course fees applies only to students who are NOT
+enrolled in ARCH-500, in addition to ARCH-791. Course enrollment is by permit only. Please contact
+Sarah Lam (ARCH Dept.) at sarahlam@design.upenn.edu.
+792. ARCH Summer Institute: Digiblast II: 3d Modeling and Fabrication. (L) Blasetti and Willems.
+This is a non-credit course for entering Master of Architecture students. The course will cover digital
+modeling and workflow. The course will prepare students for techniques used in PennDesign's 500
+and 600 level design studios. Course fee: $550.00. Course enrollment is by permit only. Please contact
+Sarah Lam (ARCH Dept.) at sarahlam@design.upenn.edu.
+794. ARCH Summer Institute: Physics for Architects. (L) Farley.
+This is a non-credit course for entering Master of Architecture students. The course will cover the
+following: mechanics, heat, light, sound and electricity. The course will satisfy the physics pre-requisite
+condition for matriculation in the fall. Course fee: $750.00 Course enrollment is by permit only. Please
+contact Sarah Lam (ARCH Dept.) at sarahlam@design.upenn.edu.
+
+Page 4 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+795. ARCH Summer Institute: Advanced Architectural Design Digital Workshop. (L) Blasetti and
+Willems.
+This is a non-credit course for entering Master of Science in Design: Advanced Architectural Design
+students. The Digital Methods workshop provides a comprehensive introduction to four elements
+critical to the workflow of the graduate studios at PennDesign: 3D modeling, scripting, visualization
+and fabrication. Short daily lectures situating digital technologies in contemporary design practice are
+followed by hands-on tutorials in Maya and Rhinoceros. The first half of the workshop provides an
+operative knowledge of the many geometry types, modeling techniques, scripting languages and
+simulation tools available for studio work. Visualization techniques are also introduced, and students
+will learn to efficiently produce presentation-quality renderings, animations and technical line drawings
+from digital models. Students also learn protocols transferring data between various design software
+packages and how to for create data compatible with PennDesign's digital fabrication equipment.
+Course fee: $400.00 Course enrollment is by permit only. Please contact Sarah Lam (ARCH Dept.) at
+sarahlam@design.upenn.edu.
+
+Design Studios
+501. Design Studio I. (A) Saunders and Faculty. Corequisite(s): ARCH 521.
+An introductory architectural design studio through which students develop critical, analytical and
+speculative design abilities in architecture. Students develop representational techniques for the
+analysis of social and cultural constructs, and formulate propositions for situating built form in the
+arena of the urban and suburban environment. The studio initiates innovation through a sequence of
+projects, spatial models and rule sets that introduce each student to rule-based design processes-- in
+which a reversal of expectations leads to the creation of novel spaces and structures. It introduces
+computation, geometric techniques, and digital fabrication. Projects explore the formation of space in
+relation to the body, and the developments of small scale public programs.
+502. Design Studio II. (B) Fierro and Faculty. Corequisite(s): ARCH 522.
+This studio explores urban architecture as an embodiment of cultural values. Siting, enclosure of
+space and tectonic definition are stressed in order to challenge students to project relevant and
+inventive architectural situations.
+702. Design Studio VI. (B) Rahim and Faculty.
+In the final semester of the program, students select from three options: ARCH 702, an advanced
+design studio, ARCH 704, a research studio, the exploration of a topic or theme established by an
+individual faculty member or group of faculty members; or ARCH 706, an independent design thesis,
+the exploration of a topic or theme under the supervision of a thesis advisor.
+
+Page 5 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+601. Design Studio III. (A) Jamelle and Faculty. Corequisite(s): ARCH 621.
+In this studio, students engage architecture in its role as a cultural agent and examine the way
+buildings establish and organize dynamic relationships between site, program and material. The
+design of a complex building of approximately 50,000 SF provides the pedagogical focus for this
+research. Students extend skills in geometrical organization, site analysis and building massing/
+orientation to relate to program organization, circulation and egress, building systems and materials.
+The conceptual focus centered on the program of dwelling and how this program can be employed to
+develop and promote dynamic relationships and conditions through time, both within the building and
+between the building and the context. Through research and experimentation students integrate
+ecological processes into their design methodology to support design innovations in the building's
+structure, its construction assemblies, environmental systems, and materials. Students work towards a
+high level of design resolution and visual representation, including the articulation of the building
+structure and its material assembly/enclosure.
+602. Design Studio IV. (B) Kolatan and Faculty.
+This studio enables students to develop and resolve the design of a building in terms of program,
+organization, construction and the integration of structures, enclosure and environmental systems as
+well as life safety issues. Students select from a range of individually-directed studios within this
+overall framework. Each instructor develops a different approach and project for their section of this
+studio. Studios incorporate the expertise of external consultants in advanced areas of technology,
+engineering and manufacturing.
+701. Design Studio V. (C) Rahim and Faculty.
+A set of Advanced Architectural Design studios are offered from which students select through a
+lottery. Topics and sites vary by instructor.
+704. Advanced Design:Research Studio. (B) Faculty.
+In the final semester of the program, students select from three options: 1) An elective design studio,
+selected from among the advanced architectural design studios offered by the Department of
+Architecture; 2) a research studio, the exploration of a topic or theme established by an individual
+faculty member or group of faculty members; or 3) an independent thesis, the exploration of a topic or
+theme under the supervision of a thesis advisor.
+
+Master of Architecture - Core
+L/R 511. History and Theory I. (A) Faculty.
+The first of three required courses in the history and theory of architecture, this is a lecture course with
+discussion groups that meet weekly with teaching assistants. The course explores fundamental ideas
+and models of architecture that have emerged over the past three hundred years.
+L/R 512. History and Theory II. (B) Barber.
+This course traces the emergence of contemporary issues in the field by exploring the architecture of
+the twentieth century. Buildings, projects, and texts are situated within the historical constellations of
+ideas, values, and technologies that inform them through a series of close readings. Rather than
+presenting a parade of movements or individuals, the class introduces topics as overlaying strata, with
+each new issue adding greater complexity even as previous layers retain their significance. Of
+particular interest for the course is the relationship between architecture and the organizational
+regimes of modernity.
+
+Page 6 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+521. Visual Studies I. (A) Willems. Corequisite(s): Arch 501.
+The study of analysis and projection through drawing and computer visualization
+522. Visual Studies II. (B) Willems. Corequisite(s): ARCH 502.
+A continuation of the study of analysis and projection through drawing and computer visualization.
+531. (ARCH431) Construction I. (A) Trubiano.
+Lecture course exploring the basic principles of architectural technology and building construction. The
+course is focused on building material, methods of on-site and off-site preparation, material
+assemblies, and the performance of materials. Topics discussed include load bearing masonry
+structures of small to medium size (typical row house constuction), heavy and light wood frame
+construction, sustainable construction practices, emerging + engineered materials, and integrated
+building practices. The course also introduces students to Building Information Modeling (BIM) via the
+production of construction documents.
+532. (ARCH432) Construction II. (B) Ryan.
+A continuation of Construction I, focusing on light and heavy steel frame construction, concrete
+construction, light and heavyweight cladding systems and systems building.
+533. (ARCH433) Environmental Systems I. (A) Diemer.
+An introduction to the influence of thermal and luminous phenomenon in the history and practice of
+architecture. Issues of climate, health and environmental sustainability are explored as they relate to
+architecture in its natural context. The classes include lectures, site visits and field exploration.
+L/R 611. History and Theory III. (A) Barber.
+This is the third and final required course in the history and theory of architecture. It is a lecture course
+that examines selected topics, figures, projects, and theories from the history of architecture and
+related design fields during the 20th century. The course also draws on related and parallel historical
+material from other disciplines and arts, placing architecture into a broader socio-cultural-politicaltechnological context. Seminars with teaching assistants complement the lectures.
+534. (ARCH434) Environmental Systems II. (B) Braham.
+This course examines the environmental technologies of larger buildings, including heating,
+ventilating, air conditioning, lighting, and acoustics. Modern buildings are characterized by the use of
+such complex systems that not only have their own characteristics, but interact dynamically with one
+another and with the building skin and occupants. Questions about building size, shape, and
+construction become much more complex with the introduction of sophisticated feedback and control
+systems that radically alter their environmental behavior and resource consumption. Class meetings
+are divided between slide lectures, demonstrations, and site visits. Course work includes in-class
+exercises, homework assignments, and a comprehensive environmental assessment of a room in a
+building on campus.
+535. (ARCH435) Structures I. (A) Farley. Corequisite(s): Arch 535.
+Theory applied toward structural form. A review of one-dimensional structural elements; a study of
+arches, slabs and plates, curved surface structures, lateral and dynamic loads; survey of current and
+future structural technology. The course comprises both lectures and a weekly laboratory in which
+various structural elements, systems, materials and technical principles are explored.
+
+Page 7 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+536. (ARCH436) Structures II. (B) Farley. Corequisite(s): Arch 536.
+A continuation of the equilibrium analysis of structures covered in Structures I. The study of static and
+hyperstatic systems and design of their elements. Flexural theory, elastic and plastic. Design for
+combined stresses; prestressing. The study of graphic statics and the design of trusses. The course
+comprises both lectures and a weekly laboratory in which various structural elements, systems,
+materials and technical principles are explored.
+621. Visual Studies III. (A) Hume. Corequisite(s): Arch 601.
+The final of the Visual Studies half-credit courses. Drawings are explored as visual repositories of data
+from which information can be gleaned, geometries tested, designs refined and transmitted. Salient
+strengths of various digital media programs are identified and developed through assignments that
+address the specific intentions and challenges of the design studio project.
+631. Technology Case Studies I. (A) Ryan.
+A study of the active integration of various building systems in exemplary architectural projects. To
+deepen students' understanding of the process of building, the course compares the process of
+design and construction in buildings of similar type. The course brings forward the nature of the
+relationship between architectural design and engineering systems, and highlights the crucial
+communication skills required by both the architect and the engineer.
+SM 632. Technology Desginated Elective. (B) Faculty.
+Several sections are offered from which students make a selection. This year's selections include:
+Deployable Structures, Performance and Design, Detailed Design Studies, Daylighting, Principles of
+Digi/Fab, Matter and Energy, Material and Structural Intelligence.
+SM 638. Technology Special Topics. (B) Faculty.
+Several sections are offered from which students make a selection such as: Building Acoustics;
+Building Envelopes; Building Systems; Lighting and Component Design.
+671. Professional Practice I. (A) Ryan.
+The course consists of a series of workshops that introduce students to a diverse range of practices.
+The course goal is to gain an understanding of the profession by using the project process as a
+framework. The course comprises a survey of the architectural profession - its licensing and legal
+requirements; its evolving types of practice, fees and compensation; its adherence to the constraints of
+codes and regulatory agencies, client desires and budgets; and its placeamong competing and allied
+professions and financial interests. The workshops are a critical forum for discussion to understand the
+forces which at times both impede and encourage innovation and leadership. Students learn how
+architects develop the skills necessary to effectively communicate to clients, colleagues, and user
+groups. Trends such as globalization, ethics, entrepreneurship, sustainability issues and technology
+shifts are analyzed in their capacity to affect the practice of an architect.
+
+Page 8 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+672. Professional Practice II. (B) Capaldi.
+A continuation of ARCH 671. Further study of the organizational structures of architectural practices
+today, especially those beyond the architect's office. The course is designed as a series of lectures,
+workshops and discussions that allows students and future practitioners the opportunity to consider
+and develop the analytical skills required to create buildings in the world of practice.
+
+Master of Environmental Building Design - Core
+708. Environmental Design Studio. (L) Faculty.Prerequisite(s): ARCH-751, ARCH-752, ARCH-753,
+and ARCH-754.
+An advanced design studio for the MEBD program that synthesizes the concepts and techniques of
+environmental building design. Topics and materials for the studio are developed in Arch 752: MEBD
+Research Seminar, and summarized in a research report at the end of studio.
+SM 754. Performance Design Workshop. (B) Yi.
+The workshop applies simulation and diagramming techniques to a series of discrete design projects
+at different scales. The emphasis is on refinement and optimization of performance based building
+design. Performance analysis techniques can provide enormous amounts of information to support the
+design process, acting as feedback mechanisms for improved performance, but careful interpretation
+and implementation are required to achieve better buildings.
+Energy, lighting, and air flow are the three main domains covered in the workshop. Students will
+learn how to utilize domain tools at an advanced level, and utilize them as applications to examine the
+environmental performance of existing buildings. Using the results of analytical techniques, the
+students will develop high-performance design strategies in all three domains.
+Lectures will be given on specific topics each week. A series of analytical class exercises will be
+assigned to provide students with hands-on experience in using the computer models. A case-study
+building will be provided at the beginning of the course and students will model different components
+each week throughout the semester. Every week students present the progress of their work, which
+will be used to correct methodological and technical issues.
+
+Master of Science in Design: Advanced Architectural Design - Core
+751. Ecology, Technology, and Design. (A) Braham.
+This course will examine the ecological nature of design at a range of scales, from the most intimate
+aspects of product design to the largest infrastructures, from the use of water in bathroom to the flow
+of traffic on the highway. It is a first principle of ecological design that everything is connected, and that
+activities at one scale can have quite different effects at other scales, so the immediate goal of the
+course will be to identify useful and characteristic modes of analyzing the systematic, ecological
+nature of design work, from the concept of the ecological footprint to market share.
+The course will also draw on the history and philosophy of technology to understand the particular
+intensity of contemporary society, which is now characterized by the powerful concept of the complex,
+self-regulating system. The system has become both the dominant mode of explanation and the first
+principle of design and organization.
+
+Page 9 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+SM 752. MEBD Research Seminar. (A) Braham.
+Directed student research of selected topics in environmental building design. These topics will be
+further explored in ARCH 708: MEBD Studio and will provide the basis for the research documents
+developed with each student's design project. Course work will include lectures, discussions, weekly
+readings, and in-class exercises. Each student will be required to make a presentation and submit a
+research report.
+753. Building Performance Simulation. (A) Yi.
+The course provides students with an understanding of building design simulation methods, hands-on
+experience in using computer simulation models, and exploration of the technologies, underlying
+principles, and potential applications of simulation tools in architecture. Classroom lecturers are given
+each week, with a series of analysis projects to provide students with hands-on experience using
+computer models. This course is required and reserved for MEBD students.
+703. Advanced Architectural Design Studio. (A) Rahim and Faculty.
+An Advanced Architectural Design Studio specifically tailored to post-professional students. Through
+this studio, students engage in the challenges and opportunities presented by changes in society,
+technology, and urban experience. Through design projects, they explore alternative modes and
+markets for practice, along with new directions and new tools for design.
+717. Philosophy of Urban History. (A) Delanda.
+The seminar is based on the thesis that "the Architecture of the City" is not only the work of an
+individual architect or a company but also the product of the city itself. The intention of the seminar is
+to demonstrate the creative architectural production of the city of New York and particular of
+Manhattan. The seminar is a build up by the progressive transformation of the architecture of the city
+within the 20th century until today. This process of transformation of the architecture of New York starts
+with the moment architecture was formed by the underlying subdivision of the cities grid, continues
+with the transformation of architecture becoming the city itself and ends with today's architectural
+production of the city as the production of a new ground for the city. There will be eight sessions in
+Philadelphia and five sessions in New York City which will provoke a discussion with New York City
+Leaders, Inter-disciplinary thinkers, cultural leaders and financiers.
+SM 743. Form and Algorithm. (A) Balmond/Blasetti.
+The critical parameter will be to develop the potential beyond finite forms of explicit and parametric
+modeling towards non-linear algorithmic processes. We will seek novel patterns of organizatio,
+structure, and articulation as architectural expressions within the emergent properties of feedback
+loops and rule based systems. This seminar will accommodate both introductory and advanced levels.
+No previous scripting experience is necessary. It will consist of a series of introductory sessions,
+obligatory intensive workshops, lectures followed by suggested readings, and will gradually focus on
+individual projects. Students will be encouraged to investigate the limits of algorithmic design both
+theoretically and in practice through a scripting environment.
+
+Master of Science in Architecture and PhD in Architecture - Core
+
+Page 10 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+SM 811. (ARCH711) Architectural Research. (A) Leatherbarrow and Faculty.
+This course has three parts. All incoming students in the M.S. and Ph.D. programs should attend the
+first, and register for either the second or the third sections. The first part consists of a series of
+presentations by members of the Graduate Group in Architecture. The several presentations will
+address the topics the faculty are currently examining and will demonstrate different methods or styles
+of research. The other two sections of this course address basic concepts, texts, and methods in 1:
+history and theory, and 2) technology and simulation.
+851. Dissertation Bibliography. (D) Faculty.
+This course is essentially an independent study, undertaken by doctoral students in preparation for the
+Candidacy Examination. This course should be taken in conjunction with ARCH 852 after all other
+courses have been completed. Normally a member of the student's Dissertation Committee
+supervises this course.
+812. Field Research. (B) Faculty.
+First year Ph.D. and M.S. students will use this course to register for a research elective in their field of
+study. Courses to be taken will be selected from a list of electives offered by members of the Graduate
+Group of Architecture, typically the seminars offered by those faculty at the Masters level. At the outset
+of the course Ph.D. and M.S. students will discuss and decide with the professor the readings,
+research, and writings that will be appropriate for the course, given the student's field of study.
+813. Qualifying Research. (B) Faculty.
+This is an independent study course for first year Ph.D. and M.S. students, supervised by a member of
+the Graduate Group in Architecture. A course of readings and advisors sessions throughout the
+semester will result in an independent study paper, which will also be used as the student's qualifying
+paper for the Qualifying Examination. This research paper will be prepared as if for scholarly
+publication.
+815. Research Report. (A) Faculty.
+The candidate for the M.S. in Architecture degree shall prepare a research report in his or her subject
+of study. The topic of this report must be approved by an advisor. This report will be developed in the
+independent study courses, undertaken after the eight units of course work has been completed,
+normally in the summer semester. The purpose of these courses is to give the student an opportunity
+to synthesize their previous coursework at Penn. Course enrollment is by permit only. Please contact
+Leigh Anne Scarborough (ARCH Dept.) at lascarbo@sas.upenn.edu.
+852. Dissertation Proposal. (D) Faculty.
+This course is essentially an independent study, undertaken by doctoral students in order to write the
+Proposal for the Dissertation. The Proposal is prepared before and defended during the Candidacy
+Examination. This course should be taken in conjunction with ARCH 852 after all other courses have
+been completed. Normally a member of the student's Dissertation Committee supervises this course.
+
+Study Abroad
+
+Page 11 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+698. Architectural Association (AA), London. (A) Farjadi.
+An advanced Architectural Design Studio taught by Homa Farjadi in London at the Architectural
+Association's School of Architecture. Topics engage aspects of urban life and urban form in London,
+and vary from year to year. During the fifth term of the Master of Architecture program, up to fifteen
+students a year may enroll for the semester abroad program in London, England. This is coordinated
+by Prof. Homa Farjadi and is housed at the Architectural Association (AA), located on Bedford Square
+in the heart of Bloomsbury. Students enroll in a special design studio, ARCH 702, taught by Prof.
+Farjadi, and in two elective courses offered by the faculty at the AA.
+782. Architecture Study Abroad Program. (L) Fierro and Faculty. Last day to drop course without
+penalty: April 22, 2016. Students who withdrawfrom the program after April 22, 2016 will forfeit 100%
+of the tuition and general fee.
+A four to six week program of study in locations that vary, such as Paris, Greece and Colombia.
+Summer 2016: ARCH-782-901 Paris, France: May 25 to June 01 2016. ARCH-782-902 Greece: May
+17 to June 16, 2016. ARCH-782-903 Colombia: May 17 to June 23 2016. For additional information
+please contact the Architecture Department directly: arch@design.upenn.edu.
+
+Electives
+706. Independent Thesis. (B) Faculty.
+In the final semester of the program, students select from three options; 1) An elective design studio;
+selected from among the advanced architectural design studios offered by the Department of
+Architecture; 2) a research studio, the exploration of a topic or theme established by an individual
+faculty member or group of faculty members; or 3) an independent thesis, the exploration of a topic or
+theme under the supervision of a thesis advisor.
+SM 721. (IPD 521) Designing Smart Objects for Play and Learning. (A) Diana.
+Today's children enjoy a wide array of play experiences, with stories, learning, characters and games
+that exist as physical stand-alone objects or toys enhanced with electronics or software. In this course,
+students will explore the domain of play and learning in order to develop original proposals for new
+product experiences that are at once tangible, immersive and dynamic. They will conduct research into
+education and psychology while also gaining hands-on exposure to new product manifestations in a
+variety of forms, both physical and digital. Students will be challenged to work in teams to explore
+concepts, share research and build prototypes of their experiences in the form of static objects that
+may have accompanying electronic devices or software. Final design proposals will consider future
+distribution models for product experiences such as 3D printing, virtual reality and software- hardware
+integration. Instruction will be part seminar and part workshop, providing research guidance and
+encouraging connections will subject matter experts throughout the Penn campus.
+
+Page 12 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+SM 728. (IPD 528) Design of Contemporary Products. (B) Diana.
+Smart objects are information-based products that are in ongoing dialogs with people, the cloud and
+each other. By crafting rich interactions, designers can create expressive behaviors for these objects
+based on sophisticated programmed responses. At the same time, sensor technologies have enabled
+us to introduce natural gestures as a means of interacting with a product. (Not only can we push, pull
+and twist a data value, but we can wave at, caress, tilt and shake it as well.) With an explosion of new
+possibilities for object interaction and human control, it is the designer's role to envision new solutions
+that are both meaningful and responsible.
+This course will explore product design solutions through a combination of physical and digital
+design methods. Beginning with an examination of case studies, students will gain a sense of the
+breadth of product and interaction design practice as it applies to smart objects. Through a series of
+lectures and hands-on studio exercises, students will explore all aspects of smart object design
+including expressive behaviors (light, sound and movement), interaction systems, ergonomics, data
+networks and contexts of use. The course will culminate in a final project that considers all aspects of
+smart object design within the context of a larger theme.
+SM 724. Technology in Design. (B) Kim, Simon.
+The aim of this course is to understand the new medium of architecture within the format of a research
+seminar. The subject matter of new media is to be examined and placed in a disciplinary trajectory of
+building designed and construction technology that adapts to material and digital discoveries. We will
+also build prototype with the new media, and establish a disciplinary knowledge for ourselves. The
+seminar is interested in testing the architecture-machine relationship, moving away from architecture
+that looks like machines into architecture that behaves like machines: An intelligence (based on the
+conceptual premise of a project and in the design of a system), as part of a process (related to the
+generative real of architecture) and as the object itself and its embedded intelligence.
+SM 726. (IPD 526) Contemporary Furniture Design. (B) Mueller-Russo.
+This course provides a platform, in the form of furniture, to execute and deploy architectural &
+engineering principles. It will be conducted as a seminar and workshop, and will introduce students to
+a variety of design methodologies that are unique to product design. The course will engage in many
+of the considerations that are affiliated with CAD/CAM production, the appropriate and innovative use
+of materials, and human factors. Students conduct case studies and research into industrial design
+processes, and will adapt these processes into techniques for designing a chair. Throughout the
+semester, students will experience first hand structural and material behavior, and understand
+ergonomic constraints by testing their design at different scales. The process will include: the
+production of a final design, its detailing, prototype development, Color/Material/Finishes (CMF),
+design for Computer Aided Manufacturing (CAM), the possibility of mass customization, research of
+materials and fabrication methods, optimization studies, Computer Aided Design (CAD), model
+making, furniture case studies, and a site visit to a major furniture manufacturer.
+
+Page 13 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+727. (IPD 527) Industrial Design. (C) Bressler.
+Industrial design (ID) is the professional service of creating and developing concepts and
+specifications that optimize the function, value and appearance of products and systems for the
+mutual benefit of both user and manufacturer. Industrial designers develop these concepts and
+specifications through collection, analysis and synthesis of user needs data guided by the special
+requirements of the client or manufacturer. They are trained to prepare clear and concise
+recommendations through drawings, models and verbal descriptions. The profession has evolved to
+take its appropriate place alongside Engineering and Marketing as one of the cornerstones of
+Integrated Product Design teams. The core of Industrial Design's knowledge base is a mixture of fine
+arts, commercial arts and applied sciences utilized with a set of priorities that are firstly on the needs
+of the end user and functionality, then the market and manufacturing criteria.
+This course will provide an overview and understanding of the theories, thought processes and
+metholologies employed in the daily practice of Industrial Design. This includes understanding of
+ethnographic research and methodologies, product problem solving, creative visual communication,
+human factors / ergonomics application and formal and surface development in product scale. This
+course will not enable one to become an industrial designer but will enable one to understand and
+appreciate what industrial design does, what it can contribute to society and why it is so much fun.
+730. Techniques, Morphology, and Detailing of a Pavilion. (B) Al Khayer, Mohamad.
+The course will focus on the design, morphology detailing, and the construction of "PennDesign
+Pavilion inspired by Russel Write Designs" which is set to be constructed in Spring 2016 on a site
+located at the University of Pennsylvania Campus. The course will develop through hands-on
+workshops and will focus on acquiring knowledge through making (Techne), understanding the
+morphological transformation of a given geometic packing, and building using readily available
+materials. The process consists of building and testing physical models that simulates the actual
+pavilion. In addition to digital simulation sessions to realize the desired design, which answers to the
+program developed by PennDesign faculty. The second half of the semester will focus on using
+lightweight construction materials to fabricate the pavilion's actual components, including structural
+elements, molded components, and joints, which are required for pavilion's final assembly. Additionally
+students will learn to organize design and fabrication teams, control design and production schedules,
+and work with set budget, which requires keeping track of construction cost and forecast for required
+procurements, including material quantities takeoff, ordering and schedule deliveries and receiving.
+SM 738. The Modern House: Technology Then and Now. (B) Fierro.
+In the current age of new fabrication methodologies, methods are emerging for the conception and
+design of the contemporary house which have radical potential for enclosure, habitation and practices
+of daily life. This course begins by examining the canonical houses of the original avant-garde--Adolf
+Loos, Frank Lloyd Wright, Le Corbusier, Mies van der Rohe and Alvar Aalto -on the premise that their
+houses were working manifestos for rethinking space, form and indeed ideas of life itself -all of which
+were prompted by new concepts of construction. From this spectrum of issues, contemporary houses
+and contemporary methods and materials will be studied extensively to develop equally new ideas
+between matter and quotidian life. As the primary task of the course, students will work in teams to
+develop highly detailed constructional proposals for a portion of a speculative home.
+
+Page 14 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+SM 731. Experiments in Structures. (A) Al Khayer.
+This course studies the relationships between geometric space and those structural systems that
+amplify tension. Experiments using the hand (touch and force) in coordination with the eye (sight and
+geometry) will be done during the construction and observation of physical models. Verbal,
+mathematical and computer models are secondary to the reality of the physical model. However these
+models will be used to give dimension and document the experiments. Team reports will serve as
+interim and final examinations. In typology, masonry structures in compression (e.g., vault and dome)
+correlate with "Classical" space, and steel or reinforced concrete structures in flexure (e.g., frame, slab
+and column) with "Modernist" space. We seek the spatial correlates to tensile systems of both textiles
+(woven or braided fabrics where both warp and weft are tensile), and baskets (where the warp is
+tensile and the weft is compressive). In addition to the experiments, we will examine Le Ricolais'
+structural models held by the Architectural Archives.
+733. (IPD 530) Building Product Design. (A) Faculty.Prerequisite(s): ARCH 403/IPD 503 or ARCH
+major.
+As Craig Vogel notes in The Design of Things to Come, "we are in a new economic age that is in need
+of a new renaissance in product development, one that leverages multiple minds working in concert."
+With this mindset, this interdisciplinary workshop guides students through the product design process
+from design brief to concept generation and prototype development in one semester, working firsthand
+with Transwall, a leading manufacturer of demountable wall systems, to focus on a specific product
+need. The design opportunity looks for the next generation of pre-manufactured wall systems; getting
+away from field construction walls and looking at critical issues of mass-produced wall systems:
+flexibility, mobility, structural stability, acoustics, transparency/opacity and operability. During the
+workshop, students will explore the context that creates the unique need for a new product and have
+an opportunity to conceptualize their ideas through sketches, digital modeling and prototype
+development.
+SM 734. Ecological Architecture - Contemporary Practices. (B) Woodward.
+Architecture is an inherently exploitive act - we take resources from the earthand produce waste and
+pollution when we construct and operate buildings. As global citizens, we have an ethical responsibility
+to minimize these negative impacts. As creative professionals, however, we have a unique ability to go
+farther than simply being "less bad." We are learning to design in ways that can help heal the damage
+and regenerate our environment. This course explores these evolving approaches to design - from
+neo-indigenous to eco-tech to LEED to biomimicry to living buildings. Taught by a practicing architect
+with many years of experience designing green buildings, the course also features guest lecturers
+from complementary fields - landscape architects, hydrologists, recycling contractors and materials
+specialists. Coursework includes in-class discussion, short essays and longer research projects.
+741. Architecture Design Innovation. (A) Rahim.
+The mastery of techniques, whether in design, production or both, does not necessarily yield great
+architecture. As we all know, the most advanced techniques can still yield average designs. Architects
+are becoming increasingly adept producing complexity & integrating digital design and fabrication
+techniques into their design process - yet there are few truly elegant projects. Only certain projects
+that are sophisticated at the level of technique achieve elegance. This seminar explores some of the
+instances in which designers are able to move beyond technique, by commanding them to such a
+degree so as to achieve elegant aesthetics within the formal development of projects.
+
+Page 15 of 16
+
+ARCHITECTURE
+(FA) {ARCH}
+SM 744. (IPD 544) Postdigital Craft. (B) Kolatan.
+As we have entered a postdigital era, the dominance of a purely technological approach as a vehicle
+for design innovation has waned. Questions of substance and disciplinary autonomy have found their
+way back into the contemporary cultural discourse, enriching the way we examine and deploy
+advanced technologies towards novel expressions in architecture. This seminar will investigate,
+through the production of estranged objects, opportunities for design that are being generated at the
+intersection of machinic and human minds, and speculate on possible futures in which concepts of
+nature and technology have been inseparably intertwined.
+SM 750. Parafictional Objects. (B) Ayata, Ahemt Kutan.
+This representation/design seminar explores the aesthetics of estrangement in realism through
+various mediums. The reality of the discipline is that architecture is a post-medium effort. Drawings,
+Renderings, Models, Prototypes, Computations, Simulations, Texts, and Buildings are all put forward
+by architects as a speculative proposal for the reality of the future. Students will explore the
+reconfiguration of a "found object" in multiple mediums and represent parafictional scenarios in
+various techniques of realism. At a time when rendering engines enable the production of hyperrealistic images within the discipline without any critical representational agenda, it has become ever
+more imperative to rigorously speculate on realism.
+999. Independent Study. (C) Faculty.
+This course enables student to undertake a self-directed study on a topic in Architecture, under the
+supervision of a faculty member. Students are required to make a proposal for the study to the
+Department Chair, outlining the subject and method of investigation, and confirming the course
+supervisor at least two weeks prior to the beginning of the semester.
+762. (CPLN643) Design and Development. (B) Sehnert.
+This course provides an introduction to the relationship between architectural design and real estate
+development. Following a discussion of fundamentals, examples focus on commercial building types,
+and illustrate how architectural design can contribute to real estate development. Topics include
+housing design commercial buildings, adaptive reuse, downtown development, mixed-use projects,
+and planned communities. The course consists of lectures, reading assignments, short essays, a
+group project, and an mid-term test. Invited lecturers include architects and real estate developers.
+Readings consist of a Bulkpack available from Wharton Reprographics. There is one course text:
+Witold Rybczynski, "Last Harvest."
+SM 765. Project Management. (B) Capaldi.
+This course is an introduction to techniques and tools of managing the design and construction of
+large, and small, construction projects. Topics include project delivery systems, management tools,
+cost-control and budgeting systems, professional roles. Case studies serve to illustrate applications.
+Cost and schedule control systems are described. Case studies illustrate the application of techniques
+in the field.
+
+Page 16 of 16
+
+

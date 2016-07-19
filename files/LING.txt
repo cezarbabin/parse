@@ -1,0 +1,678 @@
+LINGUISTICS
+(AS) {LING}
+American Sign Language and Irish Gaelic courses are sponsored by the Department of
+Linguistics and offered through the Penn Language Center. Please see http://ccat.sas.upenn.edu/
+plc/
+
+Undergraduate Courses
+L/R 001. Introduction to Linguistics. (C) Natural Science & Mathematics Sector. Class of 2010 and
+beyond. Staff.
+A general introduction to the nature, history and use of human language, speech and writing. Topics
+include the biological basis of human language, and analogous systems in other creatures; relations
+to cognition, communication, and social organization; sounds, forms and meanings in the world's
+languages; the reconstruction of linguistic history and the family tree of languages; dialect variation
+and language standardization; language and gender; language learning by children and adults; the
+neurology of language and language disorders; the nature and history of writing systems. Intended for
+any undergraduate interested in language or its use, this course is also recommended as an
+introduction for students who plan to major in linguistics.
+SM 051. Proto-Indo European Language and Society. (M) History & Tradition Sector. All classes.
+Noyer. Freshman Seminar
+Most of the languages now spoken in Europe, along with some languages of Iran, India and central
+Asia, are thought to be descended from a single language known as Proto-Indo-European, spoken at
+least six thousand years ago, probably in a region extending from north of the Black Sea in modern
+Ukraine east through southern Russia. Speakers of Proto-Indo-European eventually populated Europe
+in the Bronze Age, and their societies formed the basis of the classical civilizations of Greece and
+Rome, as well as of the Celtic, Germanic and Slavic speaking peoples. What were the Proto-IndoEuropeans like? What did they believe about the world and their gods? How do we know?
+Reconstruction of the Proto-Indo-European language, one of the triumphs of comparative and
+historical linguistics in the 19th and 20th centuries, allows us a glimpse into the society of this
+prehistoric people.
+In this seminar students will, through comparison of modern and ancient languages, learn the basis
+of this reconstruction -- the comparative method of historical linguistics -- as well as explore the
+culture and society of the Proto-Indo-Europeans and their immediate descendants. In addition, we will
+examine the pseudo-scientific basis of the myth of Aryan supremacy, and study the contributions of
+archaeological findings in determining the "homeland" of the Indo-Europeans. No prior knowledge of
+any particular language is necessary. This seminar should be of interest to students considering a
+major in linguistics, anthropology and archaeology, ancient history or comparative religion. (Also fulfills
+Cross-Cultural Analysis.)
+SM 054. Bilingualism in History. (A) Freshman Seminar
+This course introduces the foundations of linguistics - the scientific study of language - through
+exploration of multilingualism in the USA and in different societies around the world.
+Contacts between groups of people speaking different languages are documented from earliest
+records, and around the world it remains the norm to find more than one language in regular use in a
+single community. In this course we will see that multilingualism is a catalyst for linguistic change:
+sometimes languages are lost; sometimes new languages are created; sometimes the structure of a
+language is radically altered. We will consider: Which parts of linguistic structure are most susceptible
+to change under conditions of bilingualism? Does language contact - whether a result of trade,
+education, migration, conquest, or intermarriage - influence language structure in predictable ways?
+How do individual speakers handle multiple languages? How have attitudes to speakers of multiple
+languages changed through history? How have socio-historical events shaped the linguistic situation
+in the USA?
+
+Page 1 of 16
+
+LINGUISTICS
+(AS) {LING}
+L/R 102. Introduction to Sociolinguistics. (B) Society Sector. All classes. Tamminga. Satisfies
+Quantitative Data Analysis
+Human language viewed from a social and historical perspective. Students will acquire the tools of
+linguistic analysis through interactive computer programs, covering phonetics, phonology and
+morphology, in English and other languages. These techniques will then be used to trace social
+differences in the use of language, and changing patterns of social stratification. The course will focus
+on linguistic changes in progress in American society, in both mainstream and minority communities,
+and the social problems associated with them. Students will engage in field projects to search for the
+social correlates of linguistic behavior, and use quantitative methods to analyze the results.
+103. Introduction to Language: Language Structure and Verbal Art. (A) Arts & Letters Sector. All
+Classes. Ringe.
+The purpose of this course is to explore the relationship between linguistic structure and the use of
+language for artistic purposes. The syllabus is organized as a sequence of units, each built around a
+particular theme. These include the sound structure of poetry (meter, rhyme, and other linguistic
+patterns in Jabberwocky, the Odyssey, Shakespeare, the Troubadours, and others); how precise
+linguistic data can be used to solve an outstanding literary problem (determining the approximate date
+when Beowulf was composed); and the structure of folktales of various cultures and of narratives of
+everyday experience.
+L/R 105. (CIS 140, COGS001, PHIL044, PSYC207) Introduction to Cognitive Science. (A)
+Brainard/Ungar. This is a Formal Reasoning course.
+Cognitive Science is founded on the realization that many problems in the analysis of human and
+artificial intelligence require an interdisciplinary approach. The course is intended to introduce
+students to the problems and characteristic concepts of Cognitive Science, drawing on formal and
+empirical approaches from the parent disciplines of computer science, linguistics, neuroscience,
+philosophy and psychology. The topics covered include Perception, Action, Learning, Language,
+Knowledge Representation, and Inference, and the relations and interactions between such modules.
+The course shows how the different views from the parent disciplines interact, and identifies some
+common themes among the theories that have been proposed. The course pays particular attention to
+the distinctive role of computation in such theories, and provides an introduction to some of the main
+directions of current research in the field.
+L/R 106. Introduction to Formal Linguistics. (A) Staff. This is a Formal Reasoning course.
+This course is intended as an introduction to the application of formal language theory, automata
+theory, and other computational models to the understanding of natural human language. Topics
+include regular languages and finite state automata; context-free languages and pushdown automata;
+recursive transition networks; augmented transition networks; tree-adjoining grammars.
+L/R 115. Writing Systems. (A) History & Tradition Sector. All classes. Buckley.
+The historical origin of writing in Sumeria, Egypt, China, and Mesoamerica; the transmission of writing
+across languages and cultures, including the route from Phoenician to Greek to Etruscan to Latin to
+English; the development of individual writing systems over time; the traditional classification of written
+symbols (ideographic, logographic, syllabic, alphabetic); methods of decipherment; differences
+between spoken and written language; how linguistic structure influences writing, and is reflected by it;
+social and political aspects of writing; literacy and the acquisition of writing.
+
+Page 2 of 16
+
+LINGUISTICS
+(AS) {LING}
+120. Introduction to Speech Analysis. (C) Kuang. Satisfies Quantitative Data Analysis
+This course focuses on experimental investigations of speech sounds. General contents include: the
+fundamentals of speech production and perception; speech analysis tools and techniques; and topics
+in phonetic studies. The course consists of integrated lectures and laboratory sessions in which
+students learn computer techniques for analyzing digital recordings.
+140. Construct a Language. (M) Legate.
+In this course, students construct their own language, one that is compatible with what is known about
+possible human languages. To this end, the course investigates language typology through lectures
+and examination of grammars of unfamiliar languages. Topics include language universals, points of
+choice in a fixed decision space, and dependencies among choices.
+160. (AFRC160) Introduction to African American and Latino English. (A) Staff.
+An introduction to the use and structure of dialects of English used by the African American and
+Latino communities in the United States. It is an academically based service learning course. The field
+work component involves the study of the language and culture of everyday life and the application of
+this knowledge to programs for raising the reading levels of elementary school children.
+230. (LING503) Sound Structure of Language. (B) Noyer.Prerequisite(s): Prerequisite: A prior
+course in linguistics or permission of instructor.
+An introduction to phonetics and phonology. Topics include articulatory phonetics (the anatomy of the
+vocal tract; how speech sounds are produced); transcription (conventions for representing the sounds
+of the world's languages); classification (how speech sounds are classified and represented
+cognitively through distinctive features); phonology (the grammar of speech sounds in various
+languages: their patterning and interaction) and syllable structure and its role in phonology.
+240. Structure of a Language. (M) Staff.
+Designed to apply linguistic principles to the grammatical analysis of a particular language, this course
+focuses on a different language each time it is given, according to the decision of the instructor. It may
+be taken by students with prior knowledge of the language in question who have not taken previous
+courses in linguistics, and by students of linguistics who wish to explore a new language. The selected
+language will be announced prior to pre-registration for any semester in which it is given.
+241. Language in Native America. (M) Buckley.
+This course is an introduction to linguistic perspectives on the languages native to the Americas (their
+nature and distribution, typological similarities and differences), with an emphasis on North America.
+The diverse languages of this region will be examined from the point of view of particular linguistic
+phenomena, such as phonology, morphology, and syntax; and in addition we will study their historical
+development and their place in culture, society, and thought.
+
+Page 3 of 16
+
+LINGUISTICS
+(AS) {LING}
+255. Formal Semantics and Cognitive Science. (M) Schwarz. NOTE TO PSYCHOLOGY MAJORS:
+Ling 255 can be counted towards the 'Additional Psych Courses', as specified in the Undergraduate
+Handbook. NOTE TO COGNITIVE SCIENCE MAJORS: Ling 255 counts towards Concentration 3:
+Language and Mind
+This course provides an introduction to the study of meaning in natural language. The first part of the
+course introduces a formal perspective on meaning in terms of truth conditions as well as the basic
+analytical tools necessary for this, primarily building on set theory and logic. The main part of the
+course covers a range of empirical investigations of phenomena related to meaning using
+experimental methods from psycholinguistics. Topics include a selection of issues on the semanticspragmatics interface, such as conversational implicatures, presuppositions, reference resolution and
+perspective taking, and quantifier scope. Students will carry out a class project, possibly in groups, to
+develop (and, if possible, carry out) an experimental study of meaning-related phenomena of their
+own. Relevant tools for experimental design and the implementation of such studies will be introduced
+along the way. This provides students with the opportunity to engage in a scientific investigation of
+their own early on in their undergraduate career in a domain that is easily accessible and yet central to
+the general enterprise of the cognitive sciences.
+247. Structure of American Sign Language. Fisher/Santorini.Prerequisite(s): Ling 001 or permission
+of instructor(s).
+This course covers the linguistic structure of American Sign Language (ASL), including its phonology
+(articulatory features, phonological constraints, nonmanuals), morphology (morphological constraints,
+compounds, incorporation, borrowing), and syntax (syntactic categories, basic phrase structure,
+common sentence types), Also discussed are the topics of classifiers and deixis. In keeping with the
+comparative perspective of linguistic theory, parallels and differences between ASL and other
+(primarily spoken) languages are pointed out where appropriate. Historical and sociolinguistic issues
+are addressed where they are relevant to elucidating linguistic structure.
+Though the course focuses on ASL, it necessarily touches on issues concerning sign languages
+more generally, notably the possible effects of modality (sign vs. speech) on linguistic structure and
+the implications of the signed modality for general linguistics.
+Although the course does not presuppose knowledge of ASL, it does require acquaintance with
+basic concepts of linguistics.
+250. Introduction to Syntax. (B) Santorini.
+This course is an introduction to current syntactic theory, covering the principles that govern phrase
+structure (the composition of phrases and sentences), movement (dependencies between syntactic
+constituents), and binding (the interpretation of different types of noun phrases). Although much of the
+evidence discussed in the class will come from English, evidence from other languages will also play
+an important role, in keeping with the comparative and universalist perspective of modern syntactic
+theory.
+
+Page 4 of 16
+
+LINGUISTICS
+(AS) {LING}
+252. Logical Analysis of Language. (M) Clark.
+Everyone seems to think that language and thought are somehow intimately related. But what, exactly,
+is the relationship? For some people, language and thought are identical, so that pre-linguistic
+creatures are completely incapable of thought. This course examines language as an instrument to
+send and receive information. In part I, we will start with a computational approach to the problem of
+how an information agent would extract and use information from language. That is, we will take
+language to be an encoding of a mental content. The course considers some of the classic position
+papers on artificial intelligence and then moves on to develop a compositional account of computing
+meanings based on categorial grammar. We will, in addition, discuss some of the leading ideas in the
+theory of artificial neural nets and concept formation, particularly prototype theory.
+In part II, we will focus on compositional theories of meaning; we will pay particular attention to
+categorial grammar, developing a strictly compositional theory of the encoding. In this section, we will
+develop some ideas from dynamic semantics and pragmatic theories of presupposition and
+implicature. In part III, we will explore reasons for supposing that meaning is largely social and not
+purely a question of mental content. This will lead us to a critical consideration of linguistic relativity,
+the idea that language can influence thought.
+270. Language Acquisition. (M) Yang.
+An introduction to language acquisition in children and the development of related cognitive and
+perceptual systems. Topics include the nature of speech perception and the specialization to the
+native language; the structure and acquisition of words; children's phonology; the development of
+grammar; bilingualism and second language acquisition; language learning impairments; the biological
+basis of language acquisition; the role in language learning in language change. Intended for any
+undergraduate interested in the psychology and development of language.
+SM 300. Tutorial in Linguistics. (A) Legate.Prerequisite(s): Senior status or permission of the
+instructor. Majors only.
+This tutorial allows students to deal in a concentrated manner with selected major topics in linguistics
+by means of extensive readings and research. Two topics are studied during the semester, exposing
+students to a range of sophisticated linguistic questions.
+301. Conference. (C)
+An independent study for majors in linguistics.
+SM 302. (LING502) Linguistic Field Methods. (M) Buckley/Legate.Prerequisite(s): Ling 230 and Ling
+250.
+Instruction and practice in primary linguistic research, producing a grammatical sketch and a lexicon
+through work with a native-speaker consultant and some reference materials. Consultant work is
+shared with LING 502.
+398. Senior Thesis. (C) Staff.
+310. History of the English Language. (A) Ringe/Kroch.
+This course traces the linguistic history of English from its earliest reconstructable ancestor, ProtoIndo-European, to the present. We focus especially on significant large-scale changes, such as the
+restructuring of the verb system in Proto-Germanic, the intricate interaction of sound changes in the
+immediate prehistory of Old English, syntactic change in Middle English, and the diversification of
+English dialects since 1750.
+
+Page 5 of 16
+
+LINGUISTICS
+(AS) {LING}
+354. Language and Game Theory. (M) Clark.
+This course is an introduction to game-theoretic pragmatics. It focuses on aspects of meaning that
+follow from rational, strategic decision making. The course covers an introduction to the theory of
+games with an emphasis on coordination games and cooperation. We develop a game theoretic
+account of truth conditional semantics using zero-sum games. We then cover Gricean implicature;
+focal points and coordination; polysemy vs homophony; and a game account of reference tracking and
+pronoun interpretation.
+380. (LING580) Introduction to Semantics. (A) Schwarz.Prerequisite(s): Ling 250.
+This course provides an introduction to formal semantics for natural language. The main aim is to
+develop a semantic system that provides a compositional interpretation of natural language
+sentences. We discuss various of the aspects central to meaning composition, including function
+application, modification, quantification, and binding, as well as issues in the syntax-semantics
+interface. The basic formal tools relevant for semantic analysis, including set theory, propositional
+logic, and predicate logic are also introduced.
+404. Morphological Theory. (M) Embick.
+This course will explore some issues concerning the internal structure of words. After a brief
+introduction to some basic terms and concepts, we will discuss the interaction of morphology with
+phonology. We will look both at how morphology conditions phonological rules and how phonology
+conditions morphology. Then we will turn to the interaction of syntax and morphology. We will look at
+some problems raised by inflectional morphology, clitics and compounds. The main requirement for
+the class will be a series of homework exercises in morphological analysis and a short paper at the
+end of the semester.
+SM 411. Old English. (M) Kroch.
+The main purpose of this course is to teach students to read Old English ("Anglo-Saxon"), chiefly but
+not exclusively for research in linguistics. Grammar will be heavily emphasized; there will also be
+lectures on the immediate prehistory of the language, since the morphology of Old English was made
+unusually complex by interacting sound changes. In the first eight weeks we will work through Moore
+and Knott's "Elements of Grammar" and learn the grammar; the remainder of the term will be devoted
+to reading texts.
+440. Pidgins and Creoles. (H)
+The origins and development of pidgins (languages of intercommunication that have evolved for
+practical reasons in situations of trade, conquest, or colonization, and spoken as second or auxiliary
+languages) and creoles (languages with native speakers that have developed from previous pidgins);
+relations between creoles and other languages; implications of creole studies for general theories of
+language and language change.
+SM 449. Language and Computation. (M) Yang.
+The computational study of natural language and its implications for linguistic theories. Topics include
+finite state tools, computational morphology and phonology, grammar and parsing, computational
+models of language learning in children and machines.
+
+Page 6 of 16
+
+LINGUISTICS
+(AS) {LING}
+450. Languages in Contact. (I)
+Multilingualism from a societal, individual, and linguistic point of view. The different types of contacts
+between populations and between individuals which give rise to multilingualism. Second-language
+acquisition and the problem of the "critical age." Cognitive and cultural aspects of multilingualism;
+applications to the teaching of languages. "Bidialectalism." Code-switching (alternation), interference
+and integration: the mutual influences of language in contact. Political and social aspects of
+multilingualism.
+SM 470. (AFRC262, AFST260, FOLK470, LALS260) Narrative Analysis. (M)
+The course will develop our understanding of narrative structure on the basis of oral narratives of
+personal experience, told by speakers from a wide range of geographic backgrounds and social
+classes. It will link the principles governing oral narratives to the narratological examination of myth,
+literature and film by Propp, Greimas, Prince, Chatman, and others.The principles that emerge from
+the study of oral narrative will be re-examined in literary narrative, including Scandinavian, Greek and
+Hebrew epics, medieval romances, film, and modern novels, with attention to the differences between
+vernacular, literary and academic style. The class will then consider the work of psychologists on how
+narratives are remembered and understood, based on the causal network theory of Trabasso, and
+apply these principles to narratives written to teach children to read, particularly those designed to
+reflect the cultural and linguistic framework of African American children.
+
+Graduate Courses
+SM 500. Research Workshop. (A) Embick.
+This course is intended for advanced graduate students who are interested in developing a research
+paper. Each student will present his or her topic several times during the semester as the analysis
+develops, with feedback from the instructor and other students to improve the organization and
+content of the analysis. The goal is an end product appropriate for delivery at a national conference or
+submission to a journal.
+510. Introduction to Historical and Comparative Linguistics. (A) Ringe.
+Synchronic and diachronic systems. Analogic processes. Semantic change. Effects of contact. Internal
+reconstruction. Comparative method and reconstruction.
+SM 502. (LING302) Linguistic Field Methods. (M) Buckley/Legate.Prerequisite(s): LING 530 and
+Ling 550.
+Instruction and practice in primary linguistic research, producing a grammatical sketch and a lexicon
+through work with a native-speaker consultant and some reference materials. Consultant work is
+shared with LING 302. Each student will write a final paper on some aspect of the language.
+503. (LING230) Sound Structure of Language. (B) Noyer.
+An introduction to articulatory and acoustic phonetics; phonetic transcription; basic concepts and
+methods of phonological analysis.
+505. Research Topics. (C)
+A reading course on specialized topics in linguistics. Arranged by instructor.
+
+Page 7 of 16
+
+LINGUISTICS
+(AS) {LING}
+511. Language Variation & Change. (B) Tamminga.Prerequisite(s): LING 510 or equivalent.
+Speech communities as a focus for the understanding of language evolution and change: language
+variation in time and space. The relationship between language structure and language use; between
+language change and social change. Populations as differentiated by age, sex, social class, race, and
+ethnicity, and the relationship of these factors to linguistic differentiation.
+SM 515. Dynamics of Language. (C) Yang.Prerequisite(s): Ling 510.
+This course introduces the tools, techniques, as well as current research on the approach to language
+as a dynamical system, which seeks to fruitfully integrate linguistic theory, psycholinguistics, corpus
+linguistics, and historical linguistics through the means of mathematical modeling. Topics include:
+string processing, dynamical systems and stability, stochastic processes, mathematical models of
+population dynamics, and dynamical models of language learning, processing, and change.
+520. Introduction to Phonetics. (A) Liberman/Kuang.Prerequisite(s): An introductory course in
+linguistics, or consent of instructor.
+Speech: its linguistic transcription, its quantitative physical description, and its relationship to the
+categories and dimensions of language structure and use. The physical basis of speech: acoustics,
+vocal tract anatomy and physiology, hearing and speech perception, articulation and motor control.
+Phonetic variation and change. Prosody: stress, intonation, phrasing speech rate. Phonetic
+instrumentation, the design and interpretation of phonetic experiments, and the use of phonetic
+evidence in linguistic research, with emphasis on computer techniques. Introduction to speech signal
+processing. Speech technology: introduction to speech recognition, text-to-speech synthesis, speech
+coding. This course will emphasize the phonetics of natural speech, and its connections to issues in
+other areas of linguistics and cognitive science.
+521. Introduction to Phonetics II. (B) Kuang/Liberman.Prerequisite(s): LING 520.
+This is a methodology course, which focuses on how to conduct phonetics research using very large
+speech corpora. Topics include scripting and statistical techniques, automatic phonetic analysis,
+integration of speech technology in phonetics studies, variation and invariability in large speech
+corpora, and revisiting classic phonetic and phonological problems from the perspective of corpus
+phonetics.
+525. (CIS 558) Computer Analysis and Modeling of Biological Signals and Systems. (A)
+Liberman.
+A hands-on signal and image processing course for non-EE graduate students needing these skills.
+We will go through all the fundamentals of signal and image processing using computer exercises
+developed in MATLAB. Examples will be drawn from speech analysis and synthesis, computer vision,
+and biological modeling.
+530. Phonology I. (A) Noyer.Prerequisite(s): LING 503 or equivalent.
+First half of a year-long introduction to the formal study of phonology. Basic concepts in articulatory
+phonetics; the distribution of sounds (phonemes and allophones); underlying and surface forms, and
+how to relate them using both ordered-rule and surface-constraint approaches. The survey of
+theoretical topics in this term includes distinctive features (context, organization, underspecification);
+the autosegmental representation of tone; and the theory of phonological domains and their
+interaction with morphological and syntactic constituency. Emphasizes hands-on analysis of a wide
+range of data.
+
+Page 8 of 16
+
+LINGUISTICS
+(AS) {LING}
+531. Phonology II. (B) Buckley.Prerequisite(s): LING 530.
+Second half of a year-long introduction; continues LING 530. Topics to be surveyed include syllable
+structure and moraic theory; the prosodic hierarchy; the properties and representation of geminates;
+templatic and prosodic morphology; reduplication and emergence of the unmarked; and metrical
+phonology (properties of stress, foot typology, and issues of constituency). Emphasizes hands-on
+analysis of a wide range of data.
+SM 538. Computational Methods in Linguistic Research. (M) Staff.
+This course aims to provide students with the knowledge and skills needed to use computational
+techniques to facilitate linguistic research. It introduces the computer representation of linguistic data,
+the construction of linguistic databases, ways of searching for and extracting information of interest,
+and ways of generating useful displays of the results. Topics covered include the representation of text
+on computers (multilingual character encoding, mark-up schemes, means of converting among
+representations); regular expressions and their use in searching; context free grammars; basic parsing
+techniques; properties and uses of databases; approaches to annotation; and sorting as a tool for
+searching and organizing data.
+549. (CIS 477) Mathematical Techniques in Natural Language Processing. (A) Joshi.
+Basic concepts of set theory, relations and functions, properties of relations. Basic concepts of
+algebra. Grammars, languages, and automata-finite state grammars, regular expressions, finite state
+transducers, context-free grammars and pushdown automata. Context-sensitive grammars- string
+context sensitivity and structural context-sensitivity. Mildly context-sensitive grammars.
+Turingmachines. Grammars ad deductive systems, parsing as deduction. Stochastic grammars. The
+course will deal with these topics in a very basic and introductory manner, i.e., the key ideas of the
+proofs and not detailed proofs will be presented. More importantly, throughout the course plenty of
+linguistic examples to bring out the linguistic relevance of these topics will be discussed.
+545. (COGS501, PSYC501) Mathematical Foundations for Language and Communication
+Sciences I. (D) Liberman.
+This two-semester sequence will provide basic mathematical modeling and algorithmic tools for
+interdisciplinary research in animal, human or machine communication, in association with the IRCS
+IGERT program. Topics include signal processing, statistical modeling and machine learning,
+information theory, game theory, and formal language theory. The courses will be taught in a
+laboratory setting, and will emphasize practical skills as well as basic concepts.
+546. (PSYC646) Mathematical Foundations of Language Communication II. (D) Liberman.
+This two-semester sequence will provide basic mathematical modeling and algorithmic tools for
+interdisciplinary research in animal, human or machine communication, in association with the IRCS
+IGERT program. Topics include signal processing, statistical modeling and machine learning,
+information theory, game theory, and formal language theory. The courses will be taught in a
+laboratory setting, and will emphasize practical skills as well as basic concepts.
+
+Page 9 of 16
+
+LINGUISTICS
+(AS) {LING}
+SM 548. Proof Theoretic Foundations of Linguistic Structure. (A) Clark.
+This course covers the fundamentals of proof theory and logic as they apply to linguistics. The notion
+of a well-formed derivation is fundamental to all flavors of formal linguistics and all sub-disciplines of
+linguistics-phonology, morphology, syntax and semantics. It rests, ultimately, on axiomatic systems
+developed by logicians to encode the process of valid formal reasoning. We will place a particular
+emphasis on constructive methods and, where appropriate, develop connections with parsing theory,
+automatic theorem proving and computational semantics. Time permitting, we will consider some
+introductory topics in substructural logic-systems that encode some proper sub-part of first order logic.
+These systems have proven very important in planning, theorem proving, dynamic logic and
+computational linguistics. The course is intended as a preparation for Linguistics 553 (Formal
+Semantics I). It includes a review of the propositional and predicate calculus before introducing
+tableaux and resolution systems, unification, axiomatic systems, natural deduction and sequent
+calculi. The latter two systems are particularly relevant for grammar formalisms like phrase structure
+grammars, TAGs and Categorial Grammar.
+550. Syntax I. (A) Kroch.
+A general introduction at the graduate level to the analysis of sentence structure. The approach taken
+is that of contemporary generative-transformational grammar.
+551. Syntax II. (B) Legate.Prerequisite(s): LING 550 or permission of instructor.
+The second half of a year-long introduction to the formal study of natural language syntax. Topics to
+be covered include grammatical architecture; derivational versus representational statement of
+syntactic principles; movement and locality; the interface of syntax and semantics; argument structure;
+and other topics. The emphasis is on reading primary literature and discussing theoretical
+approaches, along with detailed case-studies of specific syntactic phenomena in different languages.
+SM 556. Historical Syntax. (M) Kroch.Prerequisite(s): LING 551 or the equivalent.
+Introduction to the study of the syntax of languages attested only in historical corpora. The course will
+cover methods and results in the grammatical description of such languages and in the diachronic
+study of syntactic change.
+SM 560. The Study of the Speech Community: Field Methods. (C)
+For students who plan to carry out research in the speech community. Techniques and theory derived
+from sociolinguistic studies will be used to define neighborhoods, enter the community, analyze social
+networks, and obtain tape-recorded data from face-to-face interviews. Students will work in groups
+and study a single city block.
+SM 562. Quantitative Study of Linguistic Variation. (I) Tamminga.Prerequisite(s): LING 560 and
+either STAT 500 or STAT 501 (or permission of instructor).
+This course provides students with the opportunity to hone their statistical, computational, and
+organizational skillsets while conducting original linguistic research on data gathered in continuing
+fieldwork in the speech community. Topics include forced alignment and vowel extraction, auditory and
+automated variable coding, the application of linear and logistic regression, and techniques for
+effective data visualization.
+SM 563. Sound Change in Progress. (M) Prerequisite(s): LING 520.
+The study of current sound changes in the speech community through instrumental means. Causes of
+linguistic diversity and consequences for speech recognition.
+
+Page 10 of 16
+
+LINGUISTICS
+(AS) {LING}
+580. (LING380) Semantics I. (A) Schwarz.Prerequisite(s): Ling 550. Corequisite(s): Ling 550.
+This course provides an introduction to formal semantics for natural language. The main aim is to
+develop a semantic system that provides a compositional interpretation of natural language
+sentences. We discuss various of the aspects central to meaning composition, including function
+application, modification, quantification, and binding, as well as issues in the syntax-semantics
+interface. The basic formal tools relevant for semantic analysis, including set theory, propositional
+logic, and predicate logic are also introduced.
+568. (LING368) Dialect Geography. (M) Tamminga.
+This course traces the origins and characteristics of regional dialects. Beginning with a survey of the
+traditional dialectology literature beginning in the 19th century, we will discuss the influences of social,
+political, and physical geography on language change. We will then move on to examine the
+foundations of North American English dialect regions and the large-scale language changes that
+underlie their development. Students enrolled in 368 will complete a final project on American English
+accents; students enrolled in 568 will write an original research paper on a non-English dialect topic of
+their choosing.!
+SM 570. Developmental Psycholinguistics. (B) Yang.
+The generative literature on language acquisition has produced many accurate and insightful
+descriptions of child language, but relatively few explicit accounts of learning that incorporate the role
+of individual experience into the knowledge of specific languages. Likewise, the experimental
+approach to language development has identified processes that could provide the bridge between
+the data and the grammar, but questions remain whether laboratory findings can sufficiently
+generalize to the full range of linguistic complexity. This course is an overview of research in language
+acquisition with particular focus on the important connection between what children know and how
+they come to know it.
+575. Mental Lexicon. (M) Yang.
+An investigation of the psychological representations and processing of words. Topics include: the
+extraction of words from speech; lexical access and production; the induction of morphological and
+phonological regularities in word learning; decomposition of morphologically complex words;
+frequency effects in morphological processing; storage vs. computation in the lexicon; the past tense
+debate; morphological change. This course makes extensive use of linguistic corpora. Students will
+also be familiarized with experimental design issues in the psycholinguistic study of the lexicon.
+581. Semantics II. (B) Schwarz.Prerequisite(s): Ling 551. Corequisite(s): Ling 551.
+The first part of the course expands the system from LING 580 to include intensional contexts. In
+particular, we discuss analyses of modals, attitude verbs, and conditionals, as well as the scope of
+noun phrases in modal environments. The second part of the course discusses a selection of topics
+from current work in semantics, such as the semantics of questions, tense and aspect, donkey
+anaphora, indefinites, genericity, degree constructions, events and situations, domain restriction,
+plurality and focus.
+590. Linguistic Pragmatics I. (A) Staff.Prerequisite(s): LING 550 or permission of instructor.
+This course is the first of a two-term introduction to linguistic pragmatics, the branch of linguistics
+whose goal is to provide a formal characterization of discourse competence, i.e. of what people know
+when they "know" how to use (a) language. Among the topics investigated are: The Cooperative
+Principle, conversational and conventional implicature, speech acts, reference, and presupposition.
+
+Page 11 of 16
+
+LINGUISTICS
+(AS) {LING}
+SM 591. Linguistic Pragmatics II. (B) Staff.Prerequisite(s): LING 590.
+This course is the second of a two-term introduction to linguistic pragmatics. Among the topics
+investigated are: given/new information, definiteness/ indefiniteness, topic/comment, Centering
+Theory, discourse structure, and the functions of syntax.
+595. Game Theoretic Pragmatics. (M) Clark.
+A great deal of linguistic meaning can be explained if we conceive of language as being a signaling
+system used by rational agents. Game theory provides an explicit mathematical account of rational,
+strategic interaction. This course will lay out the fundamentals of game theory, evolutionary game
+theory and multi-agent systems necessary to develop a theory of "radical pragmatics." We will discuss
+game theoretic models of implicature; presuppostion and accomodation; reference tracking; scalar
+implicature as well as a number of other phenomena.
+SM 596. Pragmatics Workshop. (A) Clark.
+SM 603. Topics in Phonology. (M) Buckley/Noyer.Prerequisite(s): LING 530-531.
+Topics are chosen from such areas as featural representations; syllable theory; metrical structure;
+tonal phonology; prosodic morphology; interaction of phonology with syntax and morphology.
+SM 604. Topics in Discourse Analysis. (C) Staff.Prerequisite(s): LING 550 and LING 590 or
+permission of instructor.
+Selected topics in discourse and pragmatics, e.g. reference, presupposition, functions of syntax.
+SM 608. Topics in Semantics and Pragmatics. (M) Clark/Schwarz.
+SM 610. (GRMN602) Seminar in Historical and Comparative Linguistics. (C) Ringe.
+Selected topics either in Indo-European comparative linguistics or in historical and comparative
+method.
+SM 615. Comparative Indo-European Grammar. (E) Ringe.
+A survey of phonology and grammar of major ancient Indo-European languages and the
+reconstruction of Proto-Indo-European. A knowledge of at least one ancient Indo-European language
+is required.
+SM 640. Formal Semantics and Mathematical Linguistics. (B) Clark.
+Advanced readings in formal semantics and discrete and continuous models of linguistic behavior.
+SM 616. Comparative Indo-Europian Grammar II. (C) Ringe.
+A survey of phonology and grammar of major ancient Indo-European languages and the
+reconstruction of Proto-Indo-European. A knowledge of at least one ancient Indo-European language
+is required.
+SM 620. Topics in Phonetics. (M) Liberman/Kuang.
+
+Page 12 of 16
+
+LINGUISTICS
+(AS) {LING}
+SM 630. Seminar in Morphology. (M) Noyer/Embick.Prerequisite(s): LING 530.
+Readings in modern morphological theory and evaluation of hypotheses in the light of synchronic and
+diachronic evidence from various languages.
+SM 650. Topics in Natural-Language Syntax. (C) Kroch/Legate.Prerequisite(s): LING 551 or
+permission of instructor.
+Detailed study of topics in syntax and semantics, e.g., pronominalization, negation, complementation.
+Topics vary from term to term.
+SM 653. Topics in the Syntax-Semantics Interface. (A) Kroch.
+Topics in the Syntax-Semantics Interface
+SM 656. Seminar in Historical Syntax. (M) Kroch.
+This course analyzes several well documented syntactic changes in the European languages with the
+tools of modern grammatical and quantitative analysis. The focus is on the competition between forms
+and systems as in the loss of the verb-second constraint in English and French and the competition
+between head initial and head final word orders in the several West Germanic languages.
+SM 660. Research Seminar in Sociolinguistics. (M) This course will have different topics each
+term.
+Students approaching the dissertation level will explore with faculty frontier areas of research on
+linguistic change and variation. Topics addressed in recent years include: experimental investigation of
+the reliability of syntactic judgments; the development of TMA systems in creoles; transmission of
+linguistic change across generations. The course may be audited by those who have finished their
+course work or taken for credit in more than one year.
+SM 662. Topics in Experimental Sociolinguistics.
+SM 670. Topics in the Cultural Evolution of Language. Roberts.
+Readings in the cultural evolution of language. This encompasses research on the contribution of
+processes of cultural change to the emergence of language in the human species, the emergence of
+new languages, and language change viewed as a cultural-evolutionary process. There will be an
+emphasis on research employing empirical methods, particularly experimentation. Otherwise focus
+varies from term to term.
+999. Independent Study and Research. (C) Student must submit brief proposal for approval. May be
+repeated for credit.
+
+Language Courses
+071. American Sign Language I. (C) Staff. Offered through the Penn Language Center
+Introduction to learning and understanding American Sign Language ( ASL ); cultural values and rules
+of behavior of the Deaf community in the United States. Includes receptive and expressive readiness
+activities; sign vocabulary; grammatical structure; facial expressive, body movement, gestures signs;
+receptive and expressive fingerspelling; and deaf culture.
+
+Page 13 of 16
+
+LINGUISTICS
+(AS) {LING}
+072. American Sign Language II. (C) Staff.Prerequisite(s): LING 071 or Permission of the Instructor.
+Offered through the Penn Language Center
+Increased communication skill in American Sign Language ( ASL ); cultural values and behavioral
+rules of the deaf community in the U.S.; receptive and expressive activities; sign vocabulary;
+grammatical structure; receptive and expressive fingerspelling and aspects of Deaf culture.
+073. American Sign Language III. (C) Staff.Prerequisite(s): LING 072 or permission of instructor.
+Offered through the Penn Language Center
+Expanded instruction of American Sign Language (ASL). Receptive and expressive activities; sign
+vocabulary; grammatical structure; receptive and expressive fingerspelling; narrative skills, cultural
+bahviors; and aspects of Deaf culture. Abstract and conversational approach.
+074. American Sign Language IV. (C) Staff.Prerequisite(s): LING 073 or permission of instructor.
+Offered through the Penn Language Center
+Increases the emphasis on more abstract and challenging conversational and narrative range.
+Includes receptive and expressive readiness activities; sign vocabulary; grammatical structure;
+receptive and expressive fingerspelling; various aspects of Deaf culture and cultural behavior rules.
+075. American Sign Language V. (C) Staff.Prerequisite(s): LING 074 or permission of instructor.
+Offered through the Penn Language Center
+This is an advanced ASL course in which students expand their conversational and narrative range.
+While receptive readiness activities continue to be an important part of the class, the emphasis moves
+toward honing expressive sign skills through narrative presentation and ASL-only class discussions.
+Various aspects of Deaf culture and cultural behavior rules will be incorporated into the course. A
+large component of the course is a unit on Deaf history in which students read and discuss major
+events and famous deaf people via readings, film, class lectures and discussions, and other outside
+resources.
+SM 076. Deaf Literature, Performance, Art, and Film. (B) Draganac-Hawk.Prerequisite(s): Ling 074
+and prior language experience or permission from instructor.
+This course is an advanced/conversational ASL course that explores several key topics related to
+Deaf culture and the Deaf experience s influence on literature (both written and signed), theatre, fine
+and visual arts, and film -both Deaf and hearing directed and acted. Using only ASL in class, students
+learn about various perspectives and approaches to each of the themes and topics of the course.
+Some questions to explore and answer in this course will be: What is Deaf Literature? The Deaf Lens:
+What is it? How is it different from a hearing perspective on film? How is Deafness expressed
+differently in each of the arts discussed in this course? Analysis and discussion will come from
+readings as well as viewings of various types of Deaf arts.
+
+Page 14 of 16
+
+LINGUISTICS
+(AS) {LING}
+077. ASL/Deaf Studies - ABCS. Fisher.Prerequisite(s): Ling 078 and permission from instructor.
+For this course, students will attend Pennsylvania School for the Deaf on a weekly basis where they
+will participate in and contribute to the school community via tutoring or other mutually agreeable
+activities. Students will also have formal class on a weekly basis with discussions and activities
+centering on reflection of community experiences through linguistic as well as cultural lenses.
+Additionally, drawing from the required Linguistics and other ASL/Deaf Studies coursework, students
+will develop an inquiry question and conduct preliminary community-based research to analyze
+sociolinguistic variations of ASL and Deaf cultural attitudes, behaviors, and norms. Ongoing reflections
+and discussions-formal and informal-on Deaf cultural/theoretical topics drawing from readings as well
+as community experiences will be integral to the course experience. LING 078, Topics in Deaf Culture
+and permission from the instructor, are required for this course.
+SM 078. Deaf Culture. (C) Fisher.Prerequisite(s): LING 074 or permission from coordinator. Offered
+through Penn Language Center
+This course is an advanced/conversational ASL course that explores several key topics related to
+Deaf Culture. Using only ASL in class, students will read and discuss books, articles, and films related
+to the following topics: What is Deaf Culture?, The History of the Deaf American, Communication
+Issues and Pathological Perspectives on Deafness, Deafness and Education, Deaf/Hearing Family
+Dynamics, and Deaf Theatre, Arts, and Poetry. Vocabulary, grammar, and idioms related to the topics
+will be presented through direct instruction as well as through the course of class conversation.
+081. Beginning Irish Gaelic I. (D) Blyn-LaDrew. Offered through the Penn Language Center
+Irish Gaelic, spoken primarily on the west coast of Ireland, is rich in oral traditions, song, poetry and
+literature. Knowledge of this language provides a foundation to understanding Celtic folklore and
+linguistics and also enhances the study of Anglo-Irish literature and history. The first-year course will
+include reading, conversation, listening and speaking.
+082. Beginning Irish Gaelic II. (C) Blyn-LaDrew.Prerequisite(s): LING 081 or permission from
+instructor. Offered through Penn Language Center
+083. Intermediate Irish Gaelic I. (C) Blyn-LaDrew.Prerequisite(s): LING 082 or equivalent. Offered
+through the Penn Language Center
+085. Advanced Irish Gaelic I. (C) Blyn-LaDrew.Prerequisite(s): LING 084 or equivalent. Offered
+through Penn Language Center
+086. Advanced Irish Gaelic II. (C) Blyn-LaDrew.Prerequisite(s): LING 085 or equivalent. Offered
+through the Penn Language Center
+This course will emphasize reading of literary texts, and advanced aspects of grammar, composition,
+and conversation.
+
+Page 15 of 16
+
+LINGUISTICS
+(AS) {LING}
+088. History of the Irish Language. (L) Blyn-LaDrew. Offered through the Penn Language Center
+From downloadable lists of computer terminology in Irish to Ogam inscriptions chiseled in stone in the
+5th century, the history of the Irish language reflects the history of the people themselves. This course
+outlines the language's changes through time and emergence from the unwritten Celtic, proto-Celtic,
+and Indo-European speech of its ancestors. Beginning in the modern period, when the very status of
+Irish as a living language has been hotly debated, the course will look backwards at the Celtic cultural
+revival of the late 19th century, the impact of the famine, nationalism, colonialism, the arrival of
+Christianity and the Roman alphabet, and the position of Irish within the Celtic branch of the IndoEuropean language family. Term papers may be based on fieldwork in the Irish-American community,
+or research. Audio and visual resources will supplement the lectures. Knowledge of Irish Gaelic is not
+required.
+091. American Sign Language III/IV. (M) Staff.Prerequisite(s): LING072 or by permission of
+instructor. Corequisite(s): Expanded instruction of ASL. Offered by Penn Language Center; permit
+from Penn Language Center required for admission.
+Expanded instruction of American Sign LAnguage (ASL). Includes receptive and expressive readiness
+activities; sign vocabulary; grammatical structure; receptive and finger-spelling; narrative skills; cultural
+behaviors; and aspects of Deaf culture. Increases the emphasis on more abstract and challenging
+conversational and narrative range. Abstract and conversational approach.
+
+Page 16 of 16
+
+

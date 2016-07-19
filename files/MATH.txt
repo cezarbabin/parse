@@ -1,0 +1,894 @@
+MATHEMATICS
+(AS) {MATH}
+CALCULUS: MATH 104, the first calculus course, assumes that students have had AB Calculus
+or the equivalent. Students who have not had AB Calculus or did poorly in AB Calculus should
+take MATH 103, which provides an introduction to calculus. There are two second-semester
+calculus courses. Students are advised to check their major department or their program for the
+specific requirements. In general, Math 114 is taken by students in the natural sciences,
+engineering and economics. Math 114 prepares students for the more advanced Calculus
+courses Math 240 and 241. Those who do not plan to take Math 240 may still want to consider
+taking Math 114. Math 115 is for students who do not plan to take more calculus like Math 240,
+and want an introduction to probability and matrices. Premed students who do not need Math
+114 for their majors could take Math 115. Most Wharton students may take either Calculus II
+course.
+MATH 103, 104, 114, 115, and 170 fulfill the FORMAL REASONING & ANALYSIS
+General Requirement. Also, MATH 170 satisfies the NATURAL SCIENCE & MATHEMATICS
+General Requirement.
+Students may not receive credit for two courses at the same level where the content is similar.
+For example, a student may not receive credit for both MATH 114 and MATH 115. The list of
+FORBIDDEN PAIRS of courses is (114, 115), (312, 370), (312, 412), (360, 508), (361, 509),
+(370, 502), (371, 503), and several statistics courses. Students are allowed to take a "topics
+course" such as MATH 480 more than once if the topics are different.
+PROSPECTIVE MATH MAJORS should note that the "proof in mathematics" courses, 202
+and 203, are recommended for the major. These are courses that are taken concurrently with
+Calculus. Potential majors who begin Calculus with MATH 114 or 240 usually take at least one
+of these courses during their freshman year. Potential majors who begin with MATH 104 often
+postpone their proof courses until the following year.Please see http//www.math.upenn.edu/
+ugrad/major.html for more information. To find out the requirements for MATH MINORS,
+please visit our web site http//www.math.upenn.edu/ugrad/minor.html for details. Majors and
+Minors could also find the most current listing of the cognate courses Majors or Minors may
+take at http//www.math.upenn.edu/ugrad/cognates.html
+103. Introduction to Calculus. (C) Staff. This is a Formal Reasoning course.
+Introduction to concepts and methods of calculus for students with little or no previous calculus
+experience. Polynomial and elementary transcendental functions and their applications, derivatives,
+extremum problems, curve-sketching, approximations; integrals and the fundamental theorem of
+calculus.
+104. Calculus, Part I. (C) Staff.Prerequisite(s): None. Engineering students are encouraged to
+register for the 007 lecture and group 7 recitations. This is a Formal Reasoning course.
+Brief review of High School calculus, applications of integrals, transcendental functions, methods of
+integration, infinite series, Taylor's theorem, and first order ordinary differential equations. Use of
+symbolic manipulation and graphics software in calculus.
+114. Calculus, Part II. (C) Staff.Prerequisite(s): Math 104. This is a Formal Reasoning course.
+Functions of several variables, vector-valued functions, partial derivatives and applications, double
+and triple integrals, conic sections, polar coordinates, vectors and vector calculus, first order ordinary
+differential equations. Applications to physical sciences. Use of symbolic manipulation and graphics
+software in calculus.
+
+Page 1 of 22
+
+MATHEMATICS
+(AS) {MATH}
+115. Calculus, Part II with Probability and Matrices. (C) Staff.Prerequisite(s): Math 104. This is a
+Formal Reasoning course.
+Functions of several variables, partial derivatives, multiple integrals, differential equations; introduction
+to linear algebra and matrices with applications to linear programming and Markov processes.
+Elements of probability and statistics. Applications to social and biological sciences. Use of symbolic
+manipulation and graphics software in calculus.
+116. Honors Calculus. (C) Staff. This is a Formal Reasoning course.
+Students who are interested in math or science might also want to consider a more challenging
+Honors version of Calculus II and III, Math 116 and Math 260 (the analogues of Math 114 and Math
+240, respectively). These courses will cover essentially the same material as 114 and 240, but more
+in depth and involve discussion of the underlying theory as well as computations.
+123. Community Math Teaching Project. (M) Staff.
+This course allows Penn students to teach a series of hands-on activities to students in math classes
+at University City High School. The semester starts with an introduction to successful approaches for
+teaching math in urban high schools. The rest of the semester will be devoted to a series of weekly
+hands-on activities designed to teach fundamental aspects of geometry. The first class meeting of
+each week, Penn faculty teach Penn students the relevant mathematical background and techniques
+for a hands-on activity. During the second session of each week, Penn students will teach the handson activity to a small group of UCHS students. The Penn students will also have an opportunity to
+develop their own activity and to implement it with the UCHS students.
+L/R 170. Ideas in Mathematics. (C) Natural Science & Mathematics Sector. Class of 2010 and
+beyond. Staff. May also be counted toward the General Requirement in Natural Science &
+Mathematics
+Topics from among the following: logic, sets, calculus, probability, history and philosophy of
+mathematics, game theory, geometry, and their relevance to contemporary science and society.
+180. Analytical Methods in Economics, Law, and Medicine. (M) Staff.
+Elementary applications of decision analysis, game theory, probability and statistics to issues in
+accounting, contracting, finance, law, and medicine, amongst others.
+SM 202. Proving Things: Analysis. (C) Staff. Corequisite(s): Math 104, 114 or 240.
+This course focuses on the creative side of mathematics, with an emphasis on discovery, reasoning,
+proofs and effective communication, while at the same time studying real and complex numbers,
+sequences, series, continuity, differentiability and integrability. Small class sizes permit an informal,
+discussion-type atmosphere, and often the entire class works together on a given problem. Homework
+is intended to be thought-provoking, rather than skill-sharpening.
+203. Proving things: Algebra. (C) Staff. Corequisite(s): Math 104, 114 or 240.
+This course focuses on the creative side of mathematics, with an emphasis on discovery, reasoning,
+proofs and effective communication, while at the same time studying arithmetic, algebra, linear
+algebra, groups, rings and fields. Small class sizes permit an informal, discussion-type atmosphere,
+and often the entire class works together on a given problem. Homework is intended to be thoughtprovoking, rather than skill-sharpening.
+
+Page 2 of 22
+
+MATHEMATICS
+(AS) {MATH}
+210. Mathematics in the Age of Information. (C) Staff.Prerequisite(s): Math 114, Math 115 or
+equivalent.
+This course counts as a regular elective for both the Mathematics Major and Minor.
+This is a course about mathematical reasoning and the media. Embedded in many stories one finds
+in the media are mathematical questions as well as implicit mathematical models for how the world
+behaves. We will discuss ways to recognize such questions and models, and how to think about them
+from a mathematical perspective. A key part of the course will be about what constitutes a
+mathematical proof, and what passes for proof in various media contexts. The course will cover a
+variety of topics in logic, probability and statistics as well as how these subjects can be used and
+abused.
+SM 220. (LAW 520, PHIL220) Proof in Math, Phil, Law. Staff.
+Proofs are vital to many parts of life. They arise typically in formal logic, mathematics, the testing of
+medication, and convincing a jury. How do you prove that the earth is essentially a sphere (in
+particular, not flat)? In reality, proofs arise anywhere one attempts to convince others. However, the
+nature of what constitutes a proof varies wildly depending on the situation -- and on whom you are
+attempting to convince. Convincing your math teacher or a judge is entirely different from convincing
+your mother or a jury. The course will present diverse views of Proof. On occasion there may be guest
+lecturers.
+240. Calculus, Part III. (C) Staff.Prerequisite(s): Calculus II.
+Linear algebra: vectors, matrices, systems of linear equations, vector spaces, subspaces, spans,
+bases, and dimension, eigenvalues, and eigenvectors, maxtrix exponentials. Ordinary differential
+equations: higher-order homogeneous and inhomogeneous ODEs and linear systems of ODEs,
+phase plane analysis, non-linear systems.
+241. Calculus, Part IV. (C) Staff.Prerequisite(s): MATH 240.
+Partial differential equations and their solutions, including solutions of the wave, heat and Laplace
+equations, and Sturm-Liouville problems. Introduction to Fourier series and Fourier transforms.
+Computation of solutions, modeling using PDE's, geometric intuition, and qualitative understanding of
+the evolution of systems according to the type of partial differential operator.
+260. Honors Calculus, Part II. (M) Staff.Prerequisite(s): Calculus II.
+This is an honors version of Math 240 which explores the same topics but with greater mathematical
+rigor.
+312. (MATH412) Linear Algebra. (M) Staff.Prerequisite(s): MATH 240. Students who have already
+received credit for either Math 370, 371, 502 or 503 cannot receive further credit for Math 312 or Math
+313/513. Students can receive credit for at most one of Math 312 and Math 313/513.
+Linear transformations, Gauss Jordan elimination, eigenvalues and eigenvectors, theory and
+applications. Mathematics majors are advised that MATH 312 cannot be taken to satisfy the major
+requirements.
+
+Page 3 of 22
+
+MATHEMATICS
+(AS) {MATH}
+313. (MATH513) Computational Linear Algebra. Staff.Prerequisite(s): Math 240, and some
+programming experience. Students who have already received credit for either Math 370, 371, 502 or
+503 cannot receive further credit for Math 312 or Math 313. Students can receive credit for at most
+one of Math 312 and Math 313.
+Many important problems in a wide range of disciplines within computer science and throughout
+science are solved using techniques from linear algebra. This course will introduce students to some
+of the most widely used algorithms and illustrate how they are actually used.
+Some specific topics: the solution of systems of linear equations by Gaussian elimination,
+dimension of a linear space, inner product, cross product, change of basis, affine and rigid motions,
+eigenvalues and eigenvectors, diagonalization of both symmetric and non-symmetric matrices,
+quadratic polynomials, and least squares optimazation.
+Applications will include the use of matrix computations to computer graphics, use of the discrete
+Fourier transform and related techniques in digital signal processing, the analysis of systems of linear
+differential equations, and singular value deompositions with application to a principal component
+analysis.
+The ideas and tools provided by this course will be useful to students who intend to tackle higher
+level courses in digital signal processing, computer vision, robotics, and computer graphics.
+314. (AMCS514, MATH514) Advanced Linear Algebra. Staff..Prerequisite(s): Math 114 or 115. Math
+314/514 covers Linear Algebra at the advanced level with a theoretical approach. Students can
+receive credit for at most one of Math 312 or Math 314.
+Topics will include: Vector spaces, Basis and dimension, quotients; Linear maps and matrices;
+Determinants, Dual spaces and maps; Invariant subspaces, Cononical forms; Scalar products:
+Euclidean, unitary and symplectic spaces; Orthogonal and Unitary operators; Tensor products and
+polylinear maps; Symmetric and skew-symmetric tensors and exterior algebra.
+320. Computer Methods in Mathematical Science I. (A) Staff.Prerequisite(s): MATH 240 or
+concurrent and ability to program a computer, or permission of instructor.
+Students will use symbolic manipulation software and write programs to solve problems in numerical
+quadrature, equation-solving, linear algebra and differential equations. Theoretical and computational
+aspects of the methods will be discussed along with error analysis and a critical comparison of
+methods.
+321. Computer Methods in Mathematical Sciences II. (M) Staff.Prerequisite(s): MATH 320.
+Continuation of MATH 320.
+340. (LGIC210) Discrete Mathematics I. (M) Staff.Prerequisite(s): MATH 114 or Math 115 or
+permission of the instructor.
+Topics will be drawn from some subjects in combinatorial analysis with applications to many other
+branches of math and science: graphs and networks, generating functions, permutations, posets,
+asymptotics.
+341. (LGIC220) Discrete Mathematics II. Staff.Prerequisite(s): Math 340/Logic 210 or permission of
+the instructor.
+Topics will be drawn from some subjects useful in the analysis of information and computation: logic,
+set theory, theory of computation, number theory, probability, and basic cryptography.
+
+Page 4 of 22
+
+MATHEMATICS
+(AS) {MATH}
+350. Number Theory. (M) Staff.
+Congruences, Diophantine equations, continued fractions, nonlinear congruences, and quadratic
+residues.
+360. Advanced Calculus. (C) Staff.Prerequisite(s): MATH 240.
+Syllabus for MATH 360-361: a study of the foundations of the differential and integral calculus,
+including the real numbers and elementary topology, continuous and differentiable functions, uniform
+convergence of series of functions, and inverse and implicit function theorems. MATH 508-509 is a
+masters level version of this course.
+361. Advanced Calculus. (C) Staff.Prerequisite(s): MATH 360.
+Continuation of MATH 360.
+370. Algebra. (C) Staff.Prerequisite(s): MATH 240. Students who have already received credit for
+either Math 370, 371, 502 or 503 cannot receive further credit for Math 312 or Math 313/513.
+Students can receive credit for at most one of Math 312 and Math 313/513.
+Syllabus for MATH 370-371: an introduction to the basic concepts of modern algebra. Linear algebra,
+eigenvalues and eigenvectors of matrices, groups, rings and fields. MATH 502-503 is a masters level
+version of this course.
+371. Algebra. (C) Staff.Prerequisite(s): MATH 370. Students who have already received credit for
+either Math 370, 371, 502 or 503 cannot receive further credit for Math 312 or Math 313/513.
+Students can receive credit for at most one of Math 312 and Math 313/513.
+Continuation of MATH 370.
+410. (AMCS510, MATH299) Complex Analysis. (C) Staff.Prerequisite(s): MATH 240 or permission of
+instructor.
+Complex numbers, DeMoivre's theorem, complex valued functions of a complex variable, the
+derivative, analytic functions, the Cauchy-Riemann equations, complex integration, Cauchy's integral
+theorem, residues, computation of definite integrals by residues, and elementary conformal mapping.
+420. (AMCS520) Ordinary Differential Equations. (C) Staff.Prerequisite(s): MATH 240 permission of
+instructor.
+After a rapid review of the basic techniques for solving equations, the course will discuss one or more
+of the following topics: stability of linear and nonlinear systems, boundary value problems and
+orthogonal functions, numerical techniques, Laplace transform methods.
+425. (AMCS525) Partial Differential Equations. (A) Staff.Prerequisite(s): MATH 240 or permission of
+instructor. Knowledge of PHYS 150-151 will be helpful.
+Method of separation of variables will be applied to solve the wave, heat, and Laplace equations. In
+addition, one or more of the following topics will be covered: qualitative properties of solutions of
+various equations (characteristics, maximum principles, uniqueness theorems), Laplace and Fourier
+transform methods, and approximation techniques.
+
+Page 5 of 22
+
+MATHEMATICS
+(AS) {MATH}
+430. (AMCS530) Introduction to Probability. (M) Staff.Prerequisite(s): MATH 240.
+Random variables, events, special distributions, expectations, independence, law of large numbers,
+introduction to the central limit theorem, and applications.
+432. (AMCS532) Game Theory.. (C) Staff.
+A mathematical approach to game theory, with an emphasis on examples of actual games. Topics will
+include mathematical models of games, combinatorial games, two person (zero sum and general
+sum) games, non-cooperating games and equilibria.
+460. (MATH500) Topology. (M) Staff.Prerequisite(s): MATH 240/241.
+Point set topology: metric spaces and topological spaces, compactness, connectedness, continuity,
+extension theorems, separation axioms, quotient spaces, topologies on function spaces, Tychonoff
+theorem. Fundamental groups and covering spaces, and related topics.
+465. (MATH501) Differential Geometry. (M) Staff.Prerequisite(s): MATH 361 or Permission of the
+instructor.
+Differential geometry of curves in the plane and in 3-space;n gauge theories Surfaces in 3-space; The
+geometry of the Gauss map;ons. The language of Intrinsic geometry of surfaces; Geodesics; Moving
+frames; of vector bundles, The Gauss-Bonnet Theorem; Assorted additional topics.
+501. (MATH465) Geometry-Topology, Differential Geometry. (M) Staff.Prerequisite(s): Math 240,
+Math 312 (or 370), and Math 361 (or 508); or Math 500; or with the permission of the instructor.
+The course moves from a study of extrinsic geometry (curves and surfaces in n-space) to the intrinsic
+geometry of manifolds. After a review of vector calculus and a section on tensor algebra, we study
+manifolds and their intrinsic geometry, including metrics, connections, geodesics, and the Riemann
+curvature tensor. Topics include Eulerian curvature and Euler's theorems, the Gauss map and first/
+second fundamental forms, the Theorema Egregium, minimal surfaces in n-space; other topics as
+time permits.
+
+Page 6 of 22
+
+MATHEMATICS
+(AS) {MATH}
+480. Topics in Modern Math. (M) Staff.Prerequisite(s): A year of analysis at the 300 level or above
+(for example, Mathematics 360-361,508-509); a semester of linear algebra at the 300 level or above
+(for example, Mathematics 370).
+Mathematics 480 will open with a review of the basics of real analysis (brief or extended background
+requires). The review will include: introduction of the real numbers through Dedekind cuts, continuity
+of real-valued functions on the real line; Cantor nested-interval principle, basic results for continuous
+functions, Maximum and Intermediate Value theorems, Heine-Borel Theorem, Uniform Continuity on
+closed intervals; metric spaces, convergence of sequences, Cauchy sequences, completeness, more
+general uniform continuity and intermediate value theorems; general topology, separation,
+compactness, product spaces, Tychonoff's Theorem.
+Special topics in analysis: Weierstrass Polynomial Approximation Theorem, Bernstein polynomials
+and simultaneous approxfunctions and derivatives, topics from divergent series, summation methods;
+r measure theory, the Lebesgue integral, Lp spaces, Holder, Minkowski, and and Cauchy-Schwarz
+inequalities; basics of Functional Analysis, normed spaces, Banach spaces and Hilbert space, with
+examples (Lp spaces, continuous-functions spaces), Banach spaces and spectral theory, groups and
+Fourier transforms, Tauberian theorems; approximation theory, again, through the prism of functional
+analysis; extension of the polynomial approximation theorem (Stone-Weierstrass theorem), Muntz
+approximation theorem (by polynomials with preassigned powers), compact operators, the Spectral
+theorem, Stone's theorem (resprsentations of the additive group of real numbers); Peter-Weyl theory
+(represenations of compact groups). A selection from these topics as time and class preparation
+allow.
+499. Supervised Study. (C) Staff.Prerequisite(s): Permission of major adviser. Hours and credit to be
+arranged
+Study under the direction of a faculty member. Intended for a limited number of mathematics majors.
+500. (MATH460) Geometry-Topology, Differential Geometry. (M) Staff.Prerequisite(s): Math
+240/241.
+Point set topology: metric spaces and topological spaces, compactness, connectedness, continuity,
+extension theorems, separation axioms, quotient spaces, topologies on function spaces, Tychonoff
+theorem. Fundamental groups and covering spaces, and related topics.
+502. Abstract Algebra. (A) Staff.Prerequisite(s): Math 240. Students who have already received
+credit for either Math 370, 371, 502 or 503 cannot receive further credit for Math 312 or Math 313/513.
+Students can receive credit for at most one of Math 312 and Math 313/513.
+An introduction to groups, rings, fields and other abstract algebraic systems, elementary Galois
+Theory, and linear algebra -- a more theoretical course than Math 370.
+503. Abstract Algebra. (B) Staff.Prerequisite(s): Math 502 or with the permission of the instructor.
+Students who have already received credit for either Math 370, 371, 502 or 503 cannot receive further
+credit for Math 312 or Math 313/513. Students can receive credit for at most one of Math 312 and
+Math 313/513.
+Continuation of Math 502.
+504. Graduate Proseminar in Mathematics. (A) Staff.
+This course focuses on problems from Algebra (especially linear algebra and multilinear algebra) and
+Analysis (especially multivariable calculus through vector fields, multiple integrals and Stokes
+theorem). The material is presented through student solving of problems. In addition there will be a
+selection of advanced topics which will be accessible via this material.
+
+Page 7 of 22
+
+MATHEMATICS
+(AS) {MATH}
+505. Graduate Proseminar in Mathematics. (B) Staff.
+This course focuses on problems from Algebra (especially linear algebra and multilinear algebra) and
+Analysis (especially multivariable calculus through vector fields, multiple integrals and Stokes
+theorem). The material is presented through student solving of problems. In addition there will be a
+selection of advanced topics which will be accessible via this material.
+508. Advanced Analysis. (A) Staff.Prerequisite(s): Math 240/241. Math 200/201 also recommended.
+Construction of real numbers, the topology of the real line and the foundations of single variable
+calculus. Notions of convergence for sequences of functions. Basic approximation theorems for
+continuous functions and rigorous treatment of elementary transcendental functions. The course is
+intended to teach students how to read and construct rigorous formal proofs. A more theoretical
+course than Math 360.
+509. Advanced Analysis. (B) Staff.Prerequisite(s): Math 508 or with the permission of the instructor.
+Linear algebra is also helpful.
+Continuation of Math 508. The Arzela-Ascoli theorem. Introduction to the topology of metric spaces
+with an emphasis on higher dimensional Euclidean spaces. The contraction mapping principle.
+Inverse and implicit function theorems. Rigorous treatment of higher dimensional differential calculus.
+Introduction to Fourier analysis and asymptotic methods.
+520. (MATH702) Selections from Algebra. (M) Staff. Corequisite(s): Math 502 or permission of the
+instructor.
+Informal introduction to such subjects as homological algebra, number theory, and algebraic
+geometry.
+512. Advanced Linear Algebra. Staff.Prerequisite(s): Math 114 or 115. Math 512 covers Linear
+Algebra at the advanced level with a theoretical approach. Students can receive credit for at most one
+of Math 312 and Math 512.
+Topics will include: Vector spaces, Basis and dimension, quotients; Linear maps and matrices;
+Determinants, Dual spaces and maps; Invariant subspaces, Cononical forms; Scalar products:
+Euclidean, unitary and symplectic spaces; Orthogonal and unitary operators; Tensor products and
+polylinear maps; Symmetric and skew-symmetric tensors and exterior algebra.
+513. (MATH313) Computational Linear Algebra. Staff.
+A number of important and interesting problems in a wide range of disciplines within computer
+science are solved by recourse to techniques from linear algebra. The goal of this course will be to
+introduce students to some of the most important and widely used algorithms in matrix computation
+and to illustrate how they are actually used in various settings. Motivating applications will include: the
+solution of systems of linear equations, applications matrix computations to modeling geometric
+transformations in graphics, applications of the Discrete Fourier Transform and related techniques in
+digital signal processing, the solution of linear least squares optimization problems and the analysis of
+systems of linear differential equations. The course will cover the theoretical underpinnings of these
+problems and the numerical algorithms that are used to perform important matrixcomputations such
+as Gaussian Elimination, LU Decomposition and Singular Value Decomposition.
+514. (AMCS514, MATH314) ADVANCED LINEAR ALGEBRA.
+
+Page 8 of 22
+
+MATHEMATICS
+(AS) {MATH}
+521. Selections from Algebra. (M) Staff. Corequisite(s): Math 502 or permission of the instructor.
+Informal introduction to such subjects as homological algebra, number theory, and algebraic
+geometry.
+524. Topics in Modern Applied Algebra. (M) Staff.Prerequisite(s): Math 371 or Math 503.
+Topics such as automata, finite state languages, Boolean algebra, computers and logical design will
+be discussed.
+525. Topics in Modern Applied Algebra. (M) Staff.Prerequisite(s): Math 371 or Math 503.
+Topics such as automata, finite state languages, Boolean algebra, computers and logical design will
+be discussed.
+530. Mathematics of Finance. (M) Staff.Prerequisite(s): Math 240, Stat 430.
+This course presents the basic mathematical tools to model financial markets and to make
+calculations about financial products, especially financial derivatives. Mathematical topics covered:
+stochastic processes, partial differential equations and their relationship. No background in finance is
+assumed.
+540. (MATH730) Selections from Classical and Functional Analysis. (M) Staff. Corequisite(s):
+Math 508 or permission of the instructor.
+Informal introduction to such subjects as compact operators and Fredholm theory, Banach algebras,
+harmonic analysis, differential equations, nonlinear functional analysis, and Riemann surfaces.
+546. (STAT930) Probability Theory. (A) Staff.
+The required background is (1) enough math background to understand proof techniques in real
+analysis (closed sets, uniform covergence, fourier series, etc.) and (2) some exposure to probability
+theory at an intuitive level (a course at the level of Ross's probability text or some exposure to
+probability in a statistics class).
+After a summary of the necessary results from measure theory, we will learn the probabist's lexicon
+(random variables, independence, etc.). We will then develop the necessary techniques (Borel Cantelli
+lemmas, estimates on sums of independent random variables and truncation techniques) to prove the
+classical laws of large numbers. Next come Fourier techniques and the Central Limit Theorem,
+followed by combinatorial techniques and the study of random walks.
+547. (STAT531) Stochastic Processes. (M) Staff.Prerequisite(s): Math 546/Stat 530 or the
+equivalent.
+Markov chains, Markov processes, and their limit theory. Renewal theory. Martingales and optimal
+stopping. Stable laws and processes with independent increments. Brownian motion and the theory of
+weak convergence. Point processes.
+548. Topics in Analysis. (M) Staff.Prerequisite(s): Math 360/361 and Math 370; or Math 508/509 and
+Math 502.
+Topics may vary but typically will include an introduction to topological linear spaces and Banach
+spaces, and to Hilbert space and the spectral theorem. More advanced topics may include Banach
+algebras, Fourier analysis, differential equations and nonlinear functional analysis.
+
+Page 9 of 22
+
+MATHEMATICS
+(AS) {MATH}
+549. Topics in Analysis. (M) Staff.Prerequisite(s): Math 548 or with the permission of the instructor.
+Continuation of Math 548.
+560. (MATH760) Selections from Geometry and Topology. (M) Staff. Corequisite(s): Math 500 or
+permission of the instructor.
+Informal introduction to such subjects as homology and homotopy theory, classical differential
+geometry, dynamical systems, and knot theory.
+561. Selections from Geometry and Topology. (M) Staff. Corequisite(s): Math 500 or permission of
+the instructor.
+Informal introduction to such subjects as homology and homotopy theory, classical differential
+geometry, dynamical systems, and knot theory.
+580. Combinatorial Analysis and Graph Theory. (M) Staff.Prerequisite(s): Permission of the
+instructor.
+Generating functions, enumeration methods, Polya's theorem, combinatorial designs, discrete
+probability, extremal graphs, graph algorithms and spectral graph theory, combinatorial and
+computational geometry.
+570. (LGIC310, PHIL410) Introduction to Logic and Computability. (M) Staff.Prerequisite(s): Math
+371 or Math 503.
+Propositional logic: semantics, formal deductions, resolution method. First order logic: validity, models,
+formal deductions; Godel's completeness theorem, Lowenheim-Skolem theorem: cut-elimination,
+Herbrand's theorem, resolution method.Computability: finite automata, Turing machines, Godel's
+incompleteness theorems. Algorithmically unsolvable problems in mathematics.
+SM 571. (CIS 518, LGIC320, MATH671, PHIL412) Topics in Logic. (M) Staff.Prerequisite(s): Math
+570 or with the permission of the instructor.
+Continuation of Math 570.
+575. Mathematical Theory of Computation. (M) Staff.Prerequisite(s): Math 574 or with the
+permission of the instructor.
+Continuation of Math 574.
+581. Combinatorial Analysis and Graph Theory. (M) Staff.Prerequisite(s): Math 580 or with the
+permission of the instructor.
+Continuation of Math 580.
+582. (AMCS701) Applied Mathematics and Computation. (M) Staff.Prerequisite(s): Math 240-241.
+Math 312, Math 360. Knowledge of Math 412 and Math 508 is recommended.
+This course offers first-hand experience of coupling mathematics with computing and applications.
+Topics include: Random walks, randomized algorithms, information theory, coding theory,
+cryptography, combinatorial optimization, linear programming, permutation networks and parallel
+computing. Lectures will be supplemented by informal talks by guest speakers from industry about
+examples and their experience of using mathematics in the real world.
+
+Page 10 of 22
+
+MATHEMATICS
+(AS) {MATH}
+583. Applied Mathematics and Computation. (M) Staff.Prerequisite(s): Math 582 or with the
+permission of the instructor.
+Continuation of Math 582.
+584. (BE 584) The Mathematics of Medical Imaging and Measurement. (M) Staff..Prerequisite(s):
+Math 241, knowledge of linear algebra and basic physics.
+In the last 25 years there has been a revolution in image reconstruction techniques in fields from
+astrophysics to electron microscopy and most notably in medical imaging. In each of these fields one
+would like to have a precise picture of a 2 or 3 dimensional object which cannot be obtained
+directly.The data which is accesible is typically some collection of averages. The problem of image
+reconstruction is to build an object out of the averaged data and then estimate how close the
+reconstruction is to the actual object. In this course we introduce the mathematical techniques used to
+model measurements and reconstruct images. As a simple representative case we study transmission
+X-ray tomography (CT).In this context we cover the basic principles of mathematical analysis, the
+Fourier transform, interpolation and approximation of functions, sampling theory, digital filtering and
+noise analysis.
+585. The Mathematics of Medical Imaging and Measurement. (M) Staff.Prerequisite(s): Math 584
+or with the permission of the instructor.
+Continuation of Math 584.
+586. (BIOL586) Topics in Mathematical Biology. Staff.Prerequisite(s): Math 430 or equivalent is
+required. Math 241 and 340 are recommended.
+This course will cover various mathematical models and tools that are used to study modern
+biological problems. The specific emphasis will vary from year to year, but typically will include an
+introduction to stochastic processes and computational methods that arise in evolutionary biology and
+population genetics. No prior knowledge of biology is needed to take this course, but a strong
+background in probability and familiarity with algorithms and combinatorics will be assumed.
+594. (PHYS500) Advanced Methods in Applied Mathematics. (M) Staff.Prerequisite(s): Math 241
+or Permission of Instructor. Physics 151 would be helpful for undergraduates.
+Introduction to mathematics used in physics and engineering, with the goal of developing facility in
+classical techniques. Vector spaces, linear algebra, computation of eigenvalues and eigenvectors,
+boundary value problems, spectral theory of second order equations, asymptotic expansions, partial
+differential equations, differential operators and Green's functions, orthogonal functions, generating
+functions, contour integration, Fourier and Laplace transforms and an introduction to representation
+theory of SU(2) and SO(3). The course will draw on examples in continuum mechanics, electrostatics
+and transport problems.
+599. Independent Study. (C)
+600. Topology and Geometric Analysis. (A) Staff.Prerequisite(s): Math 500/501 or with the
+permission of the instructor.
+Differentiable functions, inverse and implicit function theorems. Theory of manifolds: differentiable
+manifolds, charts, tangent bundles, transversality, Sard's theorem, vector and tensor fields and
+differential forms: Frobenius' theorem, integration on manifolds, Stokes' theorem in n dimensions, de
+Rham cohomology. Introduction to Lie groups and Lie group actions.
+
+Page 11 of 22
+
+MATHEMATICS
+(AS) {MATH}
+601. Topology and Geometric Analysis. (B) Staff.Prerequisite(s): Math 600 or with the permission of
+the instructor.
+Covering spaces and fundamental groups, van Kampen's theorem and classification of surfaces.
+Basics of homology and cohomology, singular and cellular; isomorphism with de Rham cohomology.
+Brouwer fixed point theorem, CW complexes, cup and cap products, Poincare duality, Kunneth and
+universal coefficient theorems, Alexander duality, Lefschetz fixed point theorem.
+605. First Year Seminar in Mathematics. (B) Staff..Prerequisite(s): Open to first year Mathematics
+graduate students. Others need permission of the instructor.
+Continuation of Math 604.
+602. Algebra. (A) Staff.Prerequisite(s): Math 370/371 or Math 502/503.
+Group theory: permutation groups, symmetry groups, linear algebraic groups, Jordan-Holder and
+Sylow theorems, finite abelian groups, solvable and nilpotent groups, p-groups, group extensions.
+Ring theory: Prime and maximal ideals, localization, Hilbert basis theorem, integral extensions,
+Dedekind domains, primary decomposition, rings associated to affine varieties, semisimple rings,
+Wedderburn's theorem, elementary representation theory. Linear algebra: Diagonalization and
+canonical form of matrices, elementary representation theory, bilinear forms, quotient spaces, dual
+spaces, tensor products, exact sequences, exterior and symmetric algebras. Module theory: Tensor
+products, flat and projective modules, introduction to homological algebra, Nakayama's Lemma. Field
+theory: separable and normal extensions, cyclic extensions, fundamental theorem of Galois theory,
+solvability of equations.
+603. Algebra. (B) Staff.Prerequisite(s): Math 602 or with the permission of the instructor.
+Continuation of Math 602.
+604. First Year Seminar in Mathematics. (A) Staff.Prerequisite(s): Open to first year Mathematics
+graduate students. Others need permission of the instructor.
+This is a seminar for first year Mathematics graduate student, supervised by faculty. Students give
+talks on topics from all areas of mathematics at a level appropriate for first year graduate students.
+Attendance and preparation will be expected by all participants, and learning how to present
+mathematics effectively is an important part of the seminar.
+608. (AMCS608) Analysis. (C) Staff.Prerequisite(s): Math 508-509.
+Complex analysis: analyticity, Cauchy theory, meromorphic functions, isolated singularities, analytic
+continuation, Runge's theorem, d-bar equation, Mittlag-Leffler theorem, harmonic and sub-harmonic
+functions, Riemann mapping theorem, Fourier transform from the analytic perspective. Introduction to
+real analysis: Weierstrass approximation, Lebesgue measure in Euclidean spaces, Borel measures
+and convergence theorems, C0 and the Riesz-Markov theorem, Lp-spaces, Fubini Theorem.
+609. (AMCS609) Analysis. (C) Staff.Prerequisite(s): Math 608 or permission of the instructor.
+Real analysis: general measure theory, outer measures and Cartheodory construction, Hausdorff
+measures, Radon-Nikodym theorem, Fubini's theorem, Hilbert space and L2-theory of the Fourier
+transform. Functional analysis: normed linear spaces, convexity, the Hahn-Banach theorem, duality for
+Banach spaces, weak convergence, bounded linear operators, Baire category theorem, uniform
+boundedness principle, open mapping theorem, closed graph theorem, compact operators, Fredholm
+theory, interpolation theorems, Lp-theory for the Fourier transform.
+
+Page 12 of 22
+
+MATHEMATICS
+(AS) {MATH}
+618. Algebraic Topology, Part I. (A) Staff.Prerequisite(s): Math 600/601 or with the permission of the
+instructor.
+Homotopy groups, Hurewicz theorem, Whitehead theorem, spectral sequences. Classification of
+vector bundles and fiber bundles. Characteristic classes and obstruction theory.
+619. Algebraic Topology, Part I. (B) Staff.Prerequisite(s): Math 618 or with the permission of the
+instructor.
+Rational homotopy theory, cobordism, K-theory, Morse theory and the h-corbodism theorem. Surgery
+theory.
+634. ARITHMETIC GEOMETRY.
+642. Topics in Partial Differential Equations. Staff.Prerequisite(s): Math 608, 609. This course will
+not presume courses in Partial Differential Equations or Differential Geometry. Background will be
+covered in the course.
+Problems in differential geometry, as well as those in physics and engineering, inevitable involve
+partial derivatives. This course will be an introduction to these problems and techniques. We will use
+P.D.E. as a tool. Some of the applications will be small, some large. The proof of the Hodge Theorem
+will be a small application. Discussion of the Yamabe problem and ricci flow (used to prove the
+Poincare Conjecture) will be larger.
+SM 878. Probability and Algorithm Seminar. Staff..
+Seminar on current and recent literature in probability and algorithm.
+SM 879. Seminar on additive combinatorics.. Staff..
+
+Advanced Graduate Courses
+612. Selections from Algebra. (M) Staff. Corequisite(s): MATH 600 and 602.
+Informal introduction to such subjects as homological algebra, number theory, and algebraic
+geometry.
+
+Algebra
+620. Algebraic Number Theory. (M) Staff.Prerequisite(s): Math 602/603.
+Dedekind domains, local fields, basic ramification theory, product formula, Dirichlet unit theory,
+finiteness of class numbers, Hensel's Lemma, quadratic and cyclotomic fields, quadratic reciprocity,
+abelian extensions, zeta and L-functions, functional equations, introduction to local and global class
+field theory. Other topics may include: Diophantine equations, continued fractions, approximation of
+irrational numbers by rationals, Poisson summation, Hasse principle for binary quadratic forms,
+modular functions and forms, theta functions.
+621. Algebraic Number Theory. (M) Staff.Prerequisite(s): Math 620 or with the permission of the
+instructor.
+Continuation of Math 620.
+
+Page 13 of 22
+
+MATHEMATICS
+(AS) {MATH}
+622. Complex Algebraic Geometry. (M) Staff.Prerequisite(s): Math 602/603 and Math 609.
+Algebraic geometry over the complex numbers, using ideas from topology, complex variable theory,
+and differential geometry. Topics include: Complex algebraic varieties, cohomology theories, line
+bundles, vanishing theorems, Riemann surfaces, Abel's theorem, linear systems, complex tori and
+abelian varieties, Jacobian varieties, currents, algebraic surfaces, adjunction formula, rational
+surfaces, residues.
+623. Complex Algebraic Geometry. (M) Staff.Prerequisite(s): Math 622 or with the permission of the
+instructor.
+Continuation of Math 622.
+624. Algebraic Geometry. (M) Staff.Prerequisite(s): Math 602/603.
+Algebraic geometry over algebraically closed fields, using ideas from commutative algebra. Topics
+include: Affine and projective algebraic varieties, morphisms and rational maps, singularities and
+blowing up, rings of functions, algebraic curves, Riemann Roch theorem, elliptic curves, Jacobian
+varieties, sheaves, schemes, divisors, line bundles, cohomology of varieties, classification of surfaces.
+625. Algebraic Geometry. (M) Staff.Prerequisite(s): Math 624 or with the permission of the instructor.
+Continuation of Math 624.
+626. Commutative Algebra. (M) Staff.Prerequisite(s): Math 602/603.
+Topics in commutative algebra taken from the literature. Material will vary from year to year depending
+upon the instructor's interests.
+627. Commutative Algebra. (M) Staff.Prerequisite(s): Math 602/603.
+Topics in commutative algebra taken from the literature. Material will vary from year to year depending
+upon the instructor's interests.
+628. Homological Algebra. (M) Staff.Prerequisite(s): Math 602/603.
+Complexes and exact sequences, homology, categories, derived functors (especially Ext and Tor).
+Homology and cohomology arising from complexes in algebra and geometry, e.g. simplicial and
+singular theories, Cech cohomology, de Rham cohomology, group cohomology, Hochschild
+cohomology. Projective resolutions, cohomological dimension, derived categories, spectral
+sequences. Other topics may include: Lie algebra cohomology, Galois and etale cohomology, cyclic
+cohomology, l-adic cohomology. Algebraic deformation theory, quantum groups, Brauer groups,
+descent theory.
+629. Homological Algebra. (M) Staff.Prerequisite(s): Math 628 or with the permission of the
+instructor.
+Continuation of Math 628.
+
+Algebraic and Differential Topology
+
+Page 14 of 22
+
+MATHEMATICS
+(AS) {MATH}
+630. Differential Topology. (M) Staff.Prerequisite(s): Math 600/601.
+Fundamentals of smooth manifolds, Sard's theorem, Whitney's embedding theorem, transversality
+theorem, piecewise linear and topological manifolds, knot theory. The instructor may elect to cover
+other topics such as Morse Theory, h-cobordism theorem, characteristic classes, cobordism theories.
+631. Differential Topology. (M) Staff.Prerequisite(s): Math 630 or with the permission of the
+instructor.
+Continuation of Math 630.
+632. Topological Groups. (M) Staff.Prerequisite(s): Math 600/601 and Math 602/603.
+Fundamentals of topological groups. Haar measure. Representations of compact groups. Peter-Weyl
+theorem. Pontrjagin duality and structure theory of locally compact abelian groups.
+633. Topological Groups. (M) Staff.Prerequisite(s): Math 632 or with the permission of the instructor.
+Continuation of Math 632.
+638. Algebraic Topology, Part II. (C) Staff.Prerequisite(s): Math 618/619.
+Theory of fibre bundles and classifying spaces, fibrations, spectral sequences, obstruction theory,
+Postnikov towers, transversality, cobordism, index theorems, embedding and immersion theories,
+homotopy spheres and possibly an introduction to surgery theory and the general classification of
+manifolds.
+639. Algebraic Topology, Part II. (C) Staff.Prerequisite(s): Math 638 or with the permission of the
+instructor.
+Continuation of Math 638.
+
+Classical Analysis
+640. Ordinary Differential Equations. (M) Staff.Prerequisite(s): Math 508/509.
+The general existence and uniqueness theorems for systems of ordinary differential equations and
+the dependence of solutions on initial conditions and parameters appearing in the equation. The
+proofs of existence and uniqueness are related to numerical algorithms for finding approximate
+solutions for systems of ODE's. We consider special properties of constant coefficient and linear
+systems. We then present the theory of linear equations with analytic coefficients, the theories of
+singular points, indicial roots and asymptotic solutions. We then turn to boundary value problems for
+second order equations with an emphasis on the eigenfunction expansions associated with self
+adjoint boundary conditions and the Sturm comparison theory. The remaining time is devoted to
+topics; for example: Hamiltonian systems and symplectic geometry, singular boundary value
+problems, perturbation theory, the Lyapounov-Schmidt theory and the Poincare-Bendixson theorem,
+the equations of mathematical physics, the calculus of variations, symmetries of ODE's and
+transformation groups.
+641. Ordinary Differential Equations. (M) Staff.Prerequisite(s): Math 640 or with the permission of
+the instructor.
+Continuation of Math 640
+
+Page 15 of 22
+
+MATHEMATICS
+(AS) {MATH}
+644. Partial Differential Equations. (M) Staff.Prerequisite(s): Math 600/601, Math 608/609.
+Subject matter varies from year to year. Some topics are: the classical theory of the wave and Laplace
+equations, general hyperbolic and elliptic equations, theory of equations with constant coefficients,
+pseudo-differential operators, and non-linear problems. Sobolev spaces and the theory of distributions
+will b developed as needed.
+650. Lie Algebras. (M) Staff.Prerequisite(s): Math 602/603.
+Connections with Lie groups, universal enveloping algebras, Poincare-Birkhoff-Witt Theorem, Lie and
+Engels theorems, free Lie algebras, Killing form, semisimple algebras, root systems, Dynkin
+diagrams, classification of complex simple Lie algebras, representation theory of Lie algebras,
+cohomology of Lie algebras.
+645. Partial Differential Equations. (M) Staff.Prerequisite(s): Math 600/601, Math 608/609.
+Subject matter varies from year to year. Some topics are: the classical theory of the wave and Laplace
+equations, general hyperbolic and elliptic equations, theory of equations with constant coefficients,
+pseudo-differential operators, and nonlinear problems. Sobolev spaces and the theory of distributions
+will be developed as needed.
+646. Several Complex Variables. (M) Staff.Prerequisite(s): Math 600/601, Math 608/609.
+Analytic spaces, Stein spaces, approximation theorems, embedding theorems, coherent analytic
+sheaves, Theorems A and B of Cartan, applications to the Cousin problems, and the theory of
+Banach algebras, pseudoconvexity and the Levi problems.
+647. Several Complex Variables. (M) Staff.Prerequisite(s): Math 646 or with the permission of the
+instructor.
+Continuation of Math 646.
+
+Functional Analysis
+651. Lie Algebras. (M) Staff.Prerequisite(s): Math 650 or with the permission of the instructor.
+Continuation of Math 650.
+652. Operator Theory. (M) Staff.
+Subject matter may include spectral theory of operators in Hilbert space, C*-algebras, von Neumann
+algebras.
+653. Operator Theory. (M) Staff.
+Subject matter may include spectral theory of operators in Hilbert space, C*-algebras, von Neumann
+algebras.
+654. Lie Groups. (M) Staff.Prerequisite(s): Math 600/601, Math 602/603.
+Connection of Lie groups with Lie algebras, Lie subgroups, exponential map. Algebraic Lie groups,
+compact and complex Lie groups, solvable and nilpotent groups. Other topics may include relations
+with symplectic geometry, the orbit method, moment map, symplectic reduction, geometric
+quantization, Poisson-Lie and quantum groups.
+
+Page 16 of 22
+
+MATHEMATICS
+(AS) {MATH}
+655. Lie Groups. (M) Staff.Prerequisite(s): Math 654 or with the permission of the instructor.
+Continuation of Math 654.
+656. Representation of Continuous Groups. (M) Staff.
+Possible topics: harmonic analysis on locally compact abelian groups; almost periodic functions; direct
+integral decomposition theory, Types I, II and III: induced representations, representation theory of
+semisimple groups.
+657. (PHYS657) Representation of Continuous Groups. (M) Staff.
+Possible topics: harmonic analysis on locally compact abelian groups; almost periodic functions; direct
+integral decomposition theory, Types I, II and III: induced representations, representation theory of
+semisimple groups.
+
+Differential Geometry
+660. Differential Geometry. (M) Staff.Prerequisite(s): Math 600/601, Math 602/603.
+Riemannian metrics and connections, geodesics, completeness, Hopf-Rinow theorem, sectional
+curvature, Ricci curvature, scalar curvature, Jacobi fields, second fundamental form and Gauss
+equations, manifolds of constant curvature, first and second variation formulas, Bonnet-Myers
+theorem, comparison theorems, Morse index theorem, Hadamard theorem, Preissmann theorem, and
+further topics such as sphere theorems, critical points of distance functions, the soul theorem,
+Gromov-Hausdorff convergence.
+661. Differential Geometry. (M) Staff.Prerequisite(s): Math 660 or with the permission of the
+instructor.
+Continuation of Math 660.
+
+Other Subjects
+SM 670. (LGIC320, PHIL412, PHIL416, PHIL516) Topics in Logic. (M) Staff.Prerequisite(s): Math
+570/571.
+Discusses advanced topics in logic.
+SM 671. (CIS 518, LGIC320, MATH571, PHIL412) Topics in Logic. (M) Staff.Prerequisite(s): Math
+570/571.
+Discusses advanced topics in logic.
+676. (CIS 610) Advanced Geometric Methods in Computer Science. (M) Staff.Prerequisite(s):
+Math 312 or Math 412, or with the permission of the instructor.
+Advanced geometric methods used in geometric modeling,computer graphics, computer vision, and
+robotics.
+
+Page 17 of 22
+
+MATHEMATICS
+(AS) {MATH}
+680. Applied Linear Analysis. (M) Staff.Prerequisite(s): Math 241 and one semester of: Math
+360/361 or Math 508/509.
+Application of techniques from linear algebra to real problems in economics, engineering, physics, etc.
+and the difficulties involved in their implementation. Particular emphasis is placed on solving
+equations, the eigenvalue problem for symmetric matrices and the metric geometry of spaces of
+matrices. Applications to problems such as options pricing, image reconstruction, airplane and ship
+design, oil prospecting, etc. (these topics will vary from year to year). Analysis of the numerical
+algorithms available to solve such problems, rates of convergence, accuracy and stability.
+681. Applied Linear Analysis. (M) Staff.Prerequisite(s): Math 680 or with the permission of the
+instructor.
+Continuation of Math 680.
+693. Numerical Analysis. (M) Staff.Prerequisite(s): Math 692 or with the permission of the instructor.
+Continuation of Math 692.
+690. Topics in Mathematical Foundations of Program Semantics. (M) Staff.
+This course discusses advanced topics in mathematical foundations of semantics of programming
+languages and programming structures.
+"What is to distinguish a digital dollar when it is as easily reproducible as the spoken word? How do
+we converse privately when every syllable is bounced off a satellite and smeared over an entire
+continent? How should a bank know that it really is Bill Gates requesting from his laptop in Fiji a
+transfer of $100,000,.....,000 to another bank? Fortunately, the mathematics of cryptography can help.
+Cryptography provides techniques for keeping information secret, for determining that information has
+not been tampered with, and for determing who authored pieces of information." (From the Foreword
+by R. Rivest to the "Handbook of Applied Cryptography" by Menezes, van Oorschot, and Vanstone.)
+Textbook: Douglas R. Stinson. "Cryptography: Theory and Practice". Publisher: Chapman & Hall/
+CRC; 3 edition (November 1, 2005) ISBN: 1584885084.
+691. Topics in Mathematical Foundations of Program Semantics. (M) Staff.
+The course discusses advanced topics in mathematical foundations of semantics of programming
+languages and programming structures.
+692. Numerical Analysis. (M) Staff.Prerequisite(s): Math 320/321.
+A study of numerical methods for matrix problems, ordinary and partial differential equations,
+quadrature and the solution of algebraic or transcendental equations. Emphasis will be on the
+analysis of those methods which are particularly suited to automatic high-speed computation.
+694. (PHYS654) Mathematical Foundations of Theoretical Physics. (M) Staff.
+Selected topics in mathematical physics, such as mathematical methods of classical mechanics,
+electrodynamics, relativity, quantum mechanics and quantum field theory.
+695. (PHYS655) Mathematical Foundations of Theoretical Physics. (M) Staff.
+Selected topics in mathematical physics, such as mathematical methods of classical mechanics,
+electrodynamics, relativity, quantum mechanics and quantum field theory.
+
+Page 18 of 22
+
+MATHEMATICS
+(AS) {MATH}
+696. (PHYS656) Topics in Mathematical Physics and String Theory. (M) Staff.Prerequisite(s): Math
+694 or permission of the instructor.
+This interdisciplinary course discusses advanced topics in mathematical physics. Topics may include
+elliptic operators, heat kernels, complexes and the Atiyah-Singer index theorem, Feynman graphs and
+anomalies, computing Abelian and non-Abelian anomalies, and the relation of anomalies to the index
+theorem.
+697. (PHYS657) Topics in Mathematical Physics and String Theory. (M) Staff.Prerequisite(s): Math
+696 or permission of the instructor.
+Continuation of Math 696. Topics may include the family index theorem, equivariant cohomology and
+loop spaces, the homological algebra of BRST invariance and the Wess-Zumino consistency
+condition, the descent equations, and worldsheet anomalies in string theory.
+
+Advanced Topics Courses
+702. (MATH520) Topics in Algebra. (M) Staff.
+Topics from the literature. The specific subjects will vary from year to year.
+703. Topics in Algebra. (M) Staff.
+Topics from the literature. The specific subjects will vary from year to year.
+720. Advanced Number Theory. (M) Staff.Prerequisite(s): Math 620/621.
+Ramification theory, adeles and ideles, Tate's thesis, group cohomology and Galois cohomology, class
+field theory in terms of ideles and cohomology, Lubin-Tate formal groups, Artin and Swan conductors,
+central simple algebras over local and global fields, general Hasse principles. Other topics may
+include the following: zero-dimensional Arakelov theory, Tate duality, introduction to arithmetic of
+elliptic curves, local and global epsilon factors in functional equations, p-adic L-functions and Iwasawa
+theory, modular forms and functions and modular curves.
+721. Advanced Number Theory. (M) Staff.Prerequisite(s): Math 720 or with the permission of the
+instructor.
+Continuation of Math 720.
+724. Topics in Algebraic Geometry. (M) Staff.Prerequisite(s): Either Math 622/623 or Math 624/625.
+Topics from the literature. The specific subjects will vary from year to year.
+725. Topics in Algebraic Geometry. (M) Staff.Prerequisite(s): Either Math 622/623 or Math 624/625.
+Topics from the literature. The specific subject will vary from year to year.
+730. (MATH560) Topics in Algebraic and Differential Topology. (M) Staff.Prerequisite(s): Math
+618/619.
+Topics from the literature. The specific subjects will vary from year to year.
+
+Page 19 of 22
+
+MATHEMATICS
+(AS) {MATH}
+731. Topics in Algebraic and Differential Topology. (M) Staff.Prerequisite(s): Math 618/619.
+Topics from the literature. The specific subjects will vary from year to year.
+748. Topics in Classical Analysis. (M) Staff.Prerequisite(s): Math 608 and Math 609 and permission
+from the instructor.
+Harmonic analysis in Euclidean space, Riemann surfaces, Discontinuous groups and harmonic
+analysis in hyperbolic space, Pseudodifferential operators and index theorems, Variational methods in
+non-linear PDE, Hyperbolic equations and conservation laws, Probability and stochastic processes,
+Geometric measure theory, Applications of analysis to problems in differential geometry. The specific
+subjects will vary from year to year.
+749. Topics in Classical Analysis. (M) Staff.Prerequisite(s): Math 748 or with the permission of the
+instructor.
+Continuation of Math 748.
+753. Topics in Operator Theory. (M) Staff.
+Topics from the literature. The specific subjects will vary from year to year.
+750. Topics in Functional Analysis. (M) Staff.
+Topics from the literature. The specific subjects will vary from year to year.
+751. Topics in Functional Analysis. (M) Staff.
+Topics from the literature. The specific subjects will vary from year to year.
+752. Topics in Operator theory. (M) Staff.
+Topics from the literature. The specific subjects will vary from year to year.
+760. (MATH560) Topics in Differential Geometry. (M) Staff.Prerequisite(s): Math 660/661.
+Topics from the literature. The specific subjects will vary from year to year.
+761. Topics in Differential Geometry. (M) Staff.Prerequisite(s): Math 660/661.
+Topics from the literature. The specific subjects will vary from year to year.
+794. Physics for Mathematicians. (M) Staff.Prerequisite(s): Math 694. Corequisite(s): Math 695.
+This course is designed to bring mathematicians with no physics background up to speed on the
+basic theories of physics: mechanics,relativity,quantum mechanics,classical fields,quantum filed
+theory, the standard model,strings,superstrings,and M-theory.
+
+Graduate Seminars
+SM 820. Algebra Seminar. (M) Staff.
+Seminar on current and recent literature in algebra.
+
+Page 20 of 22
+
+MATHEMATICS
+(AS) {MATH}
+SM 821. Algebra seminar. (M) Staff.
+Seminar on current and recent literature in algebra.
+SM 824. Seminar in Algebra, Algebraic Geometry, Number Theory. (M) Staff.
+Seminar on current and recent literature in algebra, algebraic geometry, and number theory.
+SM 825. Seminar in Algebra, Algebraic Geometry, Number Theory. (M) Staff.
+Seminar on current and recent literature in algebra, algebraic geometry, and number theory.
+SM 830. Geometry-Topology Seminar. (M) Staff.
+Seminar on current and recent literature in geometry-topology
+SM 831. Geometry-Topology Seminar. (M) Staff.
+Seminar on current and recent literature in geometry-topology
+SM 840. Analysis Seminar. (M) Staff.
+Seminar on current and recent literature in analysis.
+SM 841. Analysis Seminar. (M) Staff.
+Seminar on current and recent literature in analysis.
+SM 844. Seminar in Partial Differential Equations. (M) Staff.
+Seminar on current and recent literature in partial differential equations.
+SM 845. Seminar in Partial Differential Equations. (M) Staff.
+Seminar on current and recent literature in partial differential equations.
+SM 850. Seminar in Functional Analysis. (M) Staff.
+Seminar on current and recent literature in functional analysis.
+SM 851. Seminar in Functional Analysis.. (M) Staff.
+Seminar on current and recent literature in functional analysis.
+SM 860. Seminar in Riemannian Geometry. (M) Staff.
+Seminar on current and recent literature in Riemannian geometry.
+SM 861. Seminar in Riemannian Geometry. (M) Staff.
+Seminar on current and recent literature in Riemannian geometry.
+
+Page 21 of 22
+
+MATHEMATICS
+(AS) {MATH}
+SM 870. Logic Seminar. (M) Staff.
+Seminar on current and recent literature in logic.
+SM 871. Logic Seminar. (M) Staff.
+Seminar on current and recent literature in logic.
+SM 872. Seminar in Logic and Computation. (M) Staff.
+Seminar on current and recent literature in logic and computation.
+SM 873. Seminar in Logic and Computation. (M) Staff.
+Seminar on current and recent literature in logic and computation.
+SM 880. Combinatorics Seminar. (M) Staff.
+Seminar on current and recent literature in combinatorics.
+SM 881. Combinatorics Seminar. (M) Staff.
+Seminar on current and recent literature in combinatorics.
+
+Page 22 of 22
+
+

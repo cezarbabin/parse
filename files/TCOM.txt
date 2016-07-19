@@ -1,0 +1,16 @@
+TELECOMMUNICATIONS
+(EG) {TCOM}
+601. Advanced Networking Modeling and Analysis. (M) Prerequisite(s): TCOM 501.
+Traffic management and call admission: traffic characterization traffic shaping, admission control,
+statistical multiplexing, effective bandwidth. Scheduling: fair queuing, rate-controlled service
+disciplines. Buffer management: pushout, threshold, random early detection, sharing mechanisms
+(complete partitioning, complete sharing, hybrids), coupling buffer management and scheduling.
+Markov decision process and application in resource allocation (memory, badwidth allocation).
+Switching: input queuing, output queuing, shared memory, combined input/output queuing. Maximum
+throughout in input queued switches, emulating output queuing with input queuing via speedup.
+Building larger switches: CIOS networks, banyan netowrks, etc. TCP modeling.
+SM 770. TCOM Seminar. (M)
+
+Page 1 of 1
+
+

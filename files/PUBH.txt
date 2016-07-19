@@ -1,0 +1,284 @@
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+500. (NURS570) Introduction to Public Health. (A)
+This course will provide a topical overview of the inter-disciplinary field of public health and provides
+grounding in the public health paradigm. Through a series of lectures and recitation sessions,
+students will learn about the history of public heatlh and the core public health sciences including
+behavioral and social sciences, biostatistics, epidemiology, environmental health, and policy and
+management. Other topics include ethics in public health, context analyses (specifically sociographic
+mapping and urban health), community participation in research, public health promotion, and the
+prevention of chronic and infectious diseases.
+501. INTRO TO BIOSTATS. (C) Shofer, Bunin.
+Introduction to Biostatistics This course is designed to provide a broad overview of biostatistics
+methods as well as applications commonly used for public health research. Topics covered include
+measurement and categorizing variables, use and misuse of descriptive statistics, testing hypotheses,
+and applying commonly used statistical tests. An emphasis will be placed on the practical application
+of data to address public health issues, rather than theoretical and mathematical development.
+Students will learn how to choose and apply statistical tools to data sources, when and how statistical
+tools can be used to analyze data, and how to interpret others' quantitative studies. Students will gain
+experience using online datasets and the STATA statistical software package.
+502. (NURS500) Introduction to the Principles and Methods of Epidemiology. (C) Buttenheim,
+Cannuscio.
+Epidemiology is a conbination of a subject matter science and research methodology. Introduction to
+Principles and Methods of Epidemiology focuses on the latter component. The course introduces
+study designs applied to human populations, including randomized trials and four types of
+observational studies (cohort, case-control, cross-sectional, ecological). Because cause- and-effect
+relations are at the heart of epidemiologic research, numerous related topics are taught, including
+causal inference, and bias.
+503. Environmental and Occupational Health. (A) Emmett, Howarth, Pepino.
+This course will provide a broad introduction to the scientific basis of occupational and environmental
+health. Content will address issues in the ambient, occupational and global environments as well as
+the tools, concepts and methods used in environmental health.
+504. Public Health Theories & Frameworks. (C) Schnoll, Fleisher.
+This course provides students with a solid foundation in behavioral and social science theory,
+research, and interventions as they pertain to public health. Content will provide exposure to a broad
+range of theories, including the theoretical foundations of social science applications for help-seeking,
+gender, race, ethnicity and social class. These theories will be discussed using examples of their
+applications to numerous public health problems including HIV/AIDS, violence, cancer, cardiovascular
+diseases, obesity, and diabetes.
+505. Public Health Policy and Administration. (A) Noonan, Klusaritz.
+This course is an introduction to health policy and management. It examines both the historical and
+current state of health policy in America and integrates these concepts within the context of public
+health practice. We will examine key concepts in understanding US health care organization, financing
+and delivery, our current political and economic debate on health care reform, exmamining the role
+and management issues of public health departments, and case studies in public health policy and
+management.
+
+Page 1 of 7
+
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+506. Methods for Public Health Practice. (C) Solomon, Hall.
+This is a course designed around modules whose objective is to provide students with greater
+familiarity in a range of methods essential to public health practice. The course will be framed around
+an indepth capacity and needs assessment and community public health planning in Philadelphia.
+Topics covered will include data collection and evaluation, both quantitative and qualitative, uses of
+informatics in public health, analysis of vital statistics, working with communities, methods for
+developing and facilitating solutions to public health problems, including concepts of advocacy and
+policy formation and development of interventions. The course demonstrates how core public health
+competency areas in data analysis and communication provide foundations for applications for both
+practice and practice-based research.
+507. Public Health Law & Ethics. (A) Noonan, Anderson.
+What is best - or, at least, seems best -- for the public's health is not always consistent with society's
+view of what is legal, ethical, or good policy. This course introduces key concepts of legal, ethical, and
+policy analysis and attempts to demonstrate with current examples how these forces empower, guide,
+and constrain public health decision-making and actions. The course will combine lecture, Socratic
+dialogue, and group discussion in an informal setting. The course will feature guest lectures by several
+distinguished experts from Penn and from other universities.
+508. Capstone Seminar I. (F) Frasso, Anderson, Levy, Grisso.
+The Capstone is a culminating experience required for graduation in the Master of Public Health
+Program. In two Capstone seminars, students will have an opportunity to synthesize the knowledge
+and public health competencies they have developed through their coursework. Capstone students
+will apply their knowledge and skills to public health problems in a chosen area of interest. They will
+engage their peers in scholarly discussion, drawing from relevant scientific literature and public health
+experience in order to begin to develop a common grounding and identity as public health
+professionals. The Capstone incorporates two semester-long seminars and a research project. over
+the course of the Castone, students will develop, propose, revise, implement, and present their
+projects. As their projects successfully come to fruition they will also adivse their junior colleagues still
+in the proposal stage.
+515. (CPLN622) COMMUNITY DEVELOPMENT. (B)
+517. (EPID518) Introduction to the Epidemiologic Study of Geography and Health. (A) Branas,
+Weibe.
+This course will provide an introduction to GIS in public health research and practice. Through a
+series of lectures and labs students will explore theories linking health and the environment, spatial
+analysis and spatial epidemiology, and applications of GIS-related data collection and analysis.
+L/R 519. Issues in Global Health. (A) McLaughlin.Prerequisite(s): Undergraduates must have
+completed HSOC-010-401.
+This course presents an overview of issues in global health from the viewpoint of many different
+disciplines, with emphasis on economically less developed countries. Subjects include: millennium
+goals; measures of disease burden; population projections and control; environmental health and safe
+water; demography of disease and mortality; zoonotic infectious diseases; AIDS and HIV prevention;
+vaccine utilization and impact; eradication of polio virus; chronic diseases;tobacco-associated disease
+and its control; nutritional challenges; social determinants of global health; harm reduction and
+behavioral modifications; women's reproductive rights; health economics and cost-effective
+interventions; health manpower and capacity development; bioethical issues in a global context.
+
+Page 2 of 7
+
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+SM 527. Media, Advocacy and Public Health. (M) TBA.
+This course will examine the ways in which the media can be used as a tool to improve health. It will
+also investigate the ways in which the media has had anegative impact on health behaviors in the
+population. Looking at specific topics like tobacco, food and nutrition, and HIV/AIDS, we will explore
+the intersection of media, advocacy, advertising and entertainment and the impact of media broadly
+on health behavior and society. The course will also provide students the opportunity to practice
+strategically working with the media to address health problems.
+521. Program Evaluation in Public Health. (K) Karpyn.
+There are many public health programs developed to promote change. The question most funders
+have for public health programs is: what outcomes do youexpect? This course is designed to review
+the principles of identifying short term, mid term and long term outcomes and methods of
+measurement. Students learn about the application of date collection skills to all phases of developing
+a public health program or service innovation, from needs assessmentto analysis of finding to
+implementation of changes based on results. Studentslearn to appreciate how these skills can be
+used as practical tools for identifying public health problems, program development, program
+implementationincluding taking a reflective practice approach, ensuring equity and fairness in
+program delivery (i.e. combating disparities), and generally prmoting publichealth through effective
+and efficient programmatic efforts.
+525. Developing Effective Public Health Programs Using a Humans Rights Based Approach. (L)
+Voet.
+This course will engage students in discussion of how a human rights approach, informed by
+international human rights declarations and covenants as well as gender theory, can more
+comprehensively inform the development of a variety of public health programs. Specifically, the class
+will discuss how health policies, programs and practices can impact on human rights (e.g. mandatory
+reporting of certain communicable diseases, quarantine, accessibility of services, etc.); how violations
+of human rights affect health (e.g. torture, discrimination, etc.) and how health and human rights are
+ultimately inextricably linked and programming for public health must use a framework that ensures a
+balance of interests between the two disciplines.
+526. (ANTH426) Anthropology and Public Health. (M) Barg. In this course, we examine three types
+of relationships between anthropology and public health. Anthropology and public health will examine
+complementary and competing concepts fundamental to each discipline and ways that these
+concepts make it essential and difficult for the disciplines to work together. Antrhopology on public
+health takes a critical look at assumptions in public health praxis. Anthropology in public health will
+focus on ways that anthropology theory and methods inform the practice of public health. Using these
+three approaches, we will examine topics in public health such as mental health, health promotion/
+disease prevention communication, cancer disparities, reproductive health, violence and infectious
+disease. Students will learn and apply anthropologic research methods to these problems.
+SM 528. (ANTH623) Class, Inequality and Health: Ethnographic Perspectives. (B) Bourgois. This
+seminar examines anthropological approaches to the concept of class and social inequality through a
+close reading of a dozen ethnographies that deal with a broad definition of health, illness, and social
+suffering. Readings span many of the theoretical, political, sub-disciplinary and area studies debates
+in anthropolgy and the largers fields of poverty, social inequality, international development, violence
+studies, science studies, governmentality, and social policy interventions over the past century.
+
+Page 3 of 7
+
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+529. Topics in Family Planning. (A) Bennett, Schreiber.
+This course will survey a range of key current and historic topics in family planning nationally and
+internationally. Policy, epidemiology, clinical practice, advocacy, and service delivery topics will be
+covered through presentations and conversations with leaders in the field of reproductive health. The
+course will provide students with a broad general introduction to family planning which is appropriate
+for those interested in either public health or clinical aspects of the field. For students who wish to
+pursue a focused career in this area this course is a necessary introduction, while students who will
+be working in related areas of public health will have a broad general understanding of family
+planning. Students will particiapte through an interactive seminar style and will prepare an oral
+presenation on a relevant topic of their choice.
+530. (NURS677) Environmental Toxicology: Risk Assessment and Health Effects. (A) Liu.
+Undergrads need Permission
+This course presents general principals of toxicology and the disposition of toxins in the body. Case
+studies of the effects of environmental and occupational toxins on individuals will be analyzed. This
+course is designed for students who desire a strong foundation in toxicological concepts and
+principals and provides an overview of major toxins in our environment and their association with
+human health.
+531. PUBLIC HEALTH NUTRITION.
+SM 534. (CRIM415, CRIM615, HSOC471) Guns and Health. (A) Sorenson. The purpose of this
+course is for students to gain an understanding of the role of guns in population health. We will
+approach the topic with a healthy skepticism about the assumption and ideologies that dominate
+formal and informal discourse about the topic. We will view guns as a consumer product (and examine
+the life span of the product beginning with design and manufacture) and review the health outcomes
+of gun use. In addition, we will address key aspects of the social context in which firearms exist and
+within which firearm policy is made.
+SM 539. (NURS823) DESIGNING INTERVENTIONS.
+SM 535. (ANTH625) Urban Poverty and Violence. (M) Bourgois. This seminar examines
+anthropological approaches to poverty and violence through a close reading of eight ethnographies.
+Readings span many of the theoretical, political, sub-disciplinary and area studies debates in
+anthropology and the larger fields of poverty, social inequality, internationaldevelopment, and violence
+studies over the past century. My hope is to bring the subjects of urban poverty, violence, social
+suffering and a critique of neoliberal governmentality into the center of the disciplines of anthropology
+and public health speicifically, and the social sciences, humanities and medicine more broadly. In the
+seminar we will be bringing students from anthropology, and other social science and humanities
+disciplines in dialogue with students in public health, science studies, and clinical medicine.
+
+Page 4 of 7
+
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+537. (HPR 610) Evidenced-Based Health Policy. (B) Gerdes, Zlotnik.Prerequisite(s): HPR 606 and
+PUBH 505 or permission of instructor.
+Achieving Evidence-Based Health Policy examines how research can influence health policy.
+Individual sessions will be devoted to topics such as the NurseFamily Partnership program, health
+insurance, smoking, and early childhood mental health. Sessions will examine how selection of
+research methods may influence results; the dialectical relationship between research and policy; and
+the role of various stakeholders (the media, foundations, government, advocates) in both research
+and policy debates. Didactic topical resaerh presentations will be followed by interactive discussions
+examining how research finds translates (or, as the case may be, do not translate) into policy. Guest
+speakers will include research and policy experts from the public and private sectors. Prerequisites
+are Fundamentals of Health Policy (offered through the Master's of Science in Health Policy); PUBH
+505 Public Health Administration and Policy; or permission of instructor. Enrollment limited to 12.
+538. (HPR 503) Qualitative Methods in Health. (L) Barg, Shea.
+The purpose of this course is to expose students to a variety of qualitatie approaches/methodologies
+that may be used in health services/policy research. In didactics we will discuss the pros and cons of
+various methods, explaining how the method is actually implemented (with multiple experts presenting
+their approaches), and pair the presentation with a broader discussion in which we compare and
+contrast health oriented articles in which the method was used.
+540. GO GLOBAL Course.
+541. SOCIAL EPI Course.
+545. Contemporary Issues in Maternal Child Health.
+551. (NURS640, SWRK793) Global Health Policy and Delivery. (B) McLaughlin and Voet.
+This participatory interdisciplinary seminar course examines contemporary issues in global health
+policy and delivery. The overall organizing framework for the class is the social determinants of health.
+The class will consider evidence that inequalities in education, income, and occupation influence
+health status. Students will develop skills in policy analysis, policy brief development, and policy
+impact monitoring. The public policy process will be explored using a variety of contemporary global
+health case studies which focuson content areas such as maternal health, HIV policy, refugee health
+an global healthcare delivery. Finally, we will examine the global health workforce and te impact of
+widespread global migration of health professionals on receiving and sending countries.
+553. SCIENCE & POLI OF FOOD.
+558. HEALTH & DISEASE FOR PH.
+575. (SWRK775) INTIMATE VIOLENCE.
+580. IMPLEMENTING THE ACA.
+
+Page 5 of 7
+
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+588. (NURS587) Advanced Leadership Skills in Community Health. (B) Margo; Klusaritz;
+Lipman.Prerequisite(s): Enrollment in a Masters or Doctoral program. Undergraduates with permission
+of the instructor
+Grounded in a social justice perspective, this course aims to provide the student with a foundational
+overview of the field of community health and leadership skills in public health advocacy. The course
+encourages critical thinking about health outcomes framed by the broad context of the political and
+social environment. This course analyzes the range of roles and functions carried out by leaders in
+healthcare advocacy for marginalized communities; integrates knowledge of health policy and the key
+influence of government and financing on health outcomes; explores community-based participatory
+research and interventions as tools for change; and discuss ways to develop respectful partnerships
+with community organizations. An assets-based approach that draws upon the strengths of
+communities and their leaders provides a foundation for community-engagement skill building. The
+course emphasizes the development of skills and techniques to lead effective, collaborative, healthfocused interventions for disenfranchised groups, including residents of urban neighborhoods.
+589. PUB HEALTH & COG AGING.
+SM 590. BGS Public Health Certificate Students' Seminar Series. (C) Nelson, Grisso. Corequisite
+(s): For BGS Public Health Certificate studens only.
+601. Cancer Epidemiology and Prevention. (A) McCarthy.Prerequisite(s): Enrollment limited to
+master degree or doctoral degree students only; pubh502 or permission of the instructor required.
+This course will provide an overview of current topics in cancer epidemiology and prevention. The
+course will survey cancer incidence and mortality trends in the U.S. and abroad. Several major cancer
+risk factors will be examined, such as tobacco exposure, diet and obesity, environmental exposures,
+viruses, and genetics, along with primary prevention strategies. In addition, the course will review
+important concepts in cancer screening such as sensitivity, specificity, and lead time bias. Current
+issues in cancer screening will be discussed, along with controversies surrounding national cancer
+screening guidelines. In addition, the course will explore racial/ ethnic and socioeconomic disparities
+in cancer incidence and mortality. A main focus of the course will be how epidemiologic evidence is
+used to identify causes of cancer and inform cancer prevention strategies on the individual and
+population level.
+597. History of Public Health. (A) Barnes. This masters-level seminar examines the health of human
+populations and the science of improving it in historical perspective. Special attention is given to the
+city of Philadelphia as a living laboratory of public health in the past and present. Lectures, readings
+and discussions cover various societies' attempts to respond to and prevent disease since antiquity.
+Case studies focus on the roots of contemporary public health knowledge and policy in the nineteenth
+and twentieth centuries. Topics include responses to epidemics, the Bacteriological Revolution, racial
+and economic disparities in health, the development of policy infrastructures, and global health.
+Periodic field trips will be arranged to public health-related historical sites in Philadelphia and vicinity.
+598. Immersion Experience in Global Public Health. (C) Nguyen. This independent educational
+experience seeks to provide motivated students with the opportunity to expand their knowledge in
+global health through focusedexperiential learning at international sites that provide direct public
+health services. Such learning will allow students to gain real-world experience concerning the core
+competencies of public health (health policy, behavior/ social sciences, environmental health,
+epidemiology, or biostatistics).
+599. Independent Study in Public Health. (C)
+602. EPI METHODS DIS/PREV.
+603. ADV RESEARCH METHODS.
+
+Page 6 of 7
+
+PUBLIC HEALTH STUDIES
+(MD) {PUBH}
+604. (SWRK781) QUAL RSRCH IN SOC SCI. (A)
+605. EPI INFECTIOUS DISEASES.
+701. INDUSTRIAL HYGIENE.
+702. ORG & HLTH CARE MGMT.
+
+Page 7 of 7
+
+

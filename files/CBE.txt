@@ -1,0 +1,397 @@
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+099. Undergraduate Research and Independent Study. (C) A maximum of 2 c.u. of CBE 099 may
+be applied toward the B.S.E degree requirements
+An opportunity for the student to work closely with a professor in a project to develop skills and
+technique in research and development. To register for this course, the student writes a one-page
+proposal that is approved by the professor supervising the research and submitted to the
+undergraduate curriculum chairman during the first week of the term.
+111. Modern Engineering Problem Solving. (A)
+The application of computer tools to engineering problem solving.
+150. Introduction to Biotechnology. (A) Prerequisite(s): Reserved for Freshmen only.
+The goal of this course is to teach you the fundamentals of biotechnology and introduce you to
+concepts in Chemical Engineering along the way. Concepts in Biotechnology that will be covered
+include, DNA, RNA, the Central Dogma, proteins, recombinant technology, RNA silencing,
+electrophoresis, chromatography, synthetic biology, pull down assays, PCR, hybridization, array
+technology, DNA machines, DNA sequencing, and forensics. Concepts in Chemical Engineering that
+will be covered include the mass balance, scaling laws and the Buckingham-Pi theorem, kinetics of
+enzyme reactions, thermodynamics of molecular binding, the Langmuir isotherm, separations via
+chromatography.
+160. Introduction to Chemical Engineering. (B)
+Students will learn to read and understand a process flow sheet. There is a focus on drawing a
+process flow sheet, and formulating and solving the material balances for the chemical processes
+involving chemical reactions (some with recycle streams, some with purge streams, and some with
+bypass streams). Additionally, students will understand the limits of the ideal gas law, and have a
+working knowledge of the cubic equations of state and the concept of a compressibility factor. The
+class will study the basic concepts of gas-liquid phase equilibrium and apply Raoult's Law to solve
+phase equilibrium problems. A final objective is to design flow sheets and solve material balances for
+simple chemical processes using ASPEN (chemical engineering simulation program).
+L/R 230. Material and Energy Balances of Chemical Processes. (A) Prerequisite(s): CBE 160,
+Sophomore standing.
+Analysis of processes used in the chemical and pharmaceutical industries. Mass and energy
+balances, properties of pure fluids, equations of state. Heat effects accompanying phase changes and
+chemical reactions.
+L/R 231. Thermodynamics of Fluids. (B) Holleran.Prerequisite(s): CBE 230.
+Students will understand, evaluate, and apply different equations of state relating pressure,
+temperature, and volume for both ideal and non-ideal systems. The course will focus on calculating
+and applying residual properties and departure functions for thermodynamic analysis of non-ideal
+gases. Students will apply and describe simple models of vapor-liquid equilibrium in multi-component
+systems (e.g. Raoult's Law, modified Raoult's Law, Henry's Law). Additionally, the class will analyze
+and describe properties of non-ideal mixtures and their component species. We will also model and
+predict reaction equilibria (including non-ideal fluid systems), as well as solve problems related to
+complex phase equilibria of multi-component systems (find equilibrium compositions for non-ideal
+phases).
+296. Study Abroad.
+
+Page 1 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+297. Study Abroad. (C)
+L/R 350. Fluid Mechanics. (A) Hollaran.Prerequisite(s): CBE 231.
+This course is designed for students to understand the fundamental characteristics of fluids. We will
+develop, starting from first principles, the basic equations for fluid statics, and use them to assess
+buoyancy forces and determine the pressure variations in fluids with rigid body rotation. Students will
+understand in detail the basic types of fluid flow line patterns (eg. streamlines and streamtubes) and
+the different types of interchangeable energy forms (eg. kinetic, potential, and pressure). It is also
+important to develop, starting from first principles, the formulations for inviscid and viscous flow
+problems. These include the discussion of a control system and system boundaries, the detailed
+construction of conservations equations of mass, energy, and momentum for Newtonian fluids, the
+derivation of the Navier-Stokes equations, and the determination of appropriate initial and boundary
+conditions. A final objective of the course is to solve various fluid mechanics problems using control
+systems, dimensional analysis, and developed equations. Such problems include, but are not limited
+to, the terminal velocity of a falling sphere, Stokes flow, the relation between the friction factor and the
+Reynolds number, and flow profiles in numerous geometries.
+L/R 351. Heat and Mass Transport. (B) Prerequisite(s): CBE 350.
+Steady-state heat conduction. The energy equation. Fourier's law. Unsteady-state conduction.
+Convective heat transfer. Radiation. Design of heat transfer equipment. Diffusion, fluxes, and
+component conservation equations. Convective mass transfer. Interphase mass transport coefficients.
+L/R 353. Advanced Chemical Engineering Science. (A) Prerequisite(s): CBE 231.
+Applications of physical chemistry to chemical engineering systems. Equilibrium statistical mechanics
+of ideal gases, dense fluids and interfacial phases. Chemical reaction rates. Collision and transition
+state theories. Heterogeneous catalysis. Electronic structure and properties of solids.
+371. Separation Processes. (B) Prerequisite(s): CBE 231.
+The design of industrial methods for separating mixtures. Distillation; liquid-liquid extraction;
+membranes; absorption. Computer simulations of the processes.
+375. Engineering and the Environment. (B) Prerequisite(s): Sophomore Standing.
+The principles of green design, life cylce analysis, industrial ecology, pollution prevention and waste
+minimization, and sustainable development are introduced to engineers of all disciplines as a means
+to identify and solve a variety of emerging environmental problems. Case studies are used to assess
+the problems and devise rational solutions to minimize environmental consequences.
+L/R 400. Introduction to Product and Process Design. (A) Prerequisite(s): CBE 351, 371.
+Corequisite(s): CBE 451.
+Molecular-structure design, process synthesis, steady-state and batch simulation, second-law
+analysis, heat integration, equipment sizing, and capital cost estimation.
+410. Chemical Engineering Laboratory. (A) Prerequisite(s): CBE 351, 371.
+Experimental studies in heat and mass transfer, separations and chemical reactors to verify theoretical
+concepts and learn laboratory techniques. Methods for analyzing and presenting data. Report
+preparation and the presentation of an oral technical report.
+
+Page 2 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+430. (CBE 510, MSE 430) Polymers and Biomaterials. (B) Prerequisite(s): MSE 260 or equivalent
+course in thermodynamics or physical chemistry (such as BE 223, CBE 231, CHEM 221, MEAM 203).
+Polymer is one of the most widely used materials in our daily life, from the rubber tires to clothes, from
+photoresists in chip manufacturing to flexible electronics and smart sensors, from Scotch tapes to
+artificial tissues. This course teaches entry-level knowledge in polymer synthesis, characterization,
+thermodynamics, and structure-property relationship. Emphasis will be on understanding both
+chemical and physical aspects and polymer chain size/dimension that drive the molecular,
+microscopic and macroscopic structures and the resulting properties. We will discuss how to apply
+polymer designs to advance nanotechnology, electronics, energy and biotechnology. Case studies
+include thermodynamics of block copolymer thin films and their applications in nanolithography, shape
+memory polymers, hydrogels, and elastomeric deformation and applications.
+L/R 451. Chemical Reactor Design. (A) Prerequisite(s): CBE 231 and CBE 351.
+Design of reactors for the production of chemical products. Continuous and batch reactors. Chemical
+kinetics. Effects of back-mixing and non-ideal flow in tubular reactors. Heterogeneous reactions.
+Construction and economic analysis of reactors.
+L/R 459. Product and Process Design Projects. (B) Prerequisite(s): CBE 400.
+Design of chemical, biochemical, and materials products and processes based on recent advances in
+chemical and bioengineering technology. Design group weekly meetings with faculty advisor and
+industrial consultants. Comprehensive design report and formal oral presentation. Heat exchanger
+design and profitability analysis.
+L/R 460. Chemical Process Control. (B) Prerequisite(s): CBE 353.
+Dynamics and control of linear single-input, single output (SISO) systems in chemical processes.
+Laplace transforms. Dynamic responses of linear systems to inputs in time and transform domains.
+Frequency domain analysis. Feedback control strategies. Stability. Controller tuning. Advanced control,
+including cascade and feed forward control. Introduction to multiple-input, multiple-output (MIMO)
+control.
+L/R 479. Biotechnology and Biochemical Engineering. (A) Prerequisite(s): Junior/Senior Standing
+in Engineering and CBE 150 or Permission of the Instructor.
+An overview of several important aspects of modern biotechnology from a chemical engineering
+perspective: DNA, enzymes, proteins, molecular genetics, genetic engineering, cell growth kinetics,
+bioreactors, transport processes, protein recovery and protein separations. Group projects include a
+MATLAB project and a pharmaceutical profile.
+480. Laboratory in Biotechnology and Genetic Engineering. (B) Prerequisite(s): CBE 479 or
+Permission of the Instructor.
+The laboratory methods in biochemical and genetic engineering learned include molecular cloning
+techniques, cell transformation, DNA gel electrophoresis, ImageJ, PCR, DNA sequencing, SDSPAGE, Western Blot, and enzyme assays. Culture techniques for bacteria, yeast and animal cells are
+taught and practiced. The students write several individual lab reports during the semester. A group
+presentation and report on a proposal for a new lab experiment is the final assignment for the lab.
+
+Page 3 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+508. Probability and Statistics for Biotechnology. (L)
+This course is designed as an overview of probability and statistics including linear regression,
+correlation, and multiple regression. The program will also include statistical quality control and
+analysis of variance with attention to method of analysis, usual method of computation, test on
+homogeneity of variances, simplifying the computations, and multi-factor analysis.
+521. Fundamentals of Industrial Catalytic Processes. (M)
+This course will introduce students to the important concepts invovled in industrial catalytic processes.
+The first part of the course will review some of the fundamental concepts required to describe and
+characterize catalysts and catalytic reactions. The majority of the course will then focus on applying
+these concepts to existing heterogeneous catalysts and catalytic reactions, including discussion of the
+actual process design and engineering. Descriptions of some homogeneously catalyzed processes
+like polymerization and the synthesis of acetic acid will also be covered.
+510. (CBE 430, MSE 430) Polymer Engineering. (B)
+Polymer is one of the most widely used materials in our daily life, from the rubber tires to clothes, from
+photoresists in chip manufacturing to flexible electronics and smart sensors, from Scotch tapes to
+artificial tissues. This course teaches entry-level knowledge in polymer synthesis, characterization,
+thermodynamics, and structure-property relationship. Emphasis will be on understanding both
+chemical and physical aspects and polymer chain size/dimension that drive the molecular,
+microscopic and macroscopic structures and the resulting properties. We will discuss how to apply
+polymer designs to advance nanotechnology, electronics, energy and biotechnology. Case studies
+include thermodynamics of block copolymer thin films and their applications in nanolithography, shape
+memory polymers, hydrogels, and elastomeric deformation and applications.
+511. Physical Chemistry of Polymers and Amphiphiles. (A)
+This course deals with static and dynamic properties of two important classes of soft materials:
+polymers and amphiphiles. Examples of these materials include DNA, proteins, diblock copolymers,
+surfactants and phospholipids. The fundamental theories of these materials are critical of
+understanding ploymer processing, nanotechnology, biomembranes and biophysics. Special emphasis
+will be placedon understanding the chain conformation of polymer chains, thermodynamics of polymer
+chains, thermodynamics of polymer solutions and melts, dynamics of polymer and statistical
+thermodynamic principles of self-assembly.
+520. Modeling, Simulations, and Optimization of Chemical Processes. (M)
+Nonlinear systems: numerical solutions of nonlinear algebraic equations; sparse matrix manipulations.
+Nonlinear programming and optimization; unconstrained and constrained systems. Lumped parameter
+systems: numerical integration of stiff systems. Distributed parameter systems: methods of
+discretization. Examples from analysis and design of chemical and biochemical processes involving
+thermodynamics and transport phenomena.
+
+Page 4 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+522. Polymer Rheology and Processing. (C) Prerequisite(s): MEAM 302 and 333 or CBE 350 and
+351 or equivalent.
+This course focuses on applications of rheology to polymer process technologies. It includes a general
+review of rheological concepts, including viscoelasticity and the influence of shear rate, temperature
+and pressure on polymer flow properties. The course covers the elementary processing steps
+common in various types of polymer manufacturing operations including handling of particulate solids,
+melting, pressurizing and pumping, mixing and devolatilization. Specific polymer processing
+operations including extrusion, injection molding, compression molding, fiber spinning and wire
+coating are covered. Emerging polymer processing applications in microelectronics, biomedical
+devices and recycling are also discussed.
+525. Molecular Modeling and Simulations. (A) Prerequisite(s): CBE 231 or 618 or equivalent
+background in physcial chemistry.
+Students will explore current topics in thermodynamics through molecular simulations and molecular
+modeling. The requisite statistical mechanics will be conveyed as well as the essential simulation
+techniques (molecular dynamics, Monte Carlo, etc.). Various approaches for calculating experimentally
+measurable properties will be presented and used in student projects.
+535. Interfacial Phenomena.. (C)
+This course provides an overview of fundamental concepts in colloid and interface science. Topics
+include the thermodynamics of interfaces, interfacial interactions (e.g. van der Waal's interactions,
+electrostatics, steric interactions), adsorption, the hydrodynamics and stability of interfacial systems,
+self assembly, etc. Connections to self-assembly and directed assembly of nanomaterials and
+emerging topics are explored. Pre-requisites: undergraduate thermodynamics, some familiarity with
+concepts of transport phenomena (including fluid flow and mass transfer) and differential equations
+L/R 540. (BE 540) Biomolecular and Cellular Engineering. (C)
+This course will introduce concepts and methods for the quantitative understanding of molecular and
+cellular phenomena. Topics include molecular recognition, receptor-ligand binding, viral infection,
+signal transduction, cell adhesion, motility, and cytoskeletal dynamics. The course requires
+mathematics at the level of differential equations, and some knowledge of Matlab programming. A
+basic knowledge of cell biology is suggested, although not required.
+541. (BE 541) Engineering and Biological Principles in Cancer. (B) Prerequisite(s): Senior
+standing or permission of the instructor.
+This course provides an integrative framework and provides a quantitative foundation for
+understanding molecular and cellular mechanisms in cancer. The topics are divided into three classes:
+(1) the biological basis of cancer; (2) cancer systems biology; and (3) multiscale cancer modeling.
+Emphasis is placed on quantitative models and paradigms and on integrating bioengineering
+principles with cancer biology.
+543. Sust Dev/Water Res Sys. (B)
+The application of systems methodology to the design of water supply and sanitation projects. The
+focus is on the designing for sustainability by emphasizing how technical solutions fit within the
+appropriate social context. Case studies are used to demonstrate these principles across a range of
+examples from developed and developing countries.
+
+Page 5 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+554. (BE 554) Engineering Biotechnology. (B)
+Advanced study of re DNA techniques; bioreactor design for bacteria, mammalian and insect culture;
+separation methods; chromatography; drug and cell delivery systems; gene therapy; and diagnostics.
+545. Electrochemical Energy Conversion and Storage. (C) Prerequisite(s): Introductory chemistry
+and an undergraduate course in thermodynamics (e.g. CBE 231, MEAM 203).
+Fuel cells, electrolysis cells, and batteries are all electrochemical devices for the interconversion
+between chemical and electrical energy. These devices have inherently high efficiencies and are
+playing increasingly important roles in both large and small scale electrical power generation,
+transportation (e.g. hybrid and electric vehicles), and energy storage (e.g. production of H2 via
+electrolysis). This course will cover the basic electrochemistry and materials science that is needed in
+order to understand the operation of these devices, their principles of operation, and how they are
+used in modern applications.
+546. Fundamentals of Industrial Catalytic Processes. (B)
+A survey of heterogeneous catalysis as applied to some of the most important industrial processes.
+The tools used to synthesize and characterize practical catalysts will be discussed, along with the
+industrial processes that use them.
+L/R 552. (BE 552) Cellular Bioengineering. (B)
+Application of chemical engineering principles to analysis of eukaryotic cell biological phenomena,
+emphasizing receptor-mediated cell function. Topics include receptor/ligand binding kinetics and
+trafficking dynamics, growth factor regulation of cell proliferation, cell adhesion, cell migration and
+chemotaxis, and consequences of these in physiological situations such as the immune and
+inflammatory responses, angiogenesis, and wound healing.
+L/R 555. (BE 555, MEAM555) Nanoscale Systems Biology. (A) Discher.Prerequisite(s): Background
+in Biology, Chemistry or Engineering with coursework in thermodynamics or permission of the
+instructor.
+From single cell manipulations down to studies of single nanoparticles and single molecules, basic
+cell- molecular biology and biotechnologies are increasingly 'nano' as well as quantitative. Lectures
+and laboratories in this course start with nano aspects of optical detection, address the basic
+thermodynamics of biomolecular interactions, and then cover genomic scale devices. Nanoprobe
+methods are then complemented by basic theories of self-assembly and polymers as well as
+application in drug delivery and virus engineering with analyses of limitations imposed by the innate
+immune system. Skills in analytical and professional presentations, papers and laboratory work will be
+developed.
+L/R 557. Stem Cells, Proteomics and Drug Delivery - Soft Matter Fundamentals. (B) Prerequisite
+(s): Background in Biology, Chemistry or Engineering.
+Lectures on modern topics and methods in cell and molecular biology and biomedicine from the
+perspective of soft matter science and engineering. Discussions and homeworks will cover soft matter
+related tools and concepts used to 1) isolate, grow, and physically characterize stem cells, 2) quantify
+biomolecular profiles, 3) deliver drugs to these cells and other sites (such as tumors with cancer stem
+cells) will be discussed. Skills in analytical and professiona presentations, papers and laboratory work
+will be developed.
+
+Page 6 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+560. Biomolecular Engineering. (M)
+This course will cover current state of the art in engineering approaches to design, optimization, and
+characterization of biomolecules. Particular emphasis will be placed on proteins. Fundamental
+physical biochemistry of biological macromolecules will be reviewed to provide a basis for
+understanding approaches to de novo protein design, combinatorial directed evolution, methods for
+analysis of structure and function, and practical applications for this class of molecules. Much of the
+course material will be drawn from the current literature.
+562. (BE 562) Drug Discovery and Development. (A)
+Part A. Intro to Drug Discovery; Overview of Pharmaceutical Industry and Drug Development Costs,
+Timelines; High Throughput Screening (HTS): Assay Design and Sensitivity Solid Phase Synthesis
+and Combinatorial Chemistry; Enzyme Kinetics; Fluorescence, Linearity, Inner-filter effect, quenching;
+Time dynamics of a Michaelis-Menton Reaction; Competitive Inhibitor; FLINT, FRET, TRF, FP, SPA,
+alpha-screen; Enzyme HTS (protease); Cell based screening; Fura-2 ratio, loading signaling;
+Gfpcalmodulin-gfp integrated calcium response; Estrogen/ERE-Luc HTS; Problems with cell based
+screening (toxicity, permeability, nonspecificity); Instrumentation, Robotics/Automation; Z-factor; SAR,
+Positioning Scanning; Microarray HTS; IC50, % Conversion in HTS and IC50, Assay Optimization.
+Part B. New drug development and regulatory compliance related to small molecules and biologics,
+overview of biopharma industry, regulation and development process for new chemical entities and
+biolgies, formulation of pharmaceutical dosage forms, current Good Manufacturing Practices,
+chemistry manufacture and controls, overview of Common Technical Document (CTD), managing
+post-approval changes - formulatin, process, packaging, and analytical.
+563. Dev & Manuf of Biopharm.. (C)
+New drug development and regulatory compliance related to small molecules and biologics, overview
+of biopharma industry, regulation and development process for new chemical entities and biolgies,
+formulation of pharmaceutical dosage forms, current Good Manufacturing Practices, chemistry
+manufacture and controls, overview of Common Technical Document (CTD), managing post-approval
+changes - formulatin, process, packaging, and analytical.
+597. Master's Thesis Research. (C)
+564. (PHRM564) Drug Delivery.. (C)
+Students will learn about drug distribution throughout the body, pharmacokinetics, nanoparticle
+systems for drug delivery, gene delivery systems, targeted drug delivery translation of new drug
+delivery systems to patients, and case studies on current drug delivery systems in research. Faculty
+from engineering and medicine will give lectures on their research interests. The students read current
+journal articles throughout the course. A major assignment for the course is a written and oral group
+proposal on a topic chosen by the students that is relevant to the course material.
+580. Masters Biotech Lab.. (C) Reserved for students in the Master of Biotechnology Program
+In this course, students will learn biochemical and genetic engineering laboratory skills including
+molecular cloning techniques, cell transformation, DNA gel electrophoresis, ImageJ, PCR, DNA
+sequencing, SDS-PAGE, Western blot and enzyme assays. Cell culture techniques for bacteria, yeast
+and animal cells will be taught and practiced. The students write several individual lab reports during
+the semester. A group presentation and report on a proposal for a new lab experiment is the final
+assignment for the lab.
+
+Page 7 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+L/R 582. (BE 557) From Cells to Tissue: Engineering Structure and Function. (B)
+The goal of this course is to introduce students to engineering concepts in understanding and
+manipulating the behavior of biological cells. We will try to understand the interplay between cells,their
+extracellular microenvironment, and intracellular signaling pathways in regulating cellular and
+multicellular structure and function. In particular, we will explore the use of modern experimental
+approaches to characterize and manipulate cells for bioengineering applications, and the concepts in
+scaling cellular engineering functional tissues. In this context, we will focus on several topics, including
+signal transduction and the molecular regulation of cell function, cellular microenvironment, cell
+adhesion and mechanics, stem cells, multicellularity, and experimental models of tissue develpment.
+599. Master's Indep Study. (C)
+L/R 602. Statistical Mechanics of Liquids. (C) Prerequisite(s): Graduate level course in statistical
+mechanics (e.g. CBE 618, MSE 575, BE 619, BMB 604, PHYS 581, CHEM 521). An advanced
+statistical mechanics course (e.g., PHYS 611, CHEM 522) is recommended, but not required.
+The course will focus on advanced concepts and methods in statistical mechanics with a particular
+emphasis on the liquid state, e.g. aqueous solutions, capillarity, polymers, colloids, glasses,
+amphiphilic self-assembly, etc. Principles of both equilibrium and non-equilibrium statistical mechanics
+will be discussed and connections to experimentally measurable quantities will be made wherever
+possible.
+617. (ESE 617, MEAM613) Control of Nonlinear Systems. (A)
+PID control of nonlinear systems; steady-state, periodic and chaotic attractors. Multiple-input, multipleoutput systems; decoupling methods and decentralized control structures. Digital control; z-transforms,
+implicit model control, impact of uncertainties. Constrained optimization; quadratic dynamic matrix
+control. Nonlinear predictive control. Transformations for input/output linearized controllers.
+L/R 618. (BE 662, MEAM662) Advanced Molecular Thermodynamics. (A)
+Review of classical thermodynamics. Phase and chemical equilibrium for multicomponent systems.
+Prediction of thermodynamic functions from molecular properties. Concepts in applied statistical
+mechanics. Modern theories of liquid mixtures.
+619. Application of Thermodyanics to Chemical Engineering II. (M)
+An introduction to statistical mechanics and its applications in chemical engineering. Ensembles.
+Monatomic and polatomic ideal gases. Ideal lattices; adsorption and polymer elasticity. Imperfect
+gases. Dense liquids. Computer simulation techniques. Interacting lattices.
+621. Advanced Chemical Kinetics and Reactor Design. (A)
+Mechanisms of chemical reactions. Transition state theory. Langmuir-Hinshelwood Kenetics.
+Absorption and cataysis. Simple and complex reaction schemes. Design of idealized reactors.
+Fluidized reactors. Solid-gas reactions. Residence time distributions. Reaction and diffusion in solid
+catalysts. Reactor stability and control.
+
+Page 8 of 9
+
+CHEMICAL AND BIOMOLECULAR ENGINEERING
+(EG) {CBE}
+L/R 640. (MEAM570) Transport Processes I. (A)
+The course provides an unified introduction to momentum, energy (heat), and mass transport
+processes. The basic mechanisms and the constitutive laws for the various transport processes will be
+delineated, and the conservation equations will be derived and applied to internal and external flows
+featuring a few examples from mechanical, chemical, and biological systems. Reactive flows will also
+be considered.
+641. Transport Processes II (Nanoscale Transport). (B)
+A continuation of CHE 640, with additional emphasis on heat and mass transport. This course aims to
+teach transport concepts and methods useful in many current CBE laboratory settings. The emphasis
+will be on microscopic dynamics and transport in both hard and soft systems (e.g. colloids and
+polymers), of relevance to a variety of biological and biomolecular systems. Wherever possible, will
+make connections between classical, macroscopic transport, and what is happening microscopically.
+Will make use of a comination of analytic and algorithmic/numerical methods to facilitate
+understanding of the material. Physical topics will include stochastic, "single-molecule", non-ideal,
+hard sphere and frustrated systems, phase transitions, non-equilibrium statistical mechanics and
+optics. Concepts will include properties of stochastic functions (Gaussian statistics, correlation
+functions and power spectra), Fourier methods, Convolution, the Central Limit theorem, anomalous
+diffusion, percolation, and the Fluctuation/Dissipation theorem. Computational methods will
+concentrate on Monte Carlo simulations of "toy" models.
+737. Biotechnology Seminar. (M)
+700. Special Topics. (M)
+Lectures on current research problems or applications in chemical engineering. Recent topics have
+included heat transfer, polymer science, statistical mechanics, and heterogeneous catalysis.
+701. Scattering Methods/Colloidal and Macromolecular Systems. (M)
+The scattering of light, x-rays and neutrons in (1) the characterization of macromolecules in solution
+and the solid state, (2) the study of solid-state polymer morphology, and (3) the characterization of
+inorganic, organic and biological systems of colloidal dimensions. Both theory and experimental
+methods will be covered.
+702. Surface Science. (M)
+Techniques in surface science. Surface characterization techniques. Applications to MOCVD, surface
+chemistry, and surface physics.
+899. Independent Study. (C)
+990. Masters Thesis. (C)
+995. Dissertation. (C)
+999. Thesis/Dissertation Research. (C)
+For students working on an advanced research program leading to the completion of master's thesis
+or Ph.D. dissertation requirements.
+
+Page 9 of 9
+
+

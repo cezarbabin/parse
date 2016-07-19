@@ -1,0 +1,274 @@
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+Additional courses, fulfilling the distributional and level requirements of this major, are listed
+under Philosophy, Political Science, and Economics.
+SM 260. Political Competition. Marini.
+Political competition is an important topic to study and understand because it may have
+consequences for a coutry, its international relations and its performance. The aim of the course is to
+introduce the students to what political competition is, how political competition and market
+competition differ, to measurement issues and to use data and methodological techniques available to
+investigate the importance of political competition within and across countries. During the course the
+theory explained will be accompanied by examples and articles that will help to clarify the concepts,
+to understand how to use available data to study political conmpetition and its effecs on e.g. economic
+performance of countries.
+SM 261. Research Methods in Social Sciences.
+SM 460. Experiments in Behavioral Ethics. Bicchieri, Dimant.
+In reality, our understanding of different mechanisms and (economic) relationships is hampered by the
+lack of data. More often than not, either the observation itself is difficult or the data is not reliable. Over
+the last decades, economic experiments have become a vital part of the scientific discourse,
+facilitating our understanding of the world we live in (much like in Biology, Chemistry, Physics or the
+like). Economic experiments allow exploring economic behavior under controlled conditions by
+generating observations under different experimental designs and controlled conditions. Pioneering
+this field of research, Daniel Kahneman and Vernon Smith were awarded the Nobel memorial prize in
+recognition of their work on behavioral and experimental economics. In this course, we provide you
+with the methodology of how to develop a research idea and a proper experimental design that allows
+to explore this idea. Essentially, you will learn how to think about ideas, generate predictions, and how
+to use economic experiments to test them.
+
+Introductory Courses
+L/R 008. (PHIL008) The Social Contract. (B) Society Sector. All classes. Freeman, Tan.
+This is a critical survey of the history of western modern political philosophy, beginning from the Early
+Modern period and concluding with the 19th or 20th Century. Our study typically begins with Hobbes
+and ends with Mill or Rawls. The organizing theme of our investigation will be the idea of the Social
+Contract. We will examine different contract theories as well as criticisms and proposed alternatives to
+the contract idea, such as utilitarianism. Besides the above, examples of authors we will read are
+Locke, Rousseau, Hume, Mill and Marx.
+L/R 072. (HSOC101, PHIL072) Biomedical Ethics. (M) Society Sector. All classes. Staff.
+A survey of moral problems in medicine and biomedical research. Problems discussed include:
+genetic manipulation, informed consent, infanticide, abortion, euthanasia, and the allocation of
+medical resources. Moral theory is presented with the aim of enabling students to think critically and
+analytically about moral issues. The need for setting biomedical issues in broader humanistic
+perspective is stressed.
+SM 073. (PHIL073) Topics in Ethics. (M)
+
+Page 1 of 7
+
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+L/R 140. (CIS 140, COGS001) Introduction to Cognitive Science. (A) Staff.Prerequisite(s): An
+introductory course in Computer Science, Linguistics, Neuroscience, Philosophy or Psychology. This
+is a Formal Reasoning course.
+How do minds work? This course surveys a wide range of answers to this question from disciplines
+ranging from philosophy to neuroscience. The course devotes special attention to the use of simple
+computational and mathematical models. Topics include perception, learning, memory, decision
+making, emotion and consciousness.
+
+Intermediate Courses
+030. (ECON030) Public Policy Analysis. (C) Staff.Prerequisite(s): ECON 001 and 002 or ECON 010.
+Credit cannot be received for both ECON 030 and 231
+This course provides an introduction to the economic method for analyzing public policy questions. It
+develops the implications of this method for the role of government in a market economy and for the
+analysis of specific public projects.
+033. (ECON033) Labor Economics. (B) Staff.Prerequisite(s): ECON 001 and 002. Credit cannot be
+received for both ECON 033 and 233.
+The course begins with an extensive discussion of models of labor market demand and supply. The
+rest of the course addresses a variety of related topics including the school-to-work transition, job
+training, employee benefits, the role of labor, unions, discrimination, workforce diversity, poverty, and
+public policy.
+034. Economics of Family & Gender. (A) Staff.Prerequisite(s): ECON 001, 002, or 010 and ECON
+103.
+The course will use economic theory and econometric analysis to explore issues regarding decision
+making and allocation of resources within the family. The impact of gender roles and differences on
+economic outcomes will be discussed. We will study some feminist criticism of the economic tools for
+understanding household allocations and gender differences. The US economy will serve as the
+reference point though developing countries will also be discussed.
+035. (ECON035) Industrial Organization. (C) Staff.Prerequisite(s): ECON 001 or ECON 010. Credit
+cannot be received for both ECON 035 and 235.
+Theories of various industrial organizational structures and problems are developed, including
+monopoly, oligopoly, moral hazard and adverse selection. These theories are then applied to the study
+of various industries, antitrust cases, and regulatory issues.
+036. (ECON036) Law and Economics. (A) Staff.Prerequisite(s): ECON 001 or ECON 010. Credit
+cannot be received for both ECON 036 and 234.
+The relationship of economic principles to law and the use of economic analysis to study legal
+problems. Topics will include: property rights and intellectual property; analysis of antitrust and
+economic analysis of legal decision making.
+
+Page 2 of 7
+
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+062. (RUSS189) Soviet & Post-Sov Econ. Vekker.
+The course will cover the development and operation of the Soviet centrally planned economy--one of
+the grandest social experiments of the 20th century. We will review the mechanisms of plan creation,
+the push for the collectivization and further development of Soviet agriculture, the role of the Soviet
+educational system and the performance of labor markets (including forced labor camps--GULags).
+We will discuss the strengths and weaknesses of the Soviet system and the causes of its collapse.
+Privatization, called by some "piratization," will be one of the central issues in our consideration of the
+transition from central planning to a market economy in the early 1990s. Even though our main focus
+will be on the Soviet economy and post-Soviet transition, we will occasionally look back in time to the
+tsarist era and even further back to find evidence to help explain Soviet/Russian economic
+development.
+153. (PSYC253) Judgment and Decisions. (C) Staff.Prerequisite(s): One semester of statistics OR
+microeconomics. An LPS section may be given
+Thinking, judgment, and personal and societal decision making, with emphasis on fallacies and
+biases.
+L/R 225. (PHIL226, PHIL521, STSC128) Philosophy of Biology. (M) Natural Science & Mathematics
+Sector. Class of 2010 and beyond. Domotor, Spencer, Weisberg.
+This course consists of a detailed examination of evolutionary theory and its philosophical
+foundations. The course begins with a consideration of Darwin's formulation of evolutionary theory
+and the main influences on Darwin. We will then consider two contemporary presentations of the
+theory: Richard Dawkins' and Richard Lewontin's. The remainder of the course will deal with a number
+of foundational issues including adaptation, the units of selections, the evolution of altruism, and the
+possibility of grounding ethics in evolutionary theory.
+232. (ECON232) Political Economy. (B) Staff.Prerequisite(s): ECON 101; MATH 104 and MATH 114
+or MATH 115. ECON 103 is recommended.
+This course examines the political and economic determinants of government policies. The course
+presents economic arguments for government action in the private economy. How government
+decides policies via simple majority voting, representative legislatures, and executive veto and
+agenda-setting politics will be studied. Applications include government spending and redistributive
+policies.
+L/R 244. (PHIL244) Introduction to Philosophy of Mind. (M) Domotor, Miracchi.
+This course will survey several central topics in philosophy of mind, as well as investigating how
+philosopy of the mind interacts with scientific study of the mind. Among the questions we'll be asking
+are: What is it to have a mind? What is the relationship between the mind and the brain? Can there be
+a science of the mind? What can it tell us? What can philosophy contribute to a science of the mind?
+What is consciousness? What is it to think, to perceive, to act? How are perception, thought, and
+action related to one another?
+
+Page 3 of 7
+
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+270. (PSCI271) Constitutional Law: Public Power & Civil Rights to 1912. (C) Smith.
+This course explores the creation and transformations of the American constitutional system's
+structures and goals from the nation's founding through the period of Progressive reforms, the rise of
+the Jim Crow system, and the Spanish American War. Issues include the division of powers between
+state and national governments, and the branches of the federal government; economic powers of
+private actors and government regulators; the authority of governments to enforce or transform racial
+and gender hierarchies; and the extent of religious and expressive freedoms and rights of persons
+accused of crimes. We will pay special attention to the changing role of the Supreme Court and its
+decisions in interpreting and shaping American constitutionalism, and we will also read legislative and
+executive constitutional arguments, party platforms, and other influential statements of American
+constitutional thought.
+SM 271. (PHIL271) Global Justice. (M) Tan.
+This course is an introduction to some of the central problems in global justice. Samples of these
+topics include: What are our duties to respond to world poverty and what is the basis of this duty? Is
+global inequality in itself a matter of justice? How universal are human rights? Should human rights
+defer to cultural claims at all? Is there a right to intervene in another country to protect human rights
+there? Indeed can intervention to protect human rights ever be a duty? Who is responsible for the
+environment? We will read some influential contemporary essays by philosophers on these topics
+with the goal of using the ideas in these papers as a springboard for our own further discussion and
+analysis.
+SM 272. (PHIL272) Ethics and the Professions. (M) Tan.Prerequisite(s): At Least one of PHIL 002,
+008, 009 or equivalent.
+Since Louise Brown, the first so-called "test tube baby" was born in 1978, reproductive technologies
+have generated many new ways to "make" babies. These technologies mean that a number of difficult
+ethical questions are inescapable, not only for individuals who otherwise couldn't have children (due
+to biological and/or social constraints) but for the larger society.
+This course will consider the prenatal moral status and identity of the fetus. It explores prenatal
+(and pre-implantation) genetic interventions and their possible effects on the autonomy of the child
+later in life as well as the possible eugenic implications of such interventions. It examines the potential
+conflict between a mother's autonomy and an infant's prenatal harm in the larger context created by
+new kinds of parents and new forms of kinship. Finally, it investigates the market for sperm, eggs,
+embryos and gestation and reflects on the questions of justice they imply.
+275. (PSYC275) Introduction to Political Psychology. (C) Tetlock.Prerequisite(s): PSYC 001 or
+COGS 001. NOTE: Students who are more interested in business-related issues may want Wharton
+276x which is a modified version of this course specifically for Wharton undergraduates.
+This course will explore psychological approaches to understanding political beliefs, attitudes, and
+actions at the levels of both individual citizens and national leaders. It will also explore the possibility
+that psychological science itself is not immune to the political debates swirling around it. Specific
+topics will include: the workings of belief systems (and their power to shape what we "see"), cognitive
+biases (and their power to cause miscalculations), sacred values and their role in stabilizing belief
+systems and social interaction, personality and ideology (the linkages between the personal and the
+political), and clashing conceptions of morality and distributive and corrective justice (striking
+variations among people in what they consider to be fair). We shall also explore some topics that have
+sparked controversy in the psychological research literature and that tend to polarize opinion along
+political lines, including work on intelligence and unconscious bias.
+
+Page 4 of 7
+
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+L/R 277. (PHIL277) Justice, Law and Morality. (M) Freeman, Allen.
+The course will focus on the philosophical background to the individual rights protected by the U.S.
+Constitution, including 1st Amendment freedoms of religion, expression, and associaton; the 14th
+amendment guarantee of Due Process and the rights of privacy, abortion, assisted suicide, and
+marriage; the Equal Protection clause and equal political rights and the legitimacy of affirmative
+action; and the Takings and Contract clauses and their bearing on rights of private property and
+economic freedoms. In addition to Supreme Court decisions on these issues, we will read works by
+political philosophers and constitutional theorists, including J.S. Mill, Ronald Dworkin, Cass Sunstein,
+Martha Nussbaum, Katherine MacKinnon and others.
+
+Advanced Courses
+201. (ECON013) Strategic Reasoning. (A) Dillenberger.Prerequisite(s): Some high school algebra,
+ECON 001. This course may NOT be taken concurrently or after Econ 212.
+This course is about strategically interdependent decisions. In such situations, the outcome of your
+actions depends also on the actions of others. When making your choice, you have to think what the
+others will choose, who in turn are thinking what you will be choosing, and so on. Game Theory offers
+several concepts and insights for understanding such situations, and for making better strategic
+choices. This course will introduce and develop some basic ideas from game theory, using
+illustrations, applications, and cases drawn from business, economics, politics, sports, and even
+fiction and movies. Some interactive games will be played in class. There will be little formal theory,
+and the only pre-requisites are some high-school algebra and having taken Econ 1. However, general
+numeracy (facility interpreting and doing numerical graphs, tables, and arithmetic calculations) is very
+important. This course will also be accepted by the Economics department as an Econ course, to be
+counted toward the minor in Economics (or as an Econ elective).
+202. (PSCI236) The Public Policy Process. (A) Levendusky, Hopkins.
+This course integrates economic, ethical and political perspectives. It examines competing theories,
+models, and analytical frameworks for understanding policymaking. The course will focus on: 1. How
+public problems are framed and described; 2. What crieteria are useful in developing and assessing
+policy choices; and 3. How policy choices and outcomes are mediated and influenced by individuals,
+organizations and political institutions.
+203. (PSYC265) Behavioral Economics and Psychology. (C) Bhatia.Prerequisite(s): ECON 001.
+Prerequisite: ECON 1
+This course will introduce you to the study of choice, and will examine in detail what we know about
+how people make choices, and how we can influence these choices. It will utilize insights from
+psychology and economics, and will apply these insights to domains including consumer choice, risky
+decision making, and prosocial decision making.
+
+Page 5 of 7
+
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+L/R 204. (PHIL228) Philosophy of Social Science. (B) Bicchieri, Weisberg.Prerequisite(s): ECON
+001, ECON 002, PHIL 008 and PPE 201.
+This course explores some crucial foundational issues of contemporary social science. It focuses on
+vaious types of explanation, the construction of social models, and their validation. Specific topics will
+include: 1. Rational choice models (including game-theoretic ones) and alternative models of bounded
+rationality; 2. Experimental models in economics and psychology and whether they present a radical
+departure from traditional exonomic models; 3. Evolutionary models of the emergence of institutions,
+and agent-based simulations of such dynamics. In partidular, we will explore theoretical and empirical
+models of trust, reciprocity, cooperation and fairness, asking what motivates individuals to engage in
+pro-social behavior and how such behavior can emerge and persist. This course will cover some of
+the material presented in other Core courses, with particular attention to foundational and explanatory
+issues that are not usually discussed in a typical social science course.
+299. Independent Study. (C) Staff.
+Student arranges with a faculty member in Philosophy, Economics or Political Science to pursue a
+program of reading and writing on a suitable topic.
+301. Directed Honors Research. (C) Staff. Open only to senior majors in PPE.
+Student arranges with a faculty member in Philosophy, Economics or Political Science to do an
+honors thesis on a suitable topic.
+SM 417. (PHIL417) Game Theory. (M) Bicchieri.
+The course will introduce students to non-cooperative game theory and experimental games. The first
+part of the course will focus on the basic elements of non-cooperative game theory. The second part
+will cover the experimental literature on social dilemmas, trust and ultimatum games. The format will
+consist of lectures, student presentations, and discussions.
+L/R 421. (PHIL226, PHIL421) Philosophy of Biology. (M) Domotor, Spencer, Weisberg.Prerequisite
+(s): Either two philosophy courses or BIOL 101/102 (or equivalent).
+This course consists of a detailed examination of evolutionary theory and its philosophical
+foundations. The course begins with a consideration of Darwin's formulation of evolutionary theory
+and the main influences on Darwin. We will then consider two contemporary presentations of the
+theory: Richard Dawkins' and Richard Lewontin's. The remainder of the course will deal with a number
+of foundational issues including adaptation, the units of selections, the evolution of altruism, and the
+possibility of grounding ethics in evolutionary theory.
+SM 475. (HIST455, PHIL359, PHIL475, PSYC453, PSYC478) Philosophy, Politics and Economics.
+(C) Staff. PPE Capstone Seminar
+This is an integrative senior seminar (open to others by departmental permission).
+The following website will give descriptions of the specific capstone courses that will be offered
+each semester: http://www.sas.upenn.edu/ppe/CapstoneCourses/index.html
+SM 476. (PSCI395, PSCI418) Philosophy, Politics and Economics. (C) Staff. PPE Capstone
+Seminar
+This is an integrative senior seminar (open to others by departmental permission).
+The following website will give descriptions of the specific capstone courses that will be offered
+each semester: http://www.sas.upenn.edu/ppe/Courses/general
+
+Page 6 of 7
+
+PHILOSOPHY, POLITICS, AND ECONOMICS
+(AS) {PPE}
+499. Advanced Research. (M) Staff.
+This course may be taken by a PPE student for advanced research. Enrollment by permit only.
+
+Page 7 of 7
+
+

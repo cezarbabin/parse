@@ -1,0 +1,641 @@
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+201. (BEPP770) Introduction to Business Economics and Public Policy. (C) Katja
+Seim..Prerequisite(s): None.
+This course explores the economics and politics of public policy to provide an analytic framework for
+considering why, how, and with what success/failure government intervenes in a variety of policy
+areas. Particular attention will be paid to important policy issues relating to taxation, social security,
+low-income assistance, health insurance, education (both K-12 and higher ed), the environment, and
+government deficits. The costs and benefits of alternative policies will be explored along with the
+distribution of responsibilities between the federal, state and local governments. While the course will
+focus primarily on U.S. policies, the topics covered (e.g. tax reform, deficits versus austerity, etc.) are
+currently at the center of the policy debate in many other industrialized countries as well.
+203. Business in the Global Political Environment. (C) Santosh Anagol/Robert Jensen.Prerequisite
+(s): ECON 1 or equivalent.
+This course examines the non-market components of business and the broader political, regulatory,
+and civil context in which companies function. This course addresses how businesses interact with
+political and regulatory institutions, as well as the general public, with a focus on the global economy.
+The first portion examines the realities associated with political economy and the actual making of
+laws and regulations by imperfect politicians and regulators. The second portion analyzes the
+economic rationale for legislation and regulation in the presence of market failures. The course covers
+specific market failures and potential solutions including government regulation.
+204. (BEPP704) Financing and Managing Government. (B) Staff..Prerequisite(s): BEPP 250, ECON
+1 or equivalent.
+Given government regulations, cost-benefit evaluations are critical for many private sector activities.
+This course studies the role of public policy in affecting the efficiency of markets and the distribution of
+resources in society. The first goal of the course is to survey public expenditure programs and their
+interaction with markets. The second goal is to discuss how the public sector raises revenue through
+taxation to finance these expenditure programs.
+206. (BEPP772, REAL206, REAL772, REAL972) Urban Public Policy and Private Economic
+Development. (C) Gilles Duranton..Prerequisite(s): ECON 1.
+This course considers a range of local policies in cities and regions. Examples of policies will include
+clusters and other local development initiatives, large scale regional policies, employment zones and
+other targeted policies. More traditional urban policies such as zoning and planning and constraints,
+transportation pricing, and parking policies among many others will also be considered. Practical
+examples will be extremely diverse and include the Silicon Valley and attempts to copy it, the
+Tennessee Valley Authority, housing restrictions in developing countries such as Brazil, congestion
+pricing in London, etc. Students will be expected to actively participate and make presentations. The
+course emphasizes the importance of the economic context, the understanding of the underlying
+rationale for policies, and how the private agents respond to public incentives. The main learning goals
+are the following: be able to use simple empirical tools of economic evaluations, be able to articulate a
+critical analysis of competing viewpoints and assessments, and be able to integrate various analytic
+steps into an overall assessment of economic policies that relies on sound principles and is well
+argued.
+
+Page 1 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+208. (BEPP708, REAL208, REAL708) Housing Markets. (B) Joseph Gyourko.Prerequisite(s):
+Managerial Economics (BEPP 250) or equivalent. Lecture with discussion required.
+This course is designed for students interested in the economics and operations of housing markets. It
+is primarily a U.S. focused course, but does include a limited amount of international material for
+comparative purposes. The class is divided into four sections: (1) supply and demand for housing,
+including the operations of homebuilders and rental landlords; (2) house prices, including cycles and
+price dynamics; (3) international comparisons; and (4) public policy analysis applied to a current
+housing markets-related issue. This course presumes knowledge of intermediate economics, as we
+will apply that knowledge throughout the semester. For Wharton students, this means you must have
+passed BEPP 250 (undergrads) or MGEC 611 and MGEC 612 (MBAs). Non-Wharton students should
+have taken the equivalent course in the College.
+210. (BEPP710) Firms, Markets and Public Policy. (C) Katja Seim..Prerequisite(s): ECON 1.
+Many dimensions of firms' strategies, including agreements with suppliers and competitors, mergers
+and acquisitions, pricing, and technology standards development, among others, are subject to the
+oversight of regulatory bodies and governmental agencies. This course studies how public policy
+impacts firms' strategic choices in a host of economic environments. We will analyze pricing strategies
+including versioning and bundling; product standardization decisions; the management of
+complementarities between products; the role of network effects and platform competition; and how
+firms can take advantage of the regulatory environment they operate in when making such decisions.
+We will study, for example, why Sony won the Blu-Ray format war against the widely supported HDDVD format; how the FCC plans to incentivize television broadcasters to return spectrum holdings for
+auction to wireless broadband providers; and how contracts with content providers affect firms'
+strategic interactions in the e-reader market. To understand how firm strategy and public policy
+interact, the course will rely on a mix of simple but rigorous analytical models and case studies.
+212. (LGST212, PPE 212) Economic Analysis of Law. (C) Martin Asher..Prerequisite(s): ECON 1 or
+ECON 10.
+The course is designed to teach students how to think as an economist about legal rules; to evaluate
+alternative legal rules against standards of economic efficiency and distributive justice; and to
+understand the nature of the legal process and several specific areas of the law. With the use of
+alternative texts, both deductive and inductive reasoning will be employed to study the formation and
+interpretation of legal rules.
+214. Nonprofit Sector: Economic Challenges and Strategic Responses. Ashley
+Swanson..Prerequisite(s): None.
+The nonprofit sector plays a key role in the provision of many goods and services which are
+fundamental in our society and which may be difficult to provide using market mechanisms alone.
+Education, health care, charitable services, and the arts are some primary examples of these.
+Nonprofit organizations operate in service of specific social missions rather than profit maximization,
+but in order to serve those missions effectively while ensuring their own survival, they must also make
+many of the decisions typically associated with private firms. That is, they must compete for funding,
+human resources, and consumers of their services, they must manage and invest their resources
+efficiently, and they must innovate new products and services over time. Importantly, the latter
+requirements may at times come in conflict with the organizations' social values. As a result, nonprofit
+organizations as economic decision-makers confront a number of unique challenges to their success
+and growth. The goal of this course is to give students a broad overview of the economic,
+organizational, and strategic concerns facing the non-profit sector. Our objective is to characterize the
+unique economic environment, identify effective strategic governance, and management approaches,
+and explore how appropriate measurement techniques can
+can inform the policy treatment of nonprofits. This course is organized around a number of lectures,
+readings and outside speakers, a midterm exam and a required project.
+
+Page 2 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+230. (BEPP899, FNCE230, REAL230) Urban Fiscal Policy. (A) Robert Inman.Prerequisite(s): ECON
+1, FNCE 101.
+The purpose of this course is to examine the financing of governments in the urban economy. Topics to
+be covered include the causes and consequences of the urban fiscal crisis, the design of optimal tax
+and spending policies for local governments, funding of public infrastructures and the workings of the
+municipal bond market, privatization of government services, and public financial systems for
+emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as
+important determinants of real estate prices, the infrastructure crisis, financing and the provision of
+public education, and fiscal constitutions for new democracies using South Africa as an example.
+220. Behavioral Economics, Markets, and Public Policy. Jeremy Tobacman..
+Behavioral economics applies insights from psychology to the study of economic phenomena. This
+course will take the possibility of deviations from rational, self-interested behavior as a starting point,
+and explore two main questions: How does psychology play out in markets, where sophisticated and
+unsophisticated consumers and firms interact and compete? And what does behavioral economics
+imply for public policy? Markets have the potential to protect consumers from their biases, when firms
+compete to give biased consumers the best deal. In addition, markets allow for the emergence of
+informational intermediaries that give biased consumers advice. We will examine whether and how this
+remedy is provided in a diverse array of markets. Behavioral economics also affects what governments
+should do and what governments actually do, when they address market failures, combat poverty and
+inequality, and raise revenue. This course therefore also explores "Behavioral Public Finance" -optimal policy in the presence of biases -- and "Behavioral Political Economy" -- how biases affect the
+choices of politicians and regulators themselves.
+233. Consumers, Firms and Markets in Developing Countries. (C) Robert Jensen.
+Nearly four-fifths of the world's population lives in low income or developing countries. Though
+currently far behind the U.S., the 15 fastest growing economies/markets in the world are all developing
+countries. And developing countries already account for 6 of the world's 15 largest economies. This
+course will examine economic life, including consumers, firms and markets, in low income countries.
+We will apply both economic theory and empirical analysis for analyzing the roles of both business
+and government in consumption, production and market equilibria.
+236. (BEPP836, REAL236, REAL836) International Housing Comparisons. (B) Susan
+Wachter.Prerequisite(s): Econ 1 and Econ 2 or Econ 10.
+This course focuses on international comparisons of housing finance systems and housing market
+outcomes. This includes comparative analyses of the financial and economic factors that underlay
+housing market differences and similarities. Changing housing market institutions and policies in
+developed and emerging economies are examined. The course also addresses the implications of the
+integration of global financial markets for national housing markets. International speakers present
+their views on institutional innovations and the policy setting process in their respective markets.
+Various approaches to understanding these issues will be used, including readings, written
+assignments, and group projects.
+
+Page 3 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+L/R 250. (BEPP950) Managerial Economics. (C) Staff.Prerequisite(s): ECON 1 or equivalent; MATH
+103 or equivalent.
+Managerial economics is the application of microeconomic theory to managerial decision-making.
+Microeconomic theory is a remarkably useful body of ideas for understanding and analyzingt the
+behavior of individuals and firms in a variety of economic settingsd. The goal of the course is for you to
+understand this body of theory well enough so that you can effectively analyze managerial (and other)
+problems in an economic framework. While this is a "tools" course, we will cover many business
+applications so taht you can witness the usefulness of thse tools and acquire the skills to use them
+yourself. We will depart from the usualy microeconomic thoery course by giving more emphasis to
+prescription: What should a manager do in order to achieve some objective? That course deliverable is
+to be cmpared with description: Why do firms and consumers act the way they do? The latter will still
+be quite prominent in this course because only by understanding how customers and competitors
+behave can a manager determine the best strategy. Turning to coverage, the course begins with
+development of the theory of supply and demand underlying the competitive model. We then turn to
+monopoly and oligopoly and investigate the development and use of market power such s through
+price descrimination.
+Strategic interaction is explored both in product markets and auctions. Finally, the challenges
+created by asymmetric information - both in the market and within the firm - are investigated.
+261. (BEPP761, BEPP961, OIDD261, OIDD761) Risk Analysis and Environmental Management.
+(M) Howard Kunreuther.Prerequisite(s): ECON 1 helpful.
+This course is designed to introduce students to the complexities of making decisions about threats to
+human health and the environment when people's perceptions of risks and their decision-making
+processes differ from expert views. Recognizing the limitations of individuals in processing information,
+the course explores the role of techniques such as decision analysis, cost-benefit analysis, risk
+assessment and risk perception in structuring risk-management decisions. We will also examine policy
+tools such as risk communication, incentive systems, third party inspection, insurance and regulation
+in different problem contexts. The problem contexts for studying the interactions between analysis,
+perceptions, and communication will include risk-induced stigmatization of products (e.g. alar, British
+beef), places (e.g. Love Canal), and technologies (e.g. nuclear power); the siting of noxious facilities,
+radon, managing catastrophic risks including those from terrorism. A course project will enable
+students to apply the concepts discussed in the course to a concrete problem.
+299. Independent Study. (C) Staff.
+263. (OIDD263) Environmental & Energy Economics and Policy.
+This course examines environmental and energy issues from an economist's perspective. Over the
+last several decades, energy markets have become some of the most dynamic markets of the world
+economy, as they experienced a shift from heavy regulation to market-driven incentives. First, we look
+at scarcity pricing and market power in electricity and gasoline markets. We then study oil and gas
+markets, with an emphasis on optimal extraction and pricing, and geopolitical risks that investors in
+hydrocarbon resources face. we then shift gears to the sources of environmental problems (many of
+which are energy-related), and how policy makers can intervene to solve some of these problems. We
+talk about the economic rationale for a broad range of possible policies: environmental taxes,
+subsidies, performance standards and cap-and-trade. In doing so, we discuss fundamental concepts
+in environmental economics, such as externalities, valuation of the environment and the challenge of
+designing international agreements. At the end of the course, there will be special attention for the
+economics and finance of renewable energy and policies to foster its growth. Finally, we discuss the
+transportaiton sector, and analyze heavily debated policies such as fuel-economy standards and
+subsidies for green vehicles.
+
+Page 4 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+284. Managerial Economics & Game Theory (formerly BPUB 284). (C) Joseph
+Harrington.Prerequisite(s): BEPP 250 or equivalent.
+This course introduces students to strategic reasoning through the lens of game theory. The objectives
+are to learn some game theory and to learn how game theory can inform managerial decision-making.
+Students will discover how to model a strategic situation as a game and how to solve a variety of
+games including those with sequential interaction, repeated play, and private information. These gametheoretic tools will be extensively applied to business strategy as we examine investment and entry,
+pricing (for products that are durable and have switching costs or network effects), price-matching
+guarantees, when it is better to follow than lead, managerial incentive contracts, entry deterrence,
+product location, and two-sided markets. These business strategy issues will be explored in the
+context of many real-world settings including the markets for cigarettes, cookies, wholesale power
+generation, video games, supermarkets, and chemicals. Some of the general takeaways from teh
+course are the value of fewer options, commitment, reputation, and signaling. The presentation of most
+concepts will be complemented with in-class experiments which provide students first-hand
+experience for the forces at play in strategic situatons.
+289. (BEPP789) Nations, Politics, and Market. (C) Howard Pack.Prerequisite(s): Econ 2 or its
+equivalent.
+This course is designed for students who are interested in pursuing an international career and for
+those who plan to work for industrial and financial corporations that operate in emerging markets. The
+course will deal with the economic and political problems of macroeconomic adjustment, corruption,
+the transition economies, and international financial transactions. All of these topics will be illustrated
+with in-depth studies of economies in Africa, Asia, Latin America, the Middle East, Eastern Europe,
+and China.
+305. (BEPP805, LAW 741) Risk Management. (C) Staff..Prerequisite(s): None.
+This course introduces the concepts and techniques available to individuals, corporations,
+governments, and other organizations in their efforts to manage risk. The course explores how
+individuals and firms assess and evaluate risk, the tools available to successfully manage risk, and
+real-world frictions that limit the amount of risk-sharing in the economy. We focus on pure risks that are
+relevant for individuals and firms, such as mortality and health-related expenses, property damage,
+product liability, and employee benefits (e.g. pensions). The course examines a common set of
+techniques that can be used by individuals and managers in dealing with risk, including risk
+assumption, prevention, diversification, and transfer via insurance and non-insurance market
+mechanisms. Our focus is primarily on explaining the products and institutions that we see in the
+world, which will prepare students for making decisions in their future careers and lives.
+322. (BEPP823) Business Insurance and Estate Planning. (C) Victor Hallman..Prerequisite(s):
+None.
+This course presents an analysis of overall private wealth management. This includes planning for
+disposition of closely-held business interests; the impact of income taxes and other transfer costs on
+business interests and other assets; integration of life insurance, disability insurance, medical benefits,
+and long-term care insurance in the financial plan; planning for concentrated asset (e.g. common
+stock) positions, diversification techniques, and asset allocation strategies; distribution of retirement
+assets; lifetime giving and estate planning; and analysis of current developments in the creation,
+conservation, and distribution of estates. Attention also is given to various executive compensation
+techniques (including restricted stock and stock options) and planning for various employee benefits.
+The course also covers sophisticated charitable giving techniques and methods for financing educaton
+expenses. Reading consist of textbooks, case studies, and bulk pack articles.
+451. (BEPP851, STAT451, STAT851) Fundamentals of Actuarial Science. (A) Jean
+Lemaire..Prerequisite(s): None.
+
+Page 5 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+452. (BEPP852, STAT452, STAT852) Fundamentals of Actuarial Science I. (B) Jean
+Lemaire..Prerequisite(s): One semester of Calculus.
+This course is the usual entry point in the actuarial science program. It is required for students who
+plan to concentrate or minor in actuarial science. It can also be taken by others interested in the
+mathematics of personal finance and the use of mortality tables. For future actuaries, it provides the
+necessary knowledge of compound interest and its applications, and basic life contingencies definition
+to be used throughout their studies. Non-actuaries will be introduced to practical applications of
+finance mathematics, such as loan amortization and bond pricing, and premium calculaton of typical
+life insurance contracts. Main topics include annuities, loans and bonds; basic principles of life
+contingencies and determinaton of annuity and insurance benefits and premiums.
+708. (BEPP208, REAL208, REAL708) Housing Markets. (B) Joseph Gyourko.Prerequisite(s):
+Microeconomics for Managers (MGEC 611) and Microeconomis for Managers (Advanced) (MGEC
+612) or equivalent. Lecture with discussion required.
+This course is designed for students interested in the economics and operations of housing markets. It
+is primarily a U.S. focused course, but does include a limited amount of international material for
+comparative purposes. The class is divided into four sections: (1) supply and demand for housing,
+including the operations of homebuilders and rental landlords; (2) house prices, including cycles and
+price dynamics; (3) international comparisons; and (4) public policy analysis applied to a current
+housing markets-related issue. This course presumes knowledge of intermediate economics, as we
+will apply that knowledge throughout the semester. For Wharton students, this means you must have
+passed BEPP 250 (undergrads) or MGEC 611/MGEC612 (MBAs). Non-Wharton students should have
+taken the equivalent course in the College.
+453. (BEPP853, STAT453, STAT853) Actuarial Statistics. (A) Jean Lemaire..Prerequisite(s): None.
+454. (BEPP854, STAT454, STAT854) Applied Statistical Methods for Actuaries. (B) Jean
+Lemaire..Prerequisite(s): None.
+One half of the course is devoted to the study of time series, including ARIMA modeling and
+forecasting. The other half studies modificatons in random variables due to deductibles, co-payments,
+policy limits, and elements of simulaton. This course is a possible entry point into the actuarial science
+program. No INSR course is a pre-requisite for INSR 854. The Society of Actuaries has approved
+INSR 854 for VEE credit on the topic of time series.
+704. (BEPP204) Financing and Managing Government. (B) Staff..Prerequisite(s): MGEC 611/612 or
+equivalent.
+Given government regulations, cost-benefit evaluations are critical for many private sector activities.
+This course studies the role of public policy in affecting the efficiency of markets and the distribution of
+resources in society. The first goal of the course is to survey public expenditure programs and their
+interaction with markets. The second goal is to discuss how the public sector raises revenue through
+taxation to finance these expenditure programs.
+
+Page 6 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+710. (BEPP210) Firms, Markets and Public Policy. Katja Seim..Prerequisite(s): None.
+Many dimensions of firms' strategies including agreements with suppliers and competitors, mergers
+and acquisitions, pricing and technology standards development, among others, are subject to the
+oversignt of regulatory bodies and governmental agencies. This course studies how public policy
+impacts firms' strategic choices in a host of economic environments. We will analyze pricing strategies
+includng versioning and budling; product standardization decisions; the management of
+complementarities between products; the role of network effects and platform competition; and how
+firms can take advantage of the regulatory environment they operate in when making such decisions.
+We will study, for example, why Sony won the Blu-Ray format war against the widely supported HDDVD format; how the FCC plans to incentivize television broadcasters to return spectrum holdings for
+auction to wireless broadband providers; and how contracts with content providers affect firms'
+strategic interactions in the e-reader market. To understand how firm strategy and public policy
+interact, the course will rely on a mix of simple but rigorous analytical models and case studies.
+761. (BEPP261, BEPP961, OIDD261, OIDD761) Risk Analysis and Environmental Management.
+(M) Howard Kunreuther..Prerequisite(s): None, but a basic understanding of microeconomics helpful.
+This course is designed to introduce students to the role of risk assessment, risk perception and risk
+management in dealing with uncertain health, safety and environmental risks including the threat of
+terrorism. It explores the role of decision analysis as well as the use of scenarios for dealing with these
+problems. The course will evaluate the role of policy tools such as risk communicaton, economic
+incentives, insurance, regulation and private-public partnership in developing strategies for managing
+thse risks. A project will enable students to apply the concepts discussed in the course to a concrete
+problem. Cross-listed with OPIM 761.
+763. (OIDD763) ENERGY MARKETS & POLICY.
+Over the last several decades, energy markets have become some of the most dynamic markets of
+the world economy. Traditional fossil fuel and electricity markets have been seen a partial shift from
+heavy regulation to market-driven incentives, while rising environmental concerns have led to a wide
+array of new regulations and "environmental markets". The growth of renewable energy could be
+another source of rapid change, but brings with it a whole new set of tecnological and policy
+challenges. This changing energy landscape requires quick adaptation from energy companies, but
+also offers opportunities to turn regulations into new business. The objective of this course is to
+provide students with the economist's perspectibve ona broad range of topics that professionals in the
+energy industry will encounter. Topics include the effect of competition, market power and scarcity on
+energy prices, the impact of deregulation on electricity and fossil fuel markets, extraction and pricing of
+oil and gas, uncertainty and geopolitical risk in hydocargbon investments, the environmental impact
+and policies related to the energy sector, environmental cap-and-trade markets, energy efficiency, the
+economics and finance of renewable energy, and recent developments in the transportaiton sector.
+770. (BEPP201) Introduction to Business Economics and Public Policy. (C) Larry
+Seidman..Prerequisite(s): A basic understanding of microeconomics.
+This course explores the economics and politics of public policy to provide an analytic framework for
+considering why, how, and with what success/failure government intervenes in a variety of policy
+areas. Particular attention will be paid to important policy issues relating to taxation, social security,
+low-income assistance, health insurance, education (both K-12 and higher ed), the environment, and
+government deficits. The costs and benefits of alternative policies will be explored along with the
+distribution of responsibilities between the federal, state, and local governments. While the course will
+focus primarily on U.S. policies, the topics covered (e.g. tax reform, deficits versus austerity, etc.) are
+currently at the center of the policy debate in many other industrialized countries as well.
+
+Page 7 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+772. (BEPP206, REAL206, REAL772, REAL972) Urban Public Policy and Private Economic
+Development. (B) Gilles Duranton..Prerequisite(s): Microeconomics.
+This course considers a range of local policies in cities and regions. Examples include: clusters and
+other local development initiatives, large scale regional policies, employment zones and other targeted
+policies. More traditional urban policies such as zoning and planning and constraints, transportation
+pricing, and parking policies among many others will also be considered. Practical examples will be
+extremely diverse and include the Silicon Valley and attempts to copy it, the Tennessee Valley
+Authority, housing retrictions in developing countries such as Brazil, congestion pricing in London, etc.
+Students will be expected to actively participate and make presentations. The course emphasizes the
+importance of the economic context, the understanding of the underlying rationale for policies, and
+how the private agents respond to public incentives. The main learning goals are the following: be able
+to use simple empirical tools of economic evaluations, be able to articulate a critical analysis of
+competing viewpoints and assessments, and be able to integrate various analytic steps into an overal
+assessment of economic policies that relies on sound principles and is well argued.
+773. (FNCE730, REAL730) Urban Fiscal Policy. (A) Robert Inman..Prerequisite(s): Microeconomics,
+FNCE 601.
+The purpose of this course is to examine the financing of governments in the urban economy. Topics to
+be covered include the causes and consequences of the urban fiscal crisis, the design of optimal tax
+and spending policies for local governments, funding of public infrastructures and the workings of the
+municipal bond market, privatization of government services, and public financial systems for
+emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as
+important determinants of real estate prices, the infrastructure crisis, financing and the provision of
+public education, and fiscal constitutions for new democracies using South Africa as an example.
+789. (BEPP289) Nations, Politics, and Markets. (C) Steve Golub..Prerequisite(s): Microeconomics.
+This course is designed for students who are interested in pursuing an international career and for
+those who plan to work for industrial and financial corporations that operate in emerging markets. The
+course will deal with the economic and political problems of macroeconomic adjustment, corruption,
+the transition economies, and international financial transactions. All of these topics will be illustrated
+with in-depth studies of economies in Africa, Asia, Latin America, the Middle East, Eastern Europe,
+and China.
+805. (BEPP305, LAW 741) Risk Management. (C) Staff..Prerequisite(s): None.
+This course introduces the concepts and techniques available to individuals, corporatons,
+governments, and other organizations in their efforts to manage risk. The course explores how
+individuals and firms assess and evaluate risk, the tools available to successfully manage risk, and
+real-world frictions that limit the amount of risk-sharing in the economy. We focus on pure risks that are
+relevant for individuals and firms, such as mortality and health-related expenses, property damage,
+product liability, and employee benefits (e.g. pensions). The course examines a common set of
+techniques that can be used by individuals and managers in dealing with risk, including risk
+assumption, prevention, diversification, and transfer via insurance and non-insurance market
+mechanisms. Our focus is primarily on explaining the products and institutions that we see in the
+world, which will prepare students for making decisions in their future careers and lives.
+
+Page 8 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+811. Risk and Crisis Management. (C) Joan Lamm-Tennant..Prerequisite(s): None.
+The growing connectivity of global economies and financial markets has produced widespread risk
+contagion, resulting in increased volatility and an ever-increasing demand for risk capital. This course
+focuses on understanding the drivers of risk contagion and ways to restore confidence in worldwide
+markets for pure and financial risk. The class begins with an evaluaton of recent financial and pure risk
+events: for example, the sovereign debt crisis, Japanese earthquake, and BP Deepwater Horizon. We
+explore how these events are being financed in innovative ways via the capital and insurance markets.
+Next we emphasize the role of risk management in the preservaton and creation of value, helping
+firms identify, measure, monitor and manage/finance risk. Doing so results in risk-adjusted returns (or
+return on risk-adjusted capital) that exceed the cost of capital. We devote substantial focus on the
+practical implementation of effective risk management/financing, given evolving regulatory and
+governance standards. In addition, we explore opportunities for corporate growth as well as public/
+private partnerships. The course will conclude with a discussion of emerging markets and the role of
+risk management in developing a middle class needing new forms of risk transfer/financing.
+851. (BEPP451, STAT451, STAT851) Fund of Act Sci I (formerly INSR 851). (A) Prerequisite(s): One
+semester of Calculus.
+812. Markets for Pure Risk. (C) Joan Lamm Tennant..Prerequisite(s): Basic microeconomics and
+finance.
+The increased frequency and severity of pure risk events hinders corporations' abilities to execute
+strategy and deliver sustainable financial results to stakeholders. Prominent recent examples include
+disruptions from Hurricane Katrina, Japan's earthquake/nuclear disaster/supply chain breakdowns,
+Thai floods, U.S. wildfires, and global terrorist attacks. At the same time, both industrialized and
+emerging economies understand that the management and financing of pure risk is critical to the
+success of their economies. Consequently, the rising demand for risk capital has ushered in several
+capital market innovations and public/private partnerships necessary for managing and financing pure
+risk. This course investigates these issues, beginning with an introduction to pure risks, their centers of
+gravity and global consequences for corporations, consumers, and the macroeconomies. Next we
+move on to traditional sources of risk capital provided to corporations and governments via insurance
+and reinsurance mechanisms. The course concludes with a discussion of new sources of risk capital
+provided by capital markets including catastrophic risk bonds, securitization of mortality and liability
+risk, and other forms of insurance-linked securities.
+Our focus is on the supply of risk capital to corporations and economies, recognizing the unique
+position of emerging economies in this nexus. Throughout, the class emphasizes current real-world
+cases to illustrate the competitive differences in strategies taken by hedge funds, private equity pools,
+and insurers, as they address the increasing need for risk capital around the world. This course
+complements BEPP 811, Risk and Crisis Management, which focuses on how firms can use various
+types of hedging instruments to manage pure risks (that is BEPP811's emphasis is primarily on the
+demand side of markets for pure risks whereas BEPP 812 examines the supply side of these
+markets). However, BEPP 811 is not required as a prerequisite. Format: Lecture and discussion,
+midterm and final.
+
+Page 9 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+823. (BEPP322) Business Insurance and Estate Planning. (C) Victor Hallman..Prerequisite(s):
+None.
+This course presents an analysis of overall private wealth management. This includes planning for
+disposition of closely-held business interests; the impact of income taxes and other transfer costs on
+business interests and other assets; integration of life insurance, disability insurance, medical benefits,
+and long-term care insurance in the financial plan; planning for concentrated asset (e.g., common
+stock) positions, diversification techniques, and asset allocation strategies; distribution of retirement
+assets; lifetime giving and estate planning; and analysis of current developments in the creation,
+conservation, and distribution of estates. Attention also is given to various executive compensation
+techniques (including restricted stock and stock options) and planning for various employee benefits.
+The course also covers sophisticated charitable giving techniques and methods for financing
+education expenses. Readings consist of textbook, case studies, and bulk pack articles.
+This course should be attractive to most students to help them plan for their own or their families'
+financial affairs. It also should be particularly attractive to students specializing in entrepreneurship,
+wealth management finance, and law.
+836. (BEPP236, REAL236, REAL836) International Housing Comparisons. Prerequisite(s): MGEC
+611: Microeconomics for Managers.
+This course focuses on international comparisons of housing finance systems and housing market
+outcomes. This includes comparative analyses of the economic factors that underlay housing market
+differences and similarities. Changing housing market institutions and policies in previously socialist
+economies and newly emerging countries are examined. The course also addresses integration of
+global financial markets for national housing markets. International speakers present their views on
+institutional innovations and the policy setting process in their respective markets. Various approaches
+to understanding these issues will be used, including readings, written assignments, and group
+projects.
+852. (BEPP452, STAT452, STAT852) Fund of Actuarial Sci II (formerly INSR 852). (B) Prerequisite
+(s): STAT 851 OR BEPP 851.
+This specialized course is usually only taken by Wharton students who plan to concentrate in actuarial
+science and Penn students who plan to minor in actuarial science mathematics. It provides a
+comprehensive analysis of advanced life contingencies problems such as reserving, multiple life
+functions, multiple decrement theory with applicaton to the valuation of pension plans.
+853. (BEPP453, STAT453, STAT853) Actuarial Statistics (formerly INSR 853). (A)
+Lemaire.Prerequisite(s): Two semesters of Statistics.
+This course covers models for insurer's losses, and applications of Markov chains. Poisson processes,
+including extensions such as non-homogenous, compound, and mixed Poisson processes are studied
+in detail. The compound model is then used to establish the distribution of losses. An extensive section
+on Markov chains provides the theory to forecast future states of the process, as well as numerous
+applications of Markov chains to insurance, finance and genetics. The course is abundantly illustrated
+by examples from the insurance and finance literature. While most of the students takinig the course
+are future actuaries, other students interested in applications of statistics may discover in class many
+fascinating applications of stochastic processes and Markov chains.
+
+Page 10 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+854. (BEPP454, STAT454, STAT854) Appl Stat Methd For Actu (formerly INSR 854). (B)
+Prerequisite(s): One semester of Probability.
+One half of the course is devoted to the study of time series, including ARIMA modeling and
+forecasting. The other half studies modificatons in random variables due to deductibles, co-payments,
+policy limits, and elements of simulation. This course is a possibly entry point into the actuarial science
+program. No INSR course is a pre-requisite for INSR 854. The Society of Actuaries has approved
+INSR 854 for VEE credit on the topic of time series.
+895. (HCMG895) GLOBAL BUSINESS WEEK.
+931. Numerical Methods in Economics. (C) Ulrich Doraszelski.Prerequisite(s): None.
+The objective of this course is to introduce graduate students to computational approaches for solving
+economic models. We will formulate economic problems in computationally tractable form and use
+techniques from numerical analysis to solve them. Examples of computational techniques in the
+current economics literature as well as discuss areas where these techniques may be useful in future
+research will be disclosed. We will pay particular attention to methods for solving dynamic optimization
+problems and computing equilibria of games. The substantive applications will cover a wide range of
+problems including industrial organization, game theory, macroecomics, finance, and econometrics.
+SM 900. Research Seminar. (F) Jeremy Tobacman..Prerequisite(s): None. Permission of instructor
+required.
+Of the many ways that doctoral students typically learn how to do research, two that are important are
+watching others give seminar presentations (as in Applied Economics Seminars) and presenting one's
+own research. The BEPP 900 course provides a venue for the latter. Wharton doctoral students
+enrolled in this course present applied economics research. Presentations both of papers assigned for
+other classes and of research leading toward a dissertation are appropriate in BEPP 900. This course
+aims to help students further develop a hands-on understanding of the research process. All doctoral
+students with applied microeconomic interests are encouraged to attend and present. Second and
+third year Applied Economic Ph.D. students are required to enroll in BEPP 900 and receive onesemester credit per year of participation.
+904. (OIDD904) EXPERIMENTAL ECONOMICS. (M)
+This course will help prepare you to run your own economics laboratory and field experiments.
+Experimental methods have been widely adopted by economists to develop new insights, and some
+economic theories and hypotheses are uniquely well-suited for testing with experimental tools and
+data. Achieving high internal and external validity requires careful experimental design. Substantive
+areas of application in the course will include market equilibrium, asset bubbles, learning in games,
+public good provision, and labor market relationships. Additional topics may include biases in
+individual decision-making; field experiments in development economics; and happiness,
+neuroeconomics, and behavioral/experimental welfare economics. Economists' typical interests in
+strategic and market-based interactions raise particular methodological challenges and opportunities.
+
+Page 11 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+911. Empirical Public Policy. (B) Ulrich Doraszelski.Prerequisite(s): A graduate-level statistics or
+econometrics course.
+This course examines econometric research on a variety of topics related to public policy, with the goal
+of preparing students to undertake academic-caliber research. The course is not an econometrics or
+statistics course per se; rather, it focuses on research designs with observational data and how
+econometric techniques are applied in practice. The course aims to train students to do applied
+economic research that involves measuring effects of theoretical or practical interest. It proceeds in
+two major parts. The first part examines endogeneity and inference about causal relationships,
+instrumental variables methods and critiques, and panel data methods. The second part of the course
+addresses 'structural' econometric modeling. Topics covered in this part include sorting and selection,
+entry models, and counterfactual analyses of policy changes. The course proceeds by analyzing, in
+detail, approximately 24 well-known empirical research papers in applied economics or related fields.
+These include public economics and tax policy, labor economics, law and economics, health care
+policy, industrial organization and competition, transportation demand and policy, and others.
+932. Contract Theory and Applications. (B) Daniel Gottlieb.Prerequisite(s): None.
+The course provides an advanced introduction to the theory of contracts and its mixture of
+foundational theories and applications to fields such as labor, reguindustrial organization.
+933. Public Economics: Social Insurance and Government Expenditures. Staff.Prerequisite(s):
+None.
+The first part of this course will examine the rationale for and economic impact (e.g. on saving, labor
+supply, etc.) of social insurance programs such as social security, unemployment insurance and
+disability insurance. The next major part of the course will explore these same issues for government
+interventions in health insurance markets. The course will then cover research on public goods,
+externalities, fiscal federalism, and econmic stimulus (including the government's recent response to
+the "Great Recession") before proceeding to an exploration of the government's role in K-12 and high
+education. Both theoretical and empirical evidence will be covered along with a mix of classic studies
+and more cutting-edge research. Throughout the course we will discuss the tradoffs - for example
+between the protection and distortion of social insurance programs -- that influence government's
+optional role. While the focus will be on evidence from the U.S., some research from other
+industrialized and developing countries will also be covered.
+934. Economics of Risk and Time. (A) Daniel Gottlieb.Prerequisite(s): Economics (Basic).
+This course deals with the economic theory of supply, demand, and equilibrium in savings and
+insurance markets, including social insurance. We will review decision models under condidtions of
+risk and use these to address probelms of optimal insurance, moral hazard and adverse selection,
+social security, and contract enforcement.
+941. Development Economics. (C) Shing-yi Wang/Robert Jensen.
+This course will cover current microeconomic issues of developikng countries including poverty, risk,
+savings, human capital, and institutions. We will also explore the causes and consequences of market
+failures that are common in many developing countries with a focus on credit, land, and labor markets.
+The course is designed to introduce recent research with focus on empirical methods and testing
+theories with data.
+
+Page 12 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+971. Market Design. Eduardo Azevedo.
+The course covers Market Design, the analysis and engineering of market rules and institutions. In the
+last 60 years practitioners and academics have deliberately engineered the rules of an increasing
+number of markets, with classic examples including medical resident matching (e.g., NRMP),
+spectrum auctions (e.g., FCC auctions), and organ donation exchanges. In the last few years, very
+large markets have been created from scratch, such as eBay, Adwords, and smaller markets like
+odesk.com and sittercity.com. These designs use a broad set of tools, including economic theory,
+empirical analysis and experiments (and a fair dose of trial-and-error). With this experience, useful
+principles have emerged, on what market failures typically have to be addressed, and on which rules
+work and which do not.
+951. Political Economy. (A) Staff.Inman.Prerequisite(s): PHD course with advanced microeconomics.
+This course will introduce the students to the basic models of formal political economy and methods
+for empirically estimating those models from policy data, both for the developed and developing
+economies. Topics to be covered will include Downsian electoral competition and median voter politics,
+theories of legislative politics including minimum winning coalition and universalistic (pork-barrel)
+politics, models of lobbying and political corruption, models of executive influence in legislative
+settings. Particular attention is paid to the role of formal (constitutional) and informal (nonconstitutional) institutions as they determine policy outcomes in democratic societies, including
+majoritarian (first-past-the-post) and proportional representation systems of elections, partisan (party)
+and non-partisan (special interest) legislatures, executive agenda-setting and veto powers, federal and
+unitary forms of governance, and finally, the role of judicial review. Policy applications will focus on
+fiscal policy (taxes, spending, and debt), though students should feel free to apply the analysis to other
+public policies of interest. Students should have a firm understanding of micro-economic theory and
+applied econometrics.
+961. (BEPP261, BEPP761, OIDD261, OIDD761) Risk Analysis and Environmental Management.
+(M) Howard Kunreuther.Prerequisite(s): None, but microeconomics helpful.
+This course is designed to introduce students to the role of risk assessment, risk perception and risk
+management in dealing with uncertain health, safety and environmental risks including the threat of
+terrorism. It explores the role of decision analysis as well as the use of scenarios for dealing with these
+problems. The course will evaluate the role of policy tools such as risk communication, economic
+incentives, insurance, regulation and private-public partnerships in developing strategies for managing
+these risks A project will enable students to apply the concepts discussed in the course to a concrete
+problem.
+SM 962. Applied Economics Seminar. (F) Fernando Ferreira.Prerequisite(s): None.
+The goal of this course is to help doctoral students develop critical thinking skills through both seminar
+participation and writing of referee reports. To this end students will attend the Wharton Applied
+Economics each Wednesday at noon seminar when it meets; prepare two written referee reports on
+WAE papers per semester, due before the seminar is presented; after attending the seminar - and the
+ensuing discussion of the paper - students will prepare follow-up evaluations of their referee report
+reports, due one week after the seminar.
+
+Page 13 of 14
+
+BUSINESS ECONOMICS & PUBLIC POLICY
+(WH) {BEPP}
+987. Industrial Organization and Competition Policy. (C) J.F. Houde.Prerequisite(s): Doctoral level
+economics (e.g. ECON 701, 703 or ECON 680, 682).
+This course focuses on empirical methods and applications of research topics in Industrial
+Organization. Although not exclusively, the course will focus mostly on the application of econometric
+techniques used to study specific markets and antitrust policies. The topics that will be covered include
+the evaluationof market power and mergers, product differentiation, investment and innovation,
+collusion, price discrimination, vertical relations, entry and product positioning, and the dynamics of
+industries. The course will also discuss research methodologies related to microeconomic theory,
+computational methods, and econometric analysis. The applicability of the techniques goes beyond
+the field of Industrial Organization, and include the Labor, Health, Trade and Public economics.
+611. Microeconomics for Managers: Foundations. (C) Staff.
+This course establishes the micro-economic foundations for understanding business decision-making.
+The course will cover consumer theory and market demand under full information (2 lectures),
+production theory and economic (and opportunity) cost (2 lectures), pricing strategies in competitive
+and monopoly markets (2 lectures), sophisticated pricing strategies with segmented markets using
+price discrimination and bundling (2 lectures), sophisticated pricing strategies of a single consumer
+using two-part tariffs (1 lecture), and decision-making under uncertainty (1 lecture). Students are
+expected to have mastered these materials before enrolling in the second quarter course:
+Microeconomics for Managers: Advanced Applications.
+612. Microeconomics for Managers: Advanced Applications. (C) Staff..
+MICROECONOMICS FOR MANAGERS: ADVANCED APPLICATIONS. This course will cover the
+economic foundations of business strategy and decision-making in market environments with less than
+full information. Topics include game theoretic approach to market strategies with application to market
+creation and protection (4 lectures), auction theory and application (1 lecture), strategiesfor managing
+risk including the value of information (1 lecture), moral hazard and principle-agent theory with
+application to incentive contracts (1 lecture), asymmetric information and signaling strategies (1
+lecture), public goods and externalities within and between firms (1 lecture), and the management of
+interdependencies through cooperative behavior or politics (1 lecture).
+099. INDEPENDENT RDGS.
+
+Page 14 of 14
+
+

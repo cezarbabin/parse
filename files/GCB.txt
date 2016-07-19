@@ -1,0 +1,43 @@
+GENOMICS AND COMPUTATIONAL BIOLOGY
+(MD) {GCB}
+SM 493. (BIOL493) EPIGEN OF HEALTH&DISEASE.
+534. (PHRM534) Experimental Genome Science. C Brown, J Murray.Prerequisite(s):
+Undergraduates and Masters students need BIOL431 or equivalent.
+535. (CIS 535, MTR 535) Introduction to Bioinformatics. (B) B Voight.Prerequisite(s): The course
+will assume a solid knowledge of modern biology. An advanced undergraduate course such as
+BIOL421 or a graduate course in biology such as BIOL526 (Experimental Principles in Cell and
+Molecular Biology), BIOL527 (Advanced Molecular Biology and Genetics), BIOL528 (Advanced
+Molecular Genetics), BIOL540 (Genetic Systems, or equivalent, is a prerequisite. Corequisite(s):
+Registration for GCB 535-402 (Laboratory) is required. All students are required to bring a laptop to
+the lab sessions (Fridays). TAs will provide help with the material, but students should be computercapable with their own laptop, and should be willing/capable to download and install free software
+from the internet.
+This course provides broad overview of bioinformatics and computational biology as applied to
+biomedical research. A primary objective of this course is to enable students to integrate modern
+bioinformatics tools into their research activities. Course material is aimed to address biological
+questions using computational approaches and the analysis of data. Areas include DNA sequence
+alignment, genetic variation and analysis, motif discovery, study design for high-throughput
+sequencing, RNA and gene expression, single gene and whole-genome analysis, and topics in
+systems biology. The relevant principles underlying methods used for analysis in these areas will be
+introduced and discussed at a level appropriate for biologists without a background in computer
+science. However, a basic primer in programming and operating in a UNIX environment will be
+presented.
+This course emphasizes direct, hands-on experience with applications to current biological
+research problems. The course is not intended for computer science students who want to learn
+about biologically motivaetd algorithmic problems; BIOL437/GCB 536 and GCB/CIS/BIOL537 are
+more appropriate.
+536. (BIOL437) Computational Biology. (M)
+An introductory computational biology course designed for computational scientists. The course will
+cover fundamentals of algorithms, statistics, and mathematics as applied to biological problems. In
+particular, emphasis will be given to biological problem modeling. Students will be expected to learn
+the basic algorithms underlying computational biology, basi c mathematical / statistical proofs and
+molecular biology. Topics to be cover ed are genome annotation and string algorithms, pattern search
+and statistical learning, molecular evolution and phylogenetics and small molecule folding.
+SM 537. (BIOL537, CIS 635) Advanced Computational Biology. (B) Y Barash, L
+Wang.Prerequisite(s): GCB536 or equivalent.
+567. (BE 567) Modeling Biol Systems.
+585. (BMB 585) Wistar Inst Cancer Biol.
+SM 752. (CAMB752) Genomics. (B) S Diskin.
+
+Page 1 of 1
+
+

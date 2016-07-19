@@ -1,0 +1,345 @@
+CHEMISTRY
+(AS) {CHEM}
+010. Academic Based Community Service-Chemistry Outreach. (A)
+L/R 012. Environmental Chemistry. (C) Physical World Sector. All classes. The course requires math
+literacy at the high school algebra level (2 years) and a willingness to learn Excel. Students must also
+have taken one year of high school chemistry.
+The course aims to teach chemical content and principles in the context of significant environmental
+issues. Topics to be covered include: composition of the atmosphere; protecting the ozone layer;
+chemistry of global warming; traditional hydrocarbon fuels and energy utilization; water supply, its
+contaminants, and waste water treatment; acid rain; nuclear energy; and new energy sources.
+Students will develop critical thinking ability, competence to better assess risks and benefits, and skills
+that will lead them to be able to make informed decisions about technology-based matters.
+SM 022. Structural Biology. (C) Natural Science & Mathematics Sector. Class of 2010 and beyond.
+Freshman Seminar
+This course will explain in non-mathematical terms how essentially all biological properties are
+determined by the microscopic chemical properties of proteins. It will also explain how research
+results, especially those of structural biology, are presented to its various audiences.
+SM 025. Freshman Seminar: From Alchemy to Nanoscience. (A) Jeffrey Winkler.
+The imperative to transform matter, find its roots in alchemy and the search for the Philosopher's
+Stone, which was thought to contain the secret of turning base metals into gold and also the secret of
+immortality. We will examine the evolution of the way in which people have thought about matter and
+its transformations; from the manufacturing of explosives to dyestuffs to pharmaceuticals and
+perfumes. We will do some simple experiments that demonstrate some of these principles. We will
+follow the development of the chemical sciences from the works of early alchemists to Renaissance
+(Newton andBoyle) scientists and modern thinkers (Priestly, Lavoisier, Dalton, Mendeleev and others).
+This class, which is designed for non-science as well as potentialscience majors, will involve
+discussions on readings, as well as field trips tosome Philadelphia locations that are notable in the
+history of chemistry.
+053. General Chemistry Laboratory I. (C)
+A general laboratory course covering aspects of qualitative and quantitative analysis, determination of
+chemical and physical properties, and chemical synthesis.
+054. General Chemistry Laboratory II. (C) 
+Continuation of CHEM 053.
+L/R 101. General Chemistry I. (C) Physical World Sector. All classes.
+Basic concepts and principles of chemistry and their applications in chemistry and closely-related
+fields. The first term emphasizes the understanding of chemical reactions through atomic and
+molecular structure. This is a university level course, treating the material in sufficient depth so that
+students can solve chemical problems and can understand the principles involved in their solution. It
+includes an introduction to condensed matter. This course is suitable for majors or non-majors and is
+recommended to satisfy either major or preprofessional requirements for general chemistry. This
+course is presented for students with high school chemistry and calculus. Students with a lesser
+background than this should take Chemistry 100.
+
+Page 1 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+L/R 102. General Chemistry II. (C) Physical World Sector. All classes.Prerequisite(s): CHEM 101.
+Continuation of Chemistry 101. The second term stresses the thermodynamic approach to chemical
+reactions, electrochemical processes, and reaction rates and mechanisms. It includes special topics in
+chemistry.
+L/R 115. Honors Chemistry I. (A) Physical World Sector. All classes. Offered for freshman only.
+An advanced course for students who have had AP Chemistry in high school. Included in the course
+coverage are: quantum mechanics of atoms, molecules and crystalline solids; statistical mechanics of
+gases, liquids, and solids; and coordination chemistry.
+L/R 116. Honors Chemistry II. (B) Physical World Sector. All classes.Prerequisite(s): Advanced High
+School Chemistry (AP or equivalent).
+An advanced course for students who have had very strong background in Chem- istry in High School
+(AP, IB, or equivalent). Advanced material from the general chemistry curriculum will be covered in the
+context topics selected from current research areas. A continuation of CHEM115, CHEM116 will focus
+on topics in biochemistry and biophysical chemistry relating to thermodynamics,equilibrium, kinetics,
+and electrochemistry.
+L/R 221. Physical Chemistry I. (A) Prerequisite(s): CHEM 102, MATH 114, PHYS 150.
+Introductory quantum mechanics, atomic and molecular structure, chemical bonding, and microscopic
+understanding of physical and chemical properties of molecules.
+L/R 222. Physical Chemistry II. (B) Prerequisite(s): CHEM 221, PHYS 151.
+Continuation of CHEM 221. Principles and applications of thermodynamics, and a molecular-based
+understanding of macroscopic properties.
+223. Experimental Physical Chemistry I. (B) Prerequisite(s): CHEM 221. Important methods, skills, and apparatus used for the acquisition and interpretation of quantitative
+information about chemical systems will be discussed in principle and used in the laboratory.
+L/R 241. Principles of Organic Chemistry. (C) Prerequisite(s): CHEM 102.
+Fundamental course in organic chemistry based upon the modern concepts of structure and
+mechanism of reactions.
+L/R 242. Principles of Organic Chemistry II. (C) Prerequisite(s): CHEM 241.
+Continuation of CHEM 241.
+L/R 243. Organic Chemistry II: Principles of Organic Chemistry with applications in Chemical
+Biology. (B) Dr. David Chenoweth & Dr. E. James Petersson.Prerequisite(s): CHEM 241.
+This course is functionally equivalent to Chem 242 as the second term of introductory Organic
+Chemistry, placing the content in the context of biology and medicine. Topics include: 1) alkyl
+compounds, ethers, epoxides and sulfidesin lipids; 2) carboxylic acids and amines in amino acids; 3)
+aromatic compounds and heterocycles in nucleic acids; and 4) ketones and aidehydes in
+carbohydrates. The synthesis and mechanism of action of pharmaceuticals that feature these
+functional groups will also be discussed. Additionally, Chem 243 makes use of 3D structure tutorials,
+recitation sections and visits from biomedical scientists who make use of chemistry in their work.
+
+Page 2 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+245. Experimental Organic Chemistry I. (C) Prerequisite(s): CHEM 241. Corequisite(s): CHEM
+242.Lab fee 
+A basic laboratory course in which both the theoretical and practical aspects of a variety of organic
+reactions and multistep syntheses are emphasized. Modern chromatographic, instrumental, and
+spectroscopic techniques are applied to experimental organic chemistry. Course should be taken
+concurrently with CHEM 242 or in the semester immediately following.
+PLEASE NOTE THE FOLLOWING: For the Summer and LPS offering of CHEM 245, it is a 2semester course. Part 1 is taken in the first term for 0.0 CU and then Part 2 is taken in the second
+term immediately following the first for 1.0 CU.
+246. Advanced Synthesis and Spectroscopy Laboratory. (A) Prerequisite(s): CHEM 242 and 245.
+Corequisite(s): CHEM 261 should be taken concurrently or previously completed successfully.Lab fee
+$300.
+Advanced laboratory work on the synthesis, structure, and properties of organic and inorganic
+compounds. Infrared, ultraviolet, and nuclear magnetic resonance spectroscopy. Lectures cover the
+theoretical basis and applications of modern spectroscopic methods.
+251. Principles of Biological Chemistry. (C) Prerequisite(s): CHEM 102 and 241. Corequisite(s):
+Chemistry 242 required.
+Fundamentals of biological chemistry, including the structure of biological macromolecules and their
+mechanism of action, intermediary metabolism, and the chemical basis of information transfer.
+Course should be taken concurrently with Chem 242.
+L/R 261. Inorganic Chemistry I. (A) Corequisite(s): CHEM 241 may be taken concurrently.
+An introductory survey of the bonding, structure, and reactions of important metal and nonmetal
+compounds.
+299. Directed Study and Seminar. (C) Prerequisite(s): Permission of undergraduate chairman.
+Directed study projects and seminars as individuals or small groups under the supervision of a faculty
+member.
+399. Independent Research. (C) Prerequisite(s): Permission of undergraduate chairman; a B
+average in chemistry, mathematics, and physics.
+Independent project under the direction of a faculty member.
+441. Advanced Organic Chemistry: Reactions, Mechanisms,and Stereoelectronic Effects. (A)
+Prerequisite(s): CHEM 242.
+Study of important types of reactions and functional groups, with emphasis on synthetic usefulness,
+mechanisms, and stereoelectronic principles.
+443. Modern Organic Synthesis. (A) Prerequisite(s): CHEM 241 and 242.
+Introduction to advanced organic synthesis. Study of important synthetic reactions including:
+oxidations, reductions, and methods for the formation of carbon-carbon bonds, with an emphasis in
+chemoselectivity, stereoselectivity and asymmetric synthesis. Survey of modern methods for the
+synthesis of small, medium and large ring systems. Analysis of modern synthetic strategies, with
+illustrative examples from total synthesis of natural and unnatural products.
+
+Page 3 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+451. Biological Chemistry I. (A) Prerequisite(s): CHEM 242, 221 (may be concurrent), and 251 or
+permission of instructor.
+Structure, dynamics, and function of biological macromolecules. Properties of macromolecular
+assemblies, membranes and their compartments. (Formerly, CHEM 450-I).
+521. Statistical Mechanics I. (A) Prerequisite(s): CHEM 222.
+Principles of statistical mechanics with applications to systems of chemical interest.
+452. Biological Chemistry II. (B) Prerequisite(s): CHEM 242, 221, and 251 or permission of
+instructor.
+Physical and chemical description of macromolecular information transfer. Gene organization,
+replication, recombination, regulation and expression. (Formerly, CHEM 450-II).
+462. Inorganic Chemistry II. (C) Prerequisite(s): CHEM 261 or its equivalent and permission of
+instructor.
+A detailed treatment of the theory and application of modern physical methods for the elucidation of
+structure and mechanism in inorganic and organometallic chemistry. An introduction to symmetry and
+group theory is followed by the application of these concepts to vibrational and electronic
+spectroscopy of inorganic complexes. Magnetic resonance is discussed in detail, including topics such
+as EPR, fourier transform methods, dynamic systems, and 2-dimensional NMR.
+495. (PHRM495) High Throughput Discovery: A Multidisciplinary Approach to Cancer.. (B) Dr.'s
+Jeffrey Field, David Schultz, and Simon Berritt.
+The newly developed massively parallel technologies have enabled the simultaneous analysis of
+many pathways. There are several large scale international efforts to probe the genetics and drug
+sensitivity of cancer cell lines. However, there are some rare cancers that have not been analyzed in
+depth. One of these rare cancers is malignant peripheral nerve sheet tumors (MPNST). MPNST,
+although a rare cancer, are common in patients with neurofibromatosis type. In the course, students
+will take part in a high throughput discovery effort in two phases. Phase 1 is a training phase, which
+will consist of quantitative profiling the sensitivity of MPNST cell lines to a library of >120 common and
+experimental cancer drugs. These will be conducted in the UPenn High Throughput Screening Core.
+(http://www.med.upenn.edu/cores/High-ThroughputScreeningCore.shtml). While we call this a training
+phase, the data from this will be subject to rigorous quality control for eventual publication and
+development of a public database for rare tumors.
+Phase 2 is an independent research project. Examples of projects include, but are not limited to:
+Combinatorial screens (synthetic lethal); siRNA screens; novel compound screens; determining
+mechanisms of cell death; developing tools for data analysis and database development. During
+phase 2, students will also modify compounds of interest using the Penn Chemistry: Upenn/Merck
+High Throughput Experimentation Laboratory (https://www.chem.upenn.edu/content/penn-chemistryupennmerck-high-throughput- xperimentation-laboratory), and then retest them for activity to
+determine structure activity relationships. We will sponsor phase 2 projects relevant to
+neurofibromatosis. However, in phase two students can also research other areas if they develop
+sponsorships from professors. We expect the course to be a hypothesis engine that generates ideas
+for further research. Prerequisites include a strong foundation in biology and chemistry. Students will
+prepare an abstract proposal by week three on their phase 2 project, and a report, in scientific paper
+style, due on the last day of the semester.
+
+Page 4 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+522. Statistical Mechanics II. (B) Prerequisite(s): CHEM 521.
+A continuation of CHEM 521. The course will emphasize the statistical mechanical description of
+systems in condensed phases.
+523. Quantum Chemistry I. (A) Prerequisite(s): CHEM 222.
+The principles of quantum theory and applications to atomic systems.
+524. Quantum Chemistry II. (B) Prerequisite(s): CHEM 523.
+Approximate methods in quantum theory and applications to molecular systems.
+525. Molecular Spectroscopy. (C)
+A modern introduction to the theory of the interaction of radiation and matter and the practice of
+molecular spectroscopy. Conventional microwave, magnetic resonance, optical, photoelectron,
+double-resonance, and laser spectroscopic techniques will be included.
+526. Chemical Dynamics. (B)
+Theoretical and experimental aspects of important rate processes in chemistry.
+555. (BMB 554) Macromolecular Crystallography: Methods and Applications. (A)
+The first half of the course covers the principles and techniques of macro- molecular structure
+determination using X-ray crystallography. The second half of the course covers extracting biological
+information from X-ray crystal structures with special emphasis on using structures reported in the
+recent literature and presented by the students.
+557. Mechanisms of Biological Catalysis. (C) Prerequisite(s): One year of organic chemistry and a
+biochemistry course, or permission of instructor.
+Reaction mechanisms in biological (enzymes, abzymes, ribozymes) and biomimetic systems with
+emphasis on principles of catalysis, role of coenzymes, kinetics, and allosteric control.
+559. (BMB 559) Biomolecular Imaging. (B)
+This course considers the noninvasive, quantitative, and repetitive imaging of targeted
+macromolecules and biological processes in living cells and organisms.Imaging advances have arisen
+from new technologies, probe chemistry, molecular biology, and genomic information. This course
+covers the physical principles underlying many of the latest techniques, and defines experimental
+parameters such as spatial and temporal resolution, gain, noise, and contrast. Applications to cellular
+and in vivo imaging are highlighted for confocal, two-photon, and force microscopies; single-molecule,
+CARS, and fluorescence correlation spectroscopy; FRET and fluorescence bleaching; mass
+spectroscopy; MRI, PET and SPECT. The role of molecular imaging agents comprised of proteins,
+organic or inorganic materials is widely discussed.
+
+Page 5 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+567. (BMB 567) Bio-inorganic Chemistry. (C)
+The course covers selected topics in bioinorganic chemistry; special emphasis is placed on dioxygen
+chemistry and electron transfer processes. Course topics include: (i) oxygen uptake and utilization; (ii)
+diatomic oxygen trans port; (iii) diatomic and monoatomic oxygen incorporation into substrates; (iv)
+metalloenzyme-catalyzed C-C bond formation; (v) the metallobiochemistry of DNA; (vi) metal-sulfide
+proteins; (vii) manganese-containing metalloproteins; (viii) Photosystem II: light-driven electron
+transfer and the biological water-splitting reaction; (ix) biological electron transfer; (x) electron transfer
+theory; (xi) mechanisms of energy storage and release; and (xii) long-distance electron transfer
+reactions.
+564. Organometallics. (C)
+This course is focused on molecular species that contain metal-carbon bonds, and the role of these
+compounds in catalytic processes and organic synthesis. Aspects of the synthesis, structure and
+reactivity of important classes of organometallic compounds such as metallo alkyl, aryl, alkene,
+alkylidene and alkylidyne complexes are surveyed for the d and f block metals. Emphasis is placed on
+general patterns of reactivity and recurring themes for reaction mechanisms.
+565. Main Group Chemistry. (C)
+This course encompasses a comprehensive survey of the chemistry and properties of the p-block
+elements of the periodic table. Topics include syntheses, structures and reactivities of important
+compounds. In addition, alternative bonding theories which have been used to explain the unique
+properties of thes compounds are critically examined.
+600. Tutorial Studies. (C) Both terms. May be repeated for credit with permission of instructor
+Readings and discussion on various topics with various faculty members.
+602. Proposal Writing for Chemists. (A) Feng Gai.
+652. Principles of Scattering. (A) Prerequisite(s): One year of physical chemistry.
+Scattering of radiation from gases, liquids, and solids. Applications to molecular structure and
+biological systems.
+721. Mathematics for Chemistry. (C) J. SUBOTNIK.
+This course examines the basic mathematics needed for physical chemistry, including (but not limited
+to) a brief review of linear algebra, Fourier transforms, delta functions, optimization, and the residue
+theorem. Depending on the year, selected other topics will also be included.
+723. Dynamics of Polymers. (C) Z. FAHKRAAI.
+This course discussed the structure of polymers from a statistical physics point of view as well as
+dynamical response of polymeric systems such as mechanical response of polymer melts, polymer
+glass transition, properties of polymers in solutions, and properties of block co-polymers and
+ionomers.
+
+Page 6 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+741. Spectroscopy. (C) Prerequisite(s): CHEM 441 and CHEM 541.
+The course will provide a continuation of material covered in Chemistry 441 and Chemistry 541, as
+well as spectroscopy of organic compounds focused mainly on NMR. Topics will include advanced
+organic mechanisms, electronic structure calculations of organic molecules related to their structure,
+reactivity, and spectroscopic properties, and Organic Spectroscopic methods for the determination of
+structure using NMR.
+742. Medicinal Chemistry and Drug Design. (C) DONNA HURYN.
+This course focuses on concepts and strategies in medicinal chemistry, and how it is applied to
+modern drug discovery and development. Topics include the drug discovery process, drug targets
+(GRCR?s, enzymes, channels etc.), physical chemistry of molecular interactions between drug and
+target, drug design, methods for hit and lead identification, lead optimization, chemical biology, natural
+products chemistry and combinatorial and diversity oriented synthesis. This course is geared to upper
+level undergraduate students in chemistry or biochemistry, and first year chemistry graduate students.
+A strong understanding of organic chemistry is required.
+743. Heterocyclic Chemistry. (C) M. JOULLIE.
+The course deals with topics in Heterocyclic Chemistry. It covers nitrogen-containing monocyclic
+hetero rings, examining the most recent syntheses, the reactions and their mechanisms. The course
+will focus on recent variations and improvements of known heterocycles as well as their synthetic
+utility. Students will be expected to read critically a recent article on heterocyclic chemistry and do a
+presentation to the class.
+744. Bioinspired Synthesis. Methods, Tactics, and Strategies.. (C) VIRGIL PERCEC.
+This class will discuss selected topics related to Bioinspired synthesis, methods, tactics and
+strategies. Target molecules, methods and strategies are designed by using biological systems as
+models.
+745. Total Synthesis. (C) AMOS B. SMITH III.
+751. Chemical Biology. (C) EJ PETERSSON.
+This course focuses on current topics in Chemical Biology, particularly experiments in which 1)
+chemical synthesis enables one to probe or control biological systems, or 2) manipulation of biological
+systems facilitates novel chemical syntheses. The course is broadly divided into two sections, one
+dealing with the study of individual proteins and nucleic acids, and one dealing with complex cellular
+systems. As the goal of the course is to familiarize students with innovative recent experimental
+approaches and to stimulate them to conceive of their own new methodology, students will be
+responsible for delivering presentations on topics selected from the literature, designing experiments
+to address currently unsolved problems in Chemical Biology (in take-home examinations), and
+generating several novel research proposal ideas, one of which will be elaborated into a full proposal.
+764. Materials Chemistry. (C) C. MURRAY.
+
+Page 7 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+761. Coordination Chemistry. (C) NEIL TOMSON.
+Ligands have a remarkable ability to alter the properties of metal ions, and the study of this
+coordination chemistry underlies many modern advances in science, including energy harvesting and
+storage, chemical catalysis, and sustainability. This course explores the relationships between the
+identities of ligands and the physical manifestations that result from their binding to metal centers.
+Topics to be covered include: symmetry and chirality in molecular complexes, variations in
+coordination number, ligand field effects, recent advanced in bonding theory, and inorganic reaction
+mechanisms.
+762. X-ray I. (C) PATRICK CARROLL.
+An introduction to the theory and practice of structure determination by X-ray crystallography. Topics
+discussed include point group and space group symmetry, structure factor theory, data collection
+methods and a survey of solution methods. The course culminates with a series of real-world
+structure determinations worked through in-class using the XSeed program package.
+763. X-ray II. (C) PATRICK CARROLL.Prerequisite(s): CHEM 762.
+Continuation of X-ray I course, CHEM 741
+765. Chemistry of the f-Block Elements. (C) ERIC SCHELTER.
+The course encompasses the descriptive chemistry, and topics related to, the f-block including the
+rare earth metals and actinides. Coverage includes coordination chemistry and periodic trends,
+electronic structure and magnetism, and modern applications of f-block chemistry including lanthanide
+ions as spectroscopic probes, separations chemistry, materials chemistry and applications, organo-felement chemistry, the chemistry of the actinides and transactinides, and reactivity/catalysis with fblock compounds.
+802. Chem Teaching Methods. (L)
+999. Independent Study and Research. (C) May be taken for multiple course unit credit
+(1) Advanced study and research in various branches of chemistry. (2) Seminar in current chemical
+research. (3) Individual tutorial in advanced selected topics.
+
+Undergraduate BIOCHEMISTRY Courses (BCHE)
+299. Undergraduate Research Projects. (C) 10-20 h., 1-2 c.u., admission by permission of the
+biochemistry undergraduate chairman.
+Independent Research.
+300. Senior Research Projects. (C) 10-20 h., 1-2 c.u., admission by permission of the biochemistry
+undergraduate chairman.
+SM 404. Biochemistry Laboratory. (E) Year long course --initial registration must occur in Fall term,
+0 c.u. for first term and 2 c.u. for second term, 15h. CHEM 451 or permission of instructor required.
+Independent research projects in the laboratories of individual faculty members. A list of possible
+research supervisors is available in the Biochemistry office (351 Chemistry). In addition to their
+laboratory projects, students will attend a weekly seminar in which their own and related work will be
+discussed.
+
+Page 8 of 9
+
+CHEMISTRY
+(AS) {CHEM}
+580. (PHYS580) Biological Physics. (C) Prerequisite(s): Physics 150-151 or 170-171, Math 104-114
+or Math 104 Recommended: concurrent Physics 230 or prior Physics 250, basic background in
+chemistry and biology.
+
+Page 9 of 9
+
+

@@ -1,0 +1,503 @@
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+SM 300. (ARTH302, FREN300) The Making of Modern Paris. (B) Birch.
+Paris, Ville-Lumiere, has long been renowned for its urbanity, architecture, and city design. This class
+will trace the people, ideas, and projects that contributed to this reputation, through an exploration of
+the city's built environment as expressed in literature and urban planning projects of the 19th and 20th
+centuries. Literary readings, including texts by Hugo, Baudelaire, Zola, and Breton, will be studied in
+conjunction with historical writings and projects ranging from works by Napoleon III and Haussmann to
+Mitterrand and Sarkozy. The course includes a field trip to France's capital city during Penn's Spring
+Break. Co-taught by Professors Eugenie Birch (Department of City and Regional Planning) and
+Andrea Goulet (Department of Romance Languages). Student travel expenses will be subsidized by
+the Mellon Foundation-sponsored Humanities + Urbanism + Design Project.
+L/R 500. (URBS440) Introduction to City Planning: Past, Present and Future. (A) Vitiello or
+Ammon.
+Orientation to the profession, tracing the evolution of city and regional planning from its late nineteenth
+century roots to its twentieth century expression. Field trips included.
+501. Quantitative Planning Analysis Methods. (D) Guerra.
+Introduction of methods in analyzing demographic conditions, land use and housing trends,
+employment and business changes, community and neighborhood development. Focus on using
+spreadsheet models and data analysis for local and neighborhood planning.
+502. Urban Redevelopment and Infrastructure Finance. (B) Angelides.
+Introduces students to the economic principles and vocabularies that city and regional planners rely on
+(those of welfare and public sector economics, land economics, and the economics of housing and
+neighborhoods), and familiarizes them with local government taxation, budgeting and borrowing
+practice.
+503. (MUSA503) Modeling Geographical Objects. (A) Tomlin or Hillier.
+This course offers a broad and practical introduction to the acquisition, storage, retrieval, maintenance,
+use, and presentation of digital cartographic data with vector-oriented (i.e. drawing-based) geographic
+information systems (GIS) for a variety of environmental science, planning, and management
+applications. Previous experience in GIS is not required.
+504. Site Planning. (B) Page.
+This course introduces students to the practice of site planning. Skills and methods examined in the
+course include observation of the physical and community environment; physical and environmental
+site inventorying and analysis; analysis of alternative site programming and uses; site design
+processes and strategy;and the creation of site plans and development standards. Methods of
+community participation and collaboration with other disciplines will be explored. The spring version of
+this course differs from the fall version in its orientation toward urban designers and/or those with prior
+design backgrounds and skills.
+
+Page 1 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+505. Planning by Numbers. (B) Ryerson.
+This class emphasizes the theory, practice, and use of statistics as applied to planning and policy
+problems and data. Starting with a review of basic descriptive statistics and measures of association,
+this course will introduce students to the regression techniques, including multiple regression analysis
+and logistical and probabilistic models for categorical data; data mining techniques, measures of
+spatial autocorrelation, and time-series modeling; and causal inference techniques, including structural
+equation modeling(SEM). A basic familiarity with descriptive and inferential statistics at the upperdivision undergraduate level is expected at the beginning of the class. This course uses the popular,
+free, and open source statistical software R. Meets methods breadth requirement.
+506. Negotiation and Conflict Resolution. (B) Sokoloff.
+This course is designed to introduce graduate students to the theory and practice of negotiation,
+conflict resolution and community engagement. We will start by looking at basic approaches to
+interpersonal negotiation and then move to considering contemporary approaches to understanding
+and addressing public disputes using negotiation, facilitation and public involvement. Design
+professionals - architects, construction managers, planners and others - face a variety of kinds of
+problems and challenges in their work. Some problems and challenges, whether simple or complex,
+are amenable to technical solutions based solely on the expertise of planners, managers, architects
+and others. There are, however, other problems and challenges that require adaptive work, primarily
+because technical expertise alone is insufficient to address the problems or challenges being faced. In
+this course, we'll focus on perspectives and methods for working through those later sorts of problems
+and challenges. Meets methods breadth requirement.
+507. Urban Design Research Methods. (A) Al.
+This seminar focuses on professional and research techniques in the practice of urban design.
+Seminar topics in the first half will examine research methods associated with measuring, analyzing
+and guiding design in urban contexts, including: environmental behavior & psychology, cognition,
+mapping, morphology, design regulation and policy. The second half of the course includes
+professional techniques in: communication, self-representation, design roles, processes, and ethics.
+509. Law of Planning and Urban Development. (B) Keene.
+The central focus will be on selected aspects of the field of the law of planning and development, a
+field that embraces a range of legal doctrines that are particularly relevant to cities and suburbs. We
+will study the principles that govern the regulation of land use and management of urban growth
+(through land use controls and other techniques for regulating new development)and, to a limited
+extent, environmental planning laws.
+L/R 510. Urban and Planning Theory. (A) Landis.
+Exploration of the representational tasks related to planning cities and regions. Review of the
+construction, management and reconciliation of contesting images.
+520. Introduction to Community and Economic Development. (B) Staff.
+Introduction to the theories and practices of urban economic and community development with a focus
+on improving opportunity and quality of life in low-income communities. Provides foundation for
+advanced courses in real estate and economic development finance, housing policy, downtown and
+neighborhood revitalization, workforce development and metropolitan regional development.
+SM 528. (URBS428) Research Seminar 21st Century Urbanism. (B) Staff.
+
+Page 2 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+530. Introduction to Land Use Planning. (A) Daniels.
+Exploration of the methods and tools for managing land use and shaping the built environment.
+Presents how to create a successful Comprehensive Plan, Zoning Ordinance, Subdivision
+Regulations, Capital Improvements Progam, and design guidelines. Also, presents functional area,
+regional, and state-level plans.
+531. Introduction to Environmental Planning & Policy. (A) Daniels.
+Overview of federal programs for protecting air quality, water quality, and endangered species along
+with managing climate change, solid waste, toxics, energy, transportation, and remediating brownfields
+in an overall sustainability framework. State-level, local government, and NGO efforts to protect the
+environment are also explored as are green infrastructure and green cities.
+SM 535. (ENMG503) Topics in Energy Policy. Staff..
+This research seminar focuses on changing energy policy topics that provide students with a deep
+examination of an aspect of energy technology, markets, or regulation and an opportunity for research
+on an emerging issue related to the topic. The seminar meets weekly to discuss the relevant literature
+and workshop student research projects.
+540. Introduction to Property Development. (A) Staff.
+This course is designed to acquaint students with the fundamental skills and techniques of real estate
+property development. It is designed as a first course for anyone interested in how to be a developer,
+and as a foundation for further courses in urban development and real estate.
+550. Introduction to Transportation Planning. (A) Guerra.
+Survey of the technological and design aspects of urban transportation systems and land use
+patterns. Covers facilities operations, congestion, environmental concerns and policy debates
+revolving around mobility issues at the federal, state, and metropolitan levels.
+SM 560. Introduction to Graphics for Urban Design. (B) Fogelson.
+This course introduces students to visual literacy and the use of a variety of software packages.
+Through a series of assignments and in class discussions participants develop a visual vocabulary
+and skills to function in and between AutoCAD, Adobe Creative Suite, and 3D modeling software.
+590. (MUSA507) Spatial Analysis for Urban and Environmental Planning. (A) Steif.Prerequisite(s):
+MUSA 501 or CPLN 503 or equivalent.
+This course builds on prior knowledge of GIS and basic statistics to help students to develop GIS and
+spatial analysis applications for use in urban and environmental planning and management. Each
+weekly session will focus on a particular analytical approach (e.g., buffering, geo-processing, map
+algebra, network analysis) as applied to a particular urban or environmental planning tasks (e.g.,
+identification of development opportunities, prioritizing conservation lands, urban growth modeling,
+housing price modeling). The format of the class includes weekly lectures/in-class demos; and weekly
+homework assignments. The course will make extensive use of ArcGIS and associate Extensions,
+especially Spatial Analyst, Network Analyst, and Business Analyst. One-year student versions of
+ArcGIS and ArcGIS extensions will be available free of charge at the City Planning Office. ArcGIS runs
+best on Windows machines; those with Macs will need to install a Windows emulator.
+
+Page 3 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+600. Planning Workshop. (B) Landis.
+Application of planning skills (including community inventorying and reconnaissance, goal articulation;
+alternatives creation and analysis, and plan development and implementation) to community plan
+creation. Students work in groups of seven to eight students each. Juried presentation required.
+620. Techniques of Urban Economic Development. (B) Staff.
+This course is about how planners act to catalyze and support economic well-being in cities and
+regions. Students in the course examine the effectiveness of alternative strategies and approaches to
+economic development and practice a variety of specific economic development policy and finance
+techniques. The semester is divided into three modules. In part one, students build knowledge about
+how theories of growth, specialization, agglomeration and innovation inform (and fail to inform)
+economic development strategies. In part two, they develop a working understanding of economic
+development finance, completing exercises on tax increment finance, tax-credit financed development
+and "double bottom line" lending and equity investment. In part three, they review best practices in the
+formulation and negotiation of location incentives and subsidies, examine "growth with equity" policies,
+and explore the technical and political details of economic impact analysis.
+621. Metropolitan Food System. (B) Vitiello.
+This course introduces students to the planning and development of metropolitan food systems. Major
+topics include regional planning and policy; sustainable agriculture; food access and distribution; and
+markets. The class includes a mix of lectures, discussion, and field trips; and students will work on
+real-world projects in Philadelphia. Ultimately, the course aims to develop students' broad knowledge
+of food systems planning in the global North and South, with an emphasis on community and
+economic development strategies for sustainable food systems and food security.
+622. (PUBH515) Community Development and Public Health. (B) Hillier.
+This course will focus on the intersection of city planning and public health by looking closely at the
+role of the built environment in health. We will cover such topics as food access, physical activity,
+walkability, bike-ability, air quality, water quality, community engagement, outdoor media and health
+commuication. We will learn how to conduct Health Impact Assessments (HIA) - screening, scoping,
+assessments, recommendations, reporting, and monitoring - and to use various environmental audit
+tools to measure the built environment. Our final projects will involve working with local government
+and nonprofit agencies to condcut applied health research projects.
+SM 624. (URBS524) Metro Labor Markets. (B) Staff.
+This class is an introduction to metropolitan labor markets: how they function, how (and for whom) they
+fail, how they are changing, and what this implies for planning and policy entrepreneurs in economic
+and community development. We will examine contemporary labor markets through two thematic
+lenses. One is the growing discussion of knowledge industries and "knowledge workers" and their
+importance to regional innovative capacity and competitive advantage in a global economy. The other
+is the persistent challenge of unemployment, underemployment and working poverty within
+metropolitan regions. In exploring these themes, readings for the class synthesize perspectives on
+work, labor markets and economic growth from economics, sociology, history and political science.
+Class lecture and discussion, supplemented by the occasional guest practitioner, will focus on
+translating academic research into knowledge that can be used in local economic and community
+development practice.
+
+Page 4 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+625. (GAFL569, URBS451) Housing & Community Development Policy. Kromer.
+This course offers an exploration of how legislative action, government policymaking, and citizen
+advocacy influence plans for the investment of public capital in distressed urban neighborhoods.
+Course topics this semester will include an evaluation of the results of City of Philadelphia
+development policies under the administration of Mayor Michael A. Nutter, an assessment of a largescale property acquisition and development strategy being implemented by the Philadelphia Housing
+Authority in North Philadelphia, and a review of recent and current reinvestment plans for Camden's
+waterfront and downtown-area neighborhoods.
+630. Innovations in Growth Management. (B) Staff.Prerequisite(s): CPLN 530 or CPLN 531.
+The US population is expected to grow by more than 85 million from now to 2050.This course
+evaluates the tools and techniques for managing growth in America, especially to control sprawl in
+metropolitan regions. The course analyzes the form and functions of the central cities, suburbs, edge
+cities, ex-urbs, and megaregions. Federal,state, and local programs that influence metro change are
+evaluated. Regional planning approaches are analyzed in case studies.
+631. Planning for Land Conservation. (B) Daniels.
+Land preservation is one of the most powerful, yet least understood planning tools for managing
+growth and protecting the environment. This course provides an introduction to the tools and methods
+for preserving private lands by government agencies and private non-profit organizations (e.g., land
+trusts). Topics include purchase and donation of development rights (also known as conservation
+easements), transfer of development rights, land acquisition, limited development, and the
+preservation of urban greenways, trails, and parks. Preservation examples analyzed: open space and
+scenic areas, farmland, forestland, battlefields, and natural areas.
+632. (LARP741) Modeling Geographic Space. (B) Tomlin.
+The major objective of this course is to explore the nature and use of image-based (as opposed to
+drawing-based) geographic information systems (GIS) for the analysis and synthesis of spatial
+patterns and processes. This course is open to all. Previous experience in GIS is not required.
+633. Ecological Principles for Planners. (B) Hewitt.
+This course will provide an overview of ecology and the environmental sciences,focusing on issues
+important to practicing land use and environmental planners. It will combine both lectures and on-site
+practical experience. The latter will entail analyses of basic environmental factors, including soils,
+water and biodiversity. Topics to be covered will include species taxonomy and biodiversity, population
+and community ecology, ecosystem energetics, soil structure and function, nutrient movement,
+hydrology, plant ecology and physiology, and animal ecology.
+641. Progressive Development. (B) Landis.Prerequisite(s): CPLN 540 or REAL 821.
+Using a lecture/guest lecture/case study approach, this course will teach students how to
+plan,develop, and finance a variety of progressive real estate development forms including affordable
+housing;infill, mixed -use and brownfield development transit-oriented development; green and LEEDcertified office and housing development; historic preservation projects; public-private partnerships;
+and suburban retrofit and master- planned-community development. In each case, we will consider
+site acquisition, entitlement, market and marketing conditions, financing options, ownership and deal
+structures, ongoing operation and asset management issues; and connections to the community.
+Sessions will include lectures as well as case study presentations by guest developers and students.
+
+Page 5 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+651. Public Infrastructure & Finance. (A) Angelides.
+This class is designed to help you develop the analytical skills necessary to understand and tackle
+common infrastructure problems in cities around the world, by emphasizing simple but key calculations
+that will help you focus on the key issues in each system, such as estimating system costs, capacity,
+and congestion. The first half of the class will focus on planning and engineering issues for systems for
+water, energy, telecommunications and large-scale transportation infrastructure such as ports and
+airports, but the overall emphasis will be on developing skills and tools applicable to any system. The
+second half of the class will focus on financing mechanisms, such as the size and structure of
+government investment, authority financing mechanisms, user fees, and public-private partnerships.
+642. (GAFL642) Downtown Development. (A) Levy.
+The course will provide an overview of the changing role of downtowns and commercial centers, how
+and why they have evolved, diversified and been redeveloped and who are the various public and
+private actors that are helping them reposition themselves in a new regional and global context. There
+will be a strong focus on implementation, on how things get done, on the role of business improvement
+districts, not-for-profit development corporations and local government in the United States, Canada
+and a few international cities.
+643. (ARCH762) Design and Development. (B) Sehnert.
+This newly reconstituted course will introduce designers and planners to practical methods of design
+and development for major real estate product types. Topics will include product archetypes, site
+selection and obtaining entitlements, basic site planning, programming, and conceptual and basic
+design principles. Project types will include, among others; infill and suburban office parks, all retail
+forms, campus and institutional projects. Two-person teams of developers and architects will present
+and discuss actual development projects.
+650. (ESE 548) Transportation Planning Methods. (B) Ryerson.Prerequisite(s): CPLN 505 or other
+planning statistics course.
+This course introduces students to the development and uses of the 4-step urban transportation model
+(trip generation-trip distribution-mode choice-traffic assignment) for community and metropolitan
+mobility planning. Using the VISUM transportation desktop planning package, students will learn how
+to build and test their own models, apply them to real projects, and critique the results.
+SM 652. Regional Infrastructure Seminar. (B) Yaro.
+654. Urban Transit Systems and Technology. (B) Guerra.
+This is a graduate-level planning class exploring transit planning practice. The goals of this class are to
+develop, organize and understand transit related planning issues, and conduct research.The class will
+emphasize the practice of transit planning, methods, problem definition and problem solving, the
+collection and manipulation of data to take the greatest advantage of available local and regional
+resources. Local and regional studies and projects will be used to illustrate the actual work done by
+transit practitioners to the greatest extent possible. There will also be emphasis on how a transit
+planner in many different roles will approach their respcetive jobs.
+
+Page 6 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+655. Multimodal Transport. (B) Guerra.
+The purpose of this course is to explore contemporary multimodal transportation systems, policy,
+planning, and practice through a series of comparative international case studies. Topics include
+innovative parking management in San Francisco, congestion charging in London, Metro investments
+in Mexico City, informal transportation in Indonesia, Bus Rapid Transit in Bogota, and bicycle
+infrastructure investments in Copenhagen. The course will also include one or more site visits to
+innovative multimodal transportation projects in the Philadelphia or New York City regions. By
+analyzing contemporary planning challenges and best practices, students will develop a better
+understanding of how the transportation system works and how to design and employ specific
+multimodal interventions and policies effectively.
+660. (LARP660) Fundamentals of Urban Design. (B) Al.
+This course is a requirement for students enrolled in Certificate in Urban Design and for Master of City
+Planning students enrolled in the Urban Design concentration. How should urban designers give
+shape to the city? What urban design methods could they apply? This course helps students acquire
+the principles that can inform urban design practice. It has three major pedagogical objectives. First, it
+helps students understand the contemporary city through a series urban design tools. Second, it
+covers both historical and modern urban design principles. Finally, it includes all the scales in which
+urban designers operate, ranging from the fundamentals of social interaction in public space, to the
+sustainability of the region." This course is open to other interested PennDesign students if there is
+space and with permission of the instructor.
+SM 670. (LARP743) Geospatial Software Design. (A) Tomlin.
+The purpose of this course is to equip students with a selected set of advanced tools and techniques
+for the development and customization of geospatial data-processing capabilities. It is open to any
+student with experience equivalent to that of an entry-level class on GIS.
+SM 676. (SOCI270, URBS270) The Immigrant City. (B) Vitiello.
+Immigration is among the most important yet controversial forces shaping cities, regions, and
+neighborhoods. The diversity of immigrant and receiving communities means that the dynamics and
+impacts of migration are varied and complex. This course examines the development of immigrant and
+receiving communities in the United States. It surveys public policy and community and economic
+development practices related to migration at the local, regional, national, and trans-national scale.
+Class readings, discussions, and visits to Philadelphia's immigrant neighborhoods explore themes
+including labor markets, housing experiences, political mobilization, civil society, cultural preservation,
+and the built environment.
+The first half of the course surveys migration and community formation among a broad range of
+ethnic groups in different parts of the city and suburbs, mainly through history, sociology, and
+geography; the second half focuses on specific policy and community and economic development
+initiatives. Ultimately, the class aims to provide students with 1) a broad knowledge of immigration and
+its impacts on cities and regions; 2) an in-depth understanding of urban policies and institutions
+working on immigration in U.S. cities; and 3) familiarity with community and economic development
+strategies for migrant and receiving communities.
+
+Page 7 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+671. (MUSA500) Big Urban Data Analysis. (A) Brusilovskiy.
+This course, co-listed with MUSA 501, will introduce graduate planning students to the use of large,
+spatially-explicit datasets for addressing urban planning and management problems. Among the topics
+to be included: (1) Real-time data acquisition using web-based and sensing technologies; (2) Data
+cleaning and organization using the R programming language; (3) Data visualization and exploratory
+analysis in R; (3) Predictive and causal modeling techniques using large datasets in R; (4) Use of
+statistical data reduction and machine learning techniques with big data; (5) Derivation and use spatial
+autocorrelation and other spatial patterning metrics in urban planning applications of big data; (6)
+Heuristic visualization of analytical and modeling results.
+673. (LARP781) Contemporary Urbanism. (B) Gouverneur.
+This course will expose students to a wide array of case studies in Planning, Urban Design, and
+Landscape Architecture. They include: notions of sustainable development, the interplay between open
+space and built form, the rehabilitation of existing areas as historic districts,, commercial corridors, and
+the improvement of squatter settlements. Also, it will focus on city expansions and new towns, housing,
+mixed-use developments, and areas of new centrality. The program will address as well territorial
+planning, the improvement of open space systems, and site specific interventions of parks, plazas,
+streetscape and gardens. Cases will provide the proper ground for analysis and interpretation of
+issues related to the design and implementation of "good" landscape and urban form. Class
+discussions will be complemented with short design exercises. We will also enjoy the presence of
+outstanding visiting lecturers, who will share with us cutting-edge information, derived from their
+professional practice and research. Regstration limited to students in the MLA 602 level; students in
+the Certificate in Urban Design program and a limited number of MLA students needing to fulfill the
+Theory III requirement; other PennDesign graduate students must seek permission of theinstructor.
+675. Land Use and Environmental Modeling. (B) Landis.Prerequisite(s): Some knowledge of GIS
+and statistics.
+Planners at every scale and of every type are increasingly using spatial data and models to analyze
+existing patterns, identify and parameterize key trends and urban processes, visualize alternative
+futures, and evaluate development impacts. This course will introduce students to various GIS-based
+land use andenvironmental planning models, including, among others: TR55 for analyzing parcel-level
+stormwater runoff; BASINS for analyzing watershed-level stream volumes, runoff, and water quality;
+HAZUS for analyzing the potential damage impacts of floods, earthquakes, and hurricanes; UPlan and
+CUF/CURBA for developing detailed urban growth projections; CommunityViz for analyzing,
+simulating, and visualizing the impacts of proposed development projects; and other packages as
+available. A basic familiarity with ArcGIS is required.
+
+Page 8 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+SM 678. (URBS478) Elements of a Sustainable Development Policy. (B) Keene.
+This course has several objectives. The central focus will be on developing a comprehensive
+understanding of the principles of sustainable development, a broad, deep, and in fact, revolutionary
+new way of shaping the operations of society. It was first defined in the 1987 Report of the United
+Nations' World Commission in Environment and Development (the Brundtland Report) as: "...
+development that meets the needs to the present without compromising the ability of future
+generations to meet their own needs." The course will combine lectures on general concepts and ways
+of viewing sustainable development with individuals and team presentations on a wide variety of
+sustainable development programs. Students will examine the efforts of universities, companies, local
+governments, state governments, and national governments to being to moderate man's impact of the
+natural environment and to make societies more economically viable and just - and therefore, more
+sustainable - in the long run. Students will learn how sustainable development strategies involve the
+full range of human activities, such as energy production and use, creation of urban communities,
+transportation, food systems, building construction and operation, waste disposal, control of
+environmental pollution, water use and treatment, and social inclusion,
+migration, and global poverty.
+690. (MUSA610) Java and Javascript Programming for Planning Applications. (A) Faculty.
+This course will introduce city planning, MUSA and design graduate students to Java and Javascript.
+Students will learn the logic and syntax of the Java programming language for use in simple web
+applications (Weeks 1 to 7); as well as how to program database and map-oriented web and desktop
+applications using Javascript (Weeks 8 to 14). The "hands-on" uses of Java and Javascript in urban
+planning applications will be emphasized. Students will hone their programming and applications
+development skills through a series of bi-weekly assignments.
+SM 679. (ARCH756) Policy and Design. (B) Hughes.
+This seminar provides an advanced introduction to policy development and is intended to engage
+students in policy-making. Policy outcomes often have formal and/or scalar qualities. Yet policy
+developers often treat these as unintended consequences. And designers typically operate within the
+constraints created by such consequences. But could design thinking improve policy outcomes? Our
+test bed for this examination will be the relationship between energy and urban form, which presents a
+critical policy challenge for young professionals from many fields. The seminar will survey current
+research and policy options emerging from local, regional, state, and federal governments and discuss
+their implications for design outcomes at the scale of buildings, neighborhoods, and regions? None of
+these implications have been fully explored by policy makers at any level of government. This seminar
+will explore each in turn, allowing students to develop a deep understanding of the policy content on
+this important issue as well as of the policy process in general. Students will develop projects ranging
+from an analysis of policy to a presentation of the design implications of existing/proposed/alternative
+energy policies. The intent is for the seminar to make an active contribution
+SM 680. (LARP745) Advanced Topics in GIS. (A) Tomlin.Prerequisite(s): CPLN-623.
+The primary objective of this course is to equip students with a selected set of sophisticated and
+specialized tools for the practical use of geographic information systems in a variety of application
+settings. Participants will have the opportunity to focus on particular topics in each of four major areas
+including: data acquisition - e.g. remote sensing, LiDAR imagery, global positioning systems, mobile
+GIS, applied geocoding, geodatabases, ArcSketch, and/or CAD interaction; communication - e.g. web
+mapping, animation, and/or professional cartographic techniques; problem solving - e.g. cartographic
+pattern recognition, geospatial allocation, agent-based modeling, geostatistics, network analysis, and/
+or spatio-temporal simulation; and tool building - e.g. Python scripting, GoogleMap mashups, and/or
+open source GIS. The course is conducted in a seminar format with weekly sessions devoted to
+lectures, demonstrations, and discussions conducted by the instructor, studentsand invited guests.
+Offered in the spring annually.
+
+Page 9 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+SM 682. (ARTH581) HUMANITIES,URBAN,DESIGN. (B)
+701. Planning Studio. (B) Yaro.
+Intensive study of a selected planning topic. Teams of students work with clients to develop alternative
+scenarios and produce plan and implementation strategies. Multiple presentations required.
+702. Planning Studio. (B) Al.
+Intensive study of a selected planning topic. Teams of students work with clients to develop alternative
+scenarios and produce plan and implementation strategies. Multiple presentations required.
+703. Planning Studio. (B) Staff.
+Intensive study of a selected planning topic. Teams of students work with clients to develop alternative
+scenarios and produce plan and implementation strategies. Multiple presentations required.
+704. Planning Studio. (B)
+705. Planning Studio. (B) Landis.
+707. Planning Studio. (B)
+708. Planning Studio. (B) Landis.
+720. Community and Economic Development Practicum. (C) Vitiello.
+This practicum involves a weekly mixture of lecture and seminar course-time with applied problem
+solving for real-world clients. It will be a second-year course focused on organizational development,
+business planning, and other strategic planning techniques that complement the physical planning
+focus on PennPlanning Workshop and Studio. Required of students in the CED concentration.
+730. Sustainable Cities. (B) Hughes.
+Sustainability as a concept has been around for almost thirty years, but only recently has become a
+major factor in planning practice. This seminar course will explore the following sustainability topics
+and practices:(i) Goals and organization of urban sustainability initiatives;(ii)Transportation, water and
+air quality, solid waste reduction;(iii)Climate change and energy efficiency initiatives; and (iv) Green
+building policies. We will thoroughly examine case studies drawn from sustainability planning initiatives
+from major American cities, with selected international comparisons.
+760. Public Realm Studio. (A) Al.
+This intensive foundation studio focuses on the physical planning and design skills necessary in
+shaping the public realm. Students will undertake a series of targeted exercises that introduce them to
+project conceptualization, context analysis, programming, site planning, technical issues, and detailed
+design of public space in cities. Focusing on issues pertinent to local municipalities, students will work
+collaboratively and individually over the semester on design elements that cover a range of scales.
+Intellectual objectives within the studio include: the links between theory and practice, the development
+of principles to guide design, understanding associations between design and stakeholder-user
+interests, and exploring larger issues of sustainability and participation in design practice. Emphasis
+on the pragmatics of problem solving and implementation will be balanced with essential skills in
+visioning, critical thinking and design leadership.
+
+Page 10 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+SM 750. (ESE 550) Advance Transportation Seminar, Air Transportation Systems Planning. (B)
+Ryerson.Prerequisite(s): CPLN 550 or equivalent.
+Air transportation is a fascinating multi-disciplinary area of transportation bringing together business,
+planning, engineering, and policy. In this course, we explore the air transportation system from multiple
+perspectives through a series of lessons and case studies. Topics will include airport and intercity
+multimodal environmental planning, network design and reliability, air traffic management and recovery
+from irregular operations, airline operations, economics, and fuel, air transportation sustainability, and
+land use issues related to air transportation systems. This course will introduce concepts in economics
+and behavioral modeling, operations research, statistics, environmental planning, and human factors
+that are used in aviation and are apllicable to other transportations systems. The course will
+emphasize learning through lessons, guest lecturers, case studies of airport development, and an
+individual group and research project.
+791. CPLN Summer Institute: Spreadsheet Review. (L) Faculty.
+Excel for Planners: use of Excel to develop simple planning indicators (e.g., location quotients), simple
+planning models (e.g., fiscal impact models), and database operations. Course enrollment is by permit
+only. Please contact Roslynne Carter (CPLN Dept.) at at roslynne@design.upenn.edu.
+792. CPLN Summer Institute: Statistics. (L) Faculty.
+Basic Statistics for Planners: review of descriptive and basic inferential statistics, including z-scores,
+confidence intervals, t-tests, and chi-squared. Course enrollment is by permit only. Please contact
+Roslynne Carter (CPLN Dept.) at at roslynne@design.upenn.edu.
+793. CPLN Summer Institute: Computer Methods Computer Graphics. (L) Faculty.
+Introduction to Presentation and Report Graphics for Planners: including one day each on Photoshop,
+Illustrator, Sketchup, and InDesign Course enrollment is by permit only. Please contact Roslynne
+Carter (CPLN Dept.) at at roslynne@design.upenn.edu.
+794. CPLN Summer Institute: Microeconomics Review. (L) Faculty.
+Micro-econ Review: review of principles of supply and demand, elasticities, equilibrium prices and
+quantities. Course enrollment is by permit only. Please contact Roslynne Carter (CPLN Dept.) at at
+roslynne@design.upenn.edu.
+795. CPLN SUMMER:INTRO TO GIS. (L) Faculty.
+The summer GIS Bootcamp prepares students for the intermediate GIS classes thatbegin in the fall
+semester. It begins with a discussion of GIS in planning and the social sciences and then moves on to
+topics related to spatial data, geocoding, projection, vector and raster-based geoprocessing, 3D
+visualization and more. Each class includes a brief lecture and a walk through involving actual
+planning related data. Course enrollment is by permit only. Please contact Roslynne Carter (CPLN
+Dept.) at at roslynne@design.upenn.edu.
+796. Professional Project. (B) Staff. Capstone project, supervised by a faculty member.
+
+Page 11 of 12
+
+CITY AND REGIONAL PLANNING
+(FA) {CPLN}
+SM 800. (HIST608, URBS608) Doctoral Seminar. (C) Birch.
+Open to PhD students, this scholar-oriented seminar explores how academic researchers from
+different disciplines define researchable questions, craft research designs, and contribute to
+knowledge through an examination of important and/or recently published books and monographs with
+an urban focus. Required of all first- and second- year CPLN doctoral students and those doctoral
+students enrolled in the Urban Studies Graduate Certificate Program, enrollment is limited to 15
+students. Other doctoral students may enroll on a space available basis. Course requirements include
+completion of a major research paper on a topic selected in consultation with the instructor.
+999. Independent Study and Research. (C) Staff. Ph.D. candidates. Independent study and research
+under faculty supervision.
+
+Page 12 of 12
+
+
