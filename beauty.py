@@ -50,3 +50,4 @@ for file in os.listdir(os.path.join(os.path.dirname(__file__), "files")):
 fp = open( "save.p", "ab" )
 for i in end_result:
 	pickle.dump({i:end_result[i]},  fp)
+print end_result['CIS']['262']
