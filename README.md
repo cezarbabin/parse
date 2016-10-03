@@ -1,7 +1,7 @@
 usage: 
 
 from root run:
-	python beauty.py
+	python crawl.py
 
 within python console:
 	import pickle
