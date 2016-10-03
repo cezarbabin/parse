@@ -3,10 +3,7 @@ usage:
 from root run:
 	python beauty.py
 
-to get course info run:
-	python
-
-within console:
+within python console:
 	import pickle
 	d = pickle.load(open('save.p', 'rb'))
 
